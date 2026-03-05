@@ -32,8 +32,23 @@ def build_daily_json(
     all_keywords = []
     for article in articles:
         cat = article.get("category", "other")
+        # Gemini sometimes returns a list instead of a string
+        if isinstance(cat, list):
+            cat = cat[0] if cat else "other"
+        cat = str(cat)
+        # Normalize: take first category if pipe-separated, handle None/comma
+        if "|" in cat:
+            cat = cat.split("|")[0].strip()
+        if "," in cat:
+            cat = cat.split(",")[0].strip()
+        if cat in ("None", "none", "null", ""):
+            cat = "other"
+        article["category"] = cat
         categories.setdefault(cat, []).append(article)
-        all_keywords.extend(article.get("keywords", []))
+        kws = article.get("keywords", [])
+        if isinstance(kws, str):
+            kws = [kws]
+        all_keywords.extend(kws)
 
     keyword_freq = Counter(all_keywords)
     top_keywords = [{"keyword": kw, "count": cnt} for kw, cnt in keyword_freq.most_common(25)]

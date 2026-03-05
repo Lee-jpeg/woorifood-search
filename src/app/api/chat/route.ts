@@ -49,15 +49,15 @@ export async function POST(req: NextRequest) {
   const articleContext =
     relevant.length > 0
       ? relevant
-          .map(
-            (a) =>
-              `[${a.category}] ${a.title}\n요약: ${a.summary}\n키워드: ${(a.keywords as string[]).join(", ")}`
-          )
-          .join("\n\n")
+        .map(
+          (a) =>
+            `[${a.category}] ${a.title}\n요약: ${a.summary}\n키워드: ${(a.keywords as string[]).join(", ")}`
+        )
+        .join("\n\n")
       : `관련 기사 없음. 전체 주요 키워드: ${topKeywords
-          .slice(0, 10)
-          .map((k) => k.keyword)
-          .join(", ")}`;
+        .slice(0, 10)
+        .map((k) => k.keyword)
+        .join(", ")}`;
 
   // Call Gemini
   const apiKey = process.env.GEMINI_API_KEY;
@@ -69,7 +69,7 @@ export async function POST(req: NextRequest) {
 
   try {
     const genai = new GoogleGenerativeAI(apiKey);
-    const model = genai.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genai.getGenerativeModel({ model: "gemini-2.5-flash" });
 
     const prompt = `당신은 식품 R&D팀(소스·양념류 전문)을 위한 트렌드 분석 AI 어시스턴트입니다.
 최신 수집 데이터 (${date}):

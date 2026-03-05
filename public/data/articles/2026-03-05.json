@@ -1,486 +1,3102 @@
 {
   "date": "2026-03-05",
-  "generated_at": "2026-03-05T00:05:00+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-03-05T23:13:20.612293+00:00",
+  "total_articles": 125,
   "category_counts": {
-    "ingredient": 5,
-    "product": 4,
-    "consumer": 4,
-    "manufacturing": 3,
-    "market": 2
+    "product": 36,
+    "other": 53,
+    "ingredient": 11,
+    "manufacturing": 14,
+    "consumer": 2,
+    "regulation": 1,
+    "market": 8
   },
   "top_keywords": [
-    {"keyword": "저당", "count": 9},
-    {"keyword": "발효", "count": 7},
-    {"keyword": "알룰로스", "count": 6},
-    {"keyword": "클린라벨", "count": 5},
-    {"keyword": "비건", "count": 5},
-    {"keyword": "저염", "count": 4},
-    {"keyword": "간편식", "count": 4},
-    {"keyword": "식물성", "count": 3},
-    {"keyword": "천연조미료", "count": 3},
-    {"keyword": "HMR", "count": 3},
-    {"keyword": "핫소스", "count": 3},
-    {"keyword": "K소스", "count": 2},
-    {"keyword": "대체감미료", "count": 2},
-    {"keyword": "기능성", "count": 2},
-    {"keyword": "글루텐프리", "count": 2}
+    {
+      "keyword": "신제품",
+      "count": 10
+    },
+    {
+      "keyword": "소스",
+      "count": 8
+    },
+    {
+      "keyword": "HMR",
+      "count": 7
+    },
+    {
+      "keyword": "알룰로스",
+      "count": 7
+    },
+    {
+      "keyword": "난소화성말토덱스트린",
+      "count": 7
+    },
+    {
+      "keyword": "삼양사",
+      "count": 6
+    },
+    {
+      "keyword": "양념",
+      "count": 5
+    },
+    {
+      "keyword": "당류 저감",
+      "count": 5
+    },
+    {
+      "keyword": "블랙페퍼 소스",
+      "count": 4
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "양념치킨",
+      "count": 4
+    },
+    {
+      "keyword": "저당",
+      "count": 4
+    },
+    {
+      "keyword": "AI",
+      "count": 4
+    },
+    {
+      "keyword": "간편식",
+      "count": 4
+    },
+    {
+      "keyword": "식물성 배지",
+      "count": 4
+    },
+    {
+      "keyword": "맥도날드",
+      "count": 3
+    },
+    {
+      "keyword": "봄동겉절이",
+      "count": 3
+    },
+    {
+      "keyword": "시즌 한정",
+      "count": 3
+    },
+    {
+      "keyword": "소스류",
+      "count": 3
+    },
+    {
+      "keyword": "저당 소스",
+      "count": 3
+    },
+    {
+      "keyword": "아트소스",
+      "count": 3
+    },
+    {
+      "keyword": "도시락",
+      "count": 3
+    },
+    {
+      "keyword": "제육볶음",
+      "count": 3
+    },
+    {
+      "keyword": "미트볼",
+      "count": 3
+    },
+    {
+      "keyword": "토마토 스파게티",
+      "count": 3
+    }
   ],
-  "ai_summary": "## 오늘의 핵심 인사이트\n\n1. **알룰로스 대체 감미료 수요 급증**: 설탕 대비 70% 감소 효과로 저당 소스 라인에 적극 적용 필요. 특히 BBQ·불닭 계열 소스에서 소비자 선호도 높음.\n\n2. **발효 기술 기반 신제품 경쟁 격화**: 미국·유럽 시장에서 K-발효소스(된장·고추장 기반) 수출 관심 증가. FoodNavigator에서 Korean umami sauce를 2026 메가트렌드로 선정.\n\n3. **클린라벨 규제 강화 예고**: 식약처, 내년부터 소스류 첨가물 표시 기준 강화 예정. 천연 방부제·색소로의 전환 준비 필요.\n\n## 주목할 트렌드 시그널\n- 저당 소스 검색량 전년 대비 45% 증가\n- '원재료 확인 후 구매' 소비자 74% (MZ세대)\n- 아시아 핫소스 수출 YOY +28%\n\n## R&D 액션 아이템\n- 알룰로스 1:1 대체 배합 실험 착수 검토\n- 된장 기반 감칠맛 소스 해외 수출용 레시피 개발\n- 천연 보존제(로즈마리 추출물) 적용 테스트",
   "highlighted_articles": [
     {
-      "id": "a001",
-      "title": "알룰로스, 저당 소스 시장 게임체인저로 부상... 설탕 1:1 대체 가능성 입증",
-      "url": "https://www.foodnavigator-asia.com/article/allulose-sauce",
-      "source": "FoodNavigator Asia",
-      "language": "en",
-      "published_at": "2026-03-05T08:00:00+09:00",
-      "summary": "알룰로스(희귀당)가 소스류의 설탕을 1:1로 대체할 수 있다는 연구 결과가 발표됐다. 칼로리는 설탕의 10%에 불과하며 마이야르 반응도 유사하게 나타나 소스 색상 구현에도 유리하다는 평가다. 국내 소스 업체들의 저당 라인 전환 시 핵심 원료가 될 전망이다.",
-      "category": "ingredient",
-      "keywords": ["알룰로스", "저당", "대체감미료", "마이야르"],
-      "key_ingredients": ["알룰로스", "희귀당"],
+      "id": "c9204795a788",
+      "title": "김정수 부회장의 '넥스트 불닭'은 … 삼양식품, 글로벌 소스사업 시동건...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/03/05/2026030500100.html",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T10:30:00+09:00",
+      "content": "액상 소스 기술을 기반으로 HMR(가정간편식), 소스형 조미료, 퓨전 요리소스 등 다양한 카테고리로 사업 영역을 넓혀 소스 중심의 종합 식품 솔루션 기업으로 도약하겠다는 계획이다. 회사 측은 “불닭의 매운맛을 넘어 K... ",
+      "search_keyword": "HMR 소스",
+      "category": "product",
+      "keywords": [
+        "액상 소스 기술",
+        "글로벌 소스사업",
+        "HMR",
+        "퓨전 요리소스",
+        "소스형 조미료"
+      ],
+      "summary": "삼양식품은 액상 소스 기술을 기반으로 불닭의 매운맛을 넘어 HMR, 소스형 조미료, 퓨전 요리소스 등 다양한 카테고리로 사업을 확장할 계획이다. 이는 소스 중심의 종합 식품 솔루션 기업으로 도약하며 글로벌 시장 공략을 본격화하려는 움직임으로, 소스 R&D팀은 새로운 맛 프로파일과 응용 분야 개발에 집중해야 할 시점이다.",
       "relevance_score": 10,
       "trend_signal": "rising",
-      "actionable_insight": "알룰로스 기반 저당 소스 배합 실험을 즉시 착수할 것을 권장 — 원가 대비 소비자 가치 매우 높음"
+      "key_ingredients": [
+        "고추/향신료",
+        "액상 조미 베이스"
+      ],
+      "actionable_insight": "R&D팀은 액상 소스 기술을 활용하여 불닭을 넘어선 글로벌 시장의 다양한 맛 트렌드를 반영한 HMR, 조미료 및 퓨전 요리소스 개발에 주력해야 한다."
     },
     {
-      "id": "a002",
-      "title": "Korean BBQ Sauce Exports Hit Record High in 2025 — Asia-Pacific Surge",
-      "url": "https://www.foodnavigator.com/article/korean-bbq-sauce-exports",
-      "source": "FoodNavigator Global",
-      "language": "en",
-      "published_at": "2026-03-05T07:30:00+09:00",
-      "summary": "2025년 한국 BBQ 소스 수출액이 사상 최대를 기록했다. 아시아태평양 지역 수출이 전년 대비 32% 증가했으며, 미국·유럽에서도 K-Food 트렌드에 힘입어 두 자릿수 성장세를 유지했다. 특히 저당·발효 기반 소스가 프리미엄 포지션을 차지하며 수익성이 높아졌다.",
-      "category": "market",
-      "keywords": ["K소스", "수출", "BBQ소스", "발효"],
-      "key_ingredients": [],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "수출용 프리미엄 발효 BBQ 소스 라인 개발 — 저당·클린라벨 포지션으로 차별화"
-    },
-    {
-      "id": "a003",
-      "title": "저당 소스 시장 규모 전년 대비 28% 성장... 건강 소비 트렌드 주도",
-      "url": "https://www.thinkfood.co.kr/news/article-003",
+      "id": "b9a2b7cd9c3e",
+      "title": "[식품·외식 뉴스픽] 스타벅스·CJ프레시웨이·매일유업·BBQ",
+      "url": "https://www.ajunews.com/view/20260305174131032",
       "source": "Naver News",
       "language": "ko",
-      "published_at": "2026-03-05T09:00:00+09:00",
-      "summary": "국내 저당 소스 시장이 2025년 대비 28% 성장하며 빠른 확장세를 보이고 있다. 당뇨·비만 관리 인구 증가와 MZ세대의 건강 관심 고조가 주요 원인으로 분석된다. 주요 식품기업들이 앞다퉈 저당 라인을 출시 중이며, 소비자 가격 프리미엄도 30~40% 형성됐다.",
-      "category": "market",
-      "keywords": ["저당", "시장성장", "건강트렌드", "MZ세대"],
-      "key_ingredients": [],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "저당 소스 라인업 확대 검토 — 당뇨·다이어트 소비자 타겟 포지셔닝으로 프리미엄 가격 책정 가능"
-    },
-    {
-      "id": "a004",
-      "title": "AI 감각 예측 시스템으로 소스 R&D 개발 기간 30% 단축 성공 사례",
-      "url": "https://www.newfoodmagazine.com/article/ai-flavor-prediction",
-      "source": "New Food Magazine",
-      "language": "en",
-      "published_at": "2026-03-04T15:00:00+09:00",
-      "summary": "머신러닝 기반 풍미 예측 AI가 소스 R&D에 도입되면서 배합 최적화 시간이 평균 30% 단축됐다. 향미 성분의 상호작용을 시뮬레이션하여 실험 횟수를 줄이고 성공률을 높이는 방식이다. 글로벌 대형 소스 브랜드들이 적극 도입 중이다.",
-      "category": "manufacturing",
-      "keywords": ["AI", "풍미예측", "R&D", "배합최적화"],
-      "key_ingredients": [],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "AI 풍미 예측 툴 도입 검토 — 저당 배합 최적화에 특히 유용, 감칠맛-단맛 균형 설계 효율화"
-    },
-    {
-      "id": "a005",
-      "title": "천연 보존제 활용 소스 제조 기술 특허 급증... 합성 보존제 대체 본격화",
-      "url": "https://www.mfds.go.kr/brd/m_99/view",
-      "source": "식품의약품안전처",
-      "language": "ko",
-      "published_at": "2026-03-05T10:00:00+09:00",
-      "summary": "로즈마리 추출물, 녹차 폴리페놀 등 천연 보존제 활용 소스 제조 특허가 최근 1년간 전년 대비 45% 증가했다. 식약처의 합성 보존제 규제 강화 예고에 따른 선제 대응으로 풀이된다. 클린라벨 트렌드와도 맞물려 소비자 선호도 상승 중이다.",
-      "category": "manufacturing",
-      "keywords": ["천연보존제", "클린라벨", "로즈마리추출물", "특허"],
-      "key_ingredients": ["로즈마리 추출물", "녹차 폴리페놀"],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "로즈마리 추출물 기반 천연 방부 소스 개발 착수 — 클린라벨 인증과 연계하면 마케팅 경쟁력 확보"
-    },
-    {
-      "id": "a006",
-      "title": "Plant-Based Fermented Umami Sauce: Global R&D Leaders Race to Market",
-      "url": "https://www.foodbusinessnews.net/articles/plant-based-umami",
-      "source": "Food Business News",
-      "language": "en",
-      "published_at": "2026-03-04T12:00:00+09:00",
-      "summary": "식물성 기반 발효 감칠맛 소스 개발 경쟁이 글로벌 R&D 기업들 사이에서 격화되고 있다. 버섯 발효물·대두 분해물·해조류 추출물을 결합한 복합 감칠맛 소스가 주목받고 있으며, 비건·채식 소비자 시장을 겨냥한 제품 출시가 늘고 있다.",
-      "category": "ingredient",
-      "keywords": ["식물성", "발효", "감칠맛", "비건", "해조류"],
-      "key_ingredients": ["버섯 발효물", "대두 분해물", "해조류 추출물"],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "식물성 감칠맛 소스 레시피 연구 — 해조류+버섯 복합 발효 원료로 비건 시장 공략 가능"
-    },
-    {
-      "id": "a007",
-      "title": "Z세대 74%, '소스 성분표 확인 후 구매'... 클린라벨 선호도 급증",
-      "url": "https://naver.com/news/article-007",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-05T11:00:00+09:00",
-      "summary": "Z세대 소비자 74%가 소스 구매 시 성분표를 확인한다는 조사 결과가 발표됐다. 인공첨가물·합성보존제를 기피하는 경향이 강하며, 클린라벨 제품에 20~30% 가격 프리미엄을 기꺼이 지불하겠다는 응답도 61%에 달했다.",
-      "category": "consumer",
-      "keywords": ["클린라벨", "Z세대", "성분표", "천연"],
-      "key_ingredients": [],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "Z세대 타겟 클린라벨 소스 라인 전략 수립 — 성분 단순화·원산지 강조 패키지 디자인 검토"
-    },
-    {
-      "id": "a008",
-      "title": "발효 기반 핫소스 글로벌 시장 연 9.1% 성장 전망... K-핫소스 점유율 확대",
-      "url": "https://www.foodnavigator-asia.com/article/fermented-hot-sauce",
-      "source": "FoodNavigator Asia",
-      "language": "en",
-      "published_at": "2026-03-04T08:00:00+09:00",
-      "summary": "글로벌 발효 핫소스 시장이 2026~2031년 연평균 9.1% 성장할 것으로 전망된다. 고추장·청양고추 기반의 K-핫소스가 미국·동남아 시장에서 점유율을 확대하고 있으며, 건강 발효 이미지가 경쟁 우위 요소로 작용 중이다.",
-      "category": "market",
-      "keywords": ["핫소스", "발효", "K소스", "수출"],
-      "key_ingredients": ["고추장", "청양고추"],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "청양 고추 기반 프리미엄 발효 핫소스 수출 전략 강화 — 건강·발효 스토리텔링으로 미국 시장 공략"
-    },
-    {
-      "id": "a009",
-      "title": "저염 간장 소비 증가... '나트륨 50% 저감' 제품 수요 전년比 38% 급증",
-      "url": "https://naver.com/news/article-009",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-05T09:30:00+09:00",
-      "summary": "저염 간장 및 소스류 수요가 빠르게 증가하고 있다. 나트륨 50% 저감 제품의 판매량이 전년 대비 38% 증가했으며, 특히 40~60대 건강 관리 세대의 구매 비중이 높다. 감칠맛을 유지하면서 나트륨을 줄이는 기술 개발이 핵심 과제로 떠올랐다.",
-      "category": "consumer",
-      "keywords": ["저염", "나트륨저감", "건강", "간장"],
-      "key_ingredients": [],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "나트륨 저감 소스 기술 개발 — 효모 추출물·해조류 등 천연 감칠맛 원료로 짠맛 보완 배합 연구"
-    },
-    {
-      "id": "a010",
-      "title": "귀리 발효 추출물, 소스 점도 개선제로 활용 가능성 입증 — 국내 연구팀 발표",
-      "url": "https://api.semanticscholar.org/paper/oat-ferment",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2026-02-28T00:00:00+00:00",
-      "summary": "국내 식품공학 연구팀이 귀리 발효 추출물이 소스류의 점도 개선제로 효과적으로 활용될 수 있음을 입증했다. 기존 전분 대비 열 안정성이 높고 냉동·해동 반복에도 품질 유지가 우수하여 HMR 소스에 적합하다는 결론이다.",
-      "category": "ingredient",
-      "keywords": ["귀리", "발효추출물", "점도개선", "HMR"],
-      "key_ingredients": ["귀리 발효 추출물", "베타글루칸"],
-      "relevance_score": 8,
-      "trend_signal": "stable",
-      "actionable_insight": "귀리 발효 추출물 HMR 소스 적용 실험 검토 — 전분 대체로 글루텐프리·클린라벨 효과 동시 달성 가능"
-    },
-    {
-      "id": "a011",
-      "title": "CJ제일제당, 비건 인증 마파두부 소스 국내 최초 출시",
-      "url": "https://naver.com/news/article-011",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-04T14:00:00+09:00",
-      "summary": "CJ제일제당이 동물성 원료를 전혀 사용하지 않은 비건 인증 마파두부 소스를 국내 최초로 출시했다. 버섯·콩류 발효물로 감칠맛을 구현했으며, 두반장 특유의 풍미도 식물성 원료로 재현했다. 출시 첫 달 예상 판매량의 3배를 달성했다고 밝혔다.",
+      "published_at": "2026-03-05T17:54:00+09:00",
+      "content": "코리아의 신제품 ‘에어로카노’가 출시 7일 만에 100만 잔 판매를 돌파했다. 5일 스타벅스에 따르면... NJ닷컴은 BBQ 제품에 대해 “완벽에 가깝다”고 평가하며 달콤하고 향긋한 블랙페퍼 소스와 파, 마늘, 고추가... ",
+      "search_keyword": "소스 신제품",
       "category": "product",
-      "keywords": ["비건", "마파두부소스", "식물성", "발효"],
-      "key_ingredients": ["버섯 발효물", "대두 분해물"],
-      "relevance_score": 7,
+      "keywords": [
+        "블랙페퍼 소스",
+        "BBQ",
+        "소스",
+        "향긋한",
+        "단맛",
+        "매콤함"
+      ],
+      "summary": "BBQ 제품에 대한 평가에서 '달콤하고 향긋한 블랙페퍼 소스'가 극찬을 받았다. 특히 파, 마늘, 고추 등 아로마틱한 재료들이 조화롭게 어우러진 복합적인 풍미가 긍정적인 시장 반응을 이끌고 있음을 시사한다.",
+      "relevance_score": 9,
       "trend_signal": "rising",
-      "actionable_insight": "비건 인증 소스 라인 개발 검토 — 식물성 감칠맛 구현 기술이 핵심, 특허 동향 모니터링 필요"
+      "key_ingredients": [
+        "블랙페퍼",
+        "파",
+        "마늘",
+        "고추"
+      ],
+      "actionable_insight": "소스 R&D팀은 달콤함, 향긋함, 그리고 은은한 매콤함이 조화된 블랙페퍼 소스 개발에 집중하며, 파, 마늘, 고추 등 신선한 아로마틱 재료의 활용 방안을 모색해야 한다."
     },
     {
-      "id": "a012",
-      "title": "Fermentation Science in Condiment Manufacturing: Review of 2025 Patents",
-      "url": "https://api.semanticscholar.org/paper/ferment-patent",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "summary": "2025년 발효 기반 조미료 제조 특허를 분석한 리뷰 논문이 발표됐다. 발효 미생물 최적화와 온도·pH 제어 기술이 핵심 특허 트렌드이며, 감칠맛 아미노산 최대화를 위한 미생물 선별 연구가 활발하다. 한국·일본·미국이 전체 특허의 73%를 차지한다.",
+      "id": "b0621a9292f3",
+      "title": "맥도날드 CEO 소심 먹방에 네티즌 &quot;뱉고 싶어 보인다&quot;",
+      "url": "https://n.news.naver.com/mnews/article/025/0003507088?sid=104",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:29:00+09:00",
+      "content": "이어 &quot;매우 독특한 참깨를 썼고 번 안에는 패티, 빅 아치 소스, 양상추가 있다&quot;고 신제품을 소개하며 &quot;나는 이 제품을 매우 좋아한다. 진짜 맛있다&quot;고 말했다. 그는 햄버거를 한 입 베어 문 뒤 &quot;매우 맛있다. 맥도날드만 만들... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "맥도날드",
+        "빅 아치 소스",
+        "신제품",
+        "햄버거",
+        "참깨"
+      ],
+      "summary": "맥도날드의 신제품 햄버거 출시 소식에서 '빅 아치 소스'가 핵심 차별화 요소로 강조되었다. CEO는 독특한 참깨와 함께 이 소스를 언급하며 제품의 맛을 극찬했지만, 기사 제목은 소비자의 다를 수 있는 반응을 암시한다. 소스의 맛과 인지도 확보가 중요한 포인트로 부각된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "빅 아치 소스",
+        "참깨",
+        "패티",
+        "양상추"
+      ],
+      "actionable_insight": "R&D팀은 맥도날드 '빅 아치 소스'의 맛 프로파일과 성분 구성을 분석하여, 대형 프랜차이즈가 신제품 차별화를 위해 어떤 소스 트렌드를 추구하는지 파악하고, 소비자 인지도를 높일 수 있는 독특한 소스 개발에 집중해야 한다."
+    },
+    {
+      "id": "13a16e3d1fed",
+      "title": "[유통가 레이더] '봄동 비빔밥' 열풍에 웃는 이곳... 대상 종가 별미김치...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=337659",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:28:00+09:00",
+      "content": "이번 신제품은 △프루츠 스파클링 사과 △프루츠 스파클링 복숭아 △프루츠 스파클링 체리 총 3종으로... 매체는 기존의 전형적인 소스에서 벗어난 '달콤하고 향긋한 블랙페퍼 소스'에 주목하기도 했다. 이어 파와 마늘... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "블랙페퍼 소스",
+        "신제품 소스",
+        "퓨전 소스",
+        "파 마늘",
+        "봄동 비빔밥"
+      ],
+      "summary": "유통가에서 '봄동 비빔밥' 열풍과 함께 '달콤하고 향긋한 블랙페퍼 소스'라는 새로운 소스 컨셉이 주목받고 있다. 이 소스는 기존의 전형적인 틀에서 벗어나 파, 마늘 등 신선한 향신채를 활용한 퓨전 소스 개발의 중요성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "블랙페퍼",
+        "파",
+        "마늘"
+      ],
+      "actionable_insight": "블랙페퍼를 활용한 달콤하고 향긋한 퓨전 소스 개발과 더불어 파, 마늘 등 신선한 향신채를 배합하여 차별화된 맛과 향을 구현하는 데 집중해야 한다."
+    },
+    {
+      "id": "2d1c5b9c239f",
+      "title": "[신제품] 동국제약 이랜드이츠 外",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3057152",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:20:00+09:00",
+      "content": "신제품은 멜라닌 생성을 촉진하는 다양한 요인을 차단하는 '멜라 프루프' 솔루션으로 사용 직후 피부... 칠리소스·실파소스 활 바닷가재 등 보양 중식을, 모모야마는 재첩 맑은 국, 한우 안심구이, 새조개 샤부샤부 등... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "칠리소스",
+        "실파소스",
+        "보양 중식",
+        "신제품",
+        "바닷가재"
+      ],
+      "summary": "신제품 출시 기사에서 칠리소스와 실파소스가 활 바닷가재 등 고급 보양 중식 메뉴에 사용되는 사례가 언급되었습니다. 이는 프리미엄 식재료 및 건강 지향적인 외식 메뉴에 특화된 소스 개발 트렌드를 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "칠리소스",
+        "실파소스"
+      ],
+      "actionable_insight": "R&D팀은 고품질 식재료 및 특정 요리 콘셉트에 맞춰 개발된 프리미엄 소스 시장의 성장 가능성을 분석하고, 차별화된 맛과 기능성을 가진 소스 개발에 집중해야 합니다."
+    },
+    {
+      "id": "11823efe1b65",
+      "title": "[오늘의 언박싱] 맥도날드 ‘과카몰레 베이컨 에그·치킨 머핀’·bhc, ‘...",
+      "url": "https://www.mediapen.com/news/view/1085277",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:10:00+09:00",
+      "content": "식품·외식업계가 5일 선보인 신제품을 소개한다. 맥도날드 ‘과카몰레 베이컨 에그·치킨 머핀’(왼쪽)과 bhc... 과카몰레 베이컨 에그 머핀은 과카몰레 소스에 구운 계란과 베이컨을 더했다. 과카몰레 치킨 머핀은 든든한... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "과카몰레 소스",
+        "맥도날드",
+        "신제품",
+        "아침 메뉴",
+        "글로벌 소스"
+      ],
+      "summary": "맥도날드가 과카몰레 소스를 활용한 '과카몰레 베이컨 에그·치킨 머핀' 신제품을 출시했다. 이는 과카몰레와 같은 글로벌 소스가 베이컨, 계란, 치킨 등 주재료와 결합하여 아침 메뉴 시장으로 확장되는 트렌드를 보여주며, 소스의 범용성과 혁신적인 메뉴 적용 가능성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "과카몰레 소스",
+        "계란",
+        "베이컨",
+        "치킨"
+      ],
+      "actionable_insight": "글로벌 소스인 과카몰레가 아침 메뉴(머핀)에 성공적으로 적용된 사례를 통해, 다양한 주재료와 어울리는 소스의 범용성을 확장하고 아침/브런치 시장에서의 신규 소스 활용 기회를 적극적으로 탐색해야 한다."
+    },
+    {
+      "id": "1438faab8e85",
+      "title": "'맛잘알' 쯔양, 이마트24 신제품 직접 먹어봤다... BEST 픽 봤더니",
+      "url": "https://www.insight.co.kr/news/545474",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:20:00+09:00",
+      "content": "신제품을 고루 선택했습니다.가장 먼저 쯔양은 이마트24가 최에 출시한 '크레이지치즈' 라인업 중 하나인 '체다Two머치떡볶이'를 먹어봤습니다.해당 제품은 체다Two머치라는 이름처럼 평범한 즉석떡볶이에 체다치즈소스와... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "쯔양",
+        "이마트24",
+        "신제품",
+        "체다치즈소스",
+        "즉석떡볶이"
+      ],
+      "summary": "이마트24가 인플루언서 쯔양과 협업하여 '크레이지치즈' 라인업의 신제품 '체다Two머치떡볶이'를 선보였습니다. 이 제품은 기존 즉석떡볶이에 체다치즈소스를 활용하여 차별화된 맛을 강조하며 소비자들에게 새로운 경험을 제공하려는 전략을 보입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "체다치즈소스"
+      ],
+      "actionable_insight": "소스 R&D팀은 즉석식품 카테고리에서 일반적인 제품에 '진하고 풍부한' 콘셉트의 특화된 치즈 소스를 적용하여 제품 가치 및 경쟁력을 높이는 방안을 연구해야 합니다."
+    },
+    {
+      "id": "b094aa58b724",
+      "title": "&quot;봄동 비빔밥 특수&quot;…대상 종가, '봄동겉절이' 출시 두 달만에 22톤 판매",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1343178",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:46:00+09:00",
+      "content": "대상 종가 '봄동겉절이'는 국내산 봄동을 종가의 노하우가 담긴 양념에 버무린 제품이다. 바도 먹으면 봄동... 박관우 대상 K마케팅기획1팀장은 &quot;봄동겉절이는 '제철코어' 트렌드를 선제적으로 반영해 기획한 시즌 한정... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "대상 종가",
+        "봄동겉절이",
+        "봄동",
+        "양념",
+        "제철코어 트렌드",
+        "시즌 한정"
+      ],
+      "summary": "대상 종가의 '봄동겉절이' 성공은 제철 식재료인 봄동의 특성을 살린 종가만의 양념 개발이 주효했음을 보여준다. 이는 '제철코어' 트렌드를 반영하여 특정 식재료에 최적화된 양념을 선보이는 전략이 시장에서 높은 호응을 얻을 수 있음을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "봄동",
+        "양념"
+      ],
+      "actionable_insight": "제철 식재료의 풍미를 극대화하는 맞춤형 양념 개발을 통해 '제철코어' 트렌드를 겨냥한 시즌 한정 제품군 확대를 적극적으로 검토해야 한다."
+    },
+    {
+      "id": "9896dd84a5d2",
+      "title": "'봄동 비빔밥' 인기에 종가 '봄동겉절이' 두 달만에 22t 팔려",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=120660",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:06:00+09:00",
+      "content": "만든 양념에 버무린 제품이다. 바로 먹으면 봄동 본연의 신선한 맛 그대로 달큰고소한 맛을, 약간의 숙성을... 박관우 대상 K마케팅기획1팀장은 &quot;봄동겉절이는 '제철코어' 트렌드를 선제적으로 반영해 기획한 시즌 한정... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "봄동겉절이",
+        "제철코어",
+        "시즌 한정",
+        "달큰고소한 맛",
+        "양념"
+      ],
+      "summary": "'종가 봄동겉절이'의 성공은 '제철코어' 트렌드를 반영한 소스/양념 개발의 중요성을 보여줍니다. 특히, 봄동 본연의 신선함과 달큰고소한 맛을 동시에 살리는 양념 배합 기술과 함께, 즉석 섭취 및 숙성 후의 맛 변화를 고려한 양념 설계가 시장에서 경쟁력을 가질 수 있음을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "봄동",
+        "양념"
+      ],
+      "actionable_insight": "R&D팀은 '제철코어' 트렌드에 맞춰 신선한 원료의 특성을 살리면서도 달큰고소한 맛을 구현하고, 즉석 섭취와 숙성 후 맛 변화까지 고려한 복합 양념 개발에 집중해야 합니다."
+    },
+    {
+      "id": "ac34605edeee",
+      "title": "꾸브라꼬숯불치킨, 맛 유지하며 당 줄인 ‘저당양념꾸브’ 신메뉴 출시",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=2026030516552113566cf2d78c68_30",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:58:00+09:00",
+      "content": "저당양념꾸브 역시 이러한 흐름의 연장선에서 기획됐다. 브랜드 측은 치킨을 즐기는 소비자들이 맛뿐 아니라 영양 요소도 함께 고려하는 소비 트렌드가 확대되고 있는 만큼, 보다 다양한 선택지를 제공하는 것이... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "저당 양념",
+        "치킨 신메뉴",
+        "소비 트렌드",
+        "영양 고려"
+      ],
+      "summary": "꾸브라꼬숯불치킨은 맛을 유지하면서 당을 줄인 '저당양념꾸브' 신메뉴를 출시했다. 이는 소비자들이 치킨 맛과 함께 영양 요소를 고려하는 트렌드에 발맞춘 것으로, 소스/양념 R&D 관점에서는 당 저감화 기술과 맛 구현의 균형이 중요하다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "설탕 (저감 대상)",
+        "대체 감미료 (추정)"
+      ],
+      "actionable_insight": "저당 소스 개발 시 기존 제품의 맛 프로파일을 유지하면서 당 함량을 효과적으로 줄일 수 있는 감미료 조합 및 기술 연구에 집중해야 한다."
+    },
+    {
+      "id": "e000c33117f7",
+      "title": "'오늘N' 중식 해물 갈비짬뽕",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202603050139",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:56:00+09:00",
+      "content": "또한, 다양한 맛집과 시대의 트렌드와 각종 핫한 이슈까지 포괄하여 시청자들의 거실을 찾아가는 양질의... 소 등뼈에 붙어 있는 등갈비를 먼저 삶아 기름기를 빼고 양념을 더해 다시 끓였다. 그 뒤 이틀 동안 저온 숙성을... ",
+      "search_keyword": "양념 트렌드",
       "category": "manufacturing",
-      "keywords": ["발효", "특허", "미생물", "감칠맛"],
-      "key_ingredients": [],
-      "relevance_score": 7,
-      "trend_signal": "stable",
-      "actionable_insight": "경쟁사 발효 특허 동향 정기 모니터링 체계 구축 — 미생물 최적화 기술 선점이 중장기 경쟁 우위 결정"
+      "keywords": [
+        "중식",
+        "해물 갈비짬뽕",
+        "등갈비",
+        "양념",
+        "저온 숙성",
+        "기름기 제거",
+        "조리 공정"
+      ],
+      "summary": "이 기사는 중식 해물 갈비짬뽕 조리 시 등갈비의 전처리(기름기 제거)와 양념 적용 후 장시간 저온 숙성하는 공정을 소개합니다. 이는 소스/양념이 육류에 효과적으로 침투하고 풍미를 심화하며, 식감을 개선하는 제조 기술적 측면의 중요성을 보여줍니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "등갈비",
+        "해물",
+        "양념"
+      ],
+      "actionable_insight": "육류 전처리(기름기 제거) 및 장시간 저온 숙성 공정이 소스/양념의 침투력, 풍미 발현, 그리고 육질 개선에 미치는 영향에 대한 심층 R&D를 통해 최적의 소스 배합 및 적용 공법을 개발해야 한다."
+    },
+    {
+      "id": "1aea781d1356",
+      "title": "[신상품] 이디야커피 '프루츠 스파클링 복숭아' 외",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=622832",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:51:00+09:00",
+      "content": "이디야커피는 저당 트렌드를 반영한 병음료 라인업을 확대하며 '프루츠 스파클링' 3종을 출시했다고 5일... '바지락 비빔 칼국수'는 미나리를 특제 양념과 함께 즐길 수 있으며, '바지락 무침'은 매콤새콤한 양념으로 쌈... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "저당 트렌드",
+        "특제 양념",
+        "매콤새콤 양념",
+        "비빔 양념",
+        "무침 양념"
+      ],
+      "summary": "저당 트렌드가 음료를 넘어 소스/양념류에도 중요한 개발 방향임을 시사하며, 특정 요리(비빔 칼국수, 바지락 무침)에 맞춰 '특제' 및 '매콤새콤' 등 세분화된 맛 프로파일의 양념 개발이 활발함을 보여준다. 이는 면류 및 무침류 소스 시장에서 소비자 취향을 반영한 맞춤형 소스의 중요성이 증대되고 있음을 나타낸다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "미나리",
+        "고추",
+        "산미"
+      ],
+      "actionable_insight": "R&D팀은 저당 트렌드를 반영한 소스 포트폴리오를 확장하고, 면류 및 무침류 등 특정 요리에 최적화된 '특제', '매콤새콤' 등 차별화된 맛 프로파일의 양념 개발에 집중해야 한다."
     }
   ],
   "articles": [
     {
-      "id": "a001",
-      "title": "알룰로스, 저당 소스 시장 게임체인저로 부상... 설탕 1:1 대체 가능성 입증",
-      "url": "https://www.foodnavigator-asia.com/article/allulose-sauce",
-      "source": "FoodNavigator Asia",
-      "language": "en",
-      "published_at": "2026-03-05T08:00:00+09:00",
-      "summary": "알룰로스(희귀당)가 소스류의 설탕을 1:1로 대체할 수 있다는 연구 결과가 발표됐다. 칼로리는 설탕의 10%에 불과하며 마이야르 반응도 유사하게 나타나 소스 색상 구현에도 유리하다.",
+      "id": "e3aa32b4486c",
+      "title": "[식음료 소식] 오비맥주ㆍ풀무원ㆍ농심ㆍBBQ",
+      "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=43369",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:56:00+09:00",
+      "content": "이번 신제품은 주요 대형마트 및 온라인 채널에서 구매 가능하다. 풀무원다논 추민송 BM(Brand Manager)는... 매체는 기존의 전형적인 소스에서 벗어난 '달콤하고 향긋한 블랙페퍼 소스'에 주목하기도 했다. 이어 파와 마늘... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "블랙페퍼 소스",
+        "신제품",
+        "달콤한 소스",
+        "향긋한 소스",
+        "파",
+        "마늘"
+      ],
+      "summary": "새로운 '달콤하고 향긋한 블랙페퍼 소스'가 출시되어 기존의 전형적인 소스와 차별화된 맛 프로파일을 제시합니다. 특히 파와 마늘 등 향신 채소를 활용하여 풍미를 더한 점이 소스 R&D 관점에서 주목할 만합니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "블랙페퍼",
+        "파",
+        "마늘"
+      ],
+      "actionable_insight": "소스 R&D팀은 '달콤하고 향긋한'과 같은 복합적인 풍미를 가진 블랙페퍼 소스의 배합 기술과 파, 마늘 등 특정 향신 채소의 활용 방안을 연구하여 차별화된 신제품 개발에 활용해야 한다."
+    },
+    {
+      "id": "b9a2b7cd9c3e",
+      "title": "[식품·외식 뉴스픽] 스타벅스·CJ프레시웨이·매일유업·BBQ",
+      "url": "https://www.ajunews.com/view/20260305174131032",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:54:00+09:00",
+      "content": "코리아의 신제품 ‘에어로카노’가 출시 7일 만에 100만 잔 판매를 돌파했다. 5일 스타벅스에 따르면... NJ닷컴은 BBQ 제품에 대해 “완벽에 가깝다”고 평가하며 달콤하고 향긋한 블랙페퍼 소스와 파, 마늘, 고추가... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "블랙페퍼 소스",
+        "BBQ",
+        "소스",
+        "향긋한",
+        "단맛",
+        "매콤함"
+      ],
+      "summary": "BBQ 제품에 대한 평가에서 '달콤하고 향긋한 블랙페퍼 소스'가 극찬을 받았다. 특히 파, 마늘, 고추 등 아로마틱한 재료들이 조화롭게 어우러진 복합적인 풍미가 긍정적인 시장 반응을 이끌고 있음을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "블랙페퍼",
+        "파",
+        "마늘",
+        "고추"
+      ],
+      "actionable_insight": "소스 R&D팀은 달콤함, 향긋함, 그리고 은은한 매콤함이 조화된 블랙페퍼 소스 개발에 집중하며, 파, 마늘, 고추 등 신선한 아로마틱 재료의 활용 방안을 모색해야 한다."
+    },
+    {
+      "id": "b5b5c739fbdb",
+      "title": "[현장] &quot;거실 어디든 당신이 앉는 곳이 극장&quot;…LG전자, '사운드 스위트...",
+      "url": "https://www.pointe.co.kr/news/articleView.html?idxno=73960",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:44:00+09:00",
+      "content": "낮췄다&quot;며 신제품 'LG 사운드 스위트(LG Sound Suite)'를 소개했다. △ 스피커 위치 알아서 파악…시연으로 확인한... △ AI 프로세서로 2채널 방송도 입체적으로 현장에서는 영화 콘텐츠뿐만 아니라 일반적인 2채널 소스의 음원... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [
+        "LG 사운드 스위트",
+        "AI 프로세서",
+        "2채널 음원"
+      ],
+      "summary": "본 기사는 LG전자의 오디오 신제품 'LG 사운드 스위트'에 대한 내용으로, AI 프로세서를 활용하여 2채널 음원도 입체적으로 재생하는 기술을 소개하고 있습니다. 소스·양념류 R&D 관점에서는 해당 기사에서 식품 원료, 제조 기술, 시장 동향 등 어떠한 관련 정보도 파악할 수 없습니다.",
+      "relevance_score": 1,
+      "trend_signal": "stable",
+      "key_ingredients": [],
+      "actionable_insight": "소스·양념류 R&D팀은 본 기사 내용이 식품 산업과 무관하므로 별도의 분석이나 조치할 사항이 없습니다."
+    },
+    {
+      "id": "d3a0e7ca9e9c",
+      "title": "봄 시즌 외식 키워드는 '딸기'···업계 신메뉴 경쟁 본격화",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=137893",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:32:00+09:00",
+      "content": "여기에 크림치즈와 리코타 치즈 소스, 치커리 등을 더해 상큼함과 부드러움을 동시에 살렸으며 아몬드를... 엔제리너스는 충남 논산에서 생산한 프리미엄 딸기 품종 '비타베리'를 활용한 신제품을 출시했다. 비타베리는... ",
+      "search_keyword": "소스 신제품",
       "category": "ingredient",
-      "keywords": ["알룰로스", "저당", "대체감미료", "마이야르"],
-      "key_ingredients": ["알룰로스"],
+      "keywords": [
+        "봄 시즌",
+        "딸기",
+        "신메뉴",
+        "크림치즈",
+        "리코타 치즈 소스",
+        "비타베리"
+      ],
+      "summary": "봄 시즌 외식 키워드로 '딸기'가 부상하며, 크림치즈와 리코타 치즈 소스가 딸기 메뉴의 상큼함과 부드러움을 강조하는 핵심 요소로 활용되고 있습니다. 이는 딸기를 주재료로 하는 디저트 및 요리에 어울리는 치즈 기반 소스 또는 과일 드레싱 개발의 중요성을 시사합니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "딸기",
+        "크림치즈",
+        "리코타 치즈",
+        "치커리",
+        "아몬드",
+        "비타베리"
+      ],
+      "actionable_insight": "딸기 시즌을 맞아 크림치즈나 리코타 치즈를 활용한 달콤하고 부드러운 소스 또는 딸기 베이스의 상큼한 샐러드 드레싱 개발에 집중하여 외식업계의 신메뉴 트렌드에 대응해야 한다."
+    },
+    {
+      "id": "b0621a9292f3",
+      "title": "맥도날드 CEO 소심 먹방에 네티즌 &quot;뱉고 싶어 보인다&quot;",
+      "url": "https://n.news.naver.com/mnews/article/025/0003507088?sid=104",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:29:00+09:00",
+      "content": "이어 &quot;매우 독특한 참깨를 썼고 번 안에는 패티, 빅 아치 소스, 양상추가 있다&quot;고 신제품을 소개하며 &quot;나는 이 제품을 매우 좋아한다. 진짜 맛있다&quot;고 말했다. 그는 햄버거를 한 입 베어 문 뒤 &quot;매우 맛있다. 맥도날드만 만들... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "맥도날드",
+        "빅 아치 소스",
+        "신제품",
+        "햄버거",
+        "참깨"
+      ],
+      "summary": "맥도날드의 신제품 햄버거 출시 소식에서 '빅 아치 소스'가 핵심 차별화 요소로 강조되었다. CEO는 독특한 참깨와 함께 이 소스를 언급하며 제품의 맛을 극찬했지만, 기사 제목은 소비자의 다를 수 있는 반응을 암시한다. 소스의 맛과 인지도 확보가 중요한 포인트로 부각된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "빅 아치 소스",
+        "참깨",
+        "패티",
+        "양상추"
+      ],
+      "actionable_insight": "R&D팀은 맥도날드 '빅 아치 소스'의 맛 프로파일과 성분 구성을 분석하여, 대형 프랜차이즈가 신제품 차별화를 위해 어떤 소스 트렌드를 추구하는지 파악하고, 소비자 인지도를 높일 수 있는 독특한 소스 개발에 집중해야 한다."
+    },
+    {
+      "id": "13a16e3d1fed",
+      "title": "[유통가 레이더] '봄동 비빔밥' 열풍에 웃는 이곳... 대상 종가 별미김치...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=337659",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:28:00+09:00",
+      "content": "이번 신제품은 △프루츠 스파클링 사과 △프루츠 스파클링 복숭아 △프루츠 스파클링 체리 총 3종으로... 매체는 기존의 전형적인 소스에서 벗어난 '달콤하고 향긋한 블랙페퍼 소스'에 주목하기도 했다. 이어 파와 마늘... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "블랙페퍼 소스",
+        "신제품 소스",
+        "퓨전 소스",
+        "파 마늘",
+        "봄동 비빔밥"
+      ],
+      "summary": "유통가에서 '봄동 비빔밥' 열풍과 함께 '달콤하고 향긋한 블랙페퍼 소스'라는 새로운 소스 컨셉이 주목받고 있다. 이 소스는 기존의 전형적인 틀에서 벗어나 파, 마늘 등 신선한 향신채를 활용한 퓨전 소스 개발의 중요성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "블랙페퍼",
+        "파",
+        "마늘"
+      ],
+      "actionable_insight": "블랙페퍼를 활용한 달콤하고 향긋한 퓨전 소스 개발과 더불어 파, 마늘 등 신선한 향신채를 배합하여 차별화된 맛과 향을 구현하는 데 집중해야 한다."
+    },
+    {
+      "id": "2d1c5b9c239f",
+      "title": "[신제품] 동국제약 이랜드이츠 外",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3057152",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:20:00+09:00",
+      "content": "신제품은 멜라닌 생성을 촉진하는 다양한 요인을 차단하는 '멜라 프루프' 솔루션으로 사용 직후 피부... 칠리소스·실파소스 활 바닷가재 등 보양 중식을, 모모야마는 재첩 맑은 국, 한우 안심구이, 새조개 샤부샤부 등... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "칠리소스",
+        "실파소스",
+        "보양 중식",
+        "신제품",
+        "바닷가재"
+      ],
+      "summary": "신제품 출시 기사에서 칠리소스와 실파소스가 활 바닷가재 등 고급 보양 중식 메뉴에 사용되는 사례가 언급되었습니다. 이는 프리미엄 식재료 및 건강 지향적인 외식 메뉴에 특화된 소스 개발 트렌드를 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "칠리소스",
+        "실파소스"
+      ],
+      "actionable_insight": "R&D팀은 고품질 식재료 및 특정 요리 콘셉트에 맞춰 개발된 프리미엄 소스 시장의 성장 가능성을 분석하고, 차별화된 맛과 기능성을 가진 소스 개발에 집중해야 합니다."
+    },
+    {
+      "id": "11823efe1b65",
+      "title": "[오늘의 언박싱] 맥도날드 ‘과카몰레 베이컨 에그·치킨 머핀’·bhc, ‘...",
+      "url": "https://www.mediapen.com/news/view/1085277",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:10:00+09:00",
+      "content": "식품·외식업계가 5일 선보인 신제품을 소개한다. 맥도날드 ‘과카몰레 베이컨 에그·치킨 머핀’(왼쪽)과 bhc... 과카몰레 베이컨 에그 머핀은 과카몰레 소스에 구운 계란과 베이컨을 더했다. 과카몰레 치킨 머핀은 든든한... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "과카몰레 소스",
+        "맥도날드",
+        "신제품",
+        "아침 메뉴",
+        "글로벌 소스"
+      ],
+      "summary": "맥도날드가 과카몰레 소스를 활용한 '과카몰레 베이컨 에그·치킨 머핀' 신제품을 출시했다. 이는 과카몰레와 같은 글로벌 소스가 베이컨, 계란, 치킨 등 주재료와 결합하여 아침 메뉴 시장으로 확장되는 트렌드를 보여주며, 소스의 범용성과 혁신적인 메뉴 적용 가능성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "과카몰레 소스",
+        "계란",
+        "베이컨",
+        "치킨"
+      ],
+      "actionable_insight": "글로벌 소스인 과카몰레가 아침 메뉴(머핀)에 성공적으로 적용된 사례를 통해, 다양한 주재료와 어울리는 소스의 범용성을 확장하고 아침/브런치 시장에서의 신규 소스 활용 기회를 적극적으로 탐색해야 한다."
+    },
+    {
+      "id": "6a35bc1b0b50",
+      "title": "(영상) “세상에서 가장 작은 한입” 맥도날드 CEO 먹방 ‘역풍’…버거...",
+      "url": "https://n.news.naver.com/mnews/article/081/0003623278?sid=104",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:41:00+09:00",
+      "content": "빅 아치 소스는 머스터드, 피클, 달콤한 토마토 맛의 균형이 완벽한 톡 쏘는 크리미 소스로 소개됐다. CEO가 직접 홍보 전면에 나서며 신제품에 힘을 보태려 했으나 소극적으로 버거를 베어 먹는 모습에 해당 영상은 오히려... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "빅 아치 소스",
+        "맥도날드",
+        "머스터드",
+        "피클",
+        "토마토",
+        "크리미 소스",
+        "신제품",
+        "소스 맛 프로파일"
+      ],
+      "summary": "맥도날드에서 머스터드, 피클, 달콤한 토마토 맛의 균형을 이룬 톡 쏘는 크리미 소스인 '빅 아치 소스' 신제품을 출시했다. 이는 복합적인 맛과 질감을 동시에 추구하는 소스 개발 트렌드를 보여주며, 기존의 익숙한 재료들로 새로운 풍미를 창출하려는 시도로 분석된다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "머스터드",
+        "피클",
+        "토마토"
+      ],
+      "actionable_insight": "머스터드, 피클, 달콤한 토마토의 독특한 맛 균형과 '톡 쏘는 크리미' 질감을 구현하는 기술적 접근에 주목하여 신규 소스 개발 아이디어를 탐색해야 한다."
+    },
+    {
+      "id": "1438faab8e85",
+      "title": "'맛잘알' 쯔양, 이마트24 신제품 직접 먹어봤다... BEST 픽 봤더니",
+      "url": "https://www.insight.co.kr/news/545474",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:20:00+09:00",
+      "content": "신제품을 고루 선택했습니다.가장 먼저 쯔양은 이마트24가 최에 출시한 '크레이지치즈' 라인업 중 하나인 '체다Two머치떡볶이'를 먹어봤습니다.해당 제품은 체다Two머치라는 이름처럼 평범한 즉석떡볶이에 체다치즈소스와... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "쯔양",
+        "이마트24",
+        "신제품",
+        "체다치즈소스",
+        "즉석떡볶이"
+      ],
+      "summary": "이마트24가 인플루언서 쯔양과 협업하여 '크레이지치즈' 라인업의 신제품 '체다Two머치떡볶이'를 선보였습니다. 이 제품은 기존 즉석떡볶이에 체다치즈소스를 활용하여 차별화된 맛을 강조하며 소비자들에게 새로운 경험을 제공하려는 전략을 보입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "체다치즈소스"
+      ],
+      "actionable_insight": "소스 R&D팀은 즉석식품 카테고리에서 일반적인 제품에 '진하고 풍부한' 콘셉트의 특화된 치즈 소스를 적용하여 제품 가치 및 경쟁력을 높이는 방안을 연구해야 합니다."
+    },
+    {
+      "id": "b094aa58b724",
+      "title": "&quot;봄동 비빔밥 특수&quot;…대상 종가, '봄동겉절이' 출시 두 달만에 22톤 판매",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1343178",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:46:00+09:00",
+      "content": "대상 종가 '봄동겉절이'는 국내산 봄동을 종가의 노하우가 담긴 양념에 버무린 제품이다. 바도 먹으면 봄동... 박관우 대상 K마케팅기획1팀장은 &quot;봄동겉절이는 '제철코어' 트렌드를 선제적으로 반영해 기획한 시즌 한정... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "대상 종가",
+        "봄동겉절이",
+        "봄동",
+        "양념",
+        "제철코어 트렌드",
+        "시즌 한정"
+      ],
+      "summary": "대상 종가의 '봄동겉절이' 성공은 제철 식재료인 봄동의 특성을 살린 종가만의 양념 개발이 주효했음을 보여준다. 이는 '제철코어' 트렌드를 반영하여 특정 식재료에 최적화된 양념을 선보이는 전략이 시장에서 높은 호응을 얻을 수 있음을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "봄동",
+        "양념"
+      ],
+      "actionable_insight": "제철 식재료의 풍미를 극대화하는 맞춤형 양념 개발을 통해 '제철코어' 트렌드를 겨냥한 시즌 한정 제품군 확대를 적극적으로 검토해야 한다."
+    },
+    {
+      "id": "9896dd84a5d2",
+      "title": "'봄동 비빔밥' 인기에 종가 '봄동겉절이' 두 달만에 22t 팔려",
+      "url": "http://www.newscape.co.kr/news/articleView.html?idxno=120660",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:06:00+09:00",
+      "content": "만든 양념에 버무린 제품이다. 바로 먹으면 봄동 본연의 신선한 맛 그대로 달큰고소한 맛을, 약간의 숙성을... 박관우 대상 K마케팅기획1팀장은 &quot;봄동겉절이는 '제철코어' 트렌드를 선제적으로 반영해 기획한 시즌 한정... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "봄동겉절이",
+        "제철코어",
+        "시즌 한정",
+        "달큰고소한 맛",
+        "양념"
+      ],
+      "summary": "'종가 봄동겉절이'의 성공은 '제철코어' 트렌드를 반영한 소스/양념 개발의 중요성을 보여줍니다. 특히, 봄동 본연의 신선함과 달큰고소한 맛을 동시에 살리는 양념 배합 기술과 함께, 즉석 섭취 및 숙성 후의 맛 변화를 고려한 양념 설계가 시장에서 경쟁력을 가질 수 있음을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "봄동",
+        "양념"
+      ],
+      "actionable_insight": "R&D팀은 '제철코어' 트렌드에 맞춰 신선한 원료의 특성을 살리면서도 달큰고소한 맛을 구현하고, 즉석 섭취와 숙성 후 맛 변화까지 고려한 복합 양념 개발에 집중해야 합니다."
+    },
+    {
+      "id": "ac34605edeee",
+      "title": "꾸브라꼬숯불치킨, 맛 유지하며 당 줄인 ‘저당양념꾸브’ 신메뉴 출시",
+      "url": "http://www.beyondpost.co.kr/view.php?ud=2026030516552113566cf2d78c68_30",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:58:00+09:00",
+      "content": "저당양념꾸브 역시 이러한 흐름의 연장선에서 기획됐다. 브랜드 측은 치킨을 즐기는 소비자들이 맛뿐 아니라 영양 요소도 함께 고려하는 소비 트렌드가 확대되고 있는 만큼, 보다 다양한 선택지를 제공하는 것이... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "저당 양념",
+        "치킨 신메뉴",
+        "소비 트렌드",
+        "영양 고려"
+      ],
+      "summary": "꾸브라꼬숯불치킨은 맛을 유지하면서 당을 줄인 '저당양념꾸브' 신메뉴를 출시했다. 이는 소비자들이 치킨 맛과 함께 영양 요소를 고려하는 트렌드에 발맞춘 것으로, 소스/양념 R&D 관점에서는 당 저감화 기술과 맛 구현의 균형이 중요하다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "설탕 (저감 대상)",
+        "대체 감미료 (추정)"
+      ],
+      "actionable_insight": "저당 소스 개발 시 기존 제품의 맛 프로파일을 유지하면서 당 함량을 효과적으로 줄일 수 있는 감미료 조합 및 기술 연구에 집중해야 한다."
+    },
+    {
+      "id": "e000c33117f7",
+      "title": "'오늘N' 중식 해물 갈비짬뽕",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202603050139",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:56:00+09:00",
+      "content": "또한, 다양한 맛집과 시대의 트렌드와 각종 핫한 이슈까지 포괄하여 시청자들의 거실을 찾아가는 양질의... 소 등뼈에 붙어 있는 등갈비를 먼저 삶아 기름기를 빼고 양념을 더해 다시 끓였다. 그 뒤 이틀 동안 저온 숙성을... ",
+      "search_keyword": "양념 트렌드",
+      "category": "manufacturing",
+      "keywords": [
+        "중식",
+        "해물 갈비짬뽕",
+        "등갈비",
+        "양념",
+        "저온 숙성",
+        "기름기 제거",
+        "조리 공정"
+      ],
+      "summary": "이 기사는 중식 해물 갈비짬뽕 조리 시 등갈비의 전처리(기름기 제거)와 양념 적용 후 장시간 저온 숙성하는 공정을 소개합니다. 이는 소스/양념이 육류에 효과적으로 침투하고 풍미를 심화하며, 식감을 개선하는 제조 기술적 측면의 중요성을 보여줍니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "등갈비",
+        "해물",
+        "양념"
+      ],
+      "actionable_insight": "육류 전처리(기름기 제거) 및 장시간 저온 숙성 공정이 소스/양념의 침투력, 풍미 발현, 그리고 육질 개선에 미치는 영향에 대한 심층 R&D를 통해 최적의 소스 배합 및 적용 공법을 개발해야 한다."
+    },
+    {
+      "id": "1aea781d1356",
+      "title": "[신상품] 이디야커피 '프루츠 스파클링 복숭아' 외",
+      "url": "https://www.seoulfn.com/news/articleView.html?idxno=622832",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:51:00+09:00",
+      "content": "이디야커피는 저당 트렌드를 반영한 병음료 라인업을 확대하며 '프루츠 스파클링' 3종을 출시했다고 5일... '바지락 비빔 칼국수'는 미나리를 특제 양념과 함께 즐길 수 있으며, '바지락 무침'은 매콤새콤한 양념으로 쌈... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "저당 트렌드",
+        "특제 양념",
+        "매콤새콤 양념",
+        "비빔 양념",
+        "무침 양념"
+      ],
+      "summary": "저당 트렌드가 음료를 넘어 소스/양념류에도 중요한 개발 방향임을 시사하며, 특정 요리(비빔 칼국수, 바지락 무침)에 맞춰 '특제' 및 '매콤새콤' 등 세분화된 맛 프로파일의 양념 개발이 활발함을 보여준다. 이는 면류 및 무침류 소스 시장에서 소비자 취향을 반영한 맞춤형 소스의 중요성이 증대되고 있음을 나타낸다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "미나리",
+        "고추",
+        "산미"
+      ],
+      "actionable_insight": "R&D팀은 저당 트렌드를 반영한 소스 포트폴리오를 확장하고, 면류 및 무침류 등 특정 요리에 최적화된 '특제', '매콤새콤' 등 차별화된 맛 프로파일의 양념 개발에 집중해야 한다."
+    },
+    {
+      "id": "57e857cb2daf",
+      "title": "대상 종가 &quot;봄동겉절이 22톤 판매 돌파&quot;",
+      "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=352859",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:40:00+09:00",
+      "content": "제철 식재료로 미식을 즐기는 제철코어 트렌드와 함께 SNS에서 봄동 비빔밥이 주목되면서다. 대상은 종가... 만든 양념에 버무린 제품이다. 바로 먹으면 봄동 본연의 신선한 맛 그대로 달큰고소한 맛을, 약간의 숙성을... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "대상 종가",
+        "봄동겉절이",
+        "제철코어 트렌드",
+        "SNS 비빔밥",
+        "양념",
+        "달큰고소한 맛",
+        "숙성",
+        "판매 돌파"
+      ],
+      "summary": "대상 종가의 봄동겉절이가 제철코어 트렌드 및 SNS에서의 봄동 비빔밥 인기와 맞물려 22톤 판매를 돌파하며 성공을 거두었다. 이는 봄동 본연의 신선함과 달큰고소한 맛을 살린 특제 양념이 소비자에게 큰 호응을 얻었음을 시사한다. 소스 R&D 관점에서는 제철 식재료와의 완벽한 맛 조화는 물론, 숙성 후에도 매력적인 맛 변화를 제공하는 양념 개발의 중요성이 부각된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "봄동",
+        "특제 양념 베이스"
+      ],
+      "actionable_insight": "제철 식재료의 고유한 맛을 극대화하면서도, 소비자의 취향 변화(신선한 맛 vs. 숙성된 맛)를 모두 만족시킬 수 있는 다기능성 양념 개발에 집중해야 한다."
+    },
+    {
+      "id": "ccf91630a3e0",
+      "title": "[브리프] 하이트진로 오비맥주 골든블루 BBQ bhc 도드람 삼성웰스토리",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=349874",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:30:00+09:00",
+      "content": "출시 1년을 앞두고 누적 판매량 700만 개 돌파라는 대기록을 달성한 '콰삭킹'과 '양념은 눅눅하다'는 인식을... 최근 트렌드 대응 전략 등에 대해 소개했다. 또한 대형 체인 본고장이자 최대 소비국인 미국부터 수제버거... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "콰삭킹",
+        "바삭함 유지 양념",
+        "시장 트렌드 대응"
+      ],
+      "summary": "하이트진로 '콰삭킹'이 출시 1년 만에 700만 개 판매를 돌파하며, '양념은 눅눅하다'는 고정관념을 깬 성공 사례로 주목받고 있다. 이는 바삭한 식감을 유지하는 소스/양념 개발의 중요성을 강조하며, 미국 등 글로벌 대형 체인 시장의 최신 트렌드 대응 전략을 모색할 필요성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "R&D팀은 소스/양념 적용 시 식품의 바삭한 식감을 지속적으로 유지할 수 있는 혁신적인 제형 및 코팅 기술 개발에 집중하여 소비자의 '눅눅함' 불만을 해소하고 시장 경쟁력을 확보해야 한다."
+    },
+    {
+      "id": "bb5c1c7e3b30",
+      "title": "[KFE 유통로그]엔제리너스·bhc",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=655246",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:18:00+09:00",
+      "content": "디저트 트렌드를 반영했다. '비타베리 생딸기 히비스커스티'는 히비스커스와 딸기를 블렌딩해 상큼한 맛을... 프라이드 스타일의 바삭한 식감과 매콤달콤한 양념치킨의 조합을 한 번에 즐길 수 있도록 기획됐다. bhc에... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "양념치킨",
+        "매콤달콤",
+        "바삭한 식감",
+        "블렌딩",
+        "디저트 트렌드"
+      ],
+      "summary": "기사는 bhc의 신규 양념치킨이 프라이드 스타일의 바삭한 식감과 매콤달콤한 양념의 조화를 강조했음을 보여준다. 이는 소스 R&D 관점에서 '매콤달콤' 맛 프로파일의 꾸준한 인기와 함께 식감과의 시너지를 고려한 제품 기획의 중요성을 시사한다. 또한, 음료에서 언급된 히비스커스-딸기 블렌딩을 통해 신선한 맛 조합에 대한 소비자 선호를 엿볼 수 있다.",
+      "relevance_score": 9,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "딸기",
+        "히비스커스"
+      ],
+      "actionable_insight": "양념치킨의 스테디셀러인 '매콤달콤' 맛을 혁신하기 위해, 과일/허브 등 새로운 원료의 블렌딩을 통해 기존 맛에 상큼함이나 독특한 풍미를 더하는 방향으로 소스 개발을 추진해야 한다."
+    },
+    {
+      "id": "6c85fda811ea",
+      "title": "두끼, 저당 떡모소스로 더 가볍게! 소스 10종으로 더 다양하게",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=721473",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:06:00+09:00",
+      "content": "라이트업 두끼의 핵심은 두끼 시그니처 소스 중 하나인 '떡모소스'를 저당 버전으로 선보였다는 것이다. '저당 떡모소스'는 기존의 매콤 달콤 강렬한 맛과 풍미는 유지하면서 당 함량을 낮춰 부담을 줄였다. 계란, 양배추... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "두끼",
+        "떡모소스",
+        "저당",
+        "소스",
+        "라이트업",
+        "당 함량",
+        "맛 유지",
+        "매콤 달콤"
+      ],
+      "summary": "두끼는 시그니처 '떡모소스'를 저당 버전으로 선보이며, 기존의 매콤달콤한 맛과 풍미는 유지한 채 당 함량을 낮추는 데 성공했다. 이는 건강 지향 소비 트렌드에 맞춰 소스 제품의 맛과 기능성을 동시에 충족시킨 R&D 사례로 볼 수 있다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "소스 R&D팀은 기존 제품의 핵심 맛 프로파일을 유지하면서 당 함량을 효과적으로 낮출 수 있는 신규 감미료 조합 및 기술 적용 방안을 집중적으로 연구해야 한다."
+    },
+    {
+      "id": "fd0ce2c93a8a",
+      "title": "삼양사, '2026 Natural Products Expo West(NPEW)' 참가…AI 기반 당류 저감...",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=655230",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:46:00+09:00",
+      "content": "삼양사는 향후 제과, 제빵을 넘어 소스류와 아이스크림 등 전 식품 영역으로 이 시스템의 적용 범위를... 정지석 삼양사 식품BU장은 &quot;전 세계적인 저당 트렌드에 발맞춰 글로벌 식품 제조사들과의 접점을 넓히기... ",
+      "search_keyword": "저당 소스",
+      "category": "manufacturing",
+      "keywords": [
+        "삼양사",
+        "저당",
+        "AI 기반",
+        "소스류",
+        "NPEW"
+      ],
+      "summary": "삼양사는 2026 NPEW에서 AI 기반 당류 저감 시스템을 선보이며, 이를 제과·제빵뿐 아니라 소스류 등 전 식품 영역에 확대 적용할 계획입니다. 이는 글로벌 저당 트렌드에 대응하기 위한 기술 혁신으로, 소스 R&D 분야에서 AI 기반 저당 솔루션의 중요성이 커지고 있음을 보여줍니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "당류",
+        "감미료"
+      ],
+      "actionable_insight": "R&D팀은 AI 기술을 활용한 당류 저감 솔루션을 적극적으로 검토하여 경쟁력 있는 저당 소스 및 양념 제품 개발에 주력해야 합니다."
+    },
+    {
+      "id": "c171c1022ffc",
+      "title": "AI로 설탕 줄인다…삼양사, 美 식품박람회서 '저당 솔루션' 공개",
+      "url": "https://n.news.naver.com/mnews/article/138/0002219654?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:29:00+09:00",
+      "content": "이를 통해 고객사는 저당 식품 개발 시 레시피 도출 시간을 줄이고 비용 절감 효과를 기대할 수 있다는 설명이다. 삼양사는 아이스크림, 소스, 베이커리, 당과류 등 다양한 식품 카테고리에 해당 솔루션을 적용할... ",
+      "search_keyword": "저당 소스",
+      "category": "manufacturing",
+      "keywords": [
+        "AI",
+        "저당 솔루션",
+        "레시피 개발",
+        "설탕 저감"
+      ],
+      "summary": "삼양사가 AI 기반의 저당 솔루션을 공개했으며, 이는 식품 고객사의 저당 제품 개발 시간 및 비용을 절감하는 데 기여한다. 이 솔루션은 소스/양념류를 포함한 다양한 식품 카테고리에 적용 가능하여, 설탕 저감 레시피 도출 효율성을 높일 것으로 기대된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "설탕"
+      ],
+      "actionable_insight": "R&D팀은 AI 기반 저당 솔루션 도입을 검토하여 소스/양념류의 설탕 저감 제품 개발 속도와 효율성을 획기적으로 향상시키는 방안을 모색해야 한다."
+    },
+    {
+      "id": "a7ce2b83fee3",
+      "title": "삼양사, 美서 AI 기반 당류 저감 솔루션 공개",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2108578",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:08:00+09:00",
+      "content": "기업들은 이를 통해 요구 조건에 맞는 저당 레시피를 더 효율적으로 설계, 제품 개발 기간 단축과 비용 절감 효과를 기대할 수 있다는 게 사측의 설명이다. 해당 솔루션의 적용 범위를 아이스크림, 소스... ",
+      "search_keyword": "저당 소스",
+      "category": "manufacturing",
+      "keywords": [
+        "AI",
+        "당류 저감",
+        "레시피 설계",
+        "제품 개발 기간 단축",
+        "비용 절감",
+        "소스"
+      ],
+      "summary": "삼양사가 AI 기반 당류 저감 솔루션을 공개했으며, 이는 저당 레시피 설계를 효율화하여 제품 개발 기간 단축과 비용 절감 효과를 기대할 수 있습니다. 특히 이 솔루션은 소스류에도 적용 가능하여, 소스·양념류 R&D팀은 AI를 활용한 저당 소스 개발 및 레시피 최적화에 주목해야 할 것입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "당류"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 AI 기반 당류 저감 솔루션을 도입하여 복잡한 저당 소스 레시피 개발 과정을 가속화하고, 시장 출시 시기를 효과적으로 단축할 방안을 적극적으로 모색해야 합니다."
+    },
+    {
+      "id": "a21afda2b5fe",
+      "title": "[푸드트렌드] 삼양사, 美 식품박람회서 AI 기반 당류 저감 솔루션으로 ...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=149353",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:00:00+09:00",
+      "content": "삼양사는 아이스크림과 소스류, 베이커리, 당과류 등 다양한 식품 카테고리로 적용 범위를 확대할 수... ◇ &quot;한 달 만에 또?&quot; 널담, 세븐일레븐서 '초고속 신제품'… 고단백 저당 포카치아 론칭 널담, 세븐일레븐서 '초고속... ",
+      "search_keyword": "저당 소스",
+      "category": "ingredient",
+      "keywords": [
+        "삼양사",
+        "AI 기반",
+        "당류 저감 솔루션",
+        "소스류",
+        "널담",
+        "고단백",
+        "저당",
+        "신제품"
+      ],
+      "summary": "삼양사가 AI 기반 당류 저감 솔루션을 미국 식품 박람회에서 선보이며 아이스크림, 베이커리 등과 함께 소스류 적용 가능성을 제시했습니다. 이는 널담의 고단백 저당 포카치아 출시와 더불어 저당/고단백 트렌드가 식품 전반에 확산되고 있음을 보여줍니다. 소스·양념 R&D는 당류 저감 기술과 고단백 콘셉트 도입을 적극적으로 모색해야 할 시점입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "당류",
+        "단백질"
+      ],
+      "actionable_insight": "소스 R&D팀은 AI 기반 당류 저감 기술 도입을 검토하고, 고단백·저당 트렌드에 맞춰 기능성을 강화한 신제품 소스 개발에 집중해야 합니다."
+    },
+    {
+      "id": "1e4974ff7798",
+      "title": "[푸드 트렌드] KFC, 2025년 매출·영업이익 역대 최대 실적 달성 外",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=149351",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:00:00+09:00",
+      "content": "라이트업 두끼의 핵심은 두끼 시그니처 소스 중 하나인 '떡모소스'를 저당 버전으로 선보였다는 것이다. '저당 떡모소스'는 기존의 매콤 달콤 강렬한 맛과 풍미는 유지하면서 당 함량을 낮춰 부담을 줄였다. 계란... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "저당 소스",
+        "떡모소스",
+        "당류 저감",
+        "맛 유지",
+        "건강 지향"
+      ],
+      "summary": "두끼는 인기 시그니처 소스인 '떡모소스'를 저당 버전으로 개발하여 '라이트업 두끼'를 통해 선보였다. 이 '저당 떡모소스'는 기존의 매콤 달콤 강렬한 맛과 풍미를 유지하면서 당 함량을 낮춘 것이 특징이다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "Sugar (reduced)"
+      ],
+      "actionable_insight": "기존 인기 소스의 성공적인 저당화를 위해, 당 함량 저감 시에도 복합적인 맛과 향미 프로파일을 유지하는 기술 개발 및 최적의 저당 대체재 발굴에 주력해야 한다."
+    },
+    {
+      "id": "32d139cf1524",
+      "title": "'떡볶이 뷔페' 두끼, 더 건강하고 다양하게",
+      "url": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2198730",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T11:30:00+09:00",
+      "content": "떡볶이 무한리필 뷔페 콘셉트의 두끼가 저당 트렌드를 반영해 별도의 ‘저당 소스’를 선보이면서 소스 종류를 기존 8종에서 10종으로 늘렸다. 여기에 새로운 식재료를 추가하면서 소비자의 다양한 취향을... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "저당 소스",
+        "소스 다양화",
+        "건강 트렌드"
+      ],
+      "summary": "떡볶이 뷔페 두끼가 저당 트렌드를 반영하여 '저당 소스'를 출시하며 소스 종류를 기존 8종에서 10종으로 확대했다. 이는 건강을 중시하는 소비자들의 니즈를 충족시키고 다변화된 취향에 대응하기 위한 소스 R&D 및 제품 전략으로 분석된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "당류",
+        "대체 감미료"
+      ],
+      "actionable_insight": "R&D팀은 저당 소스의 맛과 품질을 유지하면서 당류를 저감하는 기술 개발과 함께, 빠르게 변화하는 소비자 취향에 맞춰 새로운 소스 레시피를 지속적으로 탐색하고 개발해야 한다."
+    },
+    {
+      "id": "ad6924b9cfed",
+      "title": "농심 롯데GRS 이디야커피 外(새로나왔어요!)",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3057084",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T11:26:00+09:00",
+      "content": "저당 '프루츠 스파클링' 3종= 이디야커피(대표이사 문창기)가 저당 트렌드를 반영해 가볍게 즐길 수 있는... 칠리 소스로 시간이 지나도 바삭함이 유지되는 '스윗칠리킹'을 반마리씩 구성하고 '스윗 하바네로 소스'를 함께... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "저당",
+        "칠리 소스",
+        "스윗 하바네로 소스",
+        "바삭함 유지"
+      ],
+      "summary": "이디야커피가 저당 트렌드를 반영한 음료와 함께, 치킨에 시간이 지나도 바삭함이 유지되는 '스윗칠리킹' 소스(칠리 기반)와 '스윗 하바네로 소스'를 신제품으로 선보였다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "칠리",
+        "하바네로",
+        "스윗"
+      ],
+      "actionable_insight": "저당 트렌드를 반영하면서 바삭함 유지와 같은 기능성을 겸비한 스윗 칠리, 스윗 하바네로 등 매콤달콤 소스 라인업 개발에 집중해야 한다."
+    },
+    {
+      "id": "7a084cb9a94f",
+      "title": "쏘쏘사라다, 더현대서울 이어 서면 롯데백화점 부산본점 팝업 확대",
+      "url": "http://www.globalepic.co.kr/view.php?ud=2026030514590663669aeda69934_29",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:16:00+09:00",
+      "content": "제품은 반죽 과정에 상하목장 유기농 우유와 무항생제 계란을 사용하며, 발효 및 숙성 공정을 거쳐 제조된다. 2007년부터 사용된 특제 소스를 적용한 ‘쏘쏘 시그니처 사라다빵’이 주력 메뉴다. 반죽과 속재료 모두... ",
+      "search_keyword": "발효 소스",
+      "category": "product",
+      "keywords": [
+        "쏘쏘사라다",
+        "사라다빵",
+        "특제 소스",
+        "상하목장 유기농 우유",
+        "무항생제 계란",
+        "발효 및 숙성",
+        "팝업 스토어"
+      ],
+      "summary": "쏘쏘사라다는 2007년부터 사용된 '특제 소스'를 핵심으로 하는 '쏘쏘 시그니처 사라다빵'으로 더현대서울에 이어 롯데백화점 팝업 스토어를 통해 유통망을 확대하고 있다. 이 제품은 상하목장 유기농 우유와 무항생제 계란을 활용한 반죽과 발효·숙성 공정으로 차별화되었으며, 특제 소스의 풍미가 제품의 정체성을 강화하는 주요 요소로 강조된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "상하목장 유기농 우유",
+        "무항생제 계란",
+        "특제 소스"
+      ],
+      "actionable_insight": "R&D팀은 '특제 소스'가 단순한 맛을 넘어 브랜드 정체성과 제품의 프리미엄화를 이끄는 핵심 요소로 작용하는 점에 주목하여, 차별화된 소스 개발 및 적용 방안을 모색해야 한다."
+    },
+    {
+      "id": "bf02e6864fab",
+      "title": "순창의 봄, 고요한 산사와 짜릿한 출렁다리를 걷는 여정",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=499684",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:32:00+09:00",
+      "content": "발효소스토굴 — 세계 발효 문화를 만나는 지하 동굴 순창군 순창읍 백산리에 위치한 발효소스토굴은 거대한 지하 토굴 형태의 전시, 체험 시설이다. 이곳은 순창 테마 파크 내에 조성되어 있으며, 서늘한 토굴 안으로... ",
+      "search_keyword": "발효 소스",
+      "category": "consumer",
+      "keywords": [
+        "발효",
+        "소스",
+        "순창",
+        "발효소스토굴",
+        "발효 문화"
+      ],
+      "summary": "순창 발효소스토굴은 세계 발효 문화를 체험하고 전시하는 지하 시설로, 순창 테마 파크 내에 조성되어 있다. 소스/양념 R&D 관점에서는 전통 발효 기술 및 숙성 환경(지하 토굴)의 잠재력을 탐색하고, 발효 제품에 대한 소비자의 문화적 관심과 체험 욕구를 파악하는 데 유용하다. 이는 발효 제품의 스토리텔링 및 브랜딩 전략 수립에 기여할 수 있다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "발효 미생물",
+        "원료 곡물"
+      ],
+      "actionable_insight": "R&D팀은 순창 발효소스토굴과 같은 시설에서 영감을 얻어 전통 발효 환경(예: 지하 숙성)이 소스·양념류의 독특한 풍미와 기능성을 개발하는 데 어떤 영향을 미칠 수 있는지 연구하고, 이를 제품 스토리텔링에 활용할 방안을 모색해야 한다."
+    },
+    {
+      "id": "bff99f6aa6a0",
+      "title": "[Daily New유통] 현대백화점, 일동후디스, 맥도날드 外",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/03/05/2026030500030.html",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T10:54:00+09:00",
+      "content": "◇ 풀무원다논, ‘액티비아 컵 화이트 플레인 400g’ 출시 풀무원다논은 발효유 브랜드 ‘액티비아’의... 먼저 과카몰레 베이컨 에그 머핀은 과카몰레 소스에 갓 구운 신선한 계란과 쫄깃한 베이컨을 더해 담백하고... ",
+      "search_keyword": "발효 소스",
+      "category": "ingredient",
+      "keywords": [
+        "과카몰레 소스",
+        "아보카도",
+        "외식 메뉴",
+        "신제품",
+        "사보리 메뉴"
+      ],
+      "summary": "맥도날드 신규 메뉴인 '과카몰레 베이컨 에그 머핀'에 과카몰레 소스가 핵심 재료로 활용되었다. 이는 아보카도 기반의 소스류가 외식업계에서 savory 메뉴의 풍미를 더하는 중요한 요소로 확장되고 있음을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "과카몰레 소스",
+        "아보카도"
+      ],
+      "actionable_insight": "아보카도 기반의 과카몰레 소스가 패스트푸드 베이컨 에그 머핀과 같은 savory 메뉴에 적용되는 트렌드에 주목하여, 다양한 간편식 및 외식 메뉴에 활용 가능한 안정적인 과카몰레 소스 개발을 고려해야 한다."
+    },
+    {
+      "id": "59e80c782c32",
+      "title": "스타셰프 협업에 봄제철 식재료까지, 호텔가 향긋한 3월 미식",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=721370",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T10:32:00+09:00",
+      "content": "중식당 '도림'은 봄 제철 식재료를 더해 면역력과 기력 회복을 돕는 '봄향 불도장', '봄 가자미 칠리소스... 프랑스 비스트로의 클래식에서 출발한 한우 트러플 비프 타르타르, 프렌치 비스크에 한국의 발효 풍미를 더해... ",
+      "search_keyword": "발효 소스",
+      "category": "product",
+      "keywords": [
+        "봄 제철",
+        "칠리소스",
+        "발효 풍미",
+        "트러플",
+        "스타셰프 협업",
+        "면역력"
+      ],
+      "summary": "호텔가에서는 봄 제철 식재료와 건강 효능을 강조한 신메뉴를 선보이며, '칠리소스'와 '발효 풍미'를 활용한 소스 개발 트렌드가 두드러진다. 특히, 프렌치 비스크에 한국의 발효 풍미를 더하는 등 이색적인 퓨전 양념 콘셉트가 주목된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "칠리소스",
+        "발효 풍미",
+        "트러플"
+      ],
+      "actionable_insight": "프리미엄 식재료 및 서양 요리와 조화를 이루는 봄 제철 특화 칠리소스 및 한국 발효 풍미를 접목한 퓨전 소스 개발 가능성을 모색해야 한다."
+    },
+    {
+      "id": "4c35177cf855",
+      "title": "[오늘 뭐 먹지] 롯데GRS·CJ푸드빌·오비맥주 외",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=726112",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T10:28:00+09:00",
+      "content": "풀무원다논의 발효유 브랜드 '액티비아(ACTIVIA)'가 '액티비아 컵 화이트 플레인'을 400g 대용량 제품으로... 으깬 아보카도에 양파와 레몬즙을 더한 과카몰레 소스를 사용한 것이 특징이다. '과카몰레 베이컨 에그 머핀'은... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "b509c558b602",
+      "title": "[유통갤러리] 남양유업, ‘테이크핏 맥스’ 기부 캠페인 진행 外",
+      "url": "https://theviewers.co.kr/View.aspx?No=3992663",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T08:54:00+09:00",
+      "content": "◆풀무원다논 액티비아, 설탕무첨가 ‘액티비아 컵 화이트 플레인 400g’ 출시 풀무원다논의 발효유 브랜드... 매체는 기존의 전형적인 소스에서 벗어난 ‘달콤하고 향긋한 블랙페퍼 소스’에 주목하기도 했다. 이어... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e47ea19d2bdf",
+      "title": "‘산분해간장’ 명칭 ‘아미노산액’으로…‘장류’서 퇴출",
+      "url": "https://n.news.naver.com/mnews/article/662/0000089797?sid=102",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T08:01:00+09:00",
+      "content": "다만 근래 국내 생산·판매 실적이 없는 ‘효소분해간장’ 유형은 삭제하고 ‘산분해간장’은 명칭을 ‘아미노산액’으로 바꿔 ‘조미식품류-소스류’로 옮긴다. ‘산분해간장’은 발효 과정을 거치지 않고 화학효소... ",
+      "search_keyword": "발효 소스",
+      "category": "regulation",
+      "keywords": [
+        "산분해간장",
+        "아미노산액",
+        "명칭변경",
+        "소스류",
+        "장류"
+      ],
+      "summary": "식품 당국의 조치로 '산분해간장'이 '아미노산액'으로 명칭이 변경되고, '장류'에서 '조미식품류-소스류'로 분류가 전환된다. 이는 소스·양념 R&D 팀에게 기존 제품의 원료 표기 및 신제품 개발 시 성분 커뮤니케이션 전략 재정립의 필요성을 제기한다.",
+      "relevance_score": 9,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "아미노산액",
+        "산분해간장"
+      ],
+      "actionable_insight": "산분해간장을 사용하는 소스 및 양념 제품 R&D팀은 변경될 명칭 '아미노산액'에 맞춰 라벨링 및 제품 설명 업데이트를 준비하고, 해당 원료의 새로운 분류에 따른 시장 포지셔닝 전략을 수립해야 한다."
+    },
+    {
+      "id": "6e574cd2c758",
+      "title": "조용철·신상열 투톱 전면에···'뉴 농심' 속도 붙나",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=419633",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:54:00+09:00",
+      "content": "다만 최근 정부가 식품업계를 대상으로 가격 압박에 나서면서 농심의 성장 전략이 시험대에 올랐다는... 그만큼 농심이 급변하는 글로벌 트렌드에 대응하고 글로벌 기준에 맞는 성장 기반을 구축하겠다는 의지를 드러낸... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "농심",
+        "성장 전략",
+        "가격 압박",
+        "글로벌 트렌드",
+        "식품업계"
+      ],
+      "summary": "농심의 글로벌 성장 전략과 정부의 가격 압박 정책은 소스·양념류 R&D팀에게 글로벌 시장 경쟁력 확보를 위한 현지화된 맛 개발과 동시에 원가 효율성을 극대화하는 과제를 제시합니다. 특히 다양한 글로벌 식문화에 부합하는 소스 포트폴리오 확장 및 원료 대체 기술 연구가 중요해질 것입니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "글로벌 트렌드에 맞춰 현지 입맛을 사로잡는 혁신적인 소스·양념 개발과 함께 가격 압박에 대응하기 위한 원가 절감형 원료 및 공정 개선 방안을 모색해야 합니다."
+    },
+    {
+      "id": "78cd4ac339be",
+      "title": "아세안·남중국 교두보서 수출길 개척",
+      "url": "http://www.cctimes.kr/news/articleView.html?idxno=894762",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:46:00+09:00",
+      "content": "이번 상담회에는 천안·공주·홍성·태안 등 12개 시군에서 김과 건강식품, 식음료, 화장품 등 소비재를 생산... 6일에는 대형마켓 등을 찾아 현지 소비 트렌드와 물류 동향 등을 파악할 예정이다. 싱가포르는 우리나라와의... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "싱가포르",
+        "아세안",
+        "수출",
+        "소비 트렌드",
+        "해외시장 개척",
+        "대형마켓"
+      ],
+      "summary": "싱가포르를 교두보로 아세안 및 남중국 시장 수출 확대를 위한 현지 소비 트렌드와 물류 동향 파악이 진행된다. 소스/양념류 R&D 관점에서는 싱가포르 현지 대형마켓 소비 트렌드 분석을 통해 아세안 시장에 적합한 맛 프로파일과 포장 형태를 가진 제품 개발 기회를 모색할 필요가 있다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "R&D팀은 싱가포르 및 아세안 대형마켓의 소스·양념류 소비 트렌드를 심층 분석하여 현지 입맛에 맞는 혁신적인 제품 콘셉트와 포장 솔루션을 탐색해야 한다."
+    },
+    {
+      "id": "df7c1ef5be73",
+      "title": "한국판 르 꼬르동 블루 '수라학교' 문 연다",
+      "url": "https://news.mtn.co.kr/news-detail/2026030516071455899",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:44:00+09:00",
+      "content": "농림축산식품부는 수라학교 설립을 핵심으로 하는 '글로벌 한식교육 강화 방안'을 오늘(5일) 국무총리 주재... 정부는 수라학교를 통해 한식과 K푸드가 세계 미식 트렌드로 자리잡을 수 있도록 지원을 강화한다는... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "수라학교",
+        "한식 세계화",
+        "K-푸드",
+        "농림축산식품부",
+        "미식 트렌드"
+      ],
+      "summary": "농림축산식품부가 '수라학교' 설립을 통해 한식과 K-푸드의 세계 미식 트렌드화를 적극 지원한다. 소스·양념류 R&D 관점에서 이는 글로벌 시장에서 한식 소스 및 양념류의 수요와 활용도를 높일 기회로, 전통 한식의 깊은 맛을 현대적이고 세계적인 입맛에 맞게 재해석하는 제품 개발이 중요해질 것이다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "고추장",
+        "된장",
+        "간장",
+        "마늘"
+      ],
+      "actionable_insight": "수라학교를 통한 K-푸드 세계화 흐름에 맞춰, 전통 한식 기반의 글로벌 범용 소스 및 양념류 개발에 집중하고, 해외 식문화에 맞는 사용 편의성과 현지화 전략을 강화해야 한다."
+    },
+    {
+      "id": "b578e519bbf4",
+      "title": "강호동 '봄동 비빔밥' 화제…대상 종가 '봄동겉절이' 두 달 22톤 팔렸다",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=242226",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:40:00+09:00",
+      "content": "식품업계는 이 같은 흐름에 맞춰 제철 식재료를 활용한 시즌 상품을 확대하고 있다. 종가 역시 이러한 소비 트렌드를 반영해 올해 초 시즌 한정 제품으로 '봄동겉절이'를 선보였다. 해당 제품은 국내산 봄동을 사용해... ",
+      "search_keyword": "식품 트렌드",
+      "category": "product",
+      "keywords": [
+        "봄동",
+        "겉절이",
+        "제철 식재료",
+        "시즌 한정 제품",
+        "소비 트렌드"
+      ],
+      "summary": "강호동 비빔밥으로 화제가 된 대상 종가의 '봄동겉절이' 성공은 제철 식재료를 활용한 시즌 한정 제품이 소비자에게 큰 호응을 얻음을 보여준다. 이는 소스/양념류 R&D에서 특정 재료의 신선함을 강조하고 계절감을 살린 제품 개발이 중요함을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "봄동"
+      ],
+      "actionable_insight": "제철 식재료의 신선한 풍미를 부각하며 특정 메뉴(예: 비빔밥)와 시너지를 낼 수 있는 시즌 한정형 소스/양념 제품 개발에 집중하여 새로운 시장 기회를 모색하라."
+    },
+    {
+      "id": "e27393db4b58",
+      "title": "김태흠 충남지사 &quot;도내 기업 제품 당당히 보증&quot;… 싱가포르서도 '1호 영...",
+      "url": "https://www.joongdo.co.kr/web/view.php?key=20260305010001593",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:28:00+09:00",
+      "content": "이들은 김, 건강기능식품, 조미료, 화장품 등 다양한 제품을 선보이며 현지 바이어들을 대상으로 시식... 소비 트렌드와 물류 동향 등을 파악할 예정이다. 이날 상담회에 참여한 아산 소재 뷰티기업 케렌시아 홍종현 대표는... ",
+      "search_keyword": "식품 트렌드",
+      "category": "product",
+      "keywords": [
+        "조미료",
+        "싱가포르 시장",
+        "수출",
+        "소비 트렌드",
+        "현지화",
+        "시식 마케팅"
+      ],
+      "summary": "충남 기업들이 싱가포르에서 조미료 제품을 선보이며 현지 바이어 대상 시식회를 통해 시장 반응을 살피고 있다. 이는 싱가포르 시장으로의 국내 조미료 수출 가능성을 타진하고 현지 소비 트렌드 및 물류 동향 파악의 중요성을 강조한다. R&D 관점에서는 싱가포르 소비자 기호에 맞는 맞춤형 조미료 개발의 필요성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "김"
+      ],
+      "actionable_insight": "싱가포르 시장 진출을 위해 현지 입맛을 고려한 특색 있는 조미료 제품을 개발하고, 수출에 용이한 보존성 및 포장 기술을 연구해야 한다."
+    },
+    {
+      "id": "c0650f8f3dd2",
+      "title": "현대백화점 충청점 '메가 쇼핑 클러스터'로 발돋움",
+      "url": "https://www.inews365.com/news/article.html?no=909413",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:28:00+09:00",
+      "content": "B1식품관에는 휴게 공용 객석이 조성될 예정이다. 충청점은 새로운 변화에 발맞춰 리뉴얼 오픈행사 'NEW IS... 최신 트렌드 MD 및 콘텐츠를 선제적으로 들여와 차별화되고 이색적인 쇼핑 경험을 제공하는 지역 밀착형... ",
+      "search_keyword": "식품 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "cce9a8b17b85",
+      "title": "프랑스 르꼬르동블루처럼…농식품부, 한식 인재 양성 '수라 학교' 설립...",
+      "url": "https://www.newspim.com/news/view/20260305001325",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:14:00+09:00",
+      "content": "송미령 농식품부 장관은 &quot;수라학교가 해외에 한식을 알리고, 우리 식문화를 전파할 수 있는 전초기지가 될 것&quot;이라며 &quot;한식과 K-푸드 열풍이 일시적 유행을 넘어 세계 미식 트렌드로 자리 잡을 수 있도록 한식의 저변... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "수라 학교",
+        "한식 인재 양성",
+        "농식품부",
+        "K-푸드",
+        "세계 미식 트렌드"
+      ],
+      "summary": "농식품부가 '수라 학교'를 설립하여 한식 인재를 양성하고 K-푸드를 세계 미식 트렌드로 정착시키고자 합니다. 이는 글로벌 시장에서 한식 및 한식 기반 소스·양념류의 수요와 위상이 높아질 것임을 시사합니다. 소스 R&D는 한식의 세계화 흐름에 발맞춰 다양한 현지 입맛에 맞는 혁신적인 K-소스 개발 기회를 포착해야 합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "고추장",
+        "된장",
+        "간장",
+        "참기름",
+        "마늘"
+      ],
+      "actionable_insight": "R&D팀은 '수라 학교'를 통해 확산될 한식 전문성 및 글로벌 수요에 맞춰, 다양한 현지 입맛과 요리 환경에 적용 가능한 혁신적인 K-소스 및 양념류 개발에 주력해야 한다."
+    },
+    {
+      "id": "208c37d93681",
+      "title": "[Car &amp; Now] 현대차, 연식변경 '아이오닉 9' 출시…상품성 강화에도 가격...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1701651",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:14:00+09:00",
+      "content": "특히 최근 전국적으로 큰 인기를 끌고 있는 '꾸미기' 트렌드에 주목, 준비된 다양한 파츠를 활용해 자신의... 일상 식품 브랜드로 인식되도록 전략적으로 설계했다. 핵심 카피 '알게 모르게 맛있게'는 청정원이 지난... ",
+      "search_keyword": "식품 트렌드",
+      "category": "consumer",
+      "keywords": [
+        "꾸미기 트렌드",
+        "청정원",
+        "일상용 은은한 맛"
+      ],
+      "summary": "제공된 기사는 자동차 제목에도 불구하고 '꾸미기' 트렌드와 청정원의 '일상 식품 브랜드' 전략, 그리고 '알게 모르게 맛있게'라는 슬로건을 언급합니다. 소스/양념 R&D팀은 소비자가 직접 맛을 조절할 수 있는 커스터마이징형 제품 개발과, 매일 부담 없이 사용할 수 있는 은은하고 조화로운 맛의 소스 연구에 주목해야 합니다.",
+      "relevance_score": 3,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "소비자의 '꾸미기' 트렌드와 일상식 선호도를 반영하여, 베이스로 활용 가능하며 은은한 맛을 내는 다용도 소스 및 양념류 개발을 우선적으로 고려해야 합니다."
+    },
+    {
+      "id": "cdd0df4d8a4e",
+      "title": "편의점, ‘티니핑’·‘유미의 세포들’ 등 인기 IP 내세워 화이트데이...",
+      "url": "https://weekly.cnbnews.com/news/article.html?no=207764",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:54:00+09:00",
+      "content": "CU는 이달 중 텔레토비 스토리를 활용해 간편식, 스낵, 음료, HMR(가정간편식) 등 여러 카테고리에서 차별화... 아트소스인 ‘딸기 헬로키티’로 제작된 ‘헬로키티기내용캐리어세트’는 5일 만에 조기 완판됐다.... ",
+      "search_keyword": "HMR 소스",
+      "category": "product",
+      "keywords": [
+        "IP 협업",
+        "아트소스",
+        "편의점 유통",
+        "딸기 소스"
+      ],
+      "summary": "이 기사는 편의점에서 인기 IP를 활용한 제품 전략을 강조하며, 특히 '딸기 헬로키티 아트소스'가 적용된 제품의 조기 완판 사례를 보여준다. 이는 소스가 단순히 맛을 넘어 시각적 재미와 브랜드 스토리텔링의 핵심 요소가 될 수 있음을 시사하며, R&D 측면에서 소스 제형 및 색상 혁신의 중요성을 부각한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "딸기"
+      ],
+      "actionable_insight": "R&D팀은 소스를 활용한 시각적 차별화 및 IP 협업 가능성에 주목하여, 딸기 기반의 '아트소스'와 같이 맛과 재미를 동시에 제공하는 혁신적인 소스 개발에 역량을 집중해야 한다."
+    },
+    {
+      "id": "95141631b322",
+      "title": "[오늘의 편의점] CU·세븐일레븐·이마트24",
+      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=40710",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T10:46:00+09:00",
+      "content": "CU는 이달 중 텔레토비 스토리를 활용해 간편식, 스낵, 음료, HMR 등 여러 카테고리에서 차별화 상품을 순차... 아트소스인 '딸기 헬로키티'로 제작된 '헬로키티기내용캐리어세트'는 5일만에 조기 완판됐다. 세븐일레븐은... ",
+      "search_keyword": "HMR 소스",
+      "category": "product",
+      "keywords": [
+        "캐릭터 콜라보",
+        "편의점",
+        "아트소스",
+        "딸기 헬로키티",
+        "간편식",
+        "HMR",
+        "조기 완판",
+        "신제품"
+      ],
+      "summary": "편의점 CU는 텔레토비, 헬로키티 등 인기 캐릭터 IP를 활용한 간편식, 스낵 등 다양한 신제품을 출시하며 시장의 이목을 끌고 있다. 특히 '딸기 헬로키티' 아트소스가 적용된 상품이 조기 완판되어, 캐릭터 협업 제품 내 소스의 차별화 및 성공 가능성을 입증했다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "딸기"
+      ],
+      "actionable_insight": "캐릭터 IP를 활용한 소스 개발 시, 단순한 맛을 넘어 시각적 재미나 특정 콘셉트를 반영하는 '아트소스'와 같은 독창적인 접근을 통해 편의점 간편식 시장에서 차별화된 가치를 창출해야 한다."
+    },
+    {
+      "id": "c9204795a788",
+      "title": "김정수 부회장의 '넥스트 불닭'은 … 삼양식품, 글로벌 소스사업 시동건...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/03/05/2026030500100.html",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T10:30:00+09:00",
+      "content": "액상 소스 기술을 기반으로 HMR(가정간편식), 소스형 조미료, 퓨전 요리소스 등 다양한 카테고리로 사업 영역을 넓혀 소스 중심의 종합 식품 솔루션 기업으로 도약하겠다는 계획이다. 회사 측은 “불닭의 매운맛을 넘어 K... ",
+      "search_keyword": "HMR 소스",
+      "category": "product",
+      "keywords": [
+        "액상 소스 기술",
+        "글로벌 소스사업",
+        "HMR",
+        "퓨전 요리소스",
+        "소스형 조미료"
+      ],
+      "summary": "삼양식품은 액상 소스 기술을 기반으로 불닭의 매운맛을 넘어 HMR, 소스형 조미료, 퓨전 요리소스 등 다양한 카테고리로 사업을 확장할 계획이다. 이는 소스 중심의 종합 식품 솔루션 기업으로 도약하며 글로벌 시장 공략을 본격화하려는 움직임으로, 소스 R&D팀은 새로운 맛 프로파일과 응용 분야 개발에 집중해야 할 시점이다.",
       "relevance_score": 10,
       "trend_signal": "rising",
-      "actionable_insight": "알룰로스 기반 저당 소스 배합 실험을 즉시 착수할 것을 권장"
+      "key_ingredients": [
+        "고추/향신료",
+        "액상 조미 베이스"
+      ],
+      "actionable_insight": "R&D팀은 액상 소스 기술을 활용하여 불닭을 넘어선 글로벌 시장의 다양한 맛 트렌드를 반영한 HMR, 조미료 및 퓨전 요리소스 개발에 주력해야 한다."
     },
     {
-      "id": "a002",
-      "title": "Korean BBQ Sauce Exports Hit Record High in 2025 — Asia-Pacific Surge",
-      "url": "https://www.foodnavigator.com/article/korean-bbq-sauce-exports",
-      "source": "FoodNavigator Global",
-      "language": "en",
-      "published_at": "2026-03-05T07:30:00+09:00",
-      "summary": "2025년 한국 BBQ 소스 수출액이 사상 최대를 기록했다. 아시아태평양 지역 수출이 전년 대비 32% 증가했으며, 저당·발효 기반 소스가 프리미엄 포지션을 차지하며 수익성이 높아졌다.",
-      "category": "market",
-      "keywords": ["K소스", "수출", "BBQ소스", "발효"],
-      "key_ingredients": [],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "수출용 프리미엄 발효 BBQ 소스 라인 개발 — 저당·클린라벨 포지션으로 차별화"
-    },
-    {
-      "id": "a003",
-      "title": "저당 소스 시장 규모 전년 대비 28% 성장... 건강 소비 트렌드 주도",
-      "url": "https://naver.com/news/article-003",
+      "id": "7b7e56b0db0d",
+      "title": "티니핑부터 텔레토비까지…편의점 화이트데이 캐릭터 대전",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=83806",
       "source": "Naver News",
       "language": "ko",
-      "published_at": "2026-03-05T09:00:00+09:00",
-      "summary": "국내 저당 소스 시장이 전년 대비 28% 성장하며 빠른 확장세를 보이고 있다. 당뇨·비만 관리 인구 증가와 MZ세대의 건강 관심 고조가 주요 원인으로 분석된다.",
-      "category": "market",
-      "keywords": ["저당", "시장성장", "건강트렌드", "MZ세대"],
-      "key_ingredients": [],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "저당 소스 라인업 확대 검토 — 당뇨·다이어트 소비자 타겟 포지셔닝"
-    },
-    {
-      "id": "a004",
-      "title": "AI 감각 예측 시스템으로 소스 R&D 개발 기간 30% 단축 성공 사례",
-      "url": "https://www.newfoodmagazine.com/article/ai-flavor-prediction",
-      "source": "New Food Magazine",
-      "language": "en",
-      "published_at": "2026-03-04T15:00:00+09:00",
-      "summary": "머신러닝 기반 풍미 예측 AI가 소스 R&D에 도입되면서 배합 최적화 시간이 평균 30% 단축됐다. 향미 성분의 상호작용을 시뮬레이션하여 실험 횟수를 줄이고 성공률을 높이는 방식이다.",
-      "category": "manufacturing",
-      "keywords": ["AI", "풍미예측", "R&D", "배합최적화"],
-      "key_ingredients": [],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "AI 풍미 예측 툴 도입 검토 — 저당 배합 최적화에 특히 유용"
-    },
-    {
-      "id": "a005",
-      "title": "천연 보존제 활용 소스 제조 기술 특허 급증... 합성 보존제 대체 본격화",
-      "url": "https://www.mfds.go.kr/brd/m_99/view",
-      "source": "식품의약품안전처",
-      "language": "ko",
-      "published_at": "2026-03-05T10:00:00+09:00",
-      "summary": "로즈마리 추출물, 녹차 폴리페놀 등 천연 보존제 활용 소스 제조 특허가 최근 1년간 45% 증가했다. 클린라벨 트렌드와도 맞물려 소비자 선호도 상승 중이다.",
-      "category": "manufacturing",
-      "keywords": ["천연보존제", "클린라벨", "로즈마리추출물", "특허"],
-      "key_ingredients": ["로즈마리 추출물", "녹차 폴리페놀"],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "actionable_insight": "로즈마리 추출물 기반 천연 방부 소스 개발 착수"
-    },
-    {
-      "id": "a006",
-      "title": "Plant-Based Fermented Umami Sauce: Global R&D Leaders Race to Market",
-      "url": "https://www.foodbusinessnews.net/articles/plant-based-umami",
-      "source": "Food Business News",
-      "language": "en",
-      "published_at": "2026-03-04T12:00:00+09:00",
-      "summary": "식물성 기반 발효 감칠맛 소스 개발 경쟁이 글로벌 R&D 기업들 사이에서 격화되고 있다. 버섯 발효물·대두 분해물·해조류 추출물을 결합한 복합 감칠맛 소스가 주목받고 있다.",
-      "category": "ingredient",
-      "keywords": ["식물성", "발효", "감칠맛", "비건", "해조류"],
-      "key_ingredients": ["버섯 발효물", "해조류 추출물"],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "식물성 감칠맛 소스 레시피 연구 — 해조류+버섯 복합 발효 원료 검토"
-    },
-    {
-      "id": "a007",
-      "title": "Z세대 74%, '소스 성분표 확인 후 구매'... 클린라벨 선호도 급증",
-      "url": "https://naver.com/news/article-007",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-05T11:00:00+09:00",
-      "summary": "Z세대 소비자 74%가 소스 구매 시 성분표를 확인한다는 조사 결과가 발표됐다. 클린라벨 제품에 20~30% 가격 프리미엄을 지불하겠다는 응답도 61%에 달했다.",
-      "category": "consumer",
-      "keywords": ["클린라벨", "Z세대", "성분표", "천연"],
-      "key_ingredients": [],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "Z세대 타겟 클린라벨 소스 라인 전략 수립"
-    },
-    {
-      "id": "a008",
-      "title": "발효 기반 핫소스 글로벌 시장 연 9.1% 성장 전망... K-핫소스 점유율 확대",
-      "url": "https://www.foodnavigator-asia.com/article/fermented-hot-sauce",
-      "source": "FoodNavigator Asia",
-      "language": "en",
-      "published_at": "2026-03-04T08:00:00+09:00",
-      "summary": "글로벌 발효 핫소스 시장이 2026~2031년 연평균 9.1% 성장할 것으로 전망된다. 고추장·청양고추 기반의 K-핫소스가 미국·동남아 시장에서 점유율을 확대하고 있다.",
-      "category": "market",
-      "keywords": ["핫소스", "발효", "K소스", "수출"],
-      "key_ingredients": ["고추장", "청양고추"],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "청양 고추 기반 프리미엄 발효 핫소스 수출 전략 강화"
-    },
-    {
-      "id": "a009",
-      "title": "저염 간장 소비 증가... '나트륨 50% 저감' 제품 수요 전년比 38% 급증",
-      "url": "https://naver.com/news/article-009",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-05T09:30:00+09:00",
-      "summary": "저염 간장 및 소스류 수요가 빠르게 증가하고 있다. 나트륨 50% 저감 제품의 판매량이 전년 대비 38% 증가했다. 감칠맛을 유지하면서 나트륨을 줄이는 기술 개발이 핵심 과제다.",
-      "category": "consumer",
-      "keywords": ["저염", "나트륨저감", "건강", "간장"],
-      "key_ingredients": [],
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "actionable_insight": "나트륨 저감 소스 기술 개발 — 효모 추출물로 감칠맛 보완"
-    },
-    {
-      "id": "a010",
-      "title": "귀리 발효 추출물, 소스 점도 개선제로 활용 가능성 입증",
-      "url": "https://api.semanticscholar.org/paper/oat-ferment",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2026-02-28T00:00:00+00:00",
-      "summary": "귀리 발효 추출물이 소스류의 점도 개선제로 효과적으로 활용될 수 있음이 입증됐다. 기존 전분 대비 열 안정성이 높고 냉동·해동 반복에도 품질이 유지된다.",
-      "category": "ingredient",
-      "keywords": ["귀리", "발효추출물", "점도개선", "HMR"],
-      "key_ingredients": ["귀리 발효 추출물"],
-      "relevance_score": 8,
-      "trend_signal": "stable",
-      "actionable_insight": "귀리 발효 추출물 HMR 소스 적용 실험 검토"
-    },
-    {
-      "id": "a011",
-      "title": "CJ제일제당, 비건 인증 마파두부 소스 국내 최초 출시",
-      "url": "https://naver.com/news/article-011",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-04T14:00:00+09:00",
-      "summary": "CJ제일제당이 동물성 원료를 전혀 사용하지 않은 비건 인증 마파두부 소스를 국내 최초로 출시했다. 버섯·콩류 발효물로 감칠맛을 구현했으며 출시 첫 달 예상 판매량의 3배를 달성했다.",
+      "published_at": "2026-03-05T10:22:00+09:00",
+      "content": "이달 중 텔레토비 스토리를 활용해 간편식, HMR 등도 출시 예정이며 이모티콘 띠부씰 32종 중 하나를... 올데이 화이트데이는 전년보다 3일 빠른 지난달 13일부터 시작됐으며 이 중 단독 아트소스인 ‘딸기 헬로키티’로... ",
+      "search_keyword": "HMR 소스",
       "category": "product",
-      "keywords": ["비건", "마파두부소스", "식물성", "발효"],
-      "key_ingredients": ["버섯 발효물"],
-      "relevance_score": 7,
+      "keywords": [
+        "편의점",
+        "HMR",
+        "캐릭터 협업",
+        "아트소스",
+        "딸기"
+      ],
+      "summary": "편의점 화이트데이 프로모션에서 텔레토비, 헬로키티 등 캐릭터 협업이 간편식 및 HMR 제품으로 확장되는 추세다. 특히 '딸기 헬로키티' 아트소스의 등장은 시즌성 테마와 연계된 특색 있는 소스 개발의 중요성을 시사하며, 캐릭터 브랜딩과 시각적 요소를 결합한 소스 제품의 시장 잠재력을 보여준다.",
+      "relevance_score": 8,
       "trend_signal": "rising",
-      "actionable_insight": "비건 인증 소스 라인 개발 검토"
+      "key_ingredients": [
+        "딸기"
+      ],
+      "actionable_insight": "R&D팀은 캐릭터 브랜딩과 연계된 시각적, 맛적 특색을 갖춘 아트 소스 개발에 주목하고, HMR 및 시즌성 프로모션을 위한 혁신적인 소스 적용 방안을 모색해야 한다."
     },
     {
-      "id": "a012",
-      "title": "Fermentation Science in Condiment Manufacturing: Review of 2025 Patents",
-      "url": "https://api.semanticscholar.org/paper/ferment-patent",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2026-02-20T00:00:00+00:00",
-      "summary": "2025년 발효 기반 조미료 제조 특허 리뷰. 발효 미생물 최적화와 온도·pH 제어 기술이 핵심이며, 한국·일본·미국이 전체 특허의 73%를 차지한다.",
-      "category": "manufacturing",
-      "keywords": ["발효", "특허", "미생물", "감칠맛"],
-      "key_ingredients": [],
-      "relevance_score": 7,
-      "trend_signal": "stable",
-      "actionable_insight": "경쟁사 발효 특허 동향 정기 모니터링 체계 구축"
-    },
-    {
-      "id": "a013",
-      "title": "글루텐프리 소스 라인 확장... 주요 브랜드 동시 출시 봇물",
-      "url": "https://naver.com/news/article-013",
+      "id": "941dce335c3a",
+      "title": "[오늘의 유통가] CJ올리브영, 북미 첫 물류센터 구축 外",
+      "url": "https://dealsite.co.kr/articles/157901",
       "source": "Naver News",
       "language": "ko",
-      "published_at": "2026-03-03T13:00:00+09:00",
-      "summary": "글루텐프리 소스 제품 라인이 국내외 주요 브랜드에서 동시에 확장되고 있다. 밀·보리 대신 쌀·타피오카 전분을 사용한 간장 소스와 양념 소스가 잇따라 출시되고 있다.",
+      "published_at": "2026-03-05T09:42:00+09:00",
+      "content": "대표적으로 30년 가까이 사랑받고 있는 텔레토비와 손잡고 간편식, 스낵, 음료, HMR 등 차별화 상품을... 매체는 기존의 전형적인 소스에서 벗어난 '달콤하고 향긋한 블랙페퍼 소스'에 주목하기도 했다. 이어 파와 마늘... ",
+      "search_keyword": "HMR 소스",
       "category": "product",
-      "keywords": ["글루텐프리", "쌀전분", "클린라벨"],
-      "key_ingredients": ["쌀전분", "타피오카"],
-      "relevance_score": 7,
+      "keywords": [
+        "블랙페퍼 소스",
+        "이색 소스",
+        "간편식 소스"
+      ],
+      "summary": "기사는 기존의 전형적인 틀에서 벗어나 '달콤하고 향긋한 블랙페퍼 소스'와 같은 차별화된 소스 개발 트렌드에 주목합니다. 이는 파, 마늘 등 보편적인 원료를 활용하여 이색적인 풍미를 구현하고 간편식, HMR 등 다양한 상품군에 적용 가능한 새로운 소스 개발의 중요성을 시사합니다.",
+      "relevance_score": 9,
       "trend_signal": "rising",
-      "actionable_insight": "글루텐프리 인증 소스 라인 기획 검토 — 수출 시 차별화 요소"
+      "key_ingredients": [
+        "블랙페퍼",
+        "파",
+        "마늘"
+      ],
+      "actionable_insight": "기존 소스 공식을 탈피하여 달콤함, 향긋함 등 이색적인 풍미를 접목한 블랙페퍼 소스와 같은 차별화된 소스 개발을 통해 간편식 시장 경쟁력을 확보해야 한다."
     },
     {
-      "id": "a014",
-      "title": "홈쿡 트렌드 지속... 소스 DIY 키트 판매 35% 증가",
-      "url": "https://naver.com/news/article-014",
+      "id": "0f35d6f22cde",
+      "title": "[유通하는 사람들] ⑪ 김혜은 GS샵 푸드팀 MD…&quot;매력 충만한 상품 기획 ...",
+      "url": "https://www.youthdaily.co.kr/news/article.html?no=214584",
       "source": "Naver News",
       "language": "ko",
-      "published_at": "2026-03-04T16:00:00+09:00",
-      "summary": "집에서 직접 소스를 만들 수 있는 DIY 키트 판매가 전년 대비 35% 증가했다. 소비자들이 원재료를 직접 확인하고 조절하는 니즈가 반영된 것으로, 클린라벨 트렌드와 맞닿아 있다.",
-      "category": "consumer",
-      "keywords": ["홈쿡", "DIY키트", "클린라벨", "간편식"],
+      "published_at": "2026-03-05T08:00:00+09:00",
+      "content": "가정간편식(HMR)은 제대로 한 끼 식사가 불가능할 때 찾는 '식사 대용식'으로 널리 이용되곤 했다. 즉... ◆ &quot;핵심 시그니처, '고품질 원육·소스'&quot;… &quot;빠른 피드백 통한 품질 향상&quot; 차별화 궁키친 이상민은 브랜드에 대한... ",
+      "search_keyword": "HMR 소스",
+      "category": "product",
+      "keywords": [
+        "HMR",
+        "소스",
+        "고품질",
+        "상품 기획",
+        "차별화"
+      ],
+      "summary": "가정간편식(HMR) 시장에서 '궁키친 이상민' 브랜드는 제품의 핵심 시그니처로 '고품질 원육과 소스'를 내세워 차별화를 꾀하고 있다. 이는 단순한 식사 대용식을 넘어 품질을 통해 경쟁력을 확보하려는 전략으로, 소스가 HMR 제품의 가치와 매력을 높이는 핵심 요소임을 강조한다. 또한 빠른 피드백을 통한 지속적인 품질 향상 노력을 병행한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
       "key_ingredients": [],
-      "relevance_score": 6,
-      "trend_signal": "stable",
-      "actionable_insight": "소스 DIY 키트 제품 라인 기획 — 원재료 투명성 마케팅 연계"
+      "actionable_insight": "HMR 시장의 프리미엄 및 차별화 트렌드에 맞춰 '고품질 시그니처 소스' 개발에 역량을 집중하고, 소비자 피드백을 빠르게 반영하는 소스 개선 시스템을 구축하여 제품 경쟁력을 강화해야 한다."
     },
     {
-      "id": "a015",
-      "title": "Allulose Market in Asia-Pacific to Reach $420M by 2029 — Driven by Food Applications",
-      "url": "https://www.foodnavigator-asia.com/article/allulose-market-2029",
-      "source": "FoodNavigator Asia",
-      "language": "en",
-      "published_at": "2026-03-03T08:00:00+09:00",
-      "summary": "아시아태평양 알룰로스 시장이 2029년까지 4억 2천만 달러 규모로 성장할 것으로 전망된다. 식품 적용, 특히 소스·음료·베이커리 분야에서 수요가 급증 중이다.",
+      "id": "6086128a9aeb",
+      "title": "[브리프]KT&amp;G 교촌 다이닝브랜즈 롯데GRS 매드포갈릭 아워홈",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=349815",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T19:38:00+09:00",
+      "content": "테마존은 ▲월컴존 ▲교촌역사문화로드 ▲치맥공원 ▲교촌구미로드 ▲소스로드로 구성된다.... 국산 콩을 활용한 메뉴를 개발, 전국 구내식당에 내놓고, HMR 신제품 개발 및 출시까지 다양한 방안을 추진할 계획이다.  또... ",
+      "search_keyword": "HMR 소스",
       "category": "ingredient",
-      "keywords": ["알룰로스", "저당", "시장성장"],
-      "key_ingredients": ["알룰로스"],
-      "relevance_score": 7,
+      "keywords": [
+        "국산 콩",
+        "HMR",
+        "신제품 개발",
+        "소스로드"
+      ],
+      "summary": "다이닝 브랜드들이 국산 콩을 활용한 메뉴 및 HMR 신제품 개발에 주력하며, '소스로드'를 통해 소스에 대한 높은 관심을 드러내고 있습니다. 이는 소스/양념 R&D 관점에서 국산 원료 활용 및 HMR 시장을 겨냥한 제품 개발의 중요성을 시사합니다.",
+      "relevance_score": 8,
       "trend_signal": "rising",
-      "actionable_insight": "알룰로스 원료 조달 계획 수립 — 공급망 선점이 저당 소스 경쟁에서 유리"
+      "key_ingredients": [
+        "국산 콩"
+      ],
+      "actionable_insight": "R&D팀은 국산 콩 등 특정 국산 원료를 활용하여 HMR 및 외식 메뉴에 적합한 차별화된 소스/양념류 개발에 집중해야 한다."
     },
     {
-      "id": "a016",
-      "title": "식물성 단백질 기반 양념 소스 R&D 투자 급증... 글로벌 식품기업 선점 경쟁",
-      "url": "https://www.foodbusinessnews.net/articles/plant-protein-sauce",
-      "source": "Food Business News",
-      "language": "en",
-      "published_at": "2026-03-02T12:00:00+09:00",
-      "summary": "글로벌 대형 식품기업들이 식물성 단백질 기반 양념 소스 R&D에 투자를 대폭 늘리고 있다. 콩·완두콩 단백질 가수분해물을 활용한 감칠맛 소스가 주목받고 있다.",
-      "category": "ingredient",
-      "keywords": ["식물성단백질", "가수분해물", "감칠맛"],
-      "key_ingredients": ["완두콩 단백질 가수분해물"],
-      "relevance_score": 7,
+      "id": "959ea2443498",
+      "title": "브라운돈까스, 세종소담점 확장 이전…상권 전략 재정비",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=209078",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T15:02:00+09:00",
+      "content": "개발 소스를 기반으로 전국 가맹사업을 전개하고 있다. 최근에는 해외 총판 계약과 해외 HMR(가정간편식) 사업을 확대하며 외식 브랜드를 넘어 종합 식품 브랜드로의 전환을 추진 중이다. 이번에 새롭게 문을 연... ",
+      "search_keyword": "HMR 소스",
+      "category": "market",
+      "keywords": [
+        "개발 소스",
+        "해외 HMR 사업",
+        "종합 식품 브랜드"
+      ],
+      "summary": "브라운돈까스는 자체 개발 소스를 기반으로 국내 가맹사업을 넘어 해외 HMR 시장으로 사업을 확장하고 있으며, 외식 브랜드를 넘어 종합 식품 브랜드로의 전환을 추진 중이다. 이는 기존 외식 소스의 HMR 제품화 및 해외 시장 맞춤형 소스 개발의 중요성을 시사한다.",
+      "relevance_score": 8,
       "trend_signal": "rising",
-      "actionable_insight": "완두콩 단백질 가수분해물 감칠맛 소스 적용 가능성 검토"
+      "key_ingredients": [],
+      "actionable_insight": "기존 외식 소스의 HMR 및 해외 시장 적용을 위한 제형, 보존성 개선 연구와 더불어, 종합 식품 브랜드 전환에 필요한 다양한 제품군 및 해외 소비자 입맛을 고려한 신규 소스 개발에 집중해야 한다."
     },
     {
-      "id": "a017",
-      "title": "Low-Sodium Sauce Technology: Potassium Chloride Blending Strategies",
-      "url": "https://api.semanticscholar.org/paper/low-sodium-sauce",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2026-02-15T00:00:00+00:00",
-      "summary": "나트륨 저감 소스 제조 시 염화칼륨(KCl) 혼합 전략에 관한 연구. 최적 Na:K 비율과 쓴맛 마스킹 기술을 다루며, 소비자 수용도를 높이면서 나트륨을 40~50% 저감하는 방법을 제시한다.",
+      "id": "05a0ee361971",
+      "title": "농식품부, A-벤처스 에프엘컴퍼니 선정...액상 전환 분말소스·매운맛 추...",
+      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=429353",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-01T11:10:00+09:00",
+      "content": "에프엘컴퍼니는 고춧가루를 주원료로 한 천연 매운맛 소스와 맵기·풍미를 손쉽게 조절할 수 있는 특허 기반 액상 전환 분말소스 기술을 개발했다. '저세상 매운맛' 브랜드로 직화 닭발 등 가정간편식(HMR) 제품을 출시해... ",
+      "search_keyword": "HMR 소스",
       "category": "manufacturing",
-      "keywords": ["저염", "염화칼륨", "나트륨저감", "쓴맛마스킹"],
-      "key_ingredients": ["염화칼륨"],
-      "relevance_score": 7,
-      "trend_signal": "stable",
-      "actionable_insight": "KCl 혼합 저염 소스 배합 기술 내재화 — 쓴맛 마스킹 기술이 핵심"
+      "keywords": [
+        "액상 전환 분말소스",
+        "천연 매운맛 소스",
+        "고춧가루",
+        "맵기 조절",
+        "풍미 조절",
+        "가정간편식(HMR)",
+        "특허 기술"
+      ],
+      "summary": "에프엘컴퍼니는 고춧가루를 주원료로 하는 천연 매운맛 소스와 특허 기반 액상 전환 분말소스 기술을 개발했다. 이 기술은 맵기 및 풍미를 손쉽게 조절 가능하게 하며, '저세상 매운맛' 브랜드의 HMR 제품으로 시장에 진출 중이다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "고춧가루"
+      ],
+      "actionable_insight": "소스 R&D팀은 액상 전환 분말소스 기술을 활용한 맵기·풍미 조절 편의성 증대 및 HMR 적용 가능성을 적극적으로 검토해야 한다."
     },
     {
-      "id": "a018",
-      "title": "간편식(HMR) 소스 시장 1조원 돌파 임박... 편의성·건강 동시 추구",
-      "url": "https://naver.com/news/article-018",
+      "id": "36768788111f",
+      "title": "도드람, CU서 한돈 간편식 출시",
+      "url": "https://www.chukkyung.co.kr/news/articleView.html?idxno=79803",
       "source": "Naver News",
       "language": "ko",
-      "published_at": "2026-03-05T12:00:00+09:00",
-      "summary": "국내 HMR 전용 소스 시장이 1조원 돌파를 눈앞에 두고 있다. 편의성과 건강을 동시에 추구하는 소비 트렌드를 반영해 저당·저염·클린라벨 HMR 소스가 핵심 성장 동력으로 부상했다.",
-      "category": "consumer",
-      "keywords": ["HMR", "간편식", "저당", "저염", "클린라벨"],
-      "key_ingredients": [],
+      "published_at": "2026-02-27T17:26:00+09:00",
+      "content": "도드람이 최근 전국 CU 편의점을 통해 한돈 간편식(HMR) 신제품 2종을 출시했다. 이번 신제품은 '도드람 매콤... 매운맛 조절을 위한 마요네즈 소스도 함께 동봉했다. 박광욱 도드람 조합장은 &quot;소비 환경 변화에 맞춰 간편식... ",
+      "search_keyword": "HMR 소스",
+      "category": "product",
+      "keywords": [
+        "도드람",
+        "CU",
+        "한돈 간편식",
+        "HMR",
+        "마요네즈 소스",
+        "소스 동봉",
+        "매운맛 조절"
+      ],
+      "summary": "도드람이 CU 편의점을 통해 한돈 간편식 신제품을 출시하며, 메인 메뉴의 매운맛 조절을 위한 마요네즈 소스를 함께 동봉했습니다. 이는 간편식 시장에서 소비자의 개별 취향에 맞춰 맛을 조절할 수 있도록 하는 부가 소스의 중요성이 커지고 있음을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "마요네즈"
+      ],
+      "actionable_insight": "간편식 내 매운맛 조절 등 소비자 취향을 반영한 맞춤형 부가 소스 개발에 집중하여 제품 경쟁력을 강화해야 합니다."
+    },
+    {
+      "id": "bbe8ceda26fc",
+      "title": "제철 먹거리부터 생필품까지 '초특가'…대형마트 봄 장바구니 잡기 경쟁",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=903137",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T17:48:00+09:00",
+      "content": "간편식 상품도 할인 대상에 포함됐다. '풀무원 정통 가쓰오 우동(4인분)'과 'CJ 가쓰오 우동(4인분)'은 각각... '해남 절임배추(10㎏)'는 2만4천900원에 1만 박스 한정 판매되며 절임 알타리와 김치 양념도 할인 가격으로... ",
+      "search_keyword": "간편식 양념",
+      "category": "market",
+      "keywords": [
+        "가격 경쟁",
+        "할인 행사",
+        "대형마트",
+        "간편식",
+        "김치 양념"
+      ],
+      "summary": "대형마트에서 봄맞이 할인 경쟁이 벌어지며 간편식 상품과 김치 양념 등 소스/양념류가 주요 할인 품목으로 포함되어 있습니다. 이는 소비자들의 가격 민감도가 높고, 편의성을 추구하는 트렌드 속에서도 특정 소스/양념류에 대한 꾸준한 수요가 있음을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "가쓰오",
+        "고춧가루"
+      ],
+      "actionable_insight": "할인 행사를 통해 나타난 가쓰오 베이스 소스류 및 김치 양념 등 가정용 소스류의 가격 경쟁력과 편의성 수요를 분석하여, 원가 효율성을 높이면서도 품질을 유지하는 신제품 또는 리뉴얼 개발에 주력해야 합니다."
+    },
+    {
+      "id": "6717dbd24c5f",
+      "title": "&quot;짧은 봄 잡아라&quot;…제철 식재료 앞세운 시즌 한정 경쟁",
+      "url": "http://www.metroseoul.co.kr/article/20260305500407",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:04:00+09:00",
+      "content": "양념돼지구이를 조합해 봄철 입맛을 돋우는 한식 한 상을 제안했다. 브랜드 측은 제철 식재료와 건강 콘셉트를 결합해 계절의 정취를 식탁 위에서 경험할 수 있도록 기획했다고 설명했다. 봄동겉절이/대상 가정간편식(HMR)... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "제철 식재료",
+        "시즌 한정",
+        "건강 콘셉트",
+        "HMR"
+      ],
+      "summary": "소스·양념 R&D 관점에서, 봄철 제철 식재료인 봄동 등을 활용한 겉절이 양념이나 양념돼지구이 소스 등 시즌 한정 제품 개발 경쟁이 활발하다. 이는 소비자의 건강 지향 및 새로운 맛 경험 요구와 HMR 시장 성장에 맞춰 제철 원료를 활용한 차별화된 소스·양념의 중요성을 보여준다. 특히 제철 식재료의 풍미를 살리면서도 건강에 초점을 맞춘 소스 개발이 시장 경쟁력의 핵심으로 부상하고 있다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "제철 식재료",
+        "봄동"
+      ],
+      "actionable_insight": "제철 식재료의 맛과 신선함을 극대화하며 건강 콘셉트를 결합한 시즌 한정 소스 및 양념류 개발에 집중하여 HMR 시장의 신제품 경쟁력을 확보해야 한다."
+    },
+    {
+      "id": "77422aa12c9e",
+      "title": "&quot;이색 음료도 안 통하네&quot;…저가커피 프랜차이즈, '한 끼 메뉴'로 승부수",
+      "url": "https://news.mtn.co.kr/news-detail/2026030315275993276",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T15:34:00+09:00",
+      "content": "4일 업계에 따르면 메가MGC커피는 41개 직영점에서 '양념컵치킨'을 선출시해 판매 중이다. 오는 12일 전국... 등 간편식 신메뉴를 함께 선보였다.컴포즈커피는 고객 경험 강화를 핵심 전략으로 내세우고 있다. 커피에 더해... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "9ec388b44dbc",
+      "title": "[신상 ZIP] 간편식·스낵·디저트",
+      "url": "https://www.thereport.co.kr/news/articleView.html?idxno=84903",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T11:02:00+09:00",
+      "content": "신제품은 ▲봄냉이무침 양념돼지구이 쌈밥 한상 ▲봄냉이무침 양념돼지구이 국반상 ▲봄냉이무침 양념돼지구이 반상 ▲봄냉이무침 제육덮밥 등이다. 모든 메뉴에 '봄냉이 무침'을 포함해 계절성을 강조했다.... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "35c80cd499e8",
+      "title": "[브리프]신세계 롯데마트 다이소몰 CJ온스타일 GS리테일 롯데월드 外",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=349741",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T20:30:00+09:00",
+      "content": "주요 메뉴는 ▲양념치킨 ▲제육볶음 ▲미트볼 ▲토마토 스파게티 ▲김 등이며, 가격은 5500원이다. GS25는... 고물가 장기화에 따라 소비기한 임박 간편식을 정가 대비 최대 45% 할인 판매하는 '마감할인' 서비스 매출도... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "8378bbcccf71",
+      "title": "GS25, 3월 이달의 도시락 '개강·개학편' 출시",
+      "url": "http://www.lawissue.co.kr/view.php?ud=202603031830203688204ead0791_12",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T18:32:00+09:00",
+      "content": "이 도시락은 양념치킨, 제육볶음, 미트볼, 토마토 스파게티 등으로 구성됐으며 가격은 5500원이다.... 소비기한 임박 간편식을 할인 판매하는 '마감할인' 서비스의 2025년 매출 신장률은 134.5%였으며, 누적... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "GS25",
+        "도시락",
+        "간편식",
+        "양념치킨",
+        "제육볶음",
+        "미트볼",
+        "토마토 스파게티",
+        "소스",
+        "양념"
+      ],
+      "summary": "GS25의 신제품 도시락은 양념치킨, 제육볶음, 미트볼, 토마토 스파게티 등 다양한 소스 기반 메뉴로 구성되어 소비자의 다채로운 맛 경험을 제공한다. 이는 간편식 시장에서 한식 및 서양식 소스류의 활용 범위와 중요성이 확대되고 있음을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "양념치킨 소스",
+        "제육볶음 양념",
+        "미트볼 소스",
+        "토마토 스파게티 소스"
+      ],
+      "actionable_insight": "간편식 내 여러 메뉴를 아우르는 복합적인 소스 및 양념 트렌드에 맞춰, 한식과 양식을 아우르는 다양한 풍미의 소스 개발 및 품질 향상에 주력해야 한다."
+    },
+    {
+      "id": "eb4c60829f6c",
+      "title": "GS25, 3월 이달의 도시락으로 ‘개강·개학편’ 출시",
+      "url": "https://n.news.naver.com/mnews/article/138/0002219395?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T17:31:00+09:00",
+      "content": "주요 메뉴는 ▲양념치킨 ▲제육볶음 ▲미트볼 ▲토마토 스파게티 ▲김 등이며, 가격은 5500원이다.... 고물가 장기화에 따라 소비기한 임박 간편식을 정가 대비 최대 45% 할인 판매하는 ‘마감할인’ 서비스 매출도... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "GS25",
+        "도시락",
+        "개강·개학편",
+        "양념치킨",
+        "제육볶음",
+        "미트볼",
+        "토마토 스파게티",
+        "고물가",
+        "편의점 간편식",
+        "소스"
+      ],
+      "summary": "GS25가 개강·개학 시즌을 겨냥한 도시락 신제품을 출시하며 양념치킨, 제육볶음, 미트볼, 토마토 스파게티 등 대중적인 메뉴를 한 번에 제공합니다. 이는 고물가 시대에 가성비를 중시하는 소비 트렌드에 맞춰 다양한 맛과 편의성을 동시에 제공하는 소스 및 양념류의 중요성을 보여줍니다.",
+      "relevance_score": 8,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "고추장",
+        "토마토",
+        "간장",
+        "설탕",
+        "마늘"
+      ],
+      "actionable_insight": "고물가 상황에서 GS25 도시락 신제품은 양념치킨, 제육볶음, 미트볼, 토마토 스파게티 등 대중적인 메뉴의 소스 개발 시, 맛 품질 유지와 동시에 원가 효율성을 극대화할 수 있는 솔루션에 대한 지속적인 수요를 시사한다."
+    },
+    {
+      "id": "fb17d3943d0a",
+      "title": "GS25, 이달의 도시락 ‘개강·개학편’ 선보여",
+      "url": "https://weekly.cnbnews.com/news/article.html?no=207429",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T17:20:00+09:00",
+      "content": "이달의 도시락 3월 개강·개학편 주요 메뉴는 ▲양념치킨 ▲제육볶음 ▲미트볼 ▲토마토 스파게티 ▲김... 고물가 장기화에 따라 소비기한 임박 간편식을 정가 대비 최대 45% 할인 판매하는 ‘마감할인’ 서비스... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "도시락",
+        "간편식",
+        "양념치킨",
+        "제육볶음",
+        "미트볼",
+        "토마토 스파게티"
+      ],
+      "summary": "GS25가 개강·개학 시즌을 겨냥한 도시락 신메뉴를 출시하며 양념치킨, 제육볶음, 미트볼, 토마토 스파게티 등 다양한 소스 기반 메뉴를 선보였다. 이는 간편식 시장에서 대중적 선호도가 높은 한식 및 양식 소스에 대한 수요가 지속됨을 시사한다. 특히 고물가 장기화로 가성비 좋은 간편식이 주목받으면서, 소비기한과 안정적 품질을 고려한 소스 개발의 중요성이 부각될 것으로 보인다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "고추장",
+        "토마토",
+        "간장",
+        "마늘",
+        "고춧가루"
+      ],
+      "actionable_insight": "R&D팀은 간편식 시장의 성장에 발맞춰, 양념치킨, 제육볶음 등 대중적인 한식 소스와 미트볼, 스파게티 등 서양식 소스의 맛 품질 향상 및 보존성 강화를 위한 레시피 최적화에 집중해야 한다."
+    },
+    {
+      "id": "4a849675f957",
+      "title": "삼양사, 美 식품박람회서 AI 기반 당류 저감 솔루션 공개",
+      "url": "https://news.mtn.co.kr/news-detail/2026030516492911764",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:56:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재가 활용된다. 3S 솔루션을 활용하면 고객사는 당류 저감 제품 개발 시 요구사항에 맞는 레시피를 보다... ",
+      "search_keyword": "대체 감미료",
+      "category": "manufacturing",
+      "keywords": [
+        "삼양사",
+        "AI 기반 당류 저감 솔루션",
+        "알룰로스",
+        "난소화성말토덱스트린",
+        "저당 소스",
+        "특수 감미료"
+      ],
+      "summary": "삼양사가 미국 식품 박람회에서 알룰로스와 난소화성말토덱스트린 등 스페셜티 소재를 활용한 AI 기반 당류 저감 솔루션을 공개했습니다. 이 솔루션은 고객사가 요구사항에 맞춰 저당 제품 레시피를 개발할 수 있도록 돕는 것으로, 소스·양념류 R&D에 AI 활용한 배합 최적화 및 저당 제품 개발 트렌드를 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "R&D팀은 AI 기반 당류 저감 솔루션이 소스·양념류의 맛, 질감, 보존성에 미치는 영향을 분석하고, 알룰로스 및 난소화성말토덱스트린의 배합 비율별 최적화 연구를 통해 저당 소스 신제품 개발에 적용해야 합니다."
+    },
+    {
+      "id": "acb49e049ca9",
+      "title": "삼양사, AI 기반 당류 저감 기술로 해외 식품시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/005/0001835418?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:17:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등이 활용된다. 또 알룰로스 등 스페셜티 식품 소재를 전시하고, 캐러멜에 들어가는 물엿을 알룰로스로 100% 대체한 시식 샘플도... ",
+      "search_keyword": "대체 감미료",
+      "category": "manufacturing",
+      "keywords": [
+        "AI 기반 기술",
+        "당류 저감",
+        "알룰로스",
+        "난소화성말토덱스트린",
+        "대체 감미료",
+        "식이섬유"
+      ],
+      "summary": "삼양사는 AI 기반 당류 저감 기술을 활용하여 대체 감미료인 알룰로스와 난소화성말토덱스트린 등을 배합, 설탕 함량을 줄인 신소재 및 제품 개발에 주력하고 있습니다. 특히 캐러멜에 설탕 대신 알룰로스 100% 대체 성공은 소스/양념류의 당류 저감 및 제형 개발에 중요한 시사점을 제공합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "R&D팀은 AI 기반 당류 저감 기술 도입을 검토하고, 알룰로스 및 난소화성말토덱스트린 등 기능성 소재를 활용한 소스/양념류의 설탕 대체 및 식감 개선 제형 개발에 집중해야 합니다."
+    },
+    {
+      "id": "e201ef40d45e",
+      "title": "삼양사, AI 기반 당류 저감 솔루션으로 글로벌 시장 공략",
+      "url": "https://mdtoday.co.kr/news/view/1065595171867497",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:12:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재가 활용된다. 알룰로스는 설탕 대비 70% 정도의 단맛을 내지만 칼로리는 제로인 대체 감미료다.... ",
+      "search_keyword": "대체 감미료",
+      "category": "ingredient",
+      "keywords": [
+        "삼양사",
+        "AI",
+        "당류 저감",
+        "알룰로스",
+        "난소화성말토덱스트린",
+        "대체 감미료"
+      ],
+      "summary": "삼양사는 알룰로스, 난소화성말토덱스트린과 같은 자사의 스페셜티 식품 소재를 활용한 AI 기반 당류 저감 솔루션을 개발 중입니다. 소스/양념류 R&D 관점에서 이는 기존 설탕의 단맛과 물성 구현은 물론 식이섬유 보강까지 가능한 차세대 저당화 기술 개발의 중요한 방향성을 제시합니다. 건강 지향적 소비 트렌드에 맞춰 저당/무설탕 소스 및 양념류 개발에 핵심적인 기술이 될 수 있습니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "소스/양념류 R&D팀은 AI 기반 당류 저감 배합 기술과 알룰로스, 난소화성말토덱스트린 등 대체 감미료 및 기능성 소재의 적용이 맛, 물성, 보존성에 미치는 영향을 분석하고 제품화 가능성을 심층 검토해야 한다."
+    },
+    {
+      "id": "1a8855b6a83c",
+      "title": "삼양사, 미국 식품박람회서 ‘AI 기반 당류 저감 솔루션’ 선보여",
+      "url": "https://weekly.cnbnews.com/news/article.html?no=207752",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:08:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재가 활용된다. 삼양사는 아이스크림과 소스류, 베이커리, 당과류 등 다양한 식품 카테고리로 적용... ",
+      "search_keyword": "대체 감미료",
+      "category": "ingredient",
+      "keywords": [
+        "AI 기반 당류 저감 솔루션",
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "summary": "삼양사가 미국 식품박람회에서 대체 감미료 알룰로스와 식이섬유 난소화성말토덱스트린을 활용한 AI 기반 당류 저감 솔루션을 선보였습니다. 해당 솔루션은 소스류를 포함한 다양한 식품 카테고리에 적용 가능하다고 명시되어 있어, 당류 저감 소스 개발 시 핵심 소재 활용 및 AI 기반 배합 최적화 가능성을 모색해야 합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "삼양사의 AI 기반 당류 저감 솔루션과 핵심 소재(알룰로스, 난소화성말토덱스트린)를 활용한 소스류의 당류 저감 레시피 개발 및 최적화 가능성을 검토해야 한다."
+    },
+    {
+      "id": "663de21894e2",
+      "title": "삼양사, AI기반 당류저감솔루션 공개...미국시장 공략",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=349880",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:02:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재가 활용된다. 3S 솔루션을 활용하면 고객사는 당류 저감 제품 개발 시 요구사항에 맞는 레시피를 보다... ",
+      "search_keyword": "대체 감미료",
+      "category": "ingredient",
+      "keywords": [
+        "삼양사",
+        "AI",
+        "당류저감",
+        "알룰로스",
+        "난소화성말토덱스트린",
+        "미국시장",
+        "3S 솔루션"
+      ],
+      "summary": "삼양사가 대체 감미료 알룰로스와 식이섬유 난소화성말토덱스트린 등 스페셜티 식품 소재를 활용한 AI 기반 당류 저감 솔루션을 공개했다. 이 솔루션은 고객사의 요구에 맞춰 저당 소스 및 양념류 레시피 개발 효율성을 높이며, 특히 미국 시장 공략을 목표로 한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "R&D팀은 삼양사의 AI 기반 당류저감 솔루션 및 스페셜티 소재를 활용하여 맛과 건강을 모두 만족시키는 혁신적인 저당 소스·양념류 개발을 가속화하고, 글로벌 시장 진출 기회를 모색해야 한다."
+    },
+    {
+      "id": "7635d41b189e",
+      "title": "삼양사, 美 식품박람회서 'AI 기반 당류 저감 솔루션' 현지시장 공략",
+      "url": "http://www.sisacast.kr/news/articleView.html?idxno=92855",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:46:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재가 활용된다. 3S 솔루션을 활용하면 고객사는 당류 저감 제품 개발 시 요구사항에 맞는 레시피를 보다... ",
+      "search_keyword": "대체 감미료",
+      "category": "manufacturing",
+      "keywords": [
+        "AI 기반 솔루션",
+        "당류 저감",
+        "알룰로스",
+        "난소화성말토덱스트린",
+        "스페셜티 식품 소재",
+        "레시피 개발"
+      ],
+      "summary": "삼양사는 미국 식품박람회에서 AI 기반 당류 저감 솔루션을 선보이며 현지 시장을 공략하고 있습니다. 이 솔루션은 알룰로스와 난소화성말토덱스트린 등 스페셜티 소재를 활용하여 고객사의 요구에 맞는 저당 소스·양념류 레시피 개발을 지원합니다. 이는 당류 저감 트렌드에 맞춰 기능성 소재와 첨단 기술을 활용한 배합 최적화의 중요성을 보여줍니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "AI 기반 솔루션과 알룰로스, 난소화성말토덱스트린과 같은 차세대 기능성 소재를 활용한 소스·양념류의 당류 저감 레시피 개발 및 최적화 전략을 적극적으로 검토해야 한다."
+    },
+    {
+      "id": "395c9b6c59ec",
+      "title": "[KFE 유통로그]대상 종가·삼양사",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=655239",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:42:00+09:00",
+      "content": "대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재를 활용한다. 삼양사는 박람회 현장에서 기존 캐러멜에 사용되는 물엿을 알룰로스로 100% 대체한 시식 샘플을... ",
+      "search_keyword": "대체 감미료",
+      "category": "ingredient",
+      "keywords": [
+        "알룰로스",
+        "난소화성말토덱스트린",
+        "대체감미료",
+        "식이섬유",
+        "스페셜티식품소재",
+        "삼양사",
+        "당류저감"
+      ],
+      "summary": "삼양사가 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 스페셜티 식품 소재를 홍보하며, 특히 캐러멜에서 물엿을 알룰로스로 100% 대체한 사례를 제시했습니다. 이는 소스/양념류 분야에서 설탕 및 물엿 등 당류 저감과 식이섬유 강화를 위한 원료 적용 가능성을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스",
+        "난소화성말토덱스트린"
+      ],
+      "actionable_insight": "소스·양념류의 당류 저감 및 식이섬유 강화 제품 개발을 위해 알룰로스와 난소화성말토덱스트린의 적용성 및 물엿 대체 효과를 다각도로 검토하고 시제품 개발에 착수해야 한다."
+    },
+    {
+      "id": "c25503df14df",
+      "title": "삼양사, 美 식품박람회서 AI 기반 당류 저감 솔루션 선보여",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=732040",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:32:00+09:00",
+      "content": "배합에는 대체 감미료 알룰로스와 수용성 식이섬유 난소화성말토덱스트린 등 삼양사의 스페셜티 식품 소재가 활용된다. 3S 솔루션을 활용하면 고객사는 당류 저감 제품 개발 시 요구사항에 맞는 레시피를 보다... ",
+      "search_keyword": "대체 감미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "9db4b3926455",
+      "title": "제테마, 보툴리눔 톡신 정제 기술 美·中 특허 등록",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=696071",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:48:00+09:00",
+      "content": "제테마의 특허 전략은 △식물성 배지 조성 △독소 제조 방법 △고순도 정제 기술로 이어지는 '3단계 풀 공정... 이온 교환 크로마토그래피를 연속 적용하는 정제 기술을 통해 불필요한 단백질을 최소화하고 내성 유발... ",
+      "search_keyword": "식물성 단백질",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "423fe578b19a",
+      "title": "제테마, 美·中서 톡신 A형 '정제 특허' 획득",
+      "url": "http://www.seoulwire.com/news/articleView.html?idxno=709707",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:26:00+09:00",
+      "content": "제테마의 특허 전략은 ▲식물성 배지 조성 ▲독소 제조 방법 ▲고순도 정제 기술로 이어지는 '3단계 풀 공정... 이온 교환 크로마토그래피를 연속 적용하는정제 기술을 통해 불필요한 단백질을 최소화하고 내성 유발... ",
+      "search_keyword": "식물성 단백질",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "c3775d7ffec9",
+      "title": "[특징주] 제테마, 美·中 톡신 핵심 제조 특허 획득 및 필리핀 260억 MOU ...",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=289764",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:46:00+09:00",
+      "content": "이번 특허는 제테마가 구축한 식물성 배지 조성, 독소 제조 방법, 고순도 정제 기술로 이어지는 '3단계 풀... 이온 교환 크로마토그래피를 연속 적용하는 방식으로 불필요한 단백질을 최소화해 내성 발생 가능성을 크게... ",
+      "search_keyword": "식물성 단백질",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "b10d19893a08",
+      "title": "[KFE 유통로그]매일유업·남양유업·빙그레·정식품",
+      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=655241",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:42:00+09:00",
+      "content": "영양 구성은 한 팩 기준 식물성 단백질 12g에 BCAA, 비타민 B군, 미네랄 등을 담아 균형을 고려했다. 판매 지표도 공개됐다. '베지밀 고단백 두유 플레인'은 지난해 6월 출시 후 8개월 만에 누적 500만개(금년 2월 말 기준)... ",
+      "search_keyword": "식물성 단백질",
+      "category": "product",
+      "keywords": [
+        "식물성 단백질",
+        "고단백",
+        "기능성 성분",
+        "건강 트렌드",
+        "시장 성공"
+      ],
+      "summary": "고단백 식물성 두유 제품이 BCAA, 비타민 B군 등 기능성 성분을 앞세워 단기간 내 큰 시장 성공을 거두었다. 이는 건강 및 기능성에 대한 소비자 수요가 높음을 보여주며, 소스·양념류 R&D에서도 식물성 기반의 고단백 및 기능성 성분 함유 제품 개발의 기회를 시사한다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "BCAA",
+        "비타민 B군",
+        "미네랄"
+      ],
+      "actionable_insight": "R&D팀은 식물성 단백질과 BCAA, 비타민 B군 등 기능성 성분을 활용하여 고단백, 건강 지향적인 소스·양념류 개발을 적극적으로 검토해야 한다."
+    },
+    {
+      "id": "2fcf7b07107c",
+      "title": "[특징주] 제테마, 美·中 톡신 A형 핵심 제조 특허 획득에 ↑",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=696038",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:00:00+09:00",
+      "content": "이번 특허는 제테마가 구축한 식물성 배지 조성–독소 제조–고순도 정제로 이어지는 '3단계 풀 공정(Full... 이온교환 크로마토그래피를 연속 적용하는 방식으로 불필요한 단백질을 최소화해 내성 발생 가능성을 낮춘... ",
+      "search_keyword": "식물성 단백질",
+      "category": "manufacturing",
+      "keywords": [
+        "제테마",
+        "특허",
+        "제조 공정",
+        "식물성 배지",
+        "이온교환 크로마토그래피",
+        "고순도 정제",
+        "단백질 최소화"
+      ],
+      "summary": "제테마가 '식물성 배지 조성 - 독소 제조 - 고순도 정제'의 3단계 풀 공정 및 이온교환 크로마토그래피를 활용한 핵심 제조 특허를 획득했습니다. 이는 불필요한 단백질을 최소화하는 고도화된 정제 기술로, 의약품 분야의 소식이지만 식품 발효 및 정제 기술에 대한 시사점을 제공합니다.",
+      "relevance_score": 3,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "식물성 배지"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 식물성 배지 기반의 발효 및 이온교환 크로마토그래피와 같은 정제 기술을 활용하여 불순물을 최소화하고 풍미를 개선하는 신규 원료 및 공정 개발을 고려해야 한다."
+    },
+    {
+      "id": "3cba391bdfe3",
+      "title": "제테마, 美·中서 톡신 A형 정제 특허 등록…초고속·고순도 기술력 입...",
+      "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=30211",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:00:00+09:00",
+      "content": "제테마는 ▲식물성 배지 조성 ▲독소 제조 방법 ▲고순도 정제 기술로 이어지는 '3단계 풀 공정(Full-Process)... 불필요한 단백질을 최소화해 내성 유발 가능성을 낮췄으며, 자사 오리지널 균주에 최적화된 공정 설계를 통해... ",
+      "search_keyword": "식물성 단백질",
+      "category": "manufacturing",
+      "keywords": [
+        "고순도 정제 기술",
+        "식물성 배지",
+        "제조 공정 최적화",
+        "불순물 최소화",
+        "특허 기술"
+      ],
+      "summary": "제테마가 식물성 배지를 활용해 불필요한 단백질을 최소화하는 3단계 초고속·고순도 정제 기술 특허를 미국과 중국에서 등록했다. 이는 소스/양념류 R&D 관점에서 향미 추출물, 색소 등 천연 원료의 고순도 정제 기술 적용 가능성 및 식물성 기반 원료 개발에 대한 인사이트를 제공한다.",
       "relevance_score": 7,
       "trend_signal": "rising",
-      "actionable_insight": "HMR 전용 저당·저염 소스 라인 집중 개발 — 1조원 시장의 성장 파이 선점 전략 수립"
+      "key_ingredients": [
+        "식물성 배지"
+      ],
+      "actionable_insight": "고순도 정제 및 불순물 최소화 기술을 활용하여 소스/양념류에 사용되는 천연 향미료, 색소, 기능성 원료의 품질과 안정성을 향상시키고, 식물성 기반 원료 개발 가능성을 모색해야 한다."
+    },
+    {
+      "id": "cf9163c1f888",
+      "title": "제테마, 미국·중국서 'A형 보툴리눔 톡신' 핵심 제조 기술 특허 등록",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=74358",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:46:00+09:00",
+      "content": "회사 측에 따르면 특허 전략은 △식물성 배지 조성 △독소 제조 방법 △고순도 정제 기술로 이어지는 3단계... 이온 교환 크로마토그래피를 연속 적용하는 정제 기술로, 불필요한 단백질을 최소화하고 내성 유발 가능성도... ",
+      "search_keyword": "식물성 단백질",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "befbbf03fa41",
+      "title": "제테마, 톡신 A형 '핵심 제조 기술' 美·中 특허 획득…&quot;초고속·고순도...",
+      "url": "http://www.newsprime.co.kr/news/article.html?no=726153",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:26:00+09:00",
+      "content": "제테마의 특허 전략은 △식물성 배지 조성 △독소 제조 방법 △고순도 정제 기술로 이어지는 '3단계 풀 공정... 이온 교환 크로마토그래피를 연속 적용하는정제 기술을 통해 불필요한 단백질을 최소화하고 내성 유발... ",
+      "search_keyword": "식물성 단백질",
+      "category": "manufacturing",
+      "keywords": [
+        "특허",
+        "제조 기술",
+        "고순도 정제",
+        "식물성 배지",
+        "이온 교환 크로마토그래피"
+      ],
+      "summary": "제테마가 보툴리눔 톡신 A형의 식물성 배지 기반 제조 및 고순도 정제 기술에 대한 특허를 획득했다. 이는 이온 교환 크로마토그래피를 연속 적용하여 불필요한 단백질을 최소화하는 기술로, 소스·양념류 R&D 분야에서 기능성 원료의 정제 및 생산 공정 혁신에 대한 시사점을 제공한다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 배지"
+      ],
+      "actionable_insight": "소스·양념에 사용될 고순도 기능성 원료 개발 시 이온 교환 크로마토그래피와 같은 첨단 정제 기술 및 식물성 배지 활용을 통한 친환경 생산 공정 도입 가능성을 모색해야 한다."
+    },
+    {
+      "id": "8823b54393a1",
+      "title": "제테마 &quot;美·中에서 보튤리눔 톡신 A형 정제 특허 등록&quot;",
+      "url": "https://n.news.naver.com/mnews/article/003/0013803719?sid=102",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:19:00+09:00",
+      "content": "제테마의 특허 전략은 ▲식물성 배지 조성 ▲독소 제조 방법 ▲고순도 정제 기술로 이어지는 '3단계 풀 공정... 이온 교환 크로마토그래피를 연속 적용하는 정제 기술을 통해 불필요한 단백질을 최소화하고 내성 유발... ",
+      "search_keyword": "식물성 단백질",
+      "category": "manufacturing",
+      "keywords": [
+        "고순도 정제",
+        "이온 교환 크로마토그래피",
+        "제조 공정 특허",
+        "성분 추출",
+        "품질 개선"
+      ],
+      "summary": "이 기사는 보튤리눔 톡신 A형의 고순도 정제 기술 및 특허 전략을 다루고 있으며, 특히 이온 교환 크로마토그래피를 통한 불필요 단백질 최소화에 초점을 맞춥니다. 소스·양념류 R&D 관점에서는 이러한 정제 기술이 특정 풍미 성분의 고순도 추출, 제품의 안정성 향상, 또는 알레르기 유발 물질 감소 등 품질 개선에 응용될 잠재성을 시사합니다.",
+      "relevance_score": 3,
+      "trend_signal": "stable",
+      "key_ingredients": [],
+      "actionable_insight": "소스·양념류의 맛, 향, 기능성 개선을 위해 이온 교환 크로마토그래피와 같은 고순도 정제 기술을 활용한 신규 원료 개발 및 기존 원료 고도화 방안을 검토하라."
+    },
+    {
+      "id": "b32ee879a055",
+      "title": "제테마, 美·中서 톡신 A형 정제 특허 획득…'초고속·고순도' 기술력 입...",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=407759",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T14:10:00+09:00",
+      "content": "제테마의 특허 전략은 ▲식물성 배지 조성 ▲독소 제조 방법 ▲고순도 정제 기술로 이어지는 '3단계 풀 공정... 이온 교환 크로마토그래피를 연속 적용하는정제 기술을 통해 불필요한 단백질을 최소화하고 내성 유발... ",
+      "search_keyword": "식물성 단백질",
+      "category": "manufacturing",
+      "keywords": [
+        "정제 기술",
+        "특허",
+        "고순도",
+        "식물성 배지",
+        "이온 교환 크로마토그래피"
+      ],
+      "summary": "제테마가 톡신 A형 정제 특허를 획득했으며, 이 기술은 식물성 배지를 활용하고 이온 교환 크로마토그래피를 연속 적용하여 초고속·고순도 정제가 가능합니다. 소스·양념류와 직접적인 연관은 적지만, 특정 성분의 고순도 추출 및 정제 기술, 특히 식물성 원료 기반 공정은 향후 기능성 원료나 특정 풍미 성분 분리 등에 응용 가능성을 시사합니다.",
+      "relevance_score": 3,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 배지"
+      ],
+      "actionable_insight": "식물성 배지를 활용한 초고순도 정제 기술은 향후 소스/양념에 사용될 특정 기능성 성분이나 풍미 증진 성분 추출 및 품질 개선에 응용될 가능성을 염두에 두어야 합니다."
+    },
+    {
+      "id": "0119443e1fcd",
+      "title": "현대백화점 충청점, 7개월 리뉴얼 마치고 6일 그랜드 오픈",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2401297",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:56:00+09:00",
+      "content": "또 글로벌 패션 브랜드 A.P.C.와 겐조를 비롯해 클린·비건 뷰티 편집숍 비클린, 테크 액세서리 브랜드... 지하 식품관에는 공용 휴게 공간도 마련한다. 리뉴얼 오픈을 기념해 6일부터 29일까지 'NEW IS NOW FESTA' 행사도... ",
+      "search_keyword": "비건 식품",
+      "category": "market",
+      "keywords": [
+        "현대백화점",
+        "리뉴얼",
+        "식품관",
+        "비건",
+        "프로모션"
+      ],
+      "summary": "현대백화점 충청점 리뉴얼 오픈 소식은 유통 채널 변화와 식품관 프로모션을 알린다. 비록 뷰티 분야지만 '비건' 키워드 언급은 클린 라벨 및 식물성 기반 제품에 대한 소비자 관심 증대를 시사하므로, 소스/양념 R&D팀은 관련 트렌드에 주목할 필요가 있다.",
+      "relevance_score": 3,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "R&D팀은 유통 채널의 변화와 함께 '비건' 키워드로 대표되는 클린 라벨 및 식물성 기반 식단 트렌드를 소스/양념류 개발에 적극 반영하여 시장 경쟁력을 확보해야 한다."
+    },
+    {
+      "id": "ed03e80fa699",
+      "title": "오늘도 비타민 챙겨 드셨나요?…그런데 정답은 다른 곳에",
+      "url": "https://n.news.naver.com/mnews/article/296/0000098208?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T16:00:00+09:00",
+      "content": "아닌 식품을 통해 섭취하는 게 좋다 [3]. 건강하려 챙겨 먹는 항산화제, 제대로 작동하려면 하버드 보건대학원 자료에 의하면 식품에 자연적으로 함유된 비타민 C와 같은 항산화제는 다양한... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "59f3dd8a66a8",
+      "title": "'충청 상권 격돌' 현대백화점 충청점 리뉴얼 vs 대전신세계 봄 마케팅 확...",
+      "url": "https://www.bzeronews.com/news/articleView.html?idxno=812951",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T15:44:00+09:00",
+      "content": "해외 브랜드 A.P.C., 겐조와 함께 클린·비건 뷰티 편집숍 '비클린', 글로벌 테크 액세서리 '케이스티파이... 1층 식품관에는 공용 휴게 공간을 마련할 예정이다. 리뉴얼 오픈을 기념해 3월 6일부터 29일까지 'NEW IS NOW FESTA... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "95eedb931c6a",
+      "title": "자연을 닮은 색… 신선함 담은 맛[이우석의 푸드로지]",
+      "url": "https://n.news.naver.com/mnews/article/021/0002774872?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T09:09:00+09:00",
+      "content": "그래서 패스트푸드 레스토랑이나 식품 포장지에 레드 계열 컬러를 적용하는 것이 보편적이었다. 당장... 그린푸드가 가진 건강 코드에다가 허브와 해조류 등 비건 문화의 ‘맛있는 녹색’이 더해지면서 그 인기는... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "02d7f1842df2",
+      "title": "[강부연 기자의 먹거리 이야기] 몸과 마음의 균형을 이루게 하는 사찰음...",
+      "url": "http://woman.chosun.com/news/articleView.html?idxno=124993",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T08:00:00+09:00",
+      "content": "비건 김치와 담백한 장아찌 자급자족의 삶을 바탕으로 한 발우공양의 밥상에서는 발효된 채소가 중심을... 대신 소금과 시간을 바탕으로 한 발효 식품으로 맛을 완성한다. 사찰 김치는 채소를 충분히 절여 스스로의 단맛을... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "feb84cc599f5",
+      "title": "[오늘의 브랜드] 삼양식품 '탱글', iF 디자인 어워드 2026 '브랜딩 &amp; 커뮤...",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=149309",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T18:40:00+09:00",
+      "content": "◇ 삼양식품 '탱글', iF 디자인 어워드 2026 '브랜딩 &amp; 커뮤니케이션 디자인' 부문 본상 수상 iF 디자인 어워드... '오닉 유기농 네이처'는 커버부터 날개, 흡수체까지 100% 유기농 순면을 적용한 프리미엄 비건 인증... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "59812002ab73",
+      "title": "[뷰티 트렌드] 아이레시피, 화해 1위 미스트 카카오톡 선물하기 입점 外",
+      "url": "https://www.ibabynews.com/news/articleView.html?idxno=149291",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T14:04:00+09:00",
+      "content": "피부 저자극 테스트와 비건 인증을 완료했으며, 뷰티 앱 '화해 1위 미스트'로 선정되며 제품력을... 과거에는 '건강기능식품 중심의 섭취형 관리'에 초점이 맞춰졌다면, 최근에는 일상 전반을 설계하는 '루틴 관리... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "8ed6290c1fd0",
+      "title": "“달걀만으론 부족”... 비타민 B12 고함량 식품 6가지",
+      "url": "https://n.news.naver.com/mnews/article/123/0002378744?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T21:01:00+09:00",
+      "content": "영양효모는 비건 식단에서 활용되는 식품이다. 브랜드에 따라 1/4컵에 8.3~24mcg가 함유돼 하루 필요량을 넘길 수 있다. 치즈와 유사한 풍미를 내며 단백질과 비타민B군을 함께 제공한다고 소개했다. 베리웰헬스는... ",
+      "search_keyword": "비건 식품",
+      "category": "ingredient",
+      "keywords": [
+        "비타민 B12",
+        "영양효모",
+        "비건 식단",
+        "치즈 풍미",
+        "단백질",
+        "비타민B군"
+      ],
+      "summary": "본 기사는 비타민 B12 고함량 식품으로 영양효모를 소개하며, 특히 비건 식단에서 단백질과 비타민B군을 제공하고 치즈와 유사한 풍미를 낸다고 강조합니다. 소스/양념 R&D 관점에서는 비건 제품 개발 시 영양 강화를 위한 원료이자 풍미 개선제로 활용 가능성을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "영양효모",
+        "비타민 B12",
+        "단백질",
+        "비타민 B군"
+      ],
+      "actionable_insight": "비건 소스/양념 개발 시 영양효모를 활용하여 비타민 B12 및 단백질을 강화하고, 자연스러운 치즈 대체 풍미를 구현하는 방안을 적극적으로 모색해야 한다."
+    },
+    {
+      "id": "da8b6debbd45",
+      "title": "[CEO와칭] 신동원 농심 회장 &quot;라면 한 그릇으로 세계 공략&quot;",
+      "url": "http://www.metroseoul.co.kr/article/20260303500418",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T15:26:00+09:00",
+      "content": "건강기능식품 브랜드 '라이필', 식물성 대체육 브랜드 '베지가든', 스마트팜 기술 기반 농업 사업 등을 '3대... 농심은 2020년 '베지가든'을 론칭했고 2022년에는 서울 잠실에 비건 레스토랑 '포리스트 키친'을 열었다.... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "563085b03348",
+      "title": "“미네랄 많다는 비싼 소금, 뭐가 다르지?”…‘이것’ 모르면 손해!",
+      "url": "https://n.news.naver.com/mnews/article/296/0000098181?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T22:09:00+09:00",
+      "content": "국물 섭취를 줄이고, 가공식품 나트륨을 관리하는 것이 실질적인 건강 전략이다. 소금 살 때 꼭 확인해야 할 '이것' 첫째, 영양성분표의 나트륨 함량을 확인한다. 저염 제품인지 확인이 필요하다. 둘째, 첨가물 여부를... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "5bdb919835ce",
+      "title": "[식이요법] 심방세동, 식습관 개선으로 진행 늦출 수 있어",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=18&nid=323997",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T06:08:00+09:00",
+      "content": "&lt;재료&gt;삶은 시래기 200g, 양념(다진 파·들기름  2큰술씩, 다진마늘·저염간장·깨소금 1큰술씩), 식용유 1큰술... ◇ 오일 파스타올리브오일 토마토 브로콜리 등 항산화식품이 듬뿍 들어 있어 심근세포 손상  억제에... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "5bf8c67e0295",
+      "title": "국립순천대 위탁 광양시 급식센터, 어린이 ‘스마트 동행 놀이터’ 성료",
+      "url": "https://n.news.naver.com/mnews/article/382/0001258978?sid=102",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T20:33:00+09:00",
+      "content": "교육은 ▲위생(올바른 손 씻기) ▲영양(식품구성탑 이해) ▲저염·저당(건강한 맛 찾기) ▲건강(생활 습관 실천) 등 총 4개 영역으로 구성됐다. 아이들은 ‘반짝반짝 손을 씻어요’ 활동을 통해 위생의 기초를 배우고... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "0e6f65930dc0",
+      "title": "“열 나도 아이 잘 놀면 해열제 필요 없어요”",
+      "url": "https://n.news.naver.com/mnews/article/296/0000098111?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T11:13:00+09:00",
+      "content": "&quot;가장 중요한 것은 '저염식'이다. 요즘 아이들은 가공식품과 배달 음식에 일찍 노출되면서 나트륨 섭취량이 매우 높다. 과도한 나트륨은 신장의 여과 기능을 혹사시킨다. 또한, 물을 충분히 마시는 습관을 길러주는 게 좋다.... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "0cdfec26386d",
+      "title": "혈관에 좋은 ‘이 음식’ 혈당 스파이크 막는다...한 끼 식단의 예는?",
+      "url": "https://n.news.naver.com/mnews/article/296/0000098074?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-01T19:05:00+09:00",
+      "content": "같은 식품은 줄여야 한다. 이런 식사 방법은 혈관병의 출발점인 당뇨병 예방을 위한 혈당 관리에도 도움이 된다. 한 끼 식단의 예는? 심뇌혈관질환 예방에 좋은 한 끼 식단의 예시는 잡곡밥, 단호박배추 된장국, 저염된장... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "4b97a2add109",
+      "title": "장 건강 위해 ‘통조림’을 먹어라? 뜻밖의 추천 식품 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/346/0000105499?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-28T23:01:00+09:00",
+      "content": "'신선 식품이 무조건 가장 건강하다'는 통념과 달리, 특정 식품은 통조림 형태일 때 장 건강과 영양소 섭취... 채소, 콩 통조림은 소금이 첨가된 경우가 많아 내용물을 꺼내 물에 헹구거나 무염·저염 제품을 선택하는 것이... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "c170e8ac838c",
+      "title": "‘명태’로 기억되는 부산, ‘명란’으로 운명적 환골탈태",
+      "url": "https://n.news.naver.com/mnews/article/082/0001368575?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T09:01:00+09:00",
+      "content": "‘수산식품 명인’이 된 2세 장종수 대표가 이끌고 있다. 명란 일본 수출로 성장한 회사가 아베노믹스로 인한... 장 대표는 “젓갈은 짜야 하는데, 저염 명란이 반드시 좋은 것이냐?”라는 질문을 받은 게 시작이었다고... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "d27f621cb46d",
+      "title": "은평구, 임산부·영유아 영양 책임진다… ‘영양플러스사업’ 참여자 모...",
+      "url": "https://weekly.cnbnews.com/news/article.html?no=207035",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-26T16:44:00+09:00",
+      "content": "선정된 대상자에게는 ▲월별 보충식품 패키지 지원 ▲정기적인 영양평가 및 빈혈 검사 ▲1:1 맞춤 영양상담 ▲저염·저당 실천 교육 및 조리체험 프로그램 등을 제공해 체계적인 영양 관리를 돕는다. 지원 대상은 기준... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "97ae2dd8e8cc",
+      "title": "20·30대는 탄산음료 줄이고, 50·60대는 운동해야 고혈압 막는다",
+      "url": "https://n.news.naver.com/mnews/article/346/0000105385?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-26T14:25:00+09:00",
+      "content": "식품안전나라 누리집에서는 그동안 발간된 모든 레시피북을 무료로 내려받을 수 있다. 이번 가이드에서는 이 가운데 사계절 저염 식단 예시를 소개했다. ▶봄(나트륨 796.8㎎)=두부 으깬 양념장을 곁들인 봄나물밥... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "fc84003e9d08",
+      "title": "&quot;고기 끊지 말고 조리법 '이렇게' 바꾸세요&quot;… 노년기 근육 지키는 영양...",
+      "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=59194",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-26T14:00:00+09:00",
+      "content": "식물성 식단이 만성질환에 좋다는 것은 잡곡, 견과류, 콩, 두부 등 다양한 식품으로 영양 균형을 맞췄을 때의... 섞은 '특제 저염 간장'을 만들어, 다양한 나물과 함께 밥에 비벼 먹는다. - 한입 라이스페이퍼 롤... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "bca580a7bdbb",
+      "title": "대산F&amp;B, 토지·건물 65억원에 양도 결정",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=636453",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T18:56:00+09:00",
+      "content": "거래상대방은 주식회사 선인으로, 천연 및 혼합조제 조미료 제조업을 영위한다. 선인의 자본금은 10억9204만원이며, 본점 소재지는 경상남도 밀양시 초동면 초동농공단지길 23-22(명성리)다. 대금은... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "97855f8d9b67",
+      "title": "인스턴트 커피, 쓰레기통에 그냥 쏟아보세요…이걸 왜 이제 해 봤을까요",
+      "url": "https://www.wikitree.co.kr/articles/1122038",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T13:04:00+09:00",
+      "content": "마치 조미료를 뿌리듯 가볍게 한 번씩 넣어주는 것만으로도 충분한 효과를 볼 수 있다는 설명이다. ■ 악취... 억제하는 '천연 탈취제' 기능을 수행할 수 있다. 특히 내용물을 따로 개봉하여 버리는 수고가 오히려 집안... ",
+      "search_keyword": "천연 조미료",
+      "category": "ingredient",
+      "keywords": [
+        "인스턴트 커피",
+        "천연 탈취",
+        "악취 억제",
+        "기능성 원료"
+      ],
+      "summary": "인스턴트 커피가 조미료처럼 소량만으로도 악취를 억제하는 천연 탈취제로 기능한다는 내용입니다. 이는 식품 원료인 인스턴트 커피의 강력한 악취 제어 기능을 시사하며, 소스·양념류 R&D에서 육류나 해산물의 잡내 제거 등 풍미 개선을 위한 기능성 원료 활용 가능성을 모색할 수 있습니다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "인스턴트 커피"
+      ],
+      "actionable_insight": "인스턴트 커피의 악취 억제 메커니즘을 분석하여 소스·양념류 개발 시 육류, 해산물 등의 잡내 제거 및 풍미 증진을 위한 천연 기능성 원료로의 적용 가능성을 탐구할 필요가 있습니다."
+    },
+    {
+      "id": "4f6dfe9c600b",
+      "title": "프랜차이즈 성장은 '맛의 일관성'과 '생산의 병목'을 해결하는 것 - 티엠...",
+      "url": "https://www.handmk.com/news/articleView.html?idxno=36225",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T11:40:00+09:00",
+      "content": "화학 조미료 대신 천연 재료를 활용하는 것은 차별화를 위한 선택이며, 브랜드가 추구하는 맛의 깊이를 구현하기 위한 방향이다. 완전 자동화 대신 수제 공정을 통해 맛의 일관성을 잡는 이유 식품 제조는 기록과 데이터로... ",
+      "search_keyword": "천연 조미료",
+      "category": "manufacturing",
+      "keywords": [
+        "맛의 일관성",
+        "천연 재료",
+        "수제 공정",
+        "프랜차이즈 성장",
+        "생산 병목"
+      ],
+      "summary": "프랜차이즈 성장은 소스/양념의 '맛의 일관성' 확보와 '생산 병목' 해결에 달려있음을 강조한다. R&D는 화학 조미료 대신 천연 재료를 활용해 맛의 깊이를 구현하는 동시에, 완전 자동화와 수제 공정의 균형을 통해 대량 생산 속에서도 고품질의 일관된 맛을 유지하는 방안을 모색해야 한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "천연 재료"
+      ],
+      "actionable_insight": "R&D팀은 천연 재료 기반의 맛있는 소스/양념 레시피를 개발하며, 프랜차이즈 확장을 위해 수제 공정의 장점과 자동화의 효율성을 결합하여 맛의 일관성과 생산 효율성을 동시에 확보하는 제조 공정을 설계해야 한다."
+    },
+    {
+      "id": "8f02062aba43",
+      "title": "겨울에 가볼 만한 곳, 청양 고운식물원에서 만나는 자연의 고요함",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=15981099",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-02T12:20:00+09:00",
+      "content": "청양에서 나는 신선한 식재료를 주로 사용하며, 첨가물 없이 천연 조미료로 맛을 낸 건강한 밥상을 선보인다. 특별한 날 가족 식사를 계획하거나, 격식 있는 식사 대접이 필요할 때 방문하기 좋다. 제철 재료로 정성껏... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "2c03b0762f64",
+      "title": "&quot;얼굴 반쪽&quot; 성시경 독하다...20일 다이어트 &quot;불행해져야 빠져&quot;",
+      "url": "https://m.entertain.naver.com/article/312/0000749869",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-01T19:43:00+09:00",
+      "content": "이에 최화정은 &quot;인공 조미료도 사실 다 천연으로 만드는 거다. 사탕 수수 이런 것들로&quot;고 공감했다. 성시경은 &quot;신동엽 형이 옛날에 맛집 가서 요리를 배워서 가게 오픈해 주는 그런 프로그램을 했는데&quot;며 1999년 '신장개업... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "4d90f5df8fda",
+      "title": "다 먹고 남은 요구르트병은 버리지 말고 욕실에 갖다 두세요...왜 여태껏...",
+      "url": "https://www.wikitree.co.kr/articles/1120390",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-01T10:00:00+09:00",
+      "content": "국물용 멸치 가루, 다시마 가루, 들깨 가루와 같이 습기에 민감하면서도 한 번에 소량만 사용하는 천연 조미료를 보관하는 데 최적이다. 요구르트병 특유의 좁은 입구는 외부 공기와의 접촉을 최소화하여 습기 유입을... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "6b99a9aa022a",
+      "title": "선예, 시부모님 모신 자리서 '찜닭 한강물' 대참사...신혼 초 멘붕",
+      "url": "https://m.entertain.naver.com/article/076/0004379056",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T21:02:00+09:00",
+      "content": "선예는 맛간장 등 조미료도 직접 만들어 쓰는 열정맘이었다. 각종 채소들을 넣고 천연 단맛을 내주는 꿀까지 넣은 선예만의 노하우가 빛났다. 조미료 하나에도 정성을 쏟는 선예는 &quot;엄마의 집밥은 아이에게 정서적... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "485ab6d3d320",
+      "title": "“벌써 중학생 엄마?”…선예, 원더걸스 지우고 앞치마 멨다(편스토랑)",
+      "url": "https://m.entertain.naver.com/article/410/0001114145",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T21:01:00+09:00",
+      "content": "간장, 고추기름, 각종 조미료 가루 등을 천연재료들로 만든다는 것. 이어 딸들 먹일 반찬들을 만들며 내공이 느껴지는 요리 팁들을 공개했다. ‘편스토랑’ 식구들은 “‘텔미’ 할 때의 선예가 아니네. 14년 차 주부가... ",
+      "search_keyword": "천연 조미료",
+      "category": "ingredient",
+      "keywords": [
+        "천연재료",
+        "홈메이드 소스",
+        "조미료"
+      ],
+      "summary": "연예인이 자녀들을 위해 간장, 고추기름, 조미료 가루 등을 천연 재료로 직접 만들어 사용하는 모습이 소개되었다. 이는 건강과 가족 식단을 중시하는 소비자들이 시판 소스/양념 대신 천연 재료 기반의 홈메이드 제품을 선호하는 트렌드를 보여준다. R&D 관점에서는 천연 재료를 활용한 무첨가, 건강 지향 소스/양념 개발의 중요성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "간장",
+        "고추기름",
+        "천연 조미료 가루"
+      ],
+      "actionable_insight": "소비자의 천연 재료 기반 홈메이드 소스/양념 선호 트렌드에 맞춰, 무첨가 및 클린 라벨 간장, 고추기름, 천연 조미료 제품 개발에 집중해야 한다."
+    },
+    {
+      "id": "e91759680f4c",
+      "title": "'편스토랑' 선예 등갈비찜·멸치까까·가루 레시피",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202602270188",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T20:42:00+09:00",
+      "content": "요리의 핵심인 간장, 고추기름, 각종 조미료 가루까지 오직 천연재료만으로 직접 만들어 쓰는 비법을 공개했다. 선예는 &quot;만 24살에 결혼해 캐나다로 떠났다. 요리책을 싸 들고 가서 수많은 시행착오 끝에 나만의 레시피를... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "13d3743da42c",
+      "title": "‘주부 14년 차’ 원더걸스 선예 “딸 셋, 첫째가 벌써 중학생”",
+      "url": "https://m.entertain.naver.com/article/408/0000299902",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T20:38:00+09:00",
+      "content": "간장, 고추기름, 각종 조미료 가루 등을 천연재료들로 만든다는 것. 이어 딸들 먹일 반찬들을 만들며 내공이 느껴지는 요리 팁들을 공개했다. ‘편스토랑’ 식구들은 “‘텔미’ 할 때의 선예가 아니네. 14년 차 주부가... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "8cf19f3e14f9",
+      "title": "아세안 최대 인도네시아 아동용품 시장, ‘케어’ 중심으로 고도화",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=239274",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T16:36:00+09:00",
+      "content": "중인 '클린 라벨' 브랜드. 유해 화학 성분 없이 흔한 아기 피부 문제에 대한 해결책을 제시하며 소셜 미디어를 통해 인기를 얻고 있음 민감성 피부를 위한 베이비 크림(진정 크림/가슴 마사지 크림), 헤어 케어... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "970a56f3ea10",
+      "title": "동원그룹, 북미 '자연식품' 무대서 K-푸드 확장…건강 트렌드 정조준",
+      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=70443",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-03T10:04:00+09:00",
+      "content": "특히 북미 시장은 최근 클린라벨, 식물성 원료, 저당·저칼로리 제품 수요가 빠르게 확대되는 추세다. 동원그룹은 이 같은 소비 트렌드 변화에 맞춰 차 가공음료, 김, 발효 기반 소스 등 건강 콘셉트 제품을 전면에... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "2af3d6a91dd8",
+      "title": "[리얼푸드] 지중해 식품이 바뀐다…인증과 포장으로 프리미엄화",
+      "url": "https://www.realfoods.co.kr/article/10684771?ref=naver",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-01T15:32:00+09:00",
+      "content": "한국농수산식품유통공사(aT)의 농식품수출정보(KATI)에 따르면 유럽의 소매업체들은 지중해 식단이 가진 신뢰성에 ‘클린 라벨(첨가물 최소화)’과 ‘유기농’ 키워드를 결합한 프리미엄 품목을 강화하고 있다.... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "2cf7b121df58",
+      "title": "미국 소비자, '라벨' 대신 '데이터'를 쇼핑하다",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=238564",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T14:39:00+09:00",
+      "content": "발달 단계별로 라벨을 세분화하고, 첨가물 배제 여부를 증명하는 ‘클린 라벨’ 인증, 중금속 검사 결과 공개 등 복합적인 기준을 갖추고 있으며, 부모들이 라벨부터 그 이상의 데이터까지 꼼꼼하게 확인한다.... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "0ba0b2a0a63a",
+      "title": "기능성 밀가루 시장 2032년 1,660억弗 “훨훨”",
+      "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=323753",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-25T18:04:00+09:00",
+      "content": "이에 따라 고단백질 함유 특수곡물 밀가루를 포함한 기능성 밀가루가 글루텐-프리, 클린-라벨, 피트니스 지향(fitness-oriented) 식생활 등의 추세에 부합된다는 측면에서 각광받고 있다는 것이다.이와 함께 도시화와 식품... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "5356af2abd5c",
+      "title": "샐러드드레싱, 들어간 첨가물 세어보니… [식탐]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002603130?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-22T08:51:00+09:00",
+      "content": "대세는 ‘클린 라벨(첨가물 최소화)’이지만, 대부분의 제품에는 첨가물이 들어간다. 유화제와 보존제, 산화방지제, 인공 향료·색소 등이다. 건강 식단을 꾸리려다 의도하지 않은 첨가물까지 섭취할 수 있다.... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "4d76a478c93a",
+      "title": "뉴욕 셀럽을 움직인 ‘기본의 힘’, 프리미엄 아이스크림 한국 진출 [쿠...",
+      "url": "https://n.news.naver.com/mnews/article/025/0003504238?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-21T12:00:00+09:00",
+      "content": "이 단순한 재료만으로 만드는 ‘클린 라벨’이 밴루엔의 방식이다. Q : 본질을 지켜가는 건 어려운 일인데, 가장 보람을 느낀 순간은 언제였나? A : 뉴욕 최고의 셰프들이 우리 바닐라 아이스크림을 최고라고 말해줬을... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "97484dca87fe",
+      "title": "[리얼푸드] 매운맛·신맛…유럽 육류 스낵이 바뀐다",
+      "url": "https://www.realfoods.co.kr/article/10677065?ref=naver",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-15T09:46:00+09:00",
+      "content": "독일에서 판매되는 유기농 비프스틱믹스(왼쪽), 고단백 닭고기 살라미 바 [각 사 제공] 유럽에서 육류 기반 스낵이 더 건강한 재료, 유기농 인증, 저염화, 클린 라벨(Clean label, 첨가물 최소화) 제품의 인기로 수요가 늘고... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "0d7393712bff",
+      "title": "[푸드 브리프] SPC던킨 농심 풀무원 매일유업 오뚜기 빙그레 롯데웰푸드...",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=38780",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-13T16:20:00+09:00",
+      "content": "자연이 키운 원물의 가치를 온전히 담아낸 클린 라벨 콘셉트로 원재료와 원산지를 꼼꼼히 따지는 소비자 트렌드를 반영했다. 이번 제품 특징은 부드럽고 매끄러운 질감의 '스무스' 타입과 땅콩 알갱이를 살린 '크런치... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "0f492f5e0221",
+      "title": "삼양사, 일본 ‘HI Japan 2025’ 참가…식이섬유·알룰로스 소재 솔루션...",
+      "url": "https://www.g-enews.com/view.php?ud=202603050952457734740eacf404_1",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T09:58:00+09:00",
+      "content": "HI Japan은 기능성 원료와 자연 추출물, 분석기기 등 건강·기능성 식품 분야의 신기술과 시장 트렌드를... 회사는 향후 해당 기술을 구미와 스낵바뿐 아니라 아이스크림, 소스류, 베이커리 등 다양한 식품 카테고리로... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "698c0731b519",
+      "title": "러닝까지 품었다…편의점, 특화 점포 경쟁 치열",
+      "url": "https://n.news.naver.com/mnews/article/648/0000044962?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-05T07:20:00+09:00",
+      "content": "주류·건강기능식품 등 카테고리 집중형 특화점을 시작으로 라면·뷰티·디저트 등 상권별 체험형 점포로... 1·2인 가구의 근거리 장보기 수요를 겨냥해 일반 편의점보다 농축수산물, 조미료, 소스류, 두부, 간편식 등... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "b522340fe0e4",
+      "title": "[푸드 브리프] SPC 풀무원 오리온 롯데웰푸드 교촌 bhc 이랜드이츠",
+      "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=39098",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T19:18:00+09:00",
+      "content": "◇ 풀무원, 풀무원헬스케어 융복합 건강기능식품 신제품 2종 론칭 풀무원헬스케어는 자사 개인 맞춤 건강... 테마존은 월컴존·교촌역사문화로드·치맥공원·교촌구미로드·소스로드로 구성된다. 오는 31일까지 진행되는... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "5fb7fb55b49f",
+      "title": "[유통가 레이더] 온라인 그로서리 승자는 누구... SSG닷컴, '대표 장보기...",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=337552",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T11:03:00+09:00",
+      "content": "테마존은 ▲월컴존 ▲교촌역사문화로드 ▲치맥공원 ▲교촌구미로드 ▲소스로드로 구성된다.... 풀무원녹즙이 '융복합 건강기능식품' 카테고리의 성장세에 힘입어, 새로 2종을 선보이며 융복합 건강기능식품 라인업을... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "0904cf98e65b",
+      "title": "[오늘의 신상] 롯데웰푸드 무카페인·무설탕 ‘졸음번쩍껌 제로제로’ ...",
+      "url": "https://www.viva100.com/article/20260304500414",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T10:36:00+09:00",
+      "content": "불닭 소스를 입혀 매운맛을 선호하는 소비자들의 입맛을 공략했다. ◇ 하겐다즈, 스타벅스와 손잡고... ◇ 풀무원헬스케어, 융복합 건강기능식품 신제품 2종 출시 풀무원헬스케어는 혈행개선에 도움을 줄 수 있는 식물성... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "1b3e732ed68f",
+      "title": "[신상품] 롯데웰푸드 '졸음번쩍껌 제로제로' 풀무원헬스케어 '혈행개선...",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=117490",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T10:30:00+09:00",
+      "content": "'혈행개선&amp;식물성 오메가3와 케일'과 '식물성유산균 피로개선엔' 풀무원헬스케어 융복합 건강기능식품 2종... 허니소이맛은 간장 베이스에 달콤함과 짭짤함을 더해 감칠맛을 살렸으며, 불닭맛은 쥐포에 불닭 소스를... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "product",
+      "keywords": [
+        "소스",
+        "간장 베이스",
+        "불닭 소스",
+        "허니소이",
+        "감칠맛",
+        "신제품",
+        "맛 트렌드"
+      ],
+      "summary": "기사는 '허니소이맛' 소스가 간장 베이스에 달콤함과 짭짤함, 감칠맛을 더하고, '불닭 소스'가 쥐포와 같은 스낵류에 적용되는 사례를 통해 소스·양념류 시장에서 인기 맛 프로파일의 지속적인 강세와 다양한 식품군으로의 확장을 보여준다.",
+      "relevance_score": 9,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "간장",
+        "꿀/설탕",
+        "고추"
+      ],
+      "actionable_insight": "간장 베이스의 달콤짭짤한 감칠맛 조합을 고도화하고, 불닭 소스와 같은 인기 매운 소스를 스낵류, HMR 등 다양한 식품에 적용할 수 있는 맛과 물성 개발에 집중해야 한다."
+    },
+    {
+      "id": "fff50475576d",
+      "title": "자원개발 관련주, '룰루랄라 콧노래' 대성산업·에스아이리소스·엘컴텍...",
+      "url": "http://www.finomy.com/news/articleView.html?idxno=250635",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-04T00:10:00+09:00",
+      "content": "3일 한국거래소에 따르면 대성산업, 에스아이리소스, 엘컴텍, GS, SK이노베이션은 상승했다. 대성산업과... 건강기능식품, 일반식품 유통 및 체외진단의료기기 제조·판매사업을 영위하며, 브랜드 NFP, 보의당, 라면... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "17f4488512fa",
+      "title": "대주산업, 인천·서천 HACCP 풀가동… 사료부터 펫푸드까지 1등 질주 주...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432843",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T11:04:00+09:00",
+      "content": "다만 사료 및 특수 식품, 일부 건강기능식품 종목들은 개별 호재를 바탕으로 상승하며 '상승 마감'을 위한... 냉동식품 전문 우양, 사조동아원, 대한제당, 바이오 식품 전문 바이오포트도 하락 중이다. 소스 및 시즈닝 전문... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e96b20110b6a",
+      "title": "[제약업계 소식] 2월 27일",
+      "url": "http://www.doctorstimes.com/news/articleView.html?idxno=236938",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-27T09:56:00+09:00",
+      "content": "파트너십&quot;이라며 &quot;건강기능식품 선두 기업으로서 장유빈 선수가 오직 경기에만 집중할 수 있도록 최상의... 알파다트는 라듐-224가 함침된 소스를 종양 조직 내에 삽입해 알파 입자를 방출함으로써 암세포를... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [
+        "제약",
+        "건강기능식품",
+        "라듐-224",
+        "알파 입자",
+        "암세포",
+        "파트너십"
+      ],
+      "summary": "본 기사는 제약업계의 소식으로, 라듐-224를 활용한 암 치료 기술 개발과 건강기능식품 기업의 파트너십에 대해 다룹니다. '소스'라는 단어가 언급되지만 이는 방사성 물질의 원천(source)을 의미하며, 식품 R&D의 소스·양념류와는 무관합니다.",
+      "relevance_score": 1,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "라듐-224 (의학용)"
+      ],
+      "actionable_insight": "기사에 언급된 '소스'는 의학적 용어이므로, 소스·양념류 R&D 관점에서는 직접적인 연관성이 없어 해당 기사를 통한 인사이트 도출은 어렵습니다."
+    },
+    {
+      "id": "4bd03d08e6d4",
+      "title": "히든태그(Hiddentag), 디지털 워터마킹 기반 정품 인증 적용",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=329115",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-02-26T15:50:00+09:00",
+      "content": "많은 기업이 정품 인증을 위해 도입했던 QR코드는 본래 정보 전달을 목적으로 개발된 오픈 소스 기술이다. 이... 가전, 건강기능식품 등 가품 유통 대응 필요성이 높은 산업군을 중심으로 적용 사례가 확대되고 있다.... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "market",
+      "keywords": [
+        "디지털 워터마킹",
+        "정품 인증",
+        "히든태그",
+        "위조 방지",
+        "QR코드"
+      ],
+      "summary": "히든태그는 QR코드의 한계를 보완하는 디지털 워터마킹 기반의 정품 인증 솔루션으로, 가전, 건강기능식품 등 가품 유통에 취약한 산업군에서 도입이 확대되고 있습니다. 소스·양념류 R&D 관점에서는 프리미엄 제품의 독점적인 레시피와 브랜드 가치를 보호하고 위조 상품 유통을 방지하여 소비자 신뢰를 확보하는 데 활용될 수 있는 기술입니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "R&D팀은 프리미엄 소스·양념류의 독점적 레시피와 브랜드 가치를 보호하기 위해 디지털 워터마킹 기반의 정품 인증 기술 도입을 검토하여 제품 위조 방지 및 소비자 신뢰 확보 방안을 모색해야 한다."
     }
   ],
+  "ai_summary": "2026-03-05 — 125건 수집 완료",
   "youtube_highlights": [],
   "trends_summary": {
     "google_trends": []
