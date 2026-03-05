@@ -1,0 +1,56 @@
+{
+  "week_id": "2026-W10",
+  "start_date": "2026-03-02",
+  "end_date": "2026-03-08",
+  "total_articles": 18,
+  "days_included": ["2026-03-05"],
+  "daily_article_counts": {
+    "2026-03-05": 18
+  },
+  "top_keywords": [
+    {"keyword": "저당", "count": 9},
+    {"keyword": "발효", "count": 7},
+    {"keyword": "알룰로스", "count": 6},
+    {"keyword": "클린라벨", "count": 5},
+    {"keyword": "비건", "count": 5},
+    {"keyword": "저염", "count": 4},
+    {"keyword": "간편식", "count": 4},
+    {"keyword": "식물성", "count": 3},
+    {"keyword": "천연조미료", "count": 3},
+    {"keyword": "HMR", "count": 3},
+    {"keyword": "핫소스", "count": 3},
+    {"keyword": "K소스", "count": 2},
+    {"keyword": "대체감미료", "count": 2},
+    {"keyword": "기능성", "count": 2},
+    {"keyword": "글루텐프리", "count": 2}
+  ],
+  "daily_keyword_freq": {
+    "저당": 9, "발효": 7, "알룰로스": 6, "클린라벨": 5,
+    "비건": 5, "저염": 4, "간편식": 4, "식물성": 3,
+    "HMR": 3, "핫소스": 3, "K소스": 2
+  },
+  "category_totals": {
+    "ingredient": 5,
+    "product": 4,
+    "consumer": 4,
+    "manufacturing": 3,
+    "market": 2
+  },
+  "highlighted_articles": [
+    {
+      "id": "a001",
+      "title": "알룰로스, 저당 소스 시장 게임체인저로 부상... 설탕 1:1 대체 가능성 입증",
+      "url": "https://www.foodnavigator-asia.com/article/allulose-sauce",
+      "source": "FoodNavigator Asia",
+      "language": "en",
+      "published_at": "2026-03-05T08:00:00+09:00",
+      "summary": "알룰로스가 소스류의 설탕을 1:1로 대체할 수 있다는 연구 결과. 칼로리는 설탕의 10%에 불과하며 마이야르 반응도 유사하게 나타난다.",
+      "category": "ingredient",
+      "keywords": ["알룰로스", "저당", "대체감미료"],
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "actionable_insight": "알룰로스 기반 저당 소스 배합 실험을 즉시 착수할 것을 권장"
+    }
+  ],
+  "ai_summary": null
+}

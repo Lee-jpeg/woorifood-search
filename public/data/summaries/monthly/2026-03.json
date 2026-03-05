@@ -1,0 +1,40 @@
+{
+  "month_id": "2026-03",
+  "year": 2026,
+  "month": 3,
+  "total_articles": 18,
+  "days_included": ["2026-03-05"],
+  "top_keywords": [
+    {"keyword": "저당", "count": 9},
+    {"keyword": "발효", "count": 7},
+    {"keyword": "알룰로스", "count": 6},
+    {"keyword": "클린라벨", "count": 5},
+    {"keyword": "비건", "count": 5},
+    {"keyword": "저염", "count": 4},
+    {"keyword": "간편식", "count": 4},
+    {"keyword": "식물성", "count": 3},
+    {"keyword": "HMR", "count": 3},
+    {"keyword": "핫소스", "count": 3},
+    {"keyword": "K소스", "count": 2},
+    {"keyword": "대체감미료", "count": 2},
+    {"keyword": "글루텐프리", "count": 2}
+  ],
+  "keyword_freq": {
+    "저당": 9, "발효": 7, "알룰로스": 6, "클린라벨": 5,
+    "비건": 5, "저염": 4, "간편식": 4, "식물성": 3,
+    "HMR": 3, "핫소스": 3
+  },
+  "category_totals": {
+    "ingredient": 5,
+    "product": 4,
+    "consumer": 4,
+    "manufacturing": 3,
+    "market": 2
+  },
+  "weekly_keyword_trend": {
+    "W10": {
+      "저당": 9, "발효": 7, "알룰로스": 6,
+      "클린라벨": 5, "비건": 5
+    }
+  }
+}
