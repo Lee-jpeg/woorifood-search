@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import ChatbotWidget from "./components/ChatbotWidget";
 
 export const metadata: Metadata = {
   title: "식품 트렌드 인사이트",
@@ -39,6 +40,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </nav>
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">{children}</main>
+        <ChatbotWidget />
       </body>
     </html>
   );

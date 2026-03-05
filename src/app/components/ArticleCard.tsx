@@ -22,11 +22,19 @@ function RelevanceBar({ score }: { score: number }) {
   );
 }
 
+// 샘플 데이터 여부 판별 (실제 파이프라인 수집 기사는 정상 URL을 가짐)
+function isSampleUrl(url: string) {
+  const FAKE_PATTERNS = ["/article/", "naver.com/news/article-", "semanticscholar.org/paper/"];
+  return FAKE_PATTERNS.some((p) => url.includes(p) && !url.includes("?"));
+}
+
 export default function ArticleCard({ article }: { article: Article }) {
   const date = new Date(article.published_at).toLocaleDateString("ko-KR", {
     month: "short",
     day: "numeric",
   });
+
+  const sample = isSampleUrl(article.url);
 
   return (
     <div className="card hover:shadow-md transition-shadow flex flex-col gap-3">
@@ -36,23 +44,32 @@ export default function ArticleCard({ article }: { article: Article }) {
           {article.language === "en" && (
             <span className="badge bg-slate-100 text-slate-500">EN</span>
           )}
+          {sample && (
+            <span className="badge bg-amber-100 text-amber-600">샘플</span>
+          )}
         </div>
         <div className="flex items-center gap-1 text-slate-400 shrink-0">
           <SignalIcon signal={article.trend_signal} />
         </div>
       </div>
 
-      <a
-        href={article.url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="group flex items-start gap-1"
-      >
-        <span className="text-sm font-semibold text-slate-800 leading-snug group-hover:text-teal-700 transition-colors line-clamp-2">
+      {sample ? (
+        <span className="text-sm font-semibold text-slate-800 leading-snug line-clamp-2 cursor-default">
           {article.title}
         </span>
-        <ExternalLink className="w-3 h-3 text-slate-400 shrink-0 mt-0.5" />
-      </a>
+      ) : (
+        <a
+          href={article.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group flex items-start gap-1"
+        >
+          <span className="text-sm font-semibold text-slate-800 leading-snug group-hover:text-teal-700 transition-colors line-clamp-2">
+            {article.title}
+          </span>
+          <ExternalLink className="w-3 h-3 text-slate-400 shrink-0 mt-0.5" />
+        </a>
+      )}
 
       {article.summary && (
         <p className="text-xs text-slate-600 leading-relaxed line-clamp-3">{article.summary}</p>
