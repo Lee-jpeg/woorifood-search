@@ -23,9 +23,27 @@ function RelevanceBar({ score }: { score: number }) {
 }
 
 // 샘플 데이터 여부 판별 (실제 파이프라인 수집 기사는 정상 URL을 가짐)
-function isSampleUrl(url: string) {
-  const FAKE_PATTERNS = ["/article/", "naver.com/news/article-", "semanticscholar.org/paper/"];
-  return FAKE_PATTERNS.some((p) => url.includes(p) && !url.includes("?"));
+function isSampleUrl(url: string): boolean {
+  if (!url) return true;
+  try {
+    const { hostname, pathname, search } = new URL(url);
+    // 가짜 네이버: 정확히 naver.com (실제는 n.news.naver.com 등 서브도메인)
+    if (hostname === "naver.com") return true;
+    // 가짜 Semantic Scholar: 경로에 20자 이상 hex 해시 없음 (진짜는 40자 해시 포함)
+    if (hostname.includes("semanticscholar.org") && !/[a-f0-9]{20}/i.test(pathname)) return true;
+    // 가짜 미디어: /article/ 경로이면서 쿼리스트링 없음 (진짜는 ?cid= 등 파라미터 포함)
+    if (
+      !search &&
+      pathname.toLowerCase().includes("/article/") &&
+      (hostname.includes("foodnavigator") ||
+        hostname.includes("newfoodmagazine") ||
+        hostname.includes("foodbusinessnews"))
+    )
+      return true;
+    return false;
+  } catch {
+    return true;
+  }
 }
 
 export default function ArticleCard({ article }: { article: Article }) {
