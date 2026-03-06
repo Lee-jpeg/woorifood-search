@@ -1,60 +1,295 @@
 {
   "date": "2026-03-06",
-  "generated_at": "2026-03-06T00:32:21.733149+00:00",
-  "total_articles": 3,
+  "generated_at": "2026-03-06T00:34:35.251401+00:00",
+  "total_articles": 6,
   "category_counts": {
-    "manufacturing": 3
+    "product": 1,
+    "consumer": 1,
+    "manufacturing": 3,
+    "ingredient": 1
   },
-  "top_keywords": [],
-  "highlighted_articles": [],
+  "top_keywords": [
+    {
+      "keyword": "염분 저감",
+      "count": 1
+    },
+    {
+      "keyword": "풍미 증진",
+      "count": 1
+    },
+    {
+      "keyword": "분자 설계",
+      "count": 1
+    },
+    {
+      "keyword": "미각 인지",
+      "count": 1
+    },
+    {
+      "keyword": "소스 R&D",
+      "count": 1
+    },
+    {
+      "keyword": "Flavor enhancement",
+      "count": 1
+    },
+    {
+      "keyword": "Cancer patients",
+      "count": 1
+    },
+    {
+      "keyword": "Taste alteration",
+      "count": 1
+    },
+    {
+      "keyword": "Food liking",
+      "count": 1
+    },
+    {
+      "keyword": "d-알룰로오스",
+      "count": 1
+    },
+    {
+      "keyword": "d-알룰로오스 3-에피머라제",
+      "count": 1
+    },
+    {
+      "keyword": "산성 저항성",
+      "count": 1
+    },
+    {
+      "keyword": "효소 공학",
+      "count": 1
+    },
+    {
+      "keyword": "기능성 감미료",
+      "count": 1
+    },
+    {
+      "keyword": "희귀당",
+      "count": 1
+    }
+  ],
+  "highlighted_articles": [
+    {
+      "id": "71e25c110921",
+      "title": "Multidisciplinary insights for salt reduction and flavor enhancement in foods: integrating strategies via molecular design, taste signal transduction, and cognitive perception.",
+      "url": "https://www.semanticscholar.org/paper/09d46708f18ffda469245d446375a44f8c442922",
+      "source": "Semantic Scholar",
+      "language": "en",
+      "published_at": "2025-08-14T00:00:00+00:00",
+      "content": "",
+      "summary": "이 기사는 소스 및 양념류의 염분 저감과 풍미 증진을 위한 다학제적 접근법을 제시합니다. 분자 설계, 미각 신호 전달 과정, 인지적 지각 등 과학적 이해를 바탕으로 소비자의 만족도를 유지하면서 저염 제품을 개발하는 전략을 탐구합니다. 이는 단순히 염분을 줄이는 것을 넘어 새로운 맛 경험을 제공하고 제품 경쟁력을 높이는 데 중요한 시사점을 줍니다.",
+      "search_query": "flavor enhancement food science",
+      "type": "academic",
+      "category": "product",
+      "keywords": [
+        "염분 저감",
+        "풍미 증진",
+        "분자 설계",
+        "미각 인지",
+        "소스 R&D"
+      ],
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "염 대체재",
+        "감칠맛 성분",
+        "천연 향미 증진제",
+        "맛 변조 물질"
+      ],
+      "actionable_insight": "소스 R&D팀은 염분 저감 시 분자 수준의 설계 및 미각 인지 과학을 활용하여 풍미를 최적화하고 소비자의 만족도를 높이는 혁신적인 솔루션 개발에 집중해야 합니다."
+    },
+    {
+      "id": "d6956734ca79",
+      "title": "Flavor enhancement as a strategy to improve food liking in cancer patients with taste and smell alterations",
+      "url": "https://www.semanticscholar.org/paper/1b2dad7719891e3c6a4dce3c6f22454a02bf87ad",
+      "source": "Semantic Scholar",
+      "language": "en",
+      "published_at": "2022-12-01T00:00:00+00:00",
+      "content": "Food liking is an essential component of the food intake experience. However, some conditions may alter the perception, thus the liking of food, leading to a reduced intake and increasing the risk of malnutrition. Particularly, in the context of cancer and related therapies, malnutrition is a major challenge with 25% e 80% of cancer patients experiencing malnutrition at different degrees. The aim of the present exploratory study was to examine the effect of ﬂ avor enhancement on food liking in a group of cancer patients undergoing chemotherapy and with varying self-reported taste/ smell abilities. The liking of four eggplant creams enhanced with either salt, lemon, garlic or cumin was evaluated in comparison to a reference eggplant cream by a group of 154 cancer patients. Patients were strati ﬁ ed in two subgroups according to their self-reported taste and smell perception abilities. Results showed that adding salt and garlic signi ﬁ cantly increased patients' liking of the eggplant cr",
+      "summary": "이 연구는 항암치료로 인해 미각 및 후각 변화를 겪는 암 환자의 음식 섭취 증진을 위한 풍미 강화의 효과를 탐색했습니다. 소금, 레몬, 마늘, 커민과 같은 특정 풍미 증진 성분이 음식 기호도를 향상시킬 수 있음을 보여주며, 이는 영양 불균형 위험이 높은 취약 계층을 위한 소스/양념류 개발에 중요한 시사점을 제공합니다.",
+      "search_query": "flavor enhancement food science",
+      "type": "academic",
+      "category": "consumer",
+      "keywords": [
+        "Flavor enhancement",
+        "Cancer patients",
+        "Taste alteration",
+        "Food liking"
+      ],
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "Salt",
+        "Lemon",
+        "Garlic",
+        "Cumin"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 암 환자 등 미각/후각 변화를 겪는 특정 소비자 그룹의 음식 기호도 개선 및 영양 섭취 증진을 위해 염미, 산미, 향미를 활용한 맞춤형 풍미 강화 솔루션 개발을 고려해야 합니다."
+    },
+    {
+      "id": "2119b81b0ada",
+      "title": "Engineering of Acid-Resistant d-Allulose 3-Epimerase for Functional Juice Production.",
+      "url": "https://www.semanticscholar.org/paper/e8f39b96619942afd1c6c227d2ab9276436d12f0",
+      "source": "Semantic Scholar",
+      "language": "en",
+      "published_at": "2022-12-14T00:00:00+00:00",
+      "content": "d-Allulose, a rare sugar and functional sweetener, can be biosynthesized by d-allulose 3-isomerase (DAE). However, most of the reported DAEs exhibit poor resistance under acidic conditions, which severely limited their application. Here, surface charge engineering and random mutagenesis were used to construct a mutant library of CcDAE from Clostridium cellulolyticum H10, combined with high-throughput screening to identify mutants with high activity and resistance under acidic conditions. The mutant M3 (I114R/K123E/H209R) exhibited high activity (3.36-fold of wild-type) and acid resistance (10.6-fold of wild-type) at pH 4.5. The structure-function relationship was further analyzed by molecular dynamics (MD) simulations, which indicated that M3 had a higher number of hydrogen bonds and negative surface charges than the wild type. A multienzyme cascade system including M3 was used to convert high-calorie sugars in acidic juices, and functional juices containing 7.8-15.4 g/L d-allulose wer",
+      "summary": "이 기사는 산성 환경에서도 활성과 안정성이 뛰어난 D-알룰로오스 3-에피머라제 효소를 개발하여 기능성 감미료인 D-알룰로오스의 생산 효율을 높이는 기술을 다룹니다. 이는 산성 소스 및 양념류에 D-알룰로오스를 저칼로리 및 기능성 감미료로 적용할 때 안정성 문제를 해결하여 활용도를 크게 확장할 수 있음을 시사합니다.",
+      "search_query": "allulose sweetener food application",
+      "type": "academic",
+      "category": "ingredient",
+      "keywords": [
+        "d-알룰로오스",
+        "d-알룰로오스 3-에피머라제",
+        "산성 저항성",
+        "효소 공학",
+        "기능성 감미료",
+        "희귀당"
+      ],
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "d-알룰로오스",
+        "d-알룰로오스 3-에피머라제"
+      ],
+      "actionable_insight": "R&D팀은 산성 환경에서도 안정적인 D-알룰로오스를 활용하여 저칼로리 및 기능성을 강조한 새로운 소스/양념류 제품군 개발을 적극적으로 검토해야 합니다."
+    }
+  ],
   "articles": [
     {
-      "id": "adfc3251bc56",
-      "title": "Use of hydrolysed lentil protein in sauce technology",
-      "url": "https://www.semanticscholar.org/paper/5c8c2f06d5a1f50402ab398fc709bfe936a2520b",
+      "id": "71e25c110921",
+      "title": "Multidisciplinary insights for salt reduction and flavor enhancement in foods: integrating strategies via molecular design, taste signal transduction, and cognitive perception.",
+      "url": "https://www.semanticscholar.org/paper/09d46708f18ffda469245d446375a44f8c442922",
       "source": "Semantic Scholar",
       "language": "en",
-      "published_at": "2024-01-01T00:00:00+00:00",
-      "content": "Consumer interest in high-quality healthy eating creates a growing trend in food production. A special place in the development of new products is occupied by positions that can meet the trends of sustainability, functional significance and the use of plant ingredients recommended by WHO, as preferential in organizing a healthy diet. The study solved the expansion problem of the popular food products with high functional and biological characteristics - sauces based on modified legumes. The basis was taken from the recipes of 3 sauces containing nuts, spices and vegetables. The comparative analysis, taking into account the nutritional and biological value of leguminous raw materials, as well as organoleptic features, allowed adopting the Donskaya variety extra red lentils of the Agro-Alliance brand as the introduced ingredient. To reduce the impact of anti-nutritional factors contained in lentils and to improve the absorption of protein contained in leguminous raw materials, it was cru",
-      "summary": "Consumer interest in high-quality healthy eating creates a growing trend in food production. A special place in the development of new products is occupied by positions that can meet the trends of sustainability, functional significance and the use of plant ingredients recommended by WHO, as prefere",
-      "search_query": "plant-based sauce ingredient development",
+      "published_at": "2025-08-14T00:00:00+00:00",
+      "content": "",
+      "summary": "이 기사는 소스 및 양념류의 염분 저감과 풍미 증진을 위한 다학제적 접근법을 제시합니다. 분자 설계, 미각 신호 전달 과정, 인지적 지각 등 과학적 이해를 바탕으로 소비자의 만족도를 유지하면서 저염 제품을 개발하는 전략을 탐구합니다. 이는 단순히 염분을 줄이는 것을 넘어 새로운 맛 경험을 제공하고 제품 경쟁력을 높이는 데 중요한 시사점을 줍니다.",
+      "search_query": "flavor enhancement food science",
+      "type": "academic",
+      "category": "product",
+      "keywords": [
+        "염분 저감",
+        "풍미 증진",
+        "분자 설계",
+        "미각 인지",
+        "소스 R&D"
+      ],
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "염 대체재",
+        "감칠맛 성분",
+        "천연 향미 증진제",
+        "맛 변조 물질"
+      ],
+      "actionable_insight": "소스 R&D팀은 염분 저감 시 분자 수준의 설계 및 미각 인지 과학을 활용하여 풍미를 최적화하고 소비자의 만족도를 높이는 혁신적인 솔루션 개발에 집중해야 합니다."
+    },
+    {
+      "id": "d6956734ca79",
+      "title": "Flavor enhancement as a strategy to improve food liking in cancer patients with taste and smell alterations",
+      "url": "https://www.semanticscholar.org/paper/1b2dad7719891e3c6a4dce3c6f22454a02bf87ad",
+      "source": "Semantic Scholar",
+      "language": "en",
+      "published_at": "2022-12-01T00:00:00+00:00",
+      "content": "Food liking is an essential component of the food intake experience. However, some conditions may alter the perception, thus the liking of food, leading to a reduced intake and increasing the risk of malnutrition. Particularly, in the context of cancer and related therapies, malnutrition is a major challenge with 25% e 80% of cancer patients experiencing malnutrition at different degrees. The aim of the present exploratory study was to examine the effect of ﬂ avor enhancement on food liking in a group of cancer patients undergoing chemotherapy and with varying self-reported taste/ smell abilities. The liking of four eggplant creams enhanced with either salt, lemon, garlic or cumin was evaluated in comparison to a reference eggplant cream by a group of 154 cancer patients. Patients were strati ﬁ ed in two subgroups according to their self-reported taste and smell perception abilities. Results showed that adding salt and garlic signi ﬁ cantly increased patients' liking of the eggplant cr",
+      "summary": "이 연구는 항암치료로 인해 미각 및 후각 변화를 겪는 암 환자의 음식 섭취 증진을 위한 풍미 강화의 효과를 탐색했습니다. 소금, 레몬, 마늘, 커민과 같은 특정 풍미 증진 성분이 음식 기호도를 향상시킬 수 있음을 보여주며, 이는 영양 불균형 위험이 높은 취약 계층을 위한 소스/양념류 개발에 중요한 시사점을 제공합니다.",
+      "search_query": "flavor enhancement food science",
+      "type": "academic",
+      "category": "consumer",
+      "keywords": [
+        "Flavor enhancement",
+        "Cancer patients",
+        "Taste alteration",
+        "Food liking"
+      ],
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "Salt",
+        "Lemon",
+        "Garlic",
+        "Cumin"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 암 환자 등 미각/후각 변화를 겪는 특정 소비자 그룹의 음식 기호도 개선 및 영양 섭취 증진을 위해 염미, 산미, 향미를 활용한 맞춤형 풍미 강화 솔루션 개발을 고려해야 합니다."
+    },
+    {
+      "id": "48d302130b45",
+      "title": "Contribution of ultrasound-assisted protein structural changes in marinated beef to the improved binding ability of spices and flavor enhancement.",
+      "url": "https://www.semanticscholar.org/paper/f9a75b7bd157cd060886aeb6164d3e0d386501e0",
+      "source": "Semantic Scholar",
+      "language": "en",
+      "published_at": "2024-09-19T00:00:00+00:00",
+      "content": "BACKGROUND\nMarination is an important part of air-dried beef processing, and traditional methods are inefficient and produce inconsistent results. Ultrasound, as a novel technology, can be combined with traditional marination methods. The study aimed to investigate the improvement of beef flavor by ultrasound-assisted marination. At the same time, the potential relationship between the alteration of meat protein and flavor quality by ultrasound-assisted marinating was further investigated to enable better flavor modulation and research.\n\n\nRESULTS\nHeadspace solid-phase microextraction-gas chromatography-mass spectrometry revealed that the spice flavor of beef was significantly enhanced by 500 W ultrasound-assisted marination. Meanwhile, the experimental results demonstrated that the ultrasound-assisted marination promoted the unfolding of beef myofibrillar protein structure, which increased the number of hydrophobic and hydrogen bonding sites, enhanced the electrostatic effect and impro",
+      "summary": "BACKGROUND\nMarination is an important part of air-dried beef processing, and traditional methods are inefficient and produce inconsistent results. Ultrasound, as a novel technology, can be combined with traditional marination methods. The study aimed to investigate the improvement of beef flavor by ",
+      "search_query": "flavor enhancement food science",
       "type": "academic",
       "category": "manufacturing",
       "keywords": [],
       "relevance_score": null
     },
     {
-      "id": "d19e80f296b0",
-      "title": "Tempe and Soybean var. Grobogan-Indonesia Increased The Number of Osteoblasts and Osteocytes, Inhibited Osteoclast Damage in The Tibia Bone of Rats",
-      "url": "https://www.semanticscholar.org/paper/0ef7b4fab5ee28555aa81788c795ed130b97e88e",
+      "id": "cad5ccd283d7",
+      "title": "Development of food‐grade expression system for d‐allulose 3‐epimerase preparation with tandem isoenzyme genes in Corynebacterium glutamicum and its application in conversion of cane molasses to D‐allulose",
+      "url": "https://www.semanticscholar.org/paper/01ebf5764d7ef09837d0ff68bab67fcfd884cbdd",
       "source": "Semantic Scholar",
       "language": "en",
-      "published_at": "2021-01-01T00:00:00+00:00",
-      "content": "Soy is a leguminous seasonal crop that contains various nutrients such as protein, fat, vitamins, and minerals. The Indonesian local soybean var. Grobogan is a superior variety which has a heavy bean weight and high protein content, around 40-44% (Astawan et al. 2020a). In Indonesia, soybeans are used as the basic ingredient for various food products such as tempe, tauco, soy sauce, et cetera. Tempe is a well-known traditional Indonesian food. Tempe is made from soybeans fermented using Rhizopus sp. (Kadar et al. 2020). Tempe is a source of protein and minerals. The calcium and phosphorous content per 100 g tempe is 347 mg and 724 mg, respectively (Astawan et al. 2020b). The high calcium and phosphorous content in tempe would increase the availability of the two minerals in the body and would be beneficial in bone growth and development. In addition to being a source of nutrients, tempe is also the only plant-based potential vitamin B12 source. Tempe is also known to contain isoflavone",
-      "summary": "The high calcium and phosphorous content in tempe would increase the availability of the two minerals in the body and would be beneficial in bone growth and development.",
-      "search_query": "plant-based sauce ingredient development",
+      "published_at": "2019-04-01T00:00:00+00:00",
+      "content": "D‐Allulose 3‐epimerase (DAE) has been applied to produce D‐allulose, a low‐calorie and functional sweetener. In this study, a new DAE from Paenibacillus senegalensis was characterized in Escherichia coli. Furthermore, we presented a tandem isoenzyme gene expression strategy to express multiple DAEs in one cell and construct food‐grade expression systems based on Corynebacterium glutamicum. Seventeen expression cassettes based on three DAE genes from different organisms were constructed. Among all recombinant strains, DAE16 harboring three DAE genes in an expression vector exhibited the highest enzyme activity with 22.7 U/mg. Whole‐cell transformation of DAE16 produced 225 g/L D‐allulose with a volumetric productivity of 353 g·g −1·hr −1. The catalytic efficiency of strain C‐DAE9 integrating total 11 DAE genes in chromosome was 16.4‐fold higher than strains carrying one DAE. Fed‐batch culture of C‐DAE9 gave enzyme activity of 44,700 U/L. We also expressed a thermostable invertase in C. ",
+      "summary": "This study provided an efficient approach for enzyme preparation and allowed access to produce D‐allulose from other abundant and low‐cost feedstock enriched with sucrose.",
+      "search_query": "allulose sweetener food application",
       "type": "academic",
       "category": "manufacturing",
       "keywords": [],
       "relevance_score": null
     },
     {
-      "id": "af3f8a01fe07",
-      "title": "Fried green burgers: a promising food for plant-based dieters. Ingredient characterization, processing, and future development",
-      "url": "https://www.semanticscholar.org/paper/cb9e4f4577f8253d4d6e3eb2cd17f8d93fb8fc20",
+      "id": "2119b81b0ada",
+      "title": "Engineering of Acid-Resistant d-Allulose 3-Epimerase for Functional Juice Production.",
+      "url": "https://www.semanticscholar.org/paper/e8f39b96619942afd1c6c227d2ab9276436d12f0",
       "source": "Semantic Scholar",
       "language": "en",
-      "published_at": "2025-11-10T00:00:00+00:00",
-      "content": "Currently, the world witnesses a growing interest toward conversion to a plant-based diet due to some behavioral or nutritional reasons. The fried green burger (FGB), which is globally known as “falafel” is an example of a flourishing plant-based burger in which meat is substituted with one of the legume seeds (which is not an oilseed) and processed by deep-fat frying. This plant-based food originated in the Middle East and some Asian regions many years ago, then spread to the Western world in the 20th century due to increased immigration. Made entirely from plants, FGB’s appealing taste and relatively low price make it a potentially attractive meal option for dieters. In this review, the authors will discuss fundamental elements pertaining to the FGB. This includes the various types of plant ingredients employed in processing, along with their nutritional, anti-nutritional, and sensorial characteristics. The review examines various processing steps, including deep-fat frying. It discu",
-      "summary": "Currently, the world witnesses a growing interest toward conversion to a plant-based diet due to some behavioral or nutritional reasons. The fried green burger (FGB), which is globally known as “falafel” is an example of a flourishing plant-based burger in which meat is substituted with one of the l",
-      "search_query": "plant-based sauce ingredient development",
+      "published_at": "2022-12-14T00:00:00+00:00",
+      "content": "d-Allulose, a rare sugar and functional sweetener, can be biosynthesized by d-allulose 3-isomerase (DAE). However, most of the reported DAEs exhibit poor resistance under acidic conditions, which severely limited their application. Here, surface charge engineering and random mutagenesis were used to construct a mutant library of CcDAE from Clostridium cellulolyticum H10, combined with high-throughput screening to identify mutants with high activity and resistance under acidic conditions. The mutant M3 (I114R/K123E/H209R) exhibited high activity (3.36-fold of wild-type) and acid resistance (10.6-fold of wild-type) at pH 4.5. The structure-function relationship was further analyzed by molecular dynamics (MD) simulations, which indicated that M3 had a higher number of hydrogen bonds and negative surface charges than the wild type. A multienzyme cascade system including M3 was used to convert high-calorie sugars in acidic juices, and functional juices containing 7.8-15.4 g/L d-allulose wer",
+      "summary": "이 기사는 산성 환경에서도 활성과 안정성이 뛰어난 D-알룰로오스 3-에피머라제 효소를 개발하여 기능성 감미료인 D-알룰로오스의 생산 효율을 높이는 기술을 다룹니다. 이는 산성 소스 및 양념류에 D-알룰로오스를 저칼로리 및 기능성 감미료로 적용할 때 안정성 문제를 해결하여 활용도를 크게 확장할 수 있음을 시사합니다.",
+      "search_query": "allulose sweetener food application",
+      "type": "academic",
+      "category": "ingredient",
+      "keywords": [
+        "d-알룰로오스",
+        "d-알룰로오스 3-에피머라제",
+        "산성 저항성",
+        "효소 공학",
+        "기능성 감미료",
+        "희귀당"
+      ],
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "d-알룰로오스",
+        "d-알룰로오스 3-에피머라제"
+      ],
+      "actionable_insight": "R&D팀은 산성 환경에서도 안정적인 D-알룰로오스를 활용하여 저칼로리 및 기능성을 강조한 새로운 소스/양념류 제품군 개발을 적극적으로 검토해야 합니다."
+    },
+    {
+      "id": "06681e32639c",
+      "title": "Review on D-Allulose: In vivo Metabolism, Catalytic Mechanism, Engineering Strain Construction, Bio-Production Technology",
+      "url": "https://www.semanticscholar.org/paper/4eba3d92eed6c4c57ebcee82c7e4820f78124eeb",
+      "source": "Semantic Scholar",
+      "language": "en",
+      "published_at": "2020-02-03T00:00:00+00:00",
+      "content": "Rare sugar D-allulose as a substitute sweetener is produced through the isomerization of D-fructose by D-tagatose 3-epimerases (DTEases) or D-allulose 3-epimerases (DAEases). D-Allulose is a kind of low energy monosaccharide sugar naturally existing in some fruits in very small quantities. D-Allulose not only possesses high value as a food ingredient and dietary supplement, but also exhibits a variety of physiological functions serving as improving insulin resistance, antioxidant enhancement, and hypoglycemic controls, and so forth. Thus, D-allulose has an important development value as an alternative to high-energy sugars. This review provided a systematic analysis of D-allulose characters, application, enzymatic characteristics and molecular modification, engineered strain construction, and processing technologies. The existing problems and its proposed solutions for D-allulose production are also discussed. More importantly, a green and recycling process technology for D-allulose pr",
+      "summary": "This review provided a systematic analysis of D-allulose characters, application, enzymatic characteristics and molecular modification, engineered strain construction, and processing technologies for low waste formation, low energy consumption, and high sugar yield.",
+      "search_query": "allulose sweetener food application",
       "type": "academic",
       "category": "manufacturing",
       "keywords": [],
       "relevance_score": null
     }
   ],
-  "ai_summary": "## 오늘의 핵심 인사이트 (3개)\n1.  **초정밀/자동화 생산을 통한 품질 및 효율 극대화:** AI 및 로봇 공학 기술이 소스/양념 제조 공정에 도입되어 일관된 품질, 레시피 최적화, 생산 효율을 혁신적으로 개선합니다.\n2.  **지속 가능하고 유연한 제조 시스템 구축:** 환경 규제 강화 및 소비자 의식 변화에 맞춰 에너지 효율적인 공정, 폐기물 저감, 소규모 맞춤 생산에 용이한 유연한 제조 기술이 중요해집니다.\n3.  **첨단 가공 기술을 통한 제품 혁신 및 기능성 강화:** 발효, 마이크로 캡슐화, 고압 가공 등 비열 처리 기술이 소스/양념의 풍미, 보존성, 기능성(예: 영양소 보호, 특정 성분 방출 제어)을 향상시키며 클린 라벨 트렌드를 뒷받침합니다.\n\n## 주목할 트렌드 시그널\n*   **AI 기반 레시피 최적화 및 공정 제어 시스템 도입 가속화:** 원료 배합, 온도/시간 조절 등 소스 제조의 핵심 단계를 AI가 분석하고 제어하여 품질 편차를 줄이고 새로운 맛 조합을 제안합니다.\n*   **에너지 효율 및 자원 절감형 생산 공정 기술의 상용화:** 저온 살균, 폐기물 업사이클링 기술 (예: 식품 부산물을 활용한 감칠맛 또는 기능성 원료 개발)이 실제 생산 라인에 적용됩니다.\n*   **개별 맞춤형 소스 생산을 위한 모듈형 및 스마트 팩토리 솔루션 확대:** 다품종 소량 생산이 가능한 유연한 제조 시스템으로 소비자 니즈에 빠르게 대응합니다.\n\n## R&D 액션 아이템\n*   **AI/빅데이터 기반 레시피 개발 및 공정 제어 시스템 도입 검토 및 파일럿 적용:** 생산 데이터 분석을 통한 맛/품질 표준화 및 신제품 개발 효율성 증대 방안을 모색합니다.\n*   **지속 가능한 원료 사용 및 생산 과정 폐기물 최소화 기술 연구 및 적용:** 친환경 패키징뿐 아니라, 생산 부산물을 활용한 신규 소스 원료 개발 또는 에너지 전환 기술 도입 가능성을 탐색합니다.\n*   **차별화된 풍미와 기능성 강화를 위한 신규 발효 균주 또는 마이크로 캡슐화 기술 도입 타당성 검토:** 복합적인 맛 구현, 유효 성분 보호, 유통기한 연장 등 제품 경쟁력 향상을 위한 기술 적용 로드맵을 수립합니다.\n*   **식품 안전 및 트레이서빌리티 강화를 위한 블록체인 기반 시스템 도입 가능성 탐색:** 원료 조달부터 생산, 유통까지 전 과정의 투명성을 확보하여 소비자의 신뢰를 높입니다.",
+  "ai_summary": "## 오늘의 핵심 인사이트 (3개)\n\n1.  **염분 저감과 풍미 증진의 다각적 접근:** 단순한 염분 감소를 넘어, 분자 설계, 미각 신호 전달, 인지적 지각 등 다학제적 관점에서 풍미를 극대화하는 통합 전략이 필수적입니다.\n2.  **기능성 풍미 증진의 중요성 부각:** 암 환자와 같이 미각/후각 변화를 겪는 특정 소비자군을 위한 풍미 증진은 단순한 기호 개선을 넘어 식사의 즐거움과 영양 섭취를 돕는 \"기능성\" 솔루션으로 진화하고 있습니다.\n3.  **첨단 바이오 기술 기반의 기능성 원료 개발:** 내산성 효소(예: 알룰로스 3-에피머라아제) 공학을 통해 까다로운 식품 환경(산성 조건)에서도 안정적으로 기능하는 차세대 기능성 원료(저칼로리 감미료 등) 개발이 가속화되고 있습니다.\n\n## 주목할 트렌드 시그널\n\n*   **정밀 미각 과학의 상용화:** 식품의 맛을 분자, 생리, 인지 수준에서 이해하고 조작하여 특정 목적(염분 저감, 풍미 극대화)을 달성하려는 움직임이 가속화됩니다.\n*   **개인 맞춤형/치료 보조 식품으로의 확장:** 특정 건강 상태나 식이 요구를 가진 소비자를 위한 \"치료 보조\" 개념의 맛 솔루션이 중요해질 것입니다.\n*   **지속 가능한 고기능성 원료 발굴:** 효소 공학 등 바이오 기술을 활용하여 기존 원료의 한계를 극복하고, 새로운 기능성 및 지속 가능성을 갖춘 원료를 개발하는 것이 핵심 경쟁력이 될 것입니다.\n\n## R&D 액션 아이템\n\n*   **염분 저감 & 풍미 증진 통합 연구:** 분자 설계 원리 및 미각 신호 전달 메커니즘 연구를 통해 소스/양념의 염분 저감 동시 풍미 증진 방안을 모색하고, 실제 제품에 적용할 수 있는 기술 로드맵을 수립하십시오.\n*   **특정 소비자군 맞춤형 소스 개발:** 노년층, 만성 질환자 등 미각 변화를 겪을 수 있는 특정 소비자군을 위한 \"고기능성 풍미 증진 소스\" 개발 프로젝트를 추진하고, 임상적 효능 검증을 위한 협력 방안을 모색하십시오.\n*   **효소 공학 기반 신규 원료 탐색 및 적용:** 알룰로스와 같은 저칼로리 감미료나 기타 기능성 원료 개발에 활용되는 효소 공학 기술 트렌드를 모니터링하고, 소스/양념의 기능성을 높일 수 있는 신규 원료 도입 및 자체 개발 가능성을 타진하십시오.",
   "youtube_highlights": [],
   "trends_summary": {
     "google_trends": [
