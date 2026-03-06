@@ -2,23 +2,23 @@
   "week_id": "2026-W10",
   "start_date": "2026-03-02",
   "end_date": "2026-03-08",
-  "total_articles": 107,
+  "total_articles": 86,
   "days_included": [
     "2026-03-05",
     "2026-03-06"
   ],
   "daily_article_counts": {
     "2026-03-05": 18,
-    "2026-03-06": 89
+    "2026-03-06": 68
   },
   "top_keywords": [
     {
-      "keyword": "농심",
-      "count": 5
+      "keyword": "신제품",
+      "count": 9
     },
     {
-      "keyword": "포테토칩",
-      "count": 5
+      "keyword": "장류",
+      "count": 7
     },
     {
       "keyword": "중면",
@@ -29,43 +29,15 @@
       "count": 5
     },
     {
-      "keyword": "신제품",
+      "keyword": "천연 조미 소재",
       "count": 4
     },
     {
-      "keyword": "커스터마이징",
-      "count": 4
-    },
-    {
-      "keyword": "건강식품",
-      "count": 4
-    },
-    {
-      "keyword": "소비 트렌드",
+      "keyword": "전통 가공식품",
       "count": 4
     },
     {
       "keyword": "팔도비빔면 더 블루",
-      "count": 4
-    },
-    {
-      "keyword": "장류",
-      "count": 4
-    },
-    {
-      "keyword": "기능성 소재",
-      "count": 4
-    },
-    {
-      "keyword": "교촌간장치킨맛",
-      "count": 3
-    },
-    {
-      "keyword": "간장 소스",
-      "count": 3
-    },
-    {
-      "keyword": "디핑 소스",
       "count": 3
     },
     {
@@ -73,23 +45,19 @@
       "count": 3
     },
     {
-      "keyword": "깔끔한 매운맛",
+      "keyword": "소스",
       "count": 3
     },
     {
-      "keyword": "깊은 풍미",
+      "keyword": "간장 소스",
       "count": 3
     },
     {
-      "keyword": "꽈리고추",
+      "keyword": "식감 트렌드",
       "count": 3
     },
     {
-      "keyword": "식물성 발효",
-      "count": 3
-    },
-    {
-      "keyword": "천연 조미 소재",
+      "keyword": "간편식",
       "count": 3
     },
     {
@@ -97,56 +65,88 @@
       "count": 3
     },
     {
-      "keyword": "세븐일레븐",
+      "keyword": "비건",
+      "count": 3
+    },
+    {
+      "keyword": "발효",
+      "count": 3
+    },
+    {
+      "keyword": "체험",
+      "count": 3
+    },
+    {
+      "keyword": "발효 기술",
+      "count": 3
+    },
+    {
+      "keyword": "식물성 발효",
+      "count": 3
+    },
+    {
+      "keyword": "기능성 소재",
+      "count": 3
+    },
+    {
+      "keyword": "건강식품",
       "count": 2
     },
     {
-      "keyword": "즉석식품",
+      "keyword": "식물성 오일",
       "count": 2
     },
     {
-      "keyword": "소스 개발",
+      "keyword": "비빔면",
       "count": 2
     },
     {
-      "keyword": "신규 소스",
+      "keyword": "꽈리고추",
+      "count": 2
+    },
+    {
+      "keyword": "매운맛",
+      "count": 2
+    },
+    {
+      "keyword": "발효 소스",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "농심": 5,
-    "포테토칩": 5,
+    "신제품": 9,
+    "장류": 7,
     "중면": 5,
     "소스류": 5,
-    "신제품": 4,
-    "커스터마이징": 4,
-    "건강식품": 4,
-    "소비 트렌드": 4,
-    "팔도비빔면 더 블루": 4,
-    "장류": 4,
-    "기능성 소재": 4,
-    "교촌간장치킨맛": 3,
-    "간장 소스": 3,
-    "디핑 소스": 3,
+    "천연 조미 소재": 4,
+    "전통 가공식품": 4,
+    "팔도비빔면 더 블루": 3,
     "식감": 3,
-    "깔끔한 매운맛": 3,
-    "깊은 풍미": 3,
-    "꽈리고추": 3,
-    "식물성 발효": 3,
-    "천연 조미 소재": 3,
+    "소스": 3,
+    "간장 소스": 3,
+    "식감 트렌드": 3,
+    "간편식": 3,
     "샘표": 3,
-    "세븐일레븐": 2,
-    "즉석식품": 2,
-    "소스 개발": 2,
-    "신규 소스": 2
+    "비건": 3,
+    "발효": 3,
+    "체험": 3,
+    "발효 기술": 3,
+    "식물성 발효": 3,
+    "기능성 소재": 3,
+    "건강식품": 2,
+    "식물성 오일": 2,
+    "비빔면": 2,
+    "꽈리고추": 2,
+    "매운맛": 2,
+    "발효 소스": 2
   },
   "category_totals": {
-    "product": 22,
-    "consumer": 11,
-    "manufacturing": 11,
-    "ingredient": 8,
-    "other": 34,
-    "market": 3
+    "consumer": 7,
+    "product": 27,
+    "market": 4,
+    "ingredient": 10,
+    "manufacturing": 2,
+    "other": 18
   },
   "highlighted_articles": [
     {
@@ -194,6 +194,35 @@
       "actionable_insight": "R&D팀은 나트륨 저감 소스 및 양념 개발 시, 맛 신호 전달 및 인지 메커니즘을 이해하고 분자 설계 기술을 활용하여 저나트륨 환경에서도 만족스러운 풍미를 제공하는 혁신적인 원료 및 제형 기술 개발에 집중해야 합니다."
     },
     {
+      "id": "aa356fdab8d3",
+      "title": "샘표, 한국식품연구원과 식품·기술 개발 협력 MOU 체결",
+      "url": "https://n.news.naver.com/mnews/article/011/0004596463?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T13:09:00+09:00",
+      "content": "2013년 설립한 샘표 연구개발(R&amp;D)센터 ‘우리발효연구중심’은 아시아 유일의 식물성 발효 전문 연구소로, 약... 샘표는 발효 기술을 기반으로 단백질 유래 기능성 소재 브랜드 ‘펩리치’와 천연 조미 소재 브랜드... ",
+      "search_keyword": "식물성 단백질",
+      "category": "ingredient",
+      "keywords": [
+        "샘표",
+        "발효 기술",
+        "식물성 발효",
+        "단백질 유래 기능성 소재",
+        "천연 조미 소재",
+        "R&D 협력",
+        "한국식품연구원"
+      ],
+      "summary": "샘표는 한국식품연구원과의 MOU 및 자체 '우리발효연구중심'을 통해 식물성 발효 기술 개발에 집중하고 있습니다. 이는 단백질 유래 기능성 소재 '펩리치'와 천연 조미 소재 개발로 이어지며, 향후 소스·양념류의 맛과 기능성을 동시에 강화할 것으로 보입니다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "단백질 유래 기능성 소재",
+        "천연 조미 소재",
+        "발효 원료"
+      ],
+      "actionable_insight": "샘표의 식물성 발효 기반 기능성 및 천연 조미 소재 개발 동향을 주시하며, 차세대 소스·양념 제품의 맛, 건강 기능성, 클린 라벨 요구사항 충족을 위한 신규 발효 소재 적용 가능성을 적극적으로 탐색해야 한다."
+    },
+    {
       "id": "a7afd67336c5",
       "title": "샘표·한국식품연구원 맞손…발효 기술로 식품 신시장 키운다",
       "url": "https://www.m-i.kr/news/articleView.html?idxno=1343508",
@@ -204,26 +233,21 @@
       "search_keyword": "식물성 단백질",
       "category": "ingredient",
       "keywords": [
-        "샘표",
-        "한국식품연구원",
         "발효 기술",
+        "기능성 소재",
+        "천연 조미 소재",
         "식물성 발효",
         "펩리치",
-        "세이버리치",
-        "단백질 유래 기능성 소재",
-        "천연 조미 소재",
-        "R&D센터 우리발효연구중심",
-        "식품 신시장"
+        "세이버리치"
       ],
-      "summary": "샘표와 한국식품연구원은 발효 기술 협력을 통해 식품 신시장 개척에 나선다. 특히 샘표의 우리발효연구중심은 식물성 발효 전문 연구소로서 단백질 유래 기능성 소재 '펩리치'와 천연 조미 소재 '세이버리치'를 개발하여 소스·양념류 개발에 활용 가능한 혁신적인 원료를 제시한다.",
+      "summary": "샘표는 한국식품연구원과의 협력을 통해 발효 기술을 활용, 아시아 유일의 식물성 발효 전문 연구소에서 단백질 유래 기능성 소재 '펩리치'와 천연 조미 소재 '세이버리치'를 개발하며 식품 신시장 개척에 나섰습니다. 소스·양념류 R&D 관점에서 이는 제품의 기능성 강화 및 천연 감칠맛 구현을 위한 핵심 원료 개발 트렌드를 시사합니다.",
       "relevance_score": 10,
       "trend_signal": "rising",
       "key_ingredients": [
-        "단백질 유래 기능성 소재",
-        "천연 조미 소재",
-        "발효 소재"
+        "펩리치",
+        "세이버리치"
       ],
-      "actionable_insight": "R&D팀은 샘표와 같은 선도 기업의 발효 기술 기반 기능성 및 천연 조미 소재 개발 동향을 면밀히 분석하고, 자사 소스/양념류 제품에 적용할 수 있는 차별화된 원료 전략을 수립해야 한다."
+      "actionable_insight": "발효 기술을 활용한 단백질 유래 기능성 및 천연 조미 소재 개발 동향을 주시하고, 이를 소스·양념 제품의 기능성 강화 및 클린 라벨화에 적용할 방안을 모색해야 합니다."
     },
     {
       "id": "47e051b711be",
@@ -578,40 +602,81 @@
       "actionable_insight": "글로벌 시장 진출을 위한 현지 입맛 맞춤형 마요네즈 베이스 소스 및 다채로운 매운맛 프로파일 소스 개발에 집중하고, 소비자 커스터마이징을 지원할 수 있는 모듈형 소스 라인업 확대를 검토해야 한다."
     },
     {
-      "id": "d6956734ca79",
-      "title": "Flavor enhancement as a strategy to improve food liking in cancer patients with taste and smell alterations",
-      "url": "https://www.semanticscholar.org/paper/1b2dad7719891e3c6a4dce3c6f22454a02bf87ad",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2022-12-01T00:00:00+00:00",
-      "content": "Food liking is an essential component of the food intake experience. However, some conditions may alter the perception, thus the liking of food, leading to a reduced intake and increasing the risk of malnutrition. Particularly, in the context of cancer and related therapies, malnutrition is a major challenge with 25% e 80% of cancer patients experiencing malnutrition at different degrees. The aim of the present exploratory study was to examine the effect of ﬂ avor enhancement on food liking in a group of cancer patients undergoing chemotherapy and with varying self-reported taste/ smell abilities. The liking of four eggplant creams enhanced with either salt, lemon, garlic or cumin was evaluated in comparison to a reference eggplant cream by a group of 154 cancer patients. Patients were strati ﬁ ed in two subgroups according to their self-reported taste and smell perception abilities. Results showed that adding salt and garlic signi ﬁ cantly increased patients' liking of the eggplant cr",
-      "summary": "이 연구는 항암 치료로 미각/후각 변화를 겪는 암 환자들의 음식 선호도를 높이기 위한 맛 강화 전략(소금, 레몬, 마늘, 커민 등)의 효과를 탐색했습니다. 소스/양념 R&D 관점에서, 이는 특정 건강 상태로 인해 미각이 저하된 소비자를 위한 맞춤형 고미감 소스나 양념 개발의 중요성을 시사합니다. 이를 통해 취약 계층의 식품 섭취율 및 영양 상태 개선에 기여할 수 있습니다.",
-      "search_query": "flavor enhancement food science",
-      "type": "academic",
+      "id": "75564f7d02ef",
+      "title": "알칼리성 식품: 산성 식단을 바꾼 이후로 제 삶이 바뀌었습니다",
+      "url": "https://www.vogue.co.kr/2026/03/06/%ec%95%8c%ec%b9%bc%eb%a6%ac%ec%84%b1-%ec%8b%9d%ed%92%88-%ec%82%b0%ec%84%b1-%ec%8b%9d%eb%8b%a8%ec%9d%84-%eb%b0%94%ea%be%bc-%ec%9d%b4%ed%9b%84%eb%a1%9c-%ec%a0%9c-%ec%82%b6%ec%9d%b4-%eb%b0%94%eb%80%8c/?utm_source=naver&utm_medium=partnership",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T17:48:00+09:00",
+      "content": "하지만 매일 신진대사, 소화 과정(특히 단백질의 소화), 세포 활동을 통해 자연스럽게 산성 물질을... 지방 섭취를 할 때는 엑스트라 버진 올리브 오일, 유채유, 햄프시드 오일 같은 오메가3와 오메가9이 풍부한 식물성... ",
+      "search_keyword": "식물성 단백질",
       "category": "consumer",
       "keywords": [
-        "맛 강화",
-        "풍미 증진",
-        "암 환자",
-        "미각 변화",
-        "후각 변화",
-        "식품 선호도",
-        "영양실조",
-        "화학 요법",
-        "소금",
-        "레몬",
-        "마늘",
-        "커민"
+        "알칼리성 식단",
+        "식물성 오일",
+        "오메가3",
+        "오메가9",
+        "소화 건강"
       ],
-      "relevance_score": 8,
+      "summary": "기사는 알칼리성 식단을 통한 건강 개선과 신진대사, 소화 기능 강화를 언급하며, 오메가3, 오메가9이 풍부한 엑스트라 버진 올리브 오일, 유채유, 햄프시드 오일 등 식물성 오일 섭취를 중요하게 다룹니다. 이는 건강 지향 소비자들이 선호하는 성분을 활용한 소스/양념류 개발의 기회를 시사합니다.",
+      "relevance_score": 9,
       "trend_signal": "rising",
       "key_ingredients": [
-        "소금",
-        "레몬",
-        "마늘",
-        "커민"
+        "엑스트라 버진 올리브 오일",
+        "유채유",
+        "햄프시드 오일"
       ],
-      "actionable_insight": "R&D팀은 항암 치료 환자 등 미각/후각 변화가 있는 소비자의 음식 섭취 만족도를 높일 수 있는 소금, 레몬, 마늘, 커민 등을 활용한 저자극 고풍미 소스 및 양념 개발에 주력해야 한다."
+      "actionable_insight": "건강한 식물성 오일(엑스트라 버진 올리브 오일, 유채유, 햄프시드 오일)과 오메가3/9 함량을 강조한 소스/양념류 개발을 통해 알칼리성 식단 지향 소비층을 공략해야 합니다."
+    },
+    {
+      "id": "0e34a788d14c",
+      "title": "면발·소스·식감 업그레이드..여름 비빔면 전쟁 시작됐다",
+      "url": "http://www.4th.kr/news/articleView.html?idxno=2108703",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T17:28:00+09:00",
+      "content": "식품업체들은 면발, 식감과 소스 풍미를 강화한 신제품을 잇달아 내놓으며 시장 공략에 나섰다. hy는 팔도가 비빔면 신제품 '팔도비빔면 더 블루(The Blue)'를 출시했다고 6일 밝혔다. hy에 따르면 신제품은 기존... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "비빔면",
+        "소스 풍미 강화",
+        "신제품",
+        "팔도비빔면",
+        "여름 시장"
+      ],
+      "summary": "식품업체들이 여름 비빔면 시장을 겨냥해 면발, 식감과 함께 소스 풍미를 강화한 신제품을 출시하며 경쟁에 돌입했다. 특히 팔도는 '팔도비빔면 더 블루'를 통해 소스 업그레이드를 강조하며 소비자 공략에 나섰다. 이는 소스 R&D 관점에서 차별화된 풍미 개발의 중요성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "경쟁사의 비빔면 소스 풍미 강화 전략 및 신규 플레이버 개발 동향을 분석하고, 차별화된 소스 배합과 맛 구현 기술에 대한 R&D를 강화해야 한다."
+    },
+    {
+      "id": "6480f6a87507",
+      "title": "팔도, '팔도비빔면 더 블루' 출시…중면 사용해 '식감' 강조",
+      "url": "http://www.bizwnews.com/news/articleView.html?idxno=127890",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T17:28:00+09:00",
+      "content": "신제품은 최근 트렌드인 '식감'에 주목해 중면을 적용한 것이 특징이다. 기존 제품 대비 두꺼운 면발이... 소스에 함유된 꽈리고추가 깔끔한 매운맛을 더하고 두툼한 중면이 양념을 잘 머금어 깊은 풍미를 느낄 수 있다.... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "팔도비빔면 더 블루",
+        "식감",
+        "중면",
+        "꽈리고추",
+        "소스 흡착",
+        "매운맛",
+        "풍미"
+      ],
+      "summary": "팔도비빔면 신제품은 중면을 사용하여 면발의 식감을 강조하고 소스의 흡착력을 높여 깊은 풍미를 구현했다. 소스에는 꽈리고추를 활용해 깔끔한 매운맛을 더하며 기존 제품과 차별화된 맛 프로파일을 제시한다. 이는 면과 소스의 물리적 상호작용 및 이색 원료를 통한 풍미 개선의 중요성을 보여준다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "꽈리고추"
+      ],
+      "actionable_insight": "면의 두께와 재질이 소스의 흡착력 및 풍미 전달에 미치는 영향을 분석하고, 꽈리고추와 같은 이색적인 원료로 차별화된 매운맛 프로파일을 개발하는 데 집중해야 한다."
     }
   ],
   "ai_summary": null
