@@ -1,225 +1,60 @@
 {
   "date": "2026-03-06",
-  "generated_at": "2026-03-06T00:29:56.213463+00:00",
-  "total_articles": 6,
+  "generated_at": "2026-03-06T00:32:21.733149+00:00",
+  "total_articles": 3,
   "category_counts": {
-    "manufacturing": 6
+    "manufacturing": 3
   },
-  "top_keywords": [
-    {
-      "keyword": "pea sauce",
-      "count": 1
-    },
-    {
-      "keyword": "fermentation technology",
-      "count": 1
-    },
-    {
-      "keyword": "plant-based sauce",
-      "count": 1
-    },
-    {
-      "keyword": "process optimization",
-      "count": 1
-    },
-    {
-      "keyword": "flavor development",
-      "count": 1
-    },
-    {
-      "keyword": "고추 소스",
-      "count": 1
-    },
-    {
-      "keyword": "발효 기술",
-      "count": 1
-    },
-    {
-      "keyword": "복합 균주",
-      "count": 1
-    },
-    {
-      "keyword": "풍미 개발",
-      "count": 1
-    },
-    {
-      "keyword": "보존성",
-      "count": 1
-    }
-  ],
-  "highlighted_articles": [
-    {
-      "id": "47e051b711be",
-      "title": "Pea sauce fermentation technology optimization",
-      "url": "https://www.semanticscholar.org/paper/32c5d66ba08c7a302684fadb8cfc1d9fe0ea73ec",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2012-01-01T00:00:00+00:00",
-      "content": "",
-      "summary": "완두콩 기반 소스의 발효 기술 최적화 연구는 식물성 소스 개발에 있어 새로운 풍미와 기능성을 탐색할 기회를 제공합니다. 이는 발효 공정 개선을 통해 제품의 품질, 안정성, 영양학적 가치를 향상시키고 차별화된 식물성 소스 제품 개발 가능성을 제시합니다.",
-      "search_query": "sauce fermentation technology",
-      "type": "academic",
-      "category": "manufacturing",
-      "keywords": [
-        "pea sauce",
-        "fermentation technology",
-        "plant-based sauce",
-        "process optimization",
-        "flavor development"
-      ],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "Pea",
-        "Microorganisms"
-      ],
-      "actionable_insight": "R&D팀은 완두콩 발효를 통한 풍미 프로파일 최적화, 기능성 성분 강화, 그리고 상업적 생산을 위한 공정 효율성 증대에 초점을 맞춰 새로운 식물성 소스 콘셉트를 개발해야 합니다."
-    },
-    {
-      "id": "d314f9865b0d",
-      "title": "Pepper sauce fermentation technology with multi-strains",
-      "url": "https://www.semanticscholar.org/paper/dfedd8848ab1e96b1419bc27daf4987abf0837cf",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2011-01-01T00:00:00+00:00",
-      "content": "",
-      "summary": "고추 소스에 복합 균주 발효 기술을 적용하여 풍미, 보존성 및 기능성을 향상시키는 연구 동향이다. 이는 소스/양념류의 맛과 품질을 혁신하고 차별화된 제품 개발에 기여할 수 있는 핵심 기술로 평가된다.",
-      "search_query": "sauce fermentation technology",
-      "type": "academic",
-      "category": "manufacturing",
-      "keywords": [
-        "고추 소스",
-        "발효 기술",
-        "복합 균주",
-        "풍미 개발",
-        "보존성"
-      ],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "고추",
-        "발효 균주"
-      ],
-      "actionable_insight": "다양한 복합 균주 발효 기술을 고추 소스에 적용하여 독특한 풍미와 향은 물론, 자연적인 보존성 및 기능성을 갖춘 차세대 소스 개발을 적극적으로 검토해야 한다."
-    }
-  ],
+  "top_keywords": [],
+  "highlighted_articles": [],
   "articles": [
     {
-      "id": "47e051b711be",
-      "title": "Pea sauce fermentation technology optimization",
-      "url": "https://www.semanticscholar.org/paper/32c5d66ba08c7a302684fadb8cfc1d9fe0ea73ec",
+      "id": "adfc3251bc56",
+      "title": "Use of hydrolysed lentil protein in sauce technology",
+      "url": "https://www.semanticscholar.org/paper/5c8c2f06d5a1f50402ab398fc709bfe936a2520b",
       "source": "Semantic Scholar",
       "language": "en",
-      "published_at": "2012-01-01T00:00:00+00:00",
-      "content": "",
-      "summary": "완두콩 기반 소스의 발효 기술 최적화 연구는 식물성 소스 개발에 있어 새로운 풍미와 기능성을 탐색할 기회를 제공합니다. 이는 발효 공정 개선을 통해 제품의 품질, 안정성, 영양학적 가치를 향상시키고 차별화된 식물성 소스 제품 개발 가능성을 제시합니다.",
-      "search_query": "sauce fermentation technology",
-      "type": "academic",
-      "category": "manufacturing",
-      "keywords": [
-        "pea sauce",
-        "fermentation technology",
-        "plant-based sauce",
-        "process optimization",
-        "flavor development"
-      ],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "Pea",
-        "Microorganisms"
-      ],
-      "actionable_insight": "R&D팀은 완두콩 발효를 통한 풍미 프로파일 최적화, 기능성 성분 강화, 그리고 상업적 생산을 위한 공정 효율성 증대에 초점을 맞춰 새로운 식물성 소스 콘셉트를 개발해야 합니다."
-    },
-    {
-      "id": "d314f9865b0d",
-      "title": "Pepper sauce fermentation technology with multi-strains",
-      "url": "https://www.semanticscholar.org/paper/dfedd8848ab1e96b1419bc27daf4987abf0837cf",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2011-01-01T00:00:00+00:00",
-      "content": "",
-      "summary": "고추 소스에 복합 균주 발효 기술을 적용하여 풍미, 보존성 및 기능성을 향상시키는 연구 동향이다. 이는 소스/양념류의 맛과 품질을 혁신하고 차별화된 제품 개발에 기여할 수 있는 핵심 기술로 평가된다.",
-      "search_query": "sauce fermentation technology",
-      "type": "academic",
-      "category": "manufacturing",
-      "keywords": [
-        "고추 소스",
-        "발효 기술",
-        "복합 균주",
-        "풍미 개발",
-        "보존성"
-      ],
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "고추",
-        "발효 균주"
-      ],
-      "actionable_insight": "다양한 복합 균주 발효 기술을 고추 소스에 적용하여 독특한 풍미와 향은 물론, 자연적인 보존성 및 기능성을 갖춘 차세대 소스 개발을 적극적으로 검토해야 한다."
-    },
-    {
-      "id": "5acc155db477",
-      "title": "Fermentation and Physicochemical Properties of Sauce Made from Adult Worker Honey Bees (Apis mellifera) Using Aspergillus oryzae",
-      "url": "https://www.semanticscholar.org/paper/1d90b484936d34d41a6a6a55e4001db0b29550ea",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2025-04-28T00:00:00+00:00",
-      "content": "\n This study explores the potential of adult worker honey bees (Apis mellifera L.) as a sustainable protein source for a new fermented sauce using Aspergillus oryzae. Diverging from traditional plant-based condiments, it highlights the rich protein content of honey bees. Through proximate and amino acid analysis, the study evaluates the nutritional impact of fermentation, finding protein levels at 6.88% and total nitrogen at 1.04%, exceeding standards set by the Thai FDA and FAO/WHO Codex for soy sauce. The fermentation process notably increased glutamic acid, enhancing the umami flavor, and maintained stable physicochemical properties with a pH of 5.10, acidity of 0.169%, and reducing sugars to 50.32 mg/mL. Principal Component Analysis (PCA) indicated significant links among metabolites, underscoring the role of fungal protease in flavor and nutritional enhancement. This study pioneers the use of adult honey bees in fermented condiments, suggesting a sustainable alternative to traditi",
-      "summary": "\n This study explores the potential of adult worker honey bees (Apis mellifera L.) as a sustainable protein source for a new fermented sauce using Aspergillus oryzae. Diverging from traditional plant-based condiments, it highlights the rich protein content of honey bees. Through proximate and amino ",
-      "search_query": "sauce fermentation technology",
+      "published_at": "2024-01-01T00:00:00+00:00",
+      "content": "Consumer interest in high-quality healthy eating creates a growing trend in food production. A special place in the development of new products is occupied by positions that can meet the trends of sustainability, functional significance and the use of plant ingredients recommended by WHO, as preferential in organizing a healthy diet. The study solved the expansion problem of the popular food products with high functional and biological characteristics - sauces based on modified legumes. The basis was taken from the recipes of 3 sauces containing nuts, spices and vegetables. The comparative analysis, taking into account the nutritional and biological value of leguminous raw materials, as well as organoleptic features, allowed adopting the Donskaya variety extra red lentils of the Agro-Alliance brand as the introduced ingredient. To reduce the impact of anti-nutritional factors contained in lentils and to improve the absorption of protein contained in leguminous raw materials, it was cru",
+      "summary": "Consumer interest in high-quality healthy eating creates a growing trend in food production. A special place in the development of new products is occupied by positions that can meet the trends of sustainability, functional significance and the use of plant ingredients recommended by WHO, as prefere",
+      "search_query": "plant-based sauce ingredient development",
       "type": "academic",
       "category": "manufacturing",
       "keywords": [],
       "relevance_score": null
     },
     {
-      "id": "780495b59265",
-      "title": "Nisin as a food preservative: physicochemical, sensory properties and antimicrobial activity in Mexican tomato sauce",
-      "url": "https://www.semanticscholar.org/paper/466278b03d5eeee4637b937a727ec542a6f8b3da",
+      "id": "d19e80f296b0",
+      "title": "Tempe and Soybean var. Grobogan-Indonesia Increased The Number of Osteoblasts and Osteocytes, Inhibited Osteoclast Damage in The Tibia Bone of Rats",
+      "url": "https://www.semanticscholar.org/paper/0ef7b4fab5ee28555aa81788c795ed130b97e88e",
       "source": "Semantic Scholar",
       "language": "en",
-      "published_at": "2024-03-19T00:00:00+00:00",
-      "content": "Biopreservation is a technique that utilises natural microbiota and antimicrobial products to extend the shelf life of food in a controlled manner. Nisin, bacteriocins, is used commonly in meat and dairy items and is acknowledged as safe by the FDA under the acronym GRAS. Tomato sauce is an essential component of Mexican cuisine but has a limited shelf life. Nisin (0.01%, 0.1% and 0.2%) was used as a preservative to preserve its physicochemical and microbiological properties. The results were compared with those of a control group (with no preservative) and a sample that used potassium sorbate (0.2%) as a preservative. The Mexican tomato sauces were stored at 4, 20 and 35 °C for 180 days to test their stability. The results indicated that the nisin‐preserved Mexican tomato sauces remained stable at all three temperatures for 180 days. In addition, the sauce preserved with 0.01% nisin was preferred by untrained panellists, as it maintained its desirable taste and texture. The sauces pre",
-      "summary": "Biopreservation is a technique that utilises natural microbiota and antimicrobial products to extend the shelf life of food in a controlled manner. Nisin, bacteriocins, is used commonly in meat and dairy items and is acknowledged as safe by the FDA under the acronym GRAS. Tomato sauce is an essentia",
-      "search_query": "natural preservative food sauce",
+      "published_at": "2021-01-01T00:00:00+00:00",
+      "content": "Soy is a leguminous seasonal crop that contains various nutrients such as protein, fat, vitamins, and minerals. The Indonesian local soybean var. Grobogan is a superior variety which has a heavy bean weight and high protein content, around 40-44% (Astawan et al. 2020a). In Indonesia, soybeans are used as the basic ingredient for various food products such as tempe, tauco, soy sauce, et cetera. Tempe is a well-known traditional Indonesian food. Tempe is made from soybeans fermented using Rhizopus sp. (Kadar et al. 2020). Tempe is a source of protein and minerals. The calcium and phosphorous content per 100 g tempe is 347 mg and 724 mg, respectively (Astawan et al. 2020b). The high calcium and phosphorous content in tempe would increase the availability of the two minerals in the body and would be beneficial in bone growth and development. In addition to being a source of nutrients, tempe is also the only plant-based potential vitamin B12 source. Tempe is also known to contain isoflavone",
+      "summary": "The high calcium and phosphorous content in tempe would increase the availability of the two minerals in the body and would be beneficial in bone growth and development.",
+      "search_query": "plant-based sauce ingredient development",
       "type": "academic",
       "category": "manufacturing",
       "keywords": [],
       "relevance_score": null
     },
     {
-      "id": "57a9159e10aa",
-      "title": "Aplication of Natural Preservative “Atung” (Parinarium Glaberimum, Hassk) on Enzymatic Fish Sauce Nutrition Produced of Tuna Loin Waste in Parigi Wahai Village North Seram Sub-district Central Maluku District",
-      "url": "https://www.semanticscholar.org/paper/4c706ed3152eebe0939d1d56e778a9ce2d1cbc4c",
+      "id": "af3f8a01fe07",
+      "title": "Fried green burgers: a promising food for plant-based dieters. Ingredient characterization, processing, and future development",
+      "url": "https://www.semanticscholar.org/paper/cb9e4f4577f8253d4d6e3eb2cd17f8d93fb8fc20",
       "source": "Semantic Scholar",
       "language": "en",
-      "published_at": "2020-01-01T00:00:00+00:00",
-      "content": ": The aim of this study is to find out the effect of “atung” ( Parinarium glaberimum , Hassk) applications as natural preservative for washing of red tuna flesh, salt concentration and long fermentation with pineapple extract (3 times) on the nutrition and calorie value of fish sauce. The nutrition content of fish sauce i.e. water, protein, fat, ash, and carbohydrate, treated by washing without atung solution, added 15% salt, at fermentation range 3 days, (K1) were 61.42%, 5.68%, 0.32%, 5.86%, and 10.19%; respectively with a calorie value 66.4 kcal. Fish sauce with the same as previous treatment but 4 days of fermentation (K2) were: 63.26%, 5.36%, 0.72%, 5.53%, and 8.55% respectively with a calorie value 62.1 kcal. The nutrition content of fish sauce i.e. water, protein, fat, ash, and carbohydrate, treated by washing without atung solution, added 20% salt, at fermentation range 3 days, (K3) were 63.34%, 5.62%, 1.08%, 5.87%, and 9.31% respectively with a calorie value 69.4 kcal. Fish sa",
-      "summary": ": The aim of this study is to find out the effect of “atung” ( Parinarium glaberimum , Hassk) applications as natural preservative for washing of red tuna flesh, salt concentration and long fermentation with pineapple extract (3 times) on the nutrition and calorie value of fish sauce. The nutrition ",
-      "search_query": "natural preservative food sauce",
-      "type": "academic",
-      "category": "manufacturing",
-      "keywords": [],
-      "relevance_score": null
-    },
-    {
-      "id": "76c337cd8e24",
-      "title": "Research on the production of bottled chili sauce added on nisin to reduce pasteurization temperature and improve quality, ensuring food hygiene and safety",
-      "url": "https://www.semanticscholar.org/paper/97ee6fcc7224af7ce22d82e5634a0208549c31bc",
-      "source": "Semantic Scholar",
-      "language": "en",
-      "published_at": "2024-06-29T00:00:00+00:00",
-      "content": "Bottled chili sauce products are currently quite popular on the market and to preserve them for a long time, the product needs to be supplemented with some preservative additives. With the desire to produce pasteurized bottled chili sauce products with a long shelf life with natural preservative ingredients, having high sensory quality in terms of color, structure, and high nutritional value, the study chose to add nisin (food additive E234) with a content of 200 IU/g (5 mg/kg - calculated in pure nisin) to help reduce the pasteurization temperature to 80°C for 15 minutes. The final product has the same effectively pasteurized as the sample without the addition of nisin pasteurized at 95°C/15 minutes with parameters such as color (L, a, b are 8.15 ± 0.37, 11.17 ± 0.49 and 8.63 ± 0.37), the vitamin C content is retained at nearly 70%, the structure is consistent without separation, and the sensory evaluation is much higher than the pasteurized sample without adding nisin. This helps pro",
-      "summary": "Bottled chili sauce products are currently quite popular on the market and to preserve them for a long time, the product needs to be supplemented with some preservative additives. With the desire to produce pasteurized bottled chili sauce products with a long shelf life with natural preservative ing",
-      "search_query": "natural preservative food sauce",
+      "published_at": "2025-11-10T00:00:00+00:00",
+      "content": "Currently, the world witnesses a growing interest toward conversion to a plant-based diet due to some behavioral or nutritional reasons. The fried green burger (FGB), which is globally known as “falafel” is an example of a flourishing plant-based burger in which meat is substituted with one of the legume seeds (which is not an oilseed) and processed by deep-fat frying. This plant-based food originated in the Middle East and some Asian regions many years ago, then spread to the Western world in the 20th century due to increased immigration. Made entirely from plants, FGB’s appealing taste and relatively low price make it a potentially attractive meal option for dieters. In this review, the authors will discuss fundamental elements pertaining to the FGB. This includes the various types of plant ingredients employed in processing, along with their nutritional, anti-nutritional, and sensorial characteristics. The review examines various processing steps, including deep-fat frying. It discu",
+      "summary": "Currently, the world witnesses a growing interest toward conversion to a plant-based diet due to some behavioral or nutritional reasons. The fried green burger (FGB), which is globally known as “falafel” is an example of a flourishing plant-based burger in which meat is substituted with one of the l",
+      "search_query": "plant-based sauce ingredient development",
       "type": "academic",
       "category": "manufacturing",
       "keywords": [],
       "relevance_score": null
     }
   ],
-  "ai_summary": "## 오늘의 핵심 인사이트 (3개)\n1.  **발효 기술, 소스 풍미 및 공정 효율화의 핵심 동력:** 식물성 소스(완두콩)와 기존 소스(고추) 모두에서 발효 기술이 풍미 개발 및 공정 최적화의 핵심으로 부상.\n2.  **식물성 소스의 프리미엄화 가속:** 단순 대체 넘어 발효 기술 접목으로 완두콩 소스 등 식물성 소스의 풍미와 품질을 고급화하는 추세.\n3.  **복합 균주 발효, 풍부하고 복합적인 풍미 구현 필수:** 고추 소스 등에서 복합 균주를 활용한 발효 기술이 차별화된 맛과 향 개발에 중요.\n\n## 주목할 트렌드 시그널\n소스 R&D에서 **발효 기술**은 단순한 공정을 넘어 **풍미 개발, 공정 최적화, 기능성 부여**의 핵심 전략으로 부상하고 있습니다. 특히, **복합 균주**를 활용한 발효는 차세대 소스 개발의 주요 동력입니다. 또한, **식물성 소스** 시장이 확대되면서 **완두콩**과 같은 새로운 원료를 발효 기술과 결합하여 기존 제품과 차별화된 **프리미엄 소스**를 개발하려는 움직임이 가속화되고 있습니다.\n\n## R&D 액션 아이템\n1.  **차세대 발효 기술(복합 균주) 활용 연구:** 완두콩 소스를 포함한 식물성 소스 및 기존 주력 소스(고추 소스)에 복합 균주 발효 기술을 적용하여 풍미, 기능성, 품질 안정성 개선 방안을 모색.\n2.  **식물성 기반 소스 포트폴리오 확장:** 발효 공정을 최적화한 완두콩 소스 개발을 우선 추진하여 성장하는 식물성 시장 내 경쟁 우위 확보.\n3.  **핵심 소스(고추 소스) 공정 최적화 및 풍미 고도화:** 복합 균주 발효 기술을 활용하여 고추 소스의 독창적 풍미를 개발하고 생산 공정 효율성을 극대화.",
+  "ai_summary": "## 오늘의 핵심 인사이트 (3개)\n1.  **초정밀/자동화 생산을 통한 품질 및 효율 극대화:** AI 및 로봇 공학 기술이 소스/양념 제조 공정에 도입되어 일관된 품질, 레시피 최적화, 생산 효율을 혁신적으로 개선합니다.\n2.  **지속 가능하고 유연한 제조 시스템 구축:** 환경 규제 강화 및 소비자 의식 변화에 맞춰 에너지 효율적인 공정, 폐기물 저감, 소규모 맞춤 생산에 용이한 유연한 제조 기술이 중요해집니다.\n3.  **첨단 가공 기술을 통한 제품 혁신 및 기능성 강화:** 발효, 마이크로 캡슐화, 고압 가공 등 비열 처리 기술이 소스/양념의 풍미, 보존성, 기능성(예: 영양소 보호, 특정 성분 방출 제어)을 향상시키며 클린 라벨 트렌드를 뒷받침합니다.\n\n## 주목할 트렌드 시그널\n*   **AI 기반 레시피 최적화 및 공정 제어 시스템 도입 가속화:** 원료 배합, 온도/시간 조절 등 소스 제조의 핵심 단계를 AI가 분석하고 제어하여 품질 편차를 줄이고 새로운 맛 조합을 제안합니다.\n*   **에너지 효율 및 자원 절감형 생산 공정 기술의 상용화:** 저온 살균, 폐기물 업사이클링 기술 (예: 식품 부산물을 활용한 감칠맛 또는 기능성 원료 개발)이 실제 생산 라인에 적용됩니다.\n*   **개별 맞춤형 소스 생산을 위한 모듈형 및 스마트 팩토리 솔루션 확대:** 다품종 소량 생산이 가능한 유연한 제조 시스템으로 소비자 니즈에 빠르게 대응합니다.\n\n## R&D 액션 아이템\n*   **AI/빅데이터 기반 레시피 개발 및 공정 제어 시스템 도입 검토 및 파일럿 적용:** 생산 데이터 분석을 통한 맛/품질 표준화 및 신제품 개발 효율성 증대 방안을 모색합니다.\n*   **지속 가능한 원료 사용 및 생산 과정 폐기물 최소화 기술 연구 및 적용:** 친환경 패키징뿐 아니라, 생산 부산물을 활용한 신규 소스 원료 개발 또는 에너지 전환 기술 도입 가능성을 탐색합니다.\n*   **차별화된 풍미와 기능성 강화를 위한 신규 발효 균주 또는 마이크로 캡슐화 기술 도입 타당성 검토:** 복합적인 맛 구현, 유효 성분 보호, 유통기한 연장 등 제품 경쟁력 향상을 위한 기술 적용 로드맵을 수립합니다.\n*   **식품 안전 및 트레이서빌리티 강화를 위한 블록체인 기반 시스템 도입 가능성 탐색:** 원료 조달부터 생산, 유통까지 전 과정의 투명성을 확보하여 소비자의 신뢰를 높입니다.",
   "youtube_highlights": [],
   "trends_summary": {
     "google_trends": [
@@ -233,65 +68,65 @@
         ],
         "timeseries": {
           "소스": [
-            65,
+            67,
+            75,
+            82,
             78,
+            62,
+            52,
+            58,
+            61,
+            49,
+            70,
+            61,
+            56,
+            50,
+            54,
+            44,
+            66,
+            83,
+            81,
+            65,
+            67,
+            65,
+            64,
+            64,
+            81,
             79,
             78,
-            66,
             57,
-            60,
-            63,
-            50,
-            74,
-            63,
-            57,
-            51,
-            58,
-            41,
-            68,
-            85,
-            82,
-            67,
-            69,
-            69,
-            66,
-            66,
-            84,
-            82,
-            81,
-            59,
-            58,
-            63,
-            29
+            56,
+            62,
+            25
           ],
           "양념": [
-            24,
-            22,
+            21,
+            13,
+            29,
+            23,
+            20,
+            32,
+            23,
+            31,
+            29,
+            41,
+            52,
+            39,
+            23,
+            11,
+            20,
             20,
             25,
-            21,
-            31,
-            23,
-            34,
-            29,
-            46,
-            54,
-            43,
-            27,
-            14,
+            22,
             19,
             21,
-            25,
             22,
             20,
-            22,
-            22,
-            21,
             23,
             29,
-            30,
             28,
-            20,
+            28,
+            19,
             22,
             19,
             0
@@ -315,16 +150,16 @@
             0,
             1,
             0,
-            1,
-            1,
             0,
             1,
             0,
             1,
             0,
+            1,
             0,
             0,
             0,
+            1,
             0,
             0
           ],
@@ -383,11 +218,11 @@
             1,
             1,
             1,
-            1,
-            1,
-            1,
-            2,
             0,
+            1,
+            1,
+            1,
+            1,
             1,
             1,
             0
@@ -395,18 +230,18 @@
         },
         "related_rising": {
           "소스": [
-            "최강 록 조림 소스",
-            "타르타르 소스 만들기",
+            "탕수육 소스 만들기",
+            "피에트로 소스",
             "두근 두근 타운 초콜릿 소스",
-            "일본 간장 계란밥 소스",
-            "피에트로 소스"
+            "서브웨이 소스 종류",
+            "최강 록 조림 소스"
           ],
           "양념": [
             "봄동 겉절이 양념",
             "la 갈비 양념 황금 비율",
             "굴무침 양념",
-            "오이 무침 양념",
-            "동태탕 양념"
+            "아구찜 양념",
+            "오이 무침 양념"
           ],
           "저염": [
             "맛있 저염"
