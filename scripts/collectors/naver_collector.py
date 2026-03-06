@@ -7,8 +7,10 @@ import os
 import re
 import hashlib
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+
+KST = timezone(timedelta(hours=9))
 
 KEYWORDS = [
     "소스 신제품", "양념 트렌드", "저당 소스", "발효 소스",
@@ -26,6 +28,7 @@ def collect_naver_news(days_back: int = 1) -> list[dict]:
         print("NAVER API keys not set - skipping")
         return []
 
+    cutoff = datetime.now(KST) - timedelta(days=days_back)
     articles = []
     seen_ids = set()
 
@@ -49,9 +52,13 @@ def collect_naver_news(days_back: int = 1) -> list[dict]:
                 seen_ids.add(article_id)
 
                 try:
-                    pub_date_str = parsedate_to_datetime(item.get("pubDate", "")).isoformat()
+                    pub_date = parsedate_to_datetime(item.get("pubDate", ""))
+                    pub_date_str = pub_date.isoformat()
+                    # Skip articles older than cutoff
+                    if pub_date.astimezone(KST) < cutoff:
+                        continue
                 except Exception:
-                    pub_date_str = datetime.now(timezone.utc).isoformat()
+                    pub_date_str = datetime.now(KST).isoformat()
 
                 articles.append({
                     "id": article_id,
