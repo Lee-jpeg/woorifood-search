@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import ChatbotWidget from "./components/ChatbotWidget";
+import RefreshButton from "./components/RefreshButton";
 
 export const metadata: Metadata = {
   title: "식품 트렌드 인사이트",
@@ -35,6 +36,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                     {link.label}
                   </a>
                 ))}
+                <div className="ml-2 border-l border-slate-200 pl-2">
+                  <RefreshButton />
+                </div>
               </div>
             </div>
           </div>
