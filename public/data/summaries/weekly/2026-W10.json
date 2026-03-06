@@ -2,161 +2,151 @@
   "week_id": "2026-W10",
   "start_date": "2026-03-02",
   "end_date": "2026-03-08",
-  "total_articles": 24,
+  "total_articles": 107,
   "days_included": [
     "2026-03-05",
     "2026-03-06"
   ],
   "daily_article_counts": {
     "2026-03-05": 18,
-    "2026-03-06": 6
+    "2026-03-06": 89
   },
   "top_keywords": [
     {
-      "keyword": "저당",
-      "count": 9
-    },
-    {
-      "keyword": "발효",
-      "count": 7
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 6
-    },
-    {
-      "keyword": "클린라벨",
+      "keyword": "농심",
       "count": 5
     },
     {
-      "keyword": "비건",
+      "keyword": "포테토칩",
       "count": 5
     },
     {
-      "keyword": "저염",
+      "keyword": "중면",
+      "count": 5
+    },
+    {
+      "keyword": "소스류",
+      "count": 5
+    },
+    {
+      "keyword": "신제품",
       "count": 4
     },
     {
-      "keyword": "간편식",
+      "keyword": "커스터마이징",
       "count": 4
     },
     {
-      "keyword": "식물성",
+      "keyword": "건강식품",
+      "count": 4
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "팔도비빔면 더 블루",
+      "count": 4
+    },
+    {
+      "keyword": "장류",
+      "count": 4
+    },
+    {
+      "keyword": "기능성 소재",
+      "count": 4
+    },
+    {
+      "keyword": "교촌간장치킨맛",
       "count": 3
     },
     {
-      "keyword": "HMR",
+      "keyword": "간장 소스",
       "count": 3
     },
     {
-      "keyword": "핫소스",
+      "keyword": "디핑 소스",
       "count": 3
     },
     {
-      "keyword": "K소스",
+      "keyword": "식감",
+      "count": 3
+    },
+    {
+      "keyword": "깔끔한 매운맛",
+      "count": 3
+    },
+    {
+      "keyword": "깊은 풍미",
+      "count": 3
+    },
+    {
+      "keyword": "꽈리고추",
+      "count": 3
+    },
+    {
+      "keyword": "식물성 발효",
+      "count": 3
+    },
+    {
+      "keyword": "천연 조미 소재",
+      "count": 3
+    },
+    {
+      "keyword": "샘표",
+      "count": 3
+    },
+    {
+      "keyword": "세븐일레븐",
       "count": 2
     },
     {
-      "keyword": "Pea sauce",
-      "count": 1
+      "keyword": "즉석식품",
+      "count": 2
     },
     {
-      "keyword": "fermentation technology",
-      "count": 1
+      "keyword": "소스 개발",
+      "count": 2
     },
     {
-      "keyword": "optimization",
-      "count": 1
-    },
-    {
-      "keyword": "plant-based sauce",
-      "count": 1
-    },
-    {
-      "keyword": "process improvement",
-      "count": 1
-    },
-    {
-      "keyword": "고추 소스",
-      "count": 1
-    },
-    {
-      "keyword": "발효 기술",
-      "count": 1
-    },
-    {
-      "keyword": "다중 균주",
-      "count": 1
-    },
-    {
-      "keyword": "소스 R&D",
-      "count": 1
-    },
-    {
-      "keyword": "미생물 발효",
-      "count": 1
-    },
-    {
-      "keyword": "salt reduction",
-      "count": 1
-    },
-    {
-      "keyword": "flavor enhancement",
-      "count": 1
-    },
-    {
-      "keyword": "molecular design",
-      "count": 1
-    },
-    {
-      "keyword": "taste perception",
-      "count": 1
+      "keyword": "신규 소스",
+      "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "저당": 9,
-    "발효": 7,
-    "알룰로스": 6,
-    "클린라벨": 5,
-    "비건": 5,
-    "저염": 4,
-    "간편식": 4,
-    "식물성": 3,
-    "HMR": 3,
-    "핫소스": 3,
-    "K소스": 2,
-    "Pea sauce": 1,
-    "fermentation technology": 1,
-    "optimization": 1,
-    "plant-based sauce": 1,
-    "process improvement": 1,
-    "고추 소스": 1,
-    "발효 기술": 1,
-    "다중 균주": 1,
-    "소스 R&D": 1,
-    "미생물 발효": 1,
-    "salt reduction": 1,
-    "flavor enhancement": 1,
-    "molecular design": 1,
-    "taste perception": 1,
-    "맛 강화": 1,
-    "풍미 증진": 1,
-    "암 환자": 1,
-    "미각 변화": 1,
-    "후각 변화": 1,
-    "식품 선호도": 1,
-    "영양실조": 1,
-    "화학 요법": 1,
-    "소금": 1,
-    "레몬": 1,
-    "마늘": 1
+    "농심": 5,
+    "포테토칩": 5,
+    "중면": 5,
+    "소스류": 5,
+    "신제품": 4,
+    "커스터마이징": 4,
+    "건강식품": 4,
+    "소비 트렌드": 4,
+    "팔도비빔면 더 블루": 4,
+    "장류": 4,
+    "기능성 소재": 4,
+    "교촌간장치킨맛": 3,
+    "간장 소스": 3,
+    "디핑 소스": 3,
+    "식감": 3,
+    "깔끔한 매운맛": 3,
+    "깊은 풍미": 3,
+    "꽈리고추": 3,
+    "식물성 발효": 3,
+    "천연 조미 소재": 3,
+    "샘표": 3,
+    "세븐일레븐": 2,
+    "즉석식품": 2,
+    "소스 개발": 2,
+    "신규 소스": 2
   },
   "category_totals": {
-    "ingredient": 6,
-    "product": 4,
-    "consumer": 5,
-    "manufacturing": 7,
-    "market": 2
+    "product": 22,
+    "consumer": 11,
+    "manufacturing": 11,
+    "ingredient": 8,
+    "other": 34,
+    "market": 3
   },
   "highlighted_articles": [
     {
@@ -202,6 +192,38 @@
         "Umami Enhancers"
       ],
       "actionable_insight": "R&D팀은 나트륨 저감 소스 및 양념 개발 시, 맛 신호 전달 및 인지 메커니즘을 이해하고 분자 설계 기술을 활용하여 저나트륨 환경에서도 만족스러운 풍미를 제공하는 혁신적인 원료 및 제형 기술 개발에 집중해야 합니다."
+    },
+    {
+      "id": "a7afd67336c5",
+      "title": "샘표·한국식품연구원 맞손…발효 기술로 식품 신시장 키운다",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1343508",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T10:42:00+09:00",
+      "content": "2013년 설립한 샘표 R&amp;D센터 우리발효연구중심은 아시아 유일의 식물성 발효 전문 연구소로서 국내 최고... 단백질 유래 기능성 소재 브랜드 펩리치(Peprich)와 천연 조미 소재 브랜드 세이버리치(Savorich)를 성공적으로... ",
+      "search_keyword": "식물성 단백질",
+      "category": "ingredient",
+      "keywords": [
+        "샘표",
+        "한국식품연구원",
+        "발효 기술",
+        "식물성 발효",
+        "펩리치",
+        "세이버리치",
+        "단백질 유래 기능성 소재",
+        "천연 조미 소재",
+        "R&D센터 우리발효연구중심",
+        "식품 신시장"
+      ],
+      "summary": "샘표와 한국식품연구원은 발효 기술 협력을 통해 식품 신시장 개척에 나선다. 특히 샘표의 우리발효연구중심은 식물성 발효 전문 연구소로서 단백질 유래 기능성 소재 '펩리치'와 천연 조미 소재 '세이버리치'를 개발하여 소스·양념류 개발에 활용 가능한 혁신적인 원료를 제시한다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "단백질 유래 기능성 소재",
+        "천연 조미 소재",
+        "발효 소재"
+      ],
+      "actionable_insight": "R&D팀은 샘표와 같은 선도 기업의 발효 기술 기반 기능성 및 천연 조미 소재 개발 동향을 면밀히 분석하고, 자사 소스/양념류 제품에 적용할 수 있는 차별화된 원료 전략을 수립해야 한다."
     },
     {
       "id": "47e051b711be",
@@ -256,6 +278,304 @@
         "미생물 균주"
       ],
       "actionable_insight": "R&D팀은 다중 균주 발효 기술을 활용하여 고추 소스의 풍미와 기능성을 혁신하고, 경쟁력 있는 신규 발효 소스 제품 개발에 착수하라."
+    },
+    {
+      "id": "46dcef82cf5a",
+      "title": "[브리프]삼립 상미당홀딩스 롯데웰푸드 팔도 농심 동원F&amp;B",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=349984",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:52:00+09:00",
+      "content": "패티와 패티 사이에 번을 한 장 더 추가해 푸짐함을 더했으며, 자체 개발한 시그니처 '빅 쉑 소스'로 깊은 풍미를 완성했다. 신제품은 5월 6일까지 전국 쉐이크쉑 매장에서 만나볼 수 있다. 쉐이크쉑은 신제품 출시를... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "빅 쉑 소스",
+        "시그니처 소스",
+        "신제품",
+        "소스 개발",
+        "풍미"
+      ],
+      "summary": "쉐이크쉑이 신제품 출시와 함께 자체 개발한 '빅 쉑 소스'를 선보였다. 이 시그니처 소스는 신제품의 깊은 풍미를 완성하는 핵심 요소로, 맛 차별화를 통한 제품 경쟁력 강화에 기여하고 있다.",
+      "relevance_score": 9,
+      "trend_signal": "stable",
+      "key_ingredients": [],
+      "actionable_insight": "신제품의 맛과 정체성을 차별화하기 위한 시그니처 소스 개발의 중요성을 인지하고, 자체 소스 개발 역량 강화 및 트렌드 맞춤형 소스 포트폴리오 확장에 집중해야 한다."
+    },
+    {
+      "id": "34b1fd80b0f4",
+      "title": "농심, 교촌 간장치킨 담은 포테토칩 선보인다",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592082910223",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:52:00+09:00",
+      "content": "신제품 ‘포테토칩 교촌간장치킨맛’을 출시한다고 6일 밝혔다. ▲ [사진=농심] 포테토칩 교촌간장치킨맛은 인기 외식 메뉴를 감자칩으로 재해석하는 농심의 ‘포슐랭 가이드’ 시리즈의 일환으로 개발됐다. 간장 소스... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "농심",
+        "교촌간장치킨맛",
+        "포테토칩",
+        "신제품",
+        "간장 소스",
+        "포슐랭 가이드"
+      ],
+      "summary": "농심은 인기 외식 메뉴를 감자칩으로 재해석하는 '포슐랭 가이드' 시리즈의 일환으로 '포테토칩 교촌간장치킨맛'을 출시합니다. 이는 교촌치킨의 특색 있는 간장 소스 풍미를 스낵 제품에 성공적으로 구현하여 소비자들에게 익숙하면서도 새로운 맛 경험을 제공하는 사례입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "간장 소스",
+        "치킨맛 시즈닝"
+      ],
+      "actionable_insight": "인기 외식 프랜차이즈의 시그니처 소스/양념 프로파일을 다른 식품 카테고리(예: 스낵)에 성공적으로 적용하는 벤치마킹 사례를 분석하여, 자사 소스 개발 및 확장에 활용할 방안을 모색해야 합니다."
+    },
+    {
+      "id": "66334e912f87",
+      "title": "bhc, 미국 6호점 '뉴저지 포트리점' 오픈… &quot;MZ겨냥 현지화 메뉴&quot;",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=349980",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:52:00+09:00",
+      "content": "동시에 커스터마이징을 좋아하는 MZ세대 소비트렌드에 맞춰 기존 뿌링뿌링·랜치·스윗하바네로·양념 소스 외에 맛초킹·레드킹·핫뿌링마요·뿌링클마요 등 bhc만의 차별화된 신규 디핑 소스 4종을 추가해 더욱... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "디핑 소스",
+        "MZ세대 트렌드",
+        "커스터마이징",
+        "현지화",
+        "신규 소스"
+      ],
+      "summary": "bhc가 미국 시장에서 MZ세대의 커스터마이징 소비 트렌드를 겨냥하여 '맛초킹', '레드킹', '핫뿌링마요', '뿌링클마요' 등 4종의 신규 디핑 소스를 추가했다. 이는 현지 소비자들의 다양한 맛과 경험 추구에 부응하는 소스 라인업 확장 및 차별화 전략의 일환으로 분석된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "마요네즈",
+        "고추"
+      ],
+      "actionable_insight": "MZ세대의 커스터마이징 트렌드와 현지화 전략에 발맞춰, 기존 인기 플레이버를 활용한 마요네즈 및 칠리 베이스의 디핑 소스 개발을 우선적으로 검토해야 한다."
+    },
+    {
+      "id": "2faad0d36093",
+      "title": "팔도, '팔도비빔면 더 블루' 출시",
+      "url": "https://n.news.naver.com/mnews/article/243/0000094050?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:49:00+09:00",
+      "content": "신제품은 최근 트렌드인 '식감'에 주목해 중면을 적용한 것이 특징이다. 기존 제품 대비 두꺼운 면발이... 소스에 함유된 꽈리고추가 깔끔한 매운맛을 더하고 두툼한 중면이 양념을 잘 머금어 깊은 풍미를 느낄 수 있다.... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "팔도비빔면 더 블루",
+        "식감 트렌드",
+        "중면",
+        "꽈리고추 소스",
+        "깔끔한 매운맛",
+        "깊은 풍미",
+        "소스 흡착력"
+      ],
+      "summary": "팔도비빔면 더 블루는 최근 식감 트렌드에 맞춰 중면을 적용하여 면이 양념을 잘 머금을 수 있도록 설계된 신제품이다. 소스에 꽈리고추를 함유하여 깔끔하면서도 깊은 풍미의 매운맛을 구현, 면과 소스의 조화로운 상호작용으로 새로운 미식 경험을 제공하는 데 중점을 두었다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "꽈리고추"
+      ],
+      "actionable_insight": "면발의 식감과 소스 흡착력을 고려한 최적의 소스 조성 연구와 꽈리고추 같은 특색 있는 재료를 활용한 매운맛 차별화 방안을 모색해야 한다."
+    },
+    {
+      "id": "c4fea067697a",
+      "title": "장수군·설가온농원, 관광농원 조성 협약 체결",
+      "url": "https://www.sentv.co.kr/article/view/sentv202603060152",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:42:00+09:00",
+      "content": "특히 김치와 장류, 소스류 등 전통 가공식품 생산시설과 저장·발효 공간을 마련해 관광객들이 장수 농산물을 활용한 전통식품 제조 과정을 직접 체험할 수 있도록 운영할 방침이다. 또한 산나물과 장뇌산삼, 사과, 오미자... ",
+      "search_keyword": "발효 소스",
+      "category": "product",
+      "keywords": [
+        "소스류",
+        "전통 발효",
+        "지역 농산물",
+        "체험형 식품",
+        "관광농원"
+      ],
+      "summary": "장수군과 설가온농원이 관광농원 조성 협약을 통해 김치, 장류, 소스류 등 전통 가공식품 생산 시설과 발효 공간을 마련하고, 장수 농산물을 활용한 전통식품 제조 체험 프로그램을 운영할 계획입니다. 이는 전통 발효 기반의 소스 및 양념류 R&D에 영감을 제공하며, 지역 특산물 연계 및 체험형 제품 개발의 잠재력을 보여줍니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "산나물",
+        "사과",
+        "오미자"
+      ],
+      "actionable_insight": "R&D팀은 장수군 특산물(산나물, 사과, 오미자 등)과 전통 발효 기술을 접목한 신규 소스/양념류 개발 및 관광농원 연계 체험형 제품/콘텐츠 기획 방안을 모색해야 합니다."
+    },
+    {
+      "id": "e997a750dac9",
+      "title": "농심, ‘포테토칩 교촌간장치킨맛’ 출시",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202603061438002704de3f0aa1be_7",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:40:00+09:00",
+      "content": "농심이 오는 23일 스낵 신제품 ‘포테토칩 교촌간장치킨맛’을 출시한다고 6일 밝혔다. 인기 치킨 브랜드... 간장 소스의 짭짤함과 은은한 단맛, 마늘의 향긋한 풍미를 조화롭게 담아냈고, 생감자를 물결 모양으로 커팅해... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "농심",
+        "포테토칩",
+        "교촌간장치킨맛",
+        "간장 소스",
+        "마늘",
+        "스낵",
+        "콜라보"
+      ],
+      "summary": "농심이 인기 치킨 브랜드의 시그니처 간장 소스 맛을 적용한 '포테토칩 교촌간장치킨맛' 스낵을 출시합니다. 이 제품은 짭짤한 간장, 은은한 단맛, 향긋한 마늘 풍미의 조화를 강조하며, 기존 외식 소스 프로파일이 스낵류로 성공적으로 확장되는 사례를 보여줍니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "간장",
+        "마늘",
+        "설탕"
+      ],
+      "actionable_insight": "R&D팀은 성공적인 외식 브랜드의 간장 소스 프로파일(감칠맛, 단맛, 마늘)이 스낵 제품에 적용된 사례를 분석하여, 자사 소스/양념 개발 및 확장 포트폴리오 전략에 활용해야 합니다."
+    },
+    {
+      "id": "33349ffbf865",
+      "title": "도미노피자, 신제품 '아메리칸 클래식' 2종 출시",
+      "url": "http://www.lawissue.co.kr/view.php?ud=20260306143012910204ead0791_12",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:32:00+09:00",
+      "content": "도미노피자가 '그릴드 패티 치즈 버거 피자'와 '더블 미트 할라피뇨 피자' 등 신제품 2종을 출시했다고 6일 밝혔다. '그릴드 패티 치즈 버거 피자'는 아메리칸 치즈 버거 소스와 그릴드 패티를 사용했다. '더블 미트... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "도미노피자",
+        "피자",
+        "신제품",
+        "아메리칸 클래식",
+        "아메리칸 치즈 버거 소스",
+        "그릴드 패티",
+        "더블 미트 할라피뇨",
+        "소스 개발",
+        "맛 퓨전"
+      ],
+      "summary": "도미노피자가 '아메리칸 클래식' 신제품 피자 2종을 출시했다. 특히 '그릴드 패티 치즈 버거 피자'에는 '아메리칸 치즈 버거 소스'가 핵심적으로 사용되어, 익숙한 버거 맛을 피자에 접목하는 소스 개발 트렌드를 보여준다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "아메리칸 치즈 버거 소스",
+        "그릴드 패티",
+        "할라피뇨",
+        "치즈"
+      ],
+      "actionable_insight": "패스트푸드 대표 메뉴인 치즈 버거의 풍미를 담은 '아메리칸 치즈 버거 소스'처럼, 익숙한 외식 메뉴의 핵심 맛을 소스로 재해석하여 다양한 제품에 적용하는 퓨전 소스 개발에 집중해야 한다."
+    },
+    {
+      "id": "652f5912ce06",
+      "title": "bhc, 美 6호점 '뉴저지 포트리점' 매장 개점",
+      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=56185",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:28:00+09:00",
+      "content": "동시에 커스터마이징을 좋아하는 MZ세대 소비트렌드에 맞춰 기존 뿌링뿌링·랜치·스윗하바네로·양념 소스 외에 맛초킹·레드킹·핫뿌링마요·뿌링클마요 등 bhc만의 차별화된 신규 디핑 소스 4종을 추가해 더욱... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "MZ세대",
+        "커스터마이징",
+        "디핑 소스",
+        "신규 소스"
+      ],
+      "summary": "bhc가 MZ세대의 커스터마이징 트렌드에 맞춰 기존 소스 라인업에 맛초킹, 레드킹, 핫뿌링마요, 뿌링클마요 등 4종의 차별화된 신규 디핑 소스를 추가했다. 이는 소비자 취향을 반영한 특정 세대 맞춤형 소스 개발 전략을 보여준다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "마요네즈",
+        "고추/캡사이신",
+        "단맛 성분"
+      ],
+      "actionable_insight": "MZ세대의 커스터마이징 요구에 맞춰 기존 인기 메뉴의 맛을 활용한 디핑 소스 개발 및 마요네즈 기반의 복합적인 맛 프로파일 소스 연구에 집중해야 한다."
+    },
+    {
+      "id": "6d9a6a313f17",
+      "title": "팔도, '팔도비빔면 더 블루' 출시…더 깊어진 맛과 식감 강화",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=108396",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:26:00+09:00",
+      "content": "신제품은 최근 트렌드인 '식감'에 주목해 중면을 적용한 것이 특징이다. 기존 제품 대비 두꺼운 면발이... 소스에 함유된 꽈리고추가 깔끔한 매운맛을 더하고 두툼한 중면이 양념을 잘 머금어 깊은 풍미를 느낄 수 있다.... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "팔도비빔면 더 블루",
+        "식감",
+        "중면",
+        "꽈리고추",
+        "깔끔한 매운맛",
+        "깊은 풍미",
+        "양념 흡착"
+      ],
+      "summary": "'팔도비빔면 더 블루'는 최근 식감 트렌드를 반영해 중면을 적용, 양념 흡착력을 높여 깊은 풍미를 강조한다. 소스에 꽈리고추를 사용하여 깔끔한 매운맛을 구현하며 기존 제품과 차별화를 꾀했다. 이는 면과 양념의 시너지를 극대화하고 특정 재료로 풍미를 심화하는 R&D 방향을 제시한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "꽈리고추"
+      ],
+      "actionable_insight": "면발의 두께 및 재질 변화가 소스 흡착력과 전체적인 맛 경험에 미치는 영향을 분석하고, 꽈리고추와 같은 특정 향신 재료를 활용하여 차별화된 맛과 풍미를 개발하는 방안을 모색해야 한다."
+    },
+    {
+      "id": "ce4cfb6c9823",
+      "title": "팔도, '팔도비빔면 더 블루' 출시",
+      "url": "https://www.kmaeil.com/news/articleView.html?idxno=632099",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:26:00+09:00",
+      "content": "신제품은 최근 트렌드인 '식감'에 주목해 중면을 적용한 것이 특징이다. 기존 제품 대비 두꺼운 면발이 탄탄한... 소스에 함유된 꽈리고추가 깔끔한 매운맛을 더하고 두툼한 중면이 양념을 잘 머금어 깊은 풍미를 느낄 수... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "팔도비빔면 더 블루",
+        "중면",
+        "식감 트렌드",
+        "꽈리고추",
+        "깔끔한 매운맛",
+        "양념 흡수",
+        "깊은 풍미"
+      ],
+      "summary": "신제품은 최근 소비자 트렌드인 '식감'을 고려하여 두꺼운 중면을 사용한 것이 특징입니다. 소스에는 꽈리고추를 활용하여 깔끔한 매운맛을 구현했으며, 두꺼운 면발이 양념을 효과적으로 머금어 깊은 풍미를 제공하는 것에 중점을 두었습니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "꽈리고추",
+        "중면"
+      ],
+      "actionable_insight": "소스 개발 시, 면이나 다른 주요 재료의 물성 및 흡수율을 고려하여 최적의 풍미와 식감을 구현하는 상호작용 설계에 집중해야 한다."
+    },
+    {
+      "id": "c5b76952f3f9",
+      "title": "bhc, 미국 뉴저지 포트리에 6호점 개점…북미 시장 확장 속도",
+      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=78755",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-06T14:26:00+09:00",
+      "content": "기존 뿌링뿌링, 랜치, 스윗하바네로, 양념 소스에 더해 맛초킹, 레드킹, 핫뿌링마요, 뿌링클마요 등 bhc의... 개인 취향에 맞게 메뉴를 선택하는 커스터마이징 소비 트렌드를 반영한 구성이다. 새로운 사이드 메뉴... ",
+      "search_keyword": "양념 트렌드",
+      "category": "product",
+      "keywords": [
+        "소스 다양화",
+        "커스터마이징",
+        "북미 시장",
+        "마요네즈 기반 소스",
+        "매운맛 소스"
+      ],
+      "summary": "bhc가 북미 시장 확장을 위해 뿌링뿌링, 랜치, 스윗하바네로 등 기존 소스와 더불어 맛초킹, 레드킹, 마요네즈 기반의 핫뿌링마요, 뿌링클마요 등 다양한 소스를 선보였다. 이는 개인 취향을 반영한 커스터마이징 소비 트렌드를 적극적으로 활용하여 글로벌 시장에서의 소스 포트폴리오를 강화하려는 전략으로 분석된다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "마요네즈",
+        "하바네로/고추"
+      ],
+      "actionable_insight": "글로벌 시장 진출을 위한 현지 입맛 맞춤형 마요네즈 베이스 소스 및 다채로운 매운맛 프로파일 소스 개발에 집중하고, 소비자 커스터마이징을 지원할 수 있는 모듈형 소스 라인업 확대를 검토해야 한다."
     },
     {
       "id": "d6956734ca79",

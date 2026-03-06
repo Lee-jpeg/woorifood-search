@@ -2,7 +2,7 @@
   "month_id": "2026-03",
   "year": 2026,
   "month": 3,
-  "total_articles": 24,
+  "total_articles": 89,
   "days_included": [
     "2026-03-05",
     "2026-03-06"
@@ -29,11 +29,55 @@
       "count": 5
     },
     {
+      "keyword": "농심",
+      "count": 5
+    },
+    {
+      "keyword": "포테토칩",
+      "count": 5
+    },
+    {
+      "keyword": "중면",
+      "count": 5
+    },
+    {
+      "keyword": "소스류",
+      "count": 5
+    },
+    {
       "keyword": "저염",
       "count": 4
     },
     {
       "keyword": "간편식",
+      "count": 4
+    },
+    {
+      "keyword": "신제품",
+      "count": 4
+    },
+    {
+      "keyword": "커스터마이징",
+      "count": 4
+    },
+    {
+      "keyword": "건강식품",
+      "count": 4
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "팔도비빔면 더 블루",
+      "count": 4
+    },
+    {
+      "keyword": "장류",
+      "count": 4
+    },
+    {
+      "keyword": "기능성 소재",
       "count": 4
     },
     {
@@ -49,84 +93,40 @@
       "count": 3
     },
     {
-      "keyword": "Pea sauce",
-      "count": 1
+      "keyword": "교촌간장치킨맛",
+      "count": 3
     },
     {
-      "keyword": "fermentation technology",
-      "count": 1
+      "keyword": "간장 소스",
+      "count": 3
     },
     {
-      "keyword": "optimization",
-      "count": 1
+      "keyword": "디핑 소스",
+      "count": 3
     },
     {
-      "keyword": "plant-based sauce",
-      "count": 1
+      "keyword": "식감",
+      "count": 3
     },
     {
-      "keyword": "process improvement",
-      "count": 1
+      "keyword": "깔끔한 매운맛",
+      "count": 3
     },
     {
-      "keyword": "고추 소스",
-      "count": 1
+      "keyword": "깊은 풍미",
+      "count": 3
     },
     {
-      "keyword": "발효 기술",
-      "count": 1
+      "keyword": "꽈리고추",
+      "count": 3
     },
     {
-      "keyword": "다중 균주",
-      "count": 1
+      "keyword": "식물성 발효",
+      "count": 3
     },
     {
-      "keyword": "소스 R&D",
-      "count": 1
-    },
-    {
-      "keyword": "미생물 발효",
-      "count": 1
-    },
-    {
-      "keyword": "salt reduction",
-      "count": 1
-    },
-    {
-      "keyword": "flavor enhancement",
-      "count": 1
-    },
-    {
-      "keyword": "molecular design",
-      "count": 1
-    },
-    {
-      "keyword": "taste perception",
-      "count": 1
-    },
-    {
-      "keyword": "맛 강화",
-      "count": 1
-    },
-    {
-      "keyword": "풍미 증진",
-      "count": 1
-    },
-    {
-      "keyword": "암 환자",
-      "count": 1
-    },
-    {
-      "keyword": "미각 변화",
-      "count": 1
-    },
-    {
-      "keyword": "후각 변화",
-      "count": 1
-    },
-    {
-      "keyword": "식품 선호도",
-      "count": 1
+      "keyword": "천연 조미 소재",
+      "count": 3
     }
   ],
   "keyword_freq": {
@@ -164,14 +164,40 @@
     "화학 요법": 1,
     "소금": 1,
     "레몬": 1,
-    "마늘": 1
+    "마늘": 1,
+    "농심": 5,
+    "포테토칩": 5,
+    "중면": 5,
+    "소스류": 5,
+    "신제품": 4,
+    "커스터마이징": 4,
+    "건강식품": 4,
+    "소비 트렌드": 4,
+    "팔도비빔면 더 블루": 4,
+    "장류": 4,
+    "기능성 소재": 4,
+    "교촌간장치킨맛": 3,
+    "간장 소스": 3,
+    "디핑 소스": 3,
+    "식감": 3,
+    "깔끔한 매운맛": 3,
+    "깊은 풍미": 3,
+    "꽈리고추": 3,
+    "식물성 발효": 3,
+    "천연 조미 소재": 3,
+    "샘표": 3,
+    "세븐일레븐": 2,
+    "즉석식품": 2,
+    "소스 개발": 2,
+    "신규 소스": 2
   },
   "category_totals": {
-    "ingredient": 6,
-    "product": 4,
-    "consumer": 5,
-    "manufacturing": 7,
-    "market": 2
+    "ingredient": 14,
+    "product": 26,
+    "consumer": 16,
+    "manufacturing": 18,
+    "market": 5,
+    "other": 34
   },
   "weekly_keyword_trend": {
     "W10": {
@@ -204,7 +230,35 @@
       "화학 요법": 1,
       "소금": 1,
       "레몬": 1,
-      "마늘": 1
+      "마늘": 1,
+      "농심": 5,
+      "포테토칩": 5,
+      "중면": 5,
+      "소스류": 5,
+      "신제품": 4,
+      "커스터마이징": 4,
+      "건강식품": 4,
+      "소비 트렌드": 4,
+      "팔도비빔면 더 블루": 4,
+      "장류": 4,
+      "기능성 소재": 4,
+      "교촌간장치킨맛": 3,
+      "간장 소스": 3,
+      "디핑 소스": 3,
+      "식감": 3,
+      "깔끔한 매운맛": 3,
+      "깊은 풍미": 3,
+      "꽈리고추": 3,
+      "식물성 발효": 3,
+      "천연 조미 소재": 3,
+      "샘표": 3,
+      "세븐일레븐": 2,
+      "즉석식품": 2,
+      "소스 개발": 2,
+      "신규 소스": 2
     }
+  },
+  "daily_article_counts": {
+    "2026-03-06": 89
   }
 }
