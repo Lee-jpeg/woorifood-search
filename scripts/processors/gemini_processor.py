@@ -91,36 +91,63 @@ def generate_daily_summary(model, articles: list[dict], date_str: str) -> str:
     keyword_freq = {}
     for a in articles:
         cat = a.get("category", "other")
-        by_category.setdefault(cat, []).append(a.get("title", ""))
+        by_category.setdefault(cat, []).append(a)
         for kw in a.get("keywords", []):
             keyword_freq[kw] = keyword_freq.get(kw, 0) + 1
 
     top_kws = sorted(keyword_freq.items(), key=lambda x: x[1], reverse=True)[:12]
+    kw_list = ", ".join(f"{kw}({cnt}회)" for kw, cnt in top_kws[:8])
+
+    # Build detailed article briefs for top articles
+    high_relevance = sorted(
+        [a for a in articles if (a.get("relevance_score") or 0) >= 7],
+        key=lambda x: x.get("relevance_score", 0), reverse=True
+    )[:10]
+
+    article_briefs = []
+    for a in high_relevance:
+        brief = f"**{a.get('title', '')}**"
+        if a.get("summary"):
+            brief += f"\n  요약: {a['summary']}"
+        if a.get("actionable_insight"):
+            brief += f"\n  인사이트: {a['actionable_insight']}"
+        if a.get("key_ingredients"):
+            brief += f"\n  핵심 원료: {', '.join(a['key_ingredients'])}"
+        if a.get("trend_signal"):
+            brief += f"\n  트렌드: {a['trend_signal']}"
+        article_briefs.append(brief)
+
+    briefs_text = "\n\n".join(article_briefs) if article_briefs else "주목 기사 없음"
+
     cat_summary = "\n".join(
         f"- {CATEGORY_KO.get(cat, cat)}: {len(items)}건"
         for cat, items in by_category.items()
     )
-    kw_list = ", ".join(f"{kw}({cnt}회)" for kw, cnt in top_kws[:8])
 
-    high_relevance = [a for a in articles if (a.get("relevance_score") or 0) >= 8]
-    top_titles = "\n".join(
-        f"- {a['title']}" for a in sorted(high_relevance, key=lambda x: x.get("relevance_score", 0), reverse=True)[:5]
-    )
+    prompt = f"""당신은 식품 R&D팀(소스·양념류 전문) 시니어 애널리스트입니다.
+{date_str} 수집된 {len(articles)}건의 뉴스·논문을 분석하여 경영진 브리핑용 요약을 작성해주세요.
 
-    prompt = f"""식품 R&D팀(소스·양념 전문)을 위한 {date_str} 트렌드 요약을 작성해주세요.
-
-수집 기사:
+[카테고리별 분포]
 {cat_summary}
 
-주요 키워드: {kw_list}
+[주요 키워드 빈도]
+{kw_list}
 
-주목 기사:
-{top_titles}
+[핵심 기사 상세 (관련도 7+ 기사)]
+{briefs_text}
 
-마크다운 형식으로 작성 (간결하게):
-## 오늘의 핵심 인사이트 (3개)
-## 주목할 트렌드 시그널
-## R&D 액션 아이템"""
+위 데이터를 바탕으로 아래 형식의 한국어 브리핑을 작성하세요:
+
+## 🔥 오늘의 핵심 인사이트
+- 가장 중요한 트렌드 3가지를 **구체적으로** 설명 (기사 내용 인용 포함)
+
+## 📈 주목할 트렌드 시그널
+- 상승 중인 트렌드, 주요 기업 동향, 규제 변화 등을 구체적으로 기술
+
+## 🧪 R&D 액션 아이템
+- R&D팀이 즉시 검토해야 할 구체적인 개발 방향 3가지
+
+반드시 수집된 기사의 실제 내용을 인용하여 작성하세요. 추상적인 나열이 아닌, 바로 실행 가능한 구체적 인사이트를 제공해주세요."""
 
     try:
         response = model.generate_content(prompt)
