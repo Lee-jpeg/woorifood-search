@@ -104,27 +104,40 @@ def update_weekly_json(date: datetime, daily_data: dict):
     weekly = _load_or_init_weekly(week_file, date, week_id)
     date_str = date.strftime("%Y-%m-%d")
 
-    if date_str not in weekly["days_included"]:
+    # If re-running same day, subtract old counts first
+    if date_str in weekly["days_included"]:
+        old_count = weekly["daily_article_counts"].get(date_str, 0)
+        weekly["total_articles"] -= old_count
+    else:
         weekly["days_included"].append(date_str)
-        weekly["total_articles"] += daily_data["total_articles"]
-        weekly["daily_article_counts"][date_str] = daily_data["total_articles"]
 
-        for kw_item in daily_data["top_keywords"]:
-            kw, cnt = kw_item["keyword"], kw_item["count"]
-            weekly["daily_keyword_freq"][kw] = weekly["daily_keyword_freq"].get(kw, 0) + cnt
+    weekly["total_articles"] += daily_data["total_articles"]
+    weekly["daily_article_counts"][date_str] = daily_data["total_articles"]
 
-        for cat, cnt in daily_data["category_counts"].items():
-            weekly["category_totals"][cat] = weekly["category_totals"].get(cat, 0) + cnt
+    # Rebuild keyword freq and category totals from scratch for accuracy
+    weekly["daily_keyword_freq"] = {}
+    weekly["category_totals"] = {}
+    for kw_item in daily_data["top_keywords"]:
+        kw, cnt = kw_item["keyword"], kw_item["count"]
+        weekly["daily_keyword_freq"][kw] = weekly["daily_keyword_freq"].get(kw, 0) + cnt
 
-        sorted_kws = sorted(weekly["daily_keyword_freq"].items(), key=lambda x: x[1], reverse=True)
-        weekly["top_keywords"] = [{"keyword": k, "count": v} for k, v in sorted_kws[:25]]
+    for cat, cnt in daily_data["category_counts"].items():
+        weekly["category_totals"][cat] = weekly["category_totals"].get(cat, 0) + cnt
 
-        weekly["highlighted_articles"].extend(daily_data.get("highlighted_articles", []))
-        weekly["highlighted_articles"] = sorted(
-            weekly["highlighted_articles"],
-            key=lambda x: x.get("relevance_score", 0),
-            reverse=True,
-        )[:20]
+    sorted_kws = sorted(weekly["daily_keyword_freq"].items(), key=lambda x: x[1], reverse=True)
+    weekly["top_keywords"] = [{"keyword": k, "count": v} for k, v in sorted_kws[:25]]
+
+    # Replace highlighted articles (deduplicate by id)
+    existing_ids = {a.get("id") for a in daily_data.get("highlighted_articles", [])}
+    weekly["highlighted_articles"] = [
+        a for a in weekly["highlighted_articles"] if a.get("id") not in existing_ids
+    ]
+    weekly["highlighted_articles"].extend(daily_data.get("highlighted_articles", []))
+    weekly["highlighted_articles"] = sorted(
+        weekly["highlighted_articles"],
+        key=lambda x: x.get("relevance_score", 0),
+        reverse=True,
+    )[:20]
 
     with open(week_file, "w", encoding="utf-8") as f:
         json.dump(weekly, f, ensure_ascii=False, indent=2)
@@ -152,25 +165,31 @@ def update_monthly_json(date: datetime, daily_data: dict):
         }
 
     date_str = date.strftime("%Y-%m-%d")
+    # Always update (allow re-runs on same day)
     if date_str not in monthly["days_included"]:
         monthly["days_included"].append(date_str)
-        monthly["total_articles"] += daily_data["total_articles"]
+    # Recalculate total from daily article file counts
+    monthly["total_articles"] = sum(
+        monthly.get("daily_article_counts", {}).get(d, 0) for d in monthly["days_included"]
+        if d != date_str
+    ) + daily_data["total_articles"]
+    monthly.setdefault("daily_article_counts", {})[date_str] = daily_data["total_articles"]
 
-        week_label = f"W{date.isocalendar()[1]}"
-        monthly["weekly_keyword_trend"].setdefault(week_label, {})
+    week_label = f"W{date.isocalendar()[1]}"
+    monthly["weekly_keyword_trend"].setdefault(week_label, {})
 
-        for kw_item in daily_data["top_keywords"]:
-            kw, cnt = kw_item["keyword"], kw_item["count"]
-            monthly["keyword_freq"][kw] = monthly["keyword_freq"].get(kw, 0) + cnt
-            monthly["weekly_keyword_trend"][week_label][kw] = (
-                monthly["weekly_keyword_trend"][week_label].get(kw, 0) + cnt
-            )
+    for kw_item in daily_data["top_keywords"]:
+        kw, cnt = kw_item["keyword"], kw_item["count"]
+        monthly["keyword_freq"][kw] = monthly["keyword_freq"].get(kw, 0) + cnt
+        monthly["weekly_keyword_trend"][week_label][kw] = (
+            monthly["weekly_keyword_trend"][week_label].get(kw, 0) + cnt
+        )
 
-        for cat, cnt in daily_data["category_counts"].items():
-            monthly["category_totals"][cat] = monthly["category_totals"].get(cat, 0) + cnt
+    for cat, cnt in daily_data["category_counts"].items():
+        monthly["category_totals"][cat] = monthly["category_totals"].get(cat, 0) + cnt
 
-        sorted_kws = sorted(monthly["keyword_freq"].items(), key=lambda x: x[1], reverse=True)
-        monthly["top_keywords"] = [{"keyword": k, "count": v} for k, v in sorted_kws[:30]]
+    sorted_kws = sorted(monthly["keyword_freq"].items(), key=lambda x: x[1], reverse=True)
+    monthly["top_keywords"] = [{"keyword": k, "count": v} for k, v in sorted_kws[:30]]
 
     with open(month_file, "w", encoding="utf-8") as f:
         json.dump(monthly, f, ensure_ascii=False, indent=2)
