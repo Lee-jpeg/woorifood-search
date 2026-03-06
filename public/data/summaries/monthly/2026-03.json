@@ -2,9 +2,10 @@
   "month_id": "2026-03",
   "year": 2026,
   "month": 3,
-  "total_articles": 18,
+  "total_articles": 24,
   "days_included": [
-    "2026-03-05"
+    "2026-03-05",
+    "2026-03-06"
   ],
   "top_keywords": [
     {
@@ -48,16 +49,84 @@
       "count": 3
     },
     {
-      "keyword": "K소스",
-      "count": 2
+      "keyword": "Pea sauce",
+      "count": 1
     },
     {
-      "keyword": "대체감미료",
-      "count": 2
+      "keyword": "fermentation technology",
+      "count": 1
     },
     {
-      "keyword": "글루텐프리",
-      "count": 2
+      "keyword": "optimization",
+      "count": 1
+    },
+    {
+      "keyword": "plant-based sauce",
+      "count": 1
+    },
+    {
+      "keyword": "process improvement",
+      "count": 1
+    },
+    {
+      "keyword": "고추 소스",
+      "count": 1
+    },
+    {
+      "keyword": "발효 기술",
+      "count": 1
+    },
+    {
+      "keyword": "다중 균주",
+      "count": 1
+    },
+    {
+      "keyword": "소스 R&D",
+      "count": 1
+    },
+    {
+      "keyword": "미생물 발효",
+      "count": 1
+    },
+    {
+      "keyword": "salt reduction",
+      "count": 1
+    },
+    {
+      "keyword": "flavor enhancement",
+      "count": 1
+    },
+    {
+      "keyword": "molecular design",
+      "count": 1
+    },
+    {
+      "keyword": "taste perception",
+      "count": 1
+    },
+    {
+      "keyword": "맛 강화",
+      "count": 1
+    },
+    {
+      "keyword": "풍미 증진",
+      "count": 1
+    },
+    {
+      "keyword": "암 환자",
+      "count": 1
+    },
+    {
+      "keyword": "미각 변화",
+      "count": 1
+    },
+    {
+      "keyword": "후각 변화",
+      "count": 1
+    },
+    {
+      "keyword": "식품 선호도",
+      "count": 1
     }
   ],
   "keyword_freq": {
@@ -70,13 +139,38 @@
     "간편식": 4,
     "식물성": 3,
     "HMR": 3,
-    "핫소스": 3
+    "핫소스": 3,
+    "Pea sauce": 1,
+    "fermentation technology": 1,
+    "optimization": 1,
+    "plant-based sauce": 1,
+    "process improvement": 1,
+    "고추 소스": 1,
+    "발효 기술": 1,
+    "다중 균주": 1,
+    "소스 R&D": 1,
+    "미생물 발효": 1,
+    "salt reduction": 1,
+    "flavor enhancement": 1,
+    "molecular design": 1,
+    "taste perception": 1,
+    "맛 강화": 1,
+    "풍미 증진": 1,
+    "암 환자": 1,
+    "미각 변화": 1,
+    "후각 변화": 1,
+    "식품 선호도": 1,
+    "영양실조": 1,
+    "화학 요법": 1,
+    "소금": 1,
+    "레몬": 1,
+    "마늘": 1
   },
   "category_totals": {
-    "ingredient": 5,
+    "ingredient": 6,
     "product": 4,
-    "consumer": 4,
-    "manufacturing": 3,
+    "consumer": 5,
+    "manufacturing": 7,
     "market": 2
   },
   "weekly_keyword_trend": {
@@ -85,7 +179,32 @@
       "발효": 7,
       "알룰로스": 6,
       "클린라벨": 5,
-      "비건": 5
+      "비건": 5,
+      "Pea sauce": 1,
+      "fermentation technology": 1,
+      "optimization": 1,
+      "plant-based sauce": 1,
+      "process improvement": 1,
+      "고추 소스": 1,
+      "발효 기술": 1,
+      "다중 균주": 1,
+      "소스 R&D": 1,
+      "미생물 발효": 1,
+      "salt reduction": 1,
+      "flavor enhancement": 1,
+      "molecular design": 1,
+      "taste perception": 1,
+      "맛 강화": 1,
+      "풍미 증진": 1,
+      "암 환자": 1,
+      "미각 변화": 1,
+      "후각 변화": 1,
+      "식품 선호도": 1,
+      "영양실조": 1,
+      "화학 요법": 1,
+      "소금": 1,
+      "레몬": 1,
+      "마늘": 1
     }
   }
 }
