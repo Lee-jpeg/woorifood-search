@@ -2,66 +2,56 @@
   "week_id": "2026-W10",
   "start_date": "2026-03-02",
   "end_date": "2026-03-08",
-  "total_articles": 86,
+  "total_articles": 155,
   "days_included": [
     "2026-03-05",
-    "2026-03-06"
+    "2026-03-06",
+    "2026-03-07"
   ],
   "daily_article_counts": {
     "2026-03-05": 18,
-    "2026-03-06": 68
+    "2026-03-06": 68,
+    "2026-03-07": 69
   },
   "top_keywords": [
     {
-      "keyword": "신제품",
-      "count": 9
-    },
-    {
-      "keyword": "장류",
-      "count": 7
-    },
-    {
       "keyword": "중면",
+      "count": 6
+    },
+    {
+      "keyword": "신제품",
       "count": 5
-    },
-    {
-      "keyword": "소스류",
-      "count": 5
-    },
-    {
-      "keyword": "천연 조미 소재",
-      "count": 4
-    },
-    {
-      "keyword": "전통 가공식품",
-      "count": 4
     },
     {
       "keyword": "팔도비빔면 더 블루",
-      "count": 3
-    },
-    {
-      "keyword": "식감",
-      "count": 3
+      "count": 5
     },
     {
       "keyword": "소스",
-      "count": 3
+      "count": 4
     },
     {
-      "keyword": "간장 소스",
-      "count": 3
+      "keyword": "알룰로스",
+      "count": 4
     },
     {
       "keyword": "식감 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "꽈리고추",
+      "count": 4
+    },
+    {
+      "keyword": "풍미",
       "count": 3
     },
     {
-      "keyword": "간편식",
+      "keyword": "전분당",
       "count": 3
     },
     {
-      "keyword": "샘표",
+      "keyword": "담합",
       "count": 3
     },
     {
@@ -69,84 +59,97 @@
       "count": 3
     },
     {
-      "keyword": "발효",
-      "count": 3
-    },
-    {
-      "keyword": "체험",
-      "count": 3
-    },
-    {
-      "keyword": "발효 기술",
-      "count": 3
-    },
-    {
-      "keyword": "식물성 발효",
-      "count": 3
-    },
-    {
-      "keyword": "기능성 소재",
-      "count": 3
-    },
-    {
-      "keyword": "건강식품",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 오일",
-      "count": 2
-    },
-    {
       "keyword": "비빔면",
+      "count": 3
+    },
+    {
+      "keyword": "식감",
+      "count": 3
+    },
+    {
+      "keyword": "빅 쉑 소스",
       "count": 2
     },
     {
-      "keyword": "꽈리고추",
+      "keyword": "시그니처 소스",
       "count": 2
     },
     {
-      "keyword": "매운맛",
+      "keyword": "쉐이크쉑",
       "count": 2
     },
     {
-      "keyword": "발효 소스",
+      "keyword": "버거",
+      "count": 2
+    },
+    {
+      "keyword": "소스류",
+      "count": 2
+    },
+    {
+      "keyword": "협업",
+      "count": 2
+    },
+    {
+      "keyword": "간장 소스",
+      "count": 2
+    },
+    {
+      "keyword": "마늘 풍미",
+      "count": 2
+    },
+    {
+      "keyword": "물엿",
+      "count": 2
+    },
+    {
+      "keyword": "과당",
+      "count": 2
+    },
+    {
+      "keyword": "공정거래위원회",
+      "count": 2
+    },
+    {
+      "keyword": "불고기 소스",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 9,
-    "장류": 7,
-    "중면": 5,
-    "소스류": 5,
-    "천연 조미 소재": 4,
-    "전통 가공식품": 4,
-    "팔도비빔면 더 블루": 3,
-    "식감": 3,
-    "소스": 3,
-    "간장 소스": 3,
-    "식감 트렌드": 3,
-    "간편식": 3,
-    "샘표": 3,
+    "중면": 6,
+    "신제품": 5,
+    "팔도비빔면 더 블루": 5,
+    "소스": 4,
+    "알룰로스": 4,
+    "식감 트렌드": 4,
+    "꽈리고추": 4,
+    "풍미": 3,
+    "전분당": 3,
+    "담합": 3,
     "비건": 3,
-    "발효": 3,
-    "체험": 3,
-    "발효 기술": 3,
-    "식물성 발효": 3,
-    "기능성 소재": 3,
-    "건강식품": 2,
-    "식물성 오일": 2,
-    "비빔면": 2,
-    "꽈리고추": 2,
-    "매운맛": 2,
-    "발효 소스": 2
+    "비빔면": 3,
+    "식감": 3,
+    "빅 쉑 소스": 2,
+    "시그니처 소스": 2,
+    "쉐이크쉑": 2,
+    "버거": 2,
+    "소스류": 2,
+    "협업": 2,
+    "간장 소스": 2,
+    "마늘 풍미": 2,
+    "물엿": 2,
+    "과당": 2,
+    "공정거래위원회": 2,
+    "불고기 소스": 2
   },
   "category_totals": {
-    "consumer": 7,
-    "product": 27,
-    "market": 4,
-    "ingredient": 10,
+    "consumer": 8,
+    "product": 24,
     "manufacturing": 2,
-    "other": 18
+    "ingredient": 8,
+    "market": 5,
+    "other": 20,
+    "regulation": 2
   },
   "highlighted_articles": [
     {
