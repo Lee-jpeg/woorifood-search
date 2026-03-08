@@ -2,154 +2,154 @@
   "week_id": "2026-W10",
   "start_date": "2026-03-02",
   "end_date": "2026-03-08",
-  "total_articles": 155,
+  "total_articles": 210,
   "days_included": [
     "2026-03-05",
     "2026-03-06",
-    "2026-03-07"
+    "2026-03-07",
+    "2026-03-08"
   ],
   "daily_article_counts": {
     "2026-03-05": 18,
     "2026-03-06": 68,
-    "2026-03-07": 69
+    "2026-03-07": 69,
+    "2026-03-08": 55
   },
   "top_keywords": [
     {
-      "keyword": "중면",
+      "keyword": "식물성 단백질",
+      "count": 10
+    },
+    {
+      "keyword": "식문화",
+      "count": 8
+    },
+    {
+      "keyword": "향이 강한 소스",
+      "count": 7
+    },
+    {
+      "keyword": "두부",
       "count": 6
     },
     {
-      "keyword": "신제품",
+      "keyword": "소비 트렌드",
       "count": 5
     },
     {
-      "keyword": "팔도비빔면 더 블루",
+      "keyword": "글로벌 사우스",
       "count": 5
     },
     {
-      "keyword": "소스",
+      "keyword": "현지 맞춤형",
+      "count": 5
+    },
+    {
+      "keyword": "미국 시장",
+      "count": 5
+    },
+    {
+      "keyword": "중남미",
+      "count": 5
+    },
+    {
+      "keyword": "건강",
       "count": 4
     },
     {
-      "keyword": "알룰로스",
+      "keyword": "식품 중소기업",
       "count": 4
     },
     {
-      "keyword": "식감 트렌드",
+      "keyword": "지속가능성",
       "count": 4
     },
     {
-      "keyword": "꽈리고추",
+      "keyword": "K-푸드",
       "count": 4
     },
     {
-      "keyword": "풍미",
+      "keyword": "간편식",
       "count": 3
     },
     {
-      "keyword": "전분당",
+      "keyword": "냉장고 청소",
       "count": 3
     },
     {
-      "keyword": "담합",
+      "keyword": "베트남 시장",
       "count": 3
     },
     {
-      "keyword": "비건",
+      "keyword": "시장성 평가",
       "count": 3
     },
     {
-      "keyword": "비빔면",
+      "keyword": "롯데마트",
       "count": 3
     },
     {
-      "keyword": "식감",
+      "keyword": "김치",
       "count": 3
     },
     {
-      "keyword": "빅 쉑 소스",
+      "keyword": "건강식품",
+      "count": 3
+    },
+    {
+      "keyword": "발효식품",
+      "count": 3
+    },
+    {
+      "keyword": "고단백",
       "count": 2
     },
     {
-      "keyword": "시그니처 소스",
+      "keyword": "해외 진출",
       "count": 2
     },
     {
-      "keyword": "쉐이크쉑",
+      "keyword": "베트남",
       "count": 2
     },
     {
-      "keyword": "버거",
-      "count": 2
-    },
-    {
-      "keyword": "소스류",
-      "count": 2
-    },
-    {
-      "keyword": "협업",
-      "count": 2
-    },
-    {
-      "keyword": "간장 소스",
-      "count": 2
-    },
-    {
-      "keyword": "마늘 풍미",
-      "count": 2
-    },
-    {
-      "keyword": "물엿",
-      "count": 2
-    },
-    {
-      "keyword": "과당",
-      "count": 2
-    },
-    {
-      "keyword": "공정거래위원회",
-      "count": 2
-    },
-    {
-      "keyword": "불고기 소스",
+      "keyword": "유통 바이어",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "중면": 6,
-    "신제품": 5,
-    "팔도비빔면 더 블루": 5,
-    "소스": 4,
-    "알룰로스": 4,
-    "식감 트렌드": 4,
-    "꽈리고추": 4,
-    "풍미": 3,
-    "전분당": 3,
-    "담합": 3,
-    "비건": 3,
-    "비빔면": 3,
-    "식감": 3,
-    "빅 쉑 소스": 2,
-    "시그니처 소스": 2,
-    "쉐이크쉑": 2,
-    "버거": 2,
-    "소스류": 2,
-    "협업": 2,
-    "간장 소스": 2,
-    "마늘 풍미": 2,
-    "물엿": 2,
-    "과당": 2,
-    "공정거래위원회": 2,
-    "불고기 소스": 2
+    "식물성 단백질": 10,
+    "식문화": 8,
+    "향이 강한 소스": 7,
+    "두부": 6,
+    "소비 트렌드": 5,
+    "글로벌 사우스": 5,
+    "현지 맞춤형": 5,
+    "미국 시장": 5,
+    "중남미": 5,
+    "건강": 4,
+    "식품 중소기업": 4,
+    "지속가능성": 4,
+    "K-푸드": 4,
+    "간편식": 3,
+    "냉장고 청소": 3,
+    "베트남 시장": 3,
+    "시장성 평가": 3,
+    "롯데마트": 3,
+    "김치": 3,
+    "건강식품": 3,
+    "발효식품": 3,
+    "고단백": 2,
+    "해외 진출": 2,
+    "베트남": 2,
+    "유통 바이어": 2
   },
   "category_totals": {
-    "consumer": 8,
-    "product": 24,
-    "manufacturing": 2,
-    "ingredient": 8,
-    "market": 5,
-    "other": 20,
-    "regulation": 2
+    "market": 7,
+    "consumer": 27,
+    "product": 5,
+    "ingredient": 5,
+    "manufacturing": 11
   },
   "highlighted_articles": [
     {
