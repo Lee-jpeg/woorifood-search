@@ -2,33 +2,14 @@
   "week_id": "2026-W11",
   "start_date": "2026-03-09",
   "end_date": "2026-03-15",
-  "total_articles": 73,
+  "total_articles": 159,
   "days_included": [
-    "2026-03-09"
+    "2026-03-09",
+    "2026-03-10"
   ],
   "top_keywords": [
     {
-      "keyword": "간편식",
-      "count": 9
-    },
-    {
-      "keyword": "특제 양념",
-      "count": 8
-    },
-    {
-      "keyword": "편스토랑",
-      "count": 6
-    },
-    {
-      "keyword": "흑마늘 너비아니",
-      "count": 6
-    },
-    {
-      "keyword": "신제품",
-      "count": 6
-    },
-    {
-      "keyword": "NPEW",
+      "keyword": "간장소스",
       "count": 5
     },
     {
@@ -36,43 +17,19 @@
       "count": 5
     },
     {
-      "keyword": "HMR",
-      "count": 4
-    },
-    {
-      "keyword": "아워홈",
-      "count": 4
-    },
-    {
-      "keyword": "메종드구르메",
-      "count": 4
-    },
-    {
-      "keyword": "소스&시즈닝",
-      "count": 4
-    },
-    {
-      "keyword": "장류",
-      "count": 4
-    },
-    {
-      "keyword": "면역력 밥상",
+      "keyword": "일본 시장",
       "count": 3
     },
     {
-      "keyword": "K-홍삼",
+      "keyword": "식품 트렌드",
       "count": 3
     },
     {
-      "keyword": "미국 시장",
+      "keyword": "사조대림",
       "count": 3
     },
     {
-      "keyword": "천연식품",
-      "count": 3
-    },
-    {
-      "keyword": "글로벌 시장",
+      "keyword": "K-푸드",
       "count": 3
     },
     {
@@ -80,68 +37,113 @@
       "count": 3
     },
     {
-      "keyword": "두부",
+      "keyword": "간편식",
       "count": 3
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "맞벌이 가구",
       "count": 3
     },
     {
-      "keyword": "LF푸드",
-      "count": 3
-    },
-    {
-      "keyword": "자양",
+      "keyword": "한국식품",
       "count": 2
     },
     {
-      "keyword": "검정콩",
+      "keyword": "숙성 간장소스",
       "count": 2
     },
     {
-      "keyword": "소화 흡수율",
+      "keyword": "천연 발효종",
+      "count": 2
+    },
+    {
+      "keyword": "통곡물",
+      "count": 2
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "수입유통",
+      "count": 2
+    },
+    {
+      "keyword": "델라페",
+      "count": 2
+    },
+    {
+      "keyword": "보리",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 기반",
+      "count": 2
+    },
+    {
+      "keyword": "간편 조리",
+      "count": 2
+    },
+    {
+      "keyword": "순알콩",
       "count": 2
     },
     {
       "keyword": "비건 식품",
       "count": 2
+    },
+    {
+      "keyword": "피자헛",
+      "count": 2
+    },
+    {
+      "keyword": "치즈 폭탄 파스타",
+      "count": 2
+    },
+    {
+      "keyword": "모짜렐라 치즈",
+      "count": 2
+    },
+    {
+      "keyword": "미트 토마토 소스",
+      "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "간편식": 9,
-    "특제 양념": 8,
-    "편스토랑": 6,
-    "흑마늘 너비아니": 6,
-    "신제품": 6,
-    "NPEW": 5,
+    "간장소스": 5,
     "소스": 5,
-    "HMR": 4,
-    "아워홈": 4,
-    "메종드구르메": 4,
-    "소스&시즈닝": 4,
-    "장류": 4,
-    "면역력 밥상": 3,
-    "K-홍삼": 3,
-    "미국 시장": 3,
-    "천연식품": 3,
-    "글로벌 시장": 3,
+    "일본 시장": 3,
+    "식품 트렌드": 3,
+    "사조대림": 3,
+    "K-푸드": 3,
     "건강 트렌드": 3,
-    "두부": 3,
-    "식물성 단백질": 3,
-    "LF푸드": 3,
-    "자양": 2,
-    "검정콩": 2,
-    "소화 흡수율": 2,
-    "비건 식품": 2
+    "간편식": 3,
+    "맞벌이 가구": 3,
+    "한국식품": 2,
+    "숙성 간장소스": 2,
+    "천연 발효종": 2,
+    "통곡물": 2,
+    "소비 트렌드": 2,
+    "수입유통": 2,
+    "델라페": 2,
+    "보리": 2,
+    "식물성 기반": 2,
+    "간편 조리": 2,
+    "순알콩": 2,
+    "비건 식품": 2,
+    "피자헛": 2,
+    "치즈 폭탄 파스타": 2,
+    "모짜렐라 치즈": 2,
+    "미트 토마토 소스": 2
   },
   "category_totals": {
-    "product": 22,
-    "ingredient": 10,
-    "market": 11,
-    "consumer": 5,
-    "other": 18,
-    "manufacturing": 7
+    "market": 6,
+    "product": 20,
+    "ingredient": 11,
+    "consumer": 9,
+    "regulation": 2,
+    "manufacturing": 5,
+    "other": 33
   },
   "highlighted_articles": [
     {
@@ -693,7 +695,8 @@
     }
   ],
   "daily_article_counts": {
-    "2026-03-09": 73
+    "2026-03-09": 73,
+    "2026-03-10": 86
   },
   "ai_summary": null
 }
