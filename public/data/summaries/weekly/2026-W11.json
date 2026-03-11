@@ -2,148 +2,148 @@
   "week_id": "2026-W11",
   "start_date": "2026-03-09",
   "end_date": "2026-03-15",
-  "total_articles": 159,
+  "total_articles": 223,
   "days_included": [
     "2026-03-09",
-    "2026-03-10"
+    "2026-03-10",
+    "2026-03-11"
   ],
   "top_keywords": [
     {
-      "keyword": "간장소스",
-      "count": 5
+      "keyword": "저당",
+      "count": 10
+    },
+    {
+      "keyword": "간편식",
+      "count": 10
+    },
+    {
+      "keyword": "남해마늘",
+      "count": 9
+    },
+    {
+      "keyword": "양념",
+      "count": 9
+    },
+    {
+      "keyword": "피코크",
+      "count": 8
+    },
+    {
+      "keyword": "샐러드 드레싱",
+      "count": 7
+    },
+    {
+      "keyword": "애사비",
+      "count": 6
+    },
+    {
+      "keyword": "차지키 소스",
+      "count": 6
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 6
     },
     {
       "keyword": "소스",
       "count": 5
     },
     {
-      "keyword": "일본 시장",
+      "keyword": "신제품",
+      "count": 5
+    },
+    {
+      "keyword": "이마트",
+      "count": 5
+    },
+    {
+      "keyword": "저당소스",
+      "count": 4
+    },
+    {
+      "keyword": "비건",
+      "count": 4
+    },
+    {
+      "keyword": "대상다이브스",
+      "count": 4
+    },
+    {
+      "keyword": "복음자리",
+      "count": 4
+    },
+    {
+      "keyword": "닭볶음탕",
+      "count": 4
+    },
+    {
+      "keyword": "마늘소스",
       "count": 3
     },
     {
-      "keyword": "식품 트렌드",
+      "keyword": "다이어트 식단",
       "count": 3
     },
     {
-      "keyword": "사조대림",
+      "keyword": "샘표",
       "count": 3
     },
     {
-      "keyword": "K-푸드",
+      "keyword": "제철코어",
       "count": 3
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "대체육",
       "count": 3
     },
     {
-      "keyword": "간편식",
-      "count": 3
-    },
-    {
-      "keyword": "맞벌이 가구",
-      "count": 3
-    },
-    {
-      "keyword": "한국식품",
+      "keyword": "다이어트",
       "count": 2
     },
     {
-      "keyword": "숙성 간장소스",
+      "keyword": "환절기 건강",
       "count": 2
     },
     {
-      "keyword": "천연 발효종",
-      "count": 2
-    },
-    {
-      "keyword": "통곡물",
-      "count": 2
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "수입유통",
-      "count": 2
-    },
-    {
-      "keyword": "델라페",
-      "count": 2
-    },
-    {
-      "keyword": "보리",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 기반",
-      "count": 2
-    },
-    {
-      "keyword": "간편 조리",
-      "count": 2
-    },
-    {
-      "keyword": "순알콩",
-      "count": 2
-    },
-    {
-      "keyword": "비건 식품",
-      "count": 2
-    },
-    {
-      "keyword": "피자헛",
-      "count": 2
-    },
-    {
-      "keyword": "치즈 폭탄 파스타",
-      "count": 2
-    },
-    {
-      "keyword": "모짜렐라 치즈",
-      "count": 2
-    },
-    {
-      "keyword": "미트 토마토 소스",
+      "keyword": "건강기능식품",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "간장소스": 5,
+    "저당": 10,
+    "간편식": 10,
+    "남해마늘": 9,
+    "양념": 9,
+    "피코크": 8,
+    "샐러드 드레싱": 7,
+    "애사비": 6,
+    "차지키 소스": 6,
+    "식물성 단백질": 6,
     "소스": 5,
-    "일본 시장": 3,
-    "식품 트렌드": 3,
-    "사조대림": 3,
-    "K-푸드": 3,
-    "건강 트렌드": 3,
-    "간편식": 3,
-    "맞벌이 가구": 3,
-    "한국식품": 2,
-    "숙성 간장소스": 2,
-    "천연 발효종": 2,
-    "통곡물": 2,
-    "소비 트렌드": 2,
-    "수입유통": 2,
-    "델라페": 2,
-    "보리": 2,
-    "식물성 기반": 2,
-    "간편 조리": 2,
-    "순알콩": 2,
-    "비건 식품": 2,
-    "피자헛": 2,
-    "치즈 폭탄 파스타": 2,
-    "모짜렐라 치즈": 2,
-    "미트 토마토 소스": 2
+    "신제품": 5,
+    "이마트": 5,
+    "저당소스": 4,
+    "비건": 4,
+    "대상다이브스": 4,
+    "복음자리": 4,
+    "닭볶음탕": 4,
+    "마늘소스": 3,
+    "다이어트 식단": 3,
+    "샘표": 3,
+    "제철코어": 3,
+    "대체육": 3,
+    "다이어트": 2,
+    "환절기 건강": 2,
+    "건강기능식품": 2
   },
   "category_totals": {
-    "market": 6,
-    "product": 20,
-    "ingredient": 11,
-    "consumer": 9,
-    "regulation": 2,
-    "manufacturing": 5,
-    "other": 33
+    "product": 25,
+    "consumer": 16,
+    "market": 2,
+    "other": 12,
+    "ingredient": 4,
+    "manufacturing": 5
   },
   "highlighted_articles": [
     {
@@ -696,7 +696,8 @@
   ],
   "daily_article_counts": {
     "2026-03-09": 73,
-    "2026-03-10": 86
+    "2026-03-10": 86,
+    "2026-03-11": 64
   },
   "ai_summary": null
 }
