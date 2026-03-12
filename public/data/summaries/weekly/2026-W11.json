@@ -2,150 +2,175 @@
   "week_id": "2026-W11",
   "start_date": "2026-03-09",
   "end_date": "2026-03-15",
-  "total_articles": 223,
+  "total_articles": 303,
   "days_included": [
     "2026-03-09",
     "2026-03-10",
-    "2026-03-11"
+    "2026-03-11",
+    "2026-03-12"
   ],
   "top_keywords": [
     {
+      "keyword": "저칼로리",
+      "count": 11
+    },
+    {
       "keyword": "저당",
-      "count": 10
-    },
-    {
-      "keyword": "간편식",
-      "count": 10
-    },
-    {
-      "keyword": "남해마늘",
-      "count": 9
-    },
-    {
-      "keyword": "양념",
-      "count": 9
-    },
-    {
-      "keyword": "피코크",
-      "count": 8
-    },
-    {
-      "keyword": "샐러드 드레싱",
       "count": 7
     },
     {
-      "keyword": "애사비",
-      "count": 6
-    },
-    {
-      "keyword": "차지키 소스",
-      "count": 6
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 6
-    },
-    {
-      "keyword": "소스",
-      "count": 5
-    },
-    {
       "keyword": "신제품",
-      "count": 5
-    },
-    {
-      "keyword": "이마트",
-      "count": 5
-    },
-    {
-      "keyword": "저당소스",
-      "count": 4
-    },
-    {
-      "keyword": "비건",
-      "count": 4
-    },
-    {
-      "keyword": "대상다이브스",
-      "count": 4
-    },
-    {
-      "keyword": "복음자리",
-      "count": 4
-    },
-    {
-      "keyword": "닭볶음탕",
-      "count": 4
-    },
-    {
-      "keyword": "마늘소스",
-      "count": 3
-    },
-    {
-      "keyword": "다이어트 식단",
-      "count": 3
-    },
-    {
-      "keyword": "샘표",
-      "count": 3
+      "count": 6
     },
     {
       "keyword": "제철코어",
+      "count": 6
+    },
+    {
+      "keyword": "오뚜기",
+      "count": 5
+    },
+    {
+      "keyword": "비법 양념",
+      "count": 5
+    },
+    {
+      "keyword": "쭈꾸미볶음",
+      "count": 5
+    },
+    {
+      "keyword": "알룰로스",
+      "count": 5
+    },
+    {
+      "keyword": "진밀면",
+      "count": 4
+    },
+    {
+      "keyword": "간장",
+      "count": 4
+    },
+    {
+      "keyword": "고추장",
+      "count": 4
+    },
+    {
+      "keyword": "비빔소스",
+      "count": 4
+    },
+    {
+      "keyword": "간편식",
+      "count": 4
+    },
+    {
+      "keyword": "저지방",
+      "count": 4
+    },
+    {
+      "keyword": "하프 칼로리 마요네즈",
+      "count": 4
+    },
+    {
+      "keyword": "양지 육수",
       "count": 3
     },
     {
-      "keyword": "대체육",
+      "keyword": "혈당 관리",
       "count": 3
     },
     {
-      "keyword": "다이어트",
-      "count": 2
+      "keyword": "건강 트렌드",
+      "count": 3
     },
     {
-      "keyword": "환절기 건강",
-      "count": 2
+      "keyword": "제철 식재료",
+      "count": 3
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "소비 트렌드",
+      "count": 3
+    },
+    {
+      "keyword": "마요네즈",
+      "count": 3
+    },
+    {
+      "keyword": "로우 스펙 소스",
+      "count": 3
+    },
+    {
+      "keyword": "LOWTAG",
+      "count": 3
+    },
+    {
+      "keyword": "양념",
+      "count": 3
+    },
+    {
+      "keyword": "비법육수",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "저당": 10,
-    "간편식": 10,
-    "남해마늘": 9,
-    "양념": 9,
-    "피코크": 8,
-    "샐러드 드레싱": 7,
-    "애사비": 6,
-    "차지키 소스": 6,
-    "식물성 단백질": 6,
-    "소스": 5,
-    "신제품": 5,
-    "이마트": 5,
-    "저당소스": 4,
-    "비건": 4,
-    "대상다이브스": 4,
-    "복음자리": 4,
-    "닭볶음탕": 4,
-    "마늘소스": 3,
-    "다이어트 식단": 3,
-    "샘표": 3,
-    "제철코어": 3,
-    "대체육": 3,
-    "다이어트": 2,
-    "환절기 건강": 2,
-    "건강기능식품": 2
+    "저칼로리": 11,
+    "저당": 7,
+    "신제품": 6,
+    "제철코어": 6,
+    "오뚜기": 5,
+    "비법 양념": 5,
+    "쭈꾸미볶음": 5,
+    "알룰로스": 5,
+    "진밀면": 4,
+    "간장": 4,
+    "고추장": 4,
+    "비빔소스": 4,
+    "간편식": 4,
+    "저지방": 4,
+    "하프 칼로리 마요네즈": 4,
+    "양지 육수": 3,
+    "혈당 관리": 3,
+    "건강 트렌드": 3,
+    "제철 식재료": 3,
+    "소비 트렌드": 3,
+    "마요네즈": 3,
+    "로우 스펙 소스": 3,
+    "LOWTAG": 3,
+    "양념": 3,
+    "비법육수": 2
   },
   "category_totals": {
-    "product": 25,
-    "consumer": 16,
-    "market": 2,
-    "other": 12,
-    "ingredient": 4,
-    "manufacturing": 5
+    "regulation": 1,
+    "product": 30,
+    "consumer": 8,
+    "manufacturing": 4,
+    "market": 4,
+    "ingredient": 6,
+    "other": 27
   },
   "highlighted_articles": [
+    {
+      "id": "35d56b4d31c4",
+      "title": "[위클리오늘] 산업소식_식품(3.12)",
+      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=764621",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-03-12T09:40:00+09:00",
+      "content": "건강한 식습관을 추구하는 소비 트렌드가 이어지면서 저당·저칼로리 제품 수요도 꾸준히 증가하고 있다. 대상 청정원은 식약처 저·무 기준을 충족한 제품군에 부착하는 자체 엠블럼 'LOWTAG'를 앞세워 로우 스펙 소스와... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "건강한 식습관",
+        "저당",
+        "저칼로리",
+        "로우 스펙 소스",
+        "LOWTAG"
+      ],
+      "summary": "건강한 식습관 트렌드 확산에 따라 저당·저칼로리 제품 수요가 꾸준히 증가하고 있으며, 대상 청정원은 식약처 저·무 기준을 충족하는 자체 엠블럼 'LOWTAG'를 앞세워 로우 스펙 소스 제품군을 강화하고 있습니다. 소스 R&D 관점에서는 이러한 소비자 니즈에 맞춰 기능성 원료를 활용한 저당·저칼로리 소스 개발이 시급하며, 자체적인 '로우 스펙' 기준 및 인증 도입도 고려해볼 만합니다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "소스 R&D팀은 저당·저칼로리 트렌드에 맞춰 감미료 및 대체 지방 등 기능성 원료를 활용한 새로운 소스 제형 개발과 자체적인 로우 스펙 기준 마련을 고려해야 합니다."
+    },
     {
       "id": "c878c20c65a4",
       "title": "치킨도 스포츠도 잡았다... bhc, '콰삭킹X스윗칠리킹 반반'으로 치킨 시...",
@@ -669,35 +694,13 @@
         "트러플"
       ],
       "actionable_insight": "소스 R&D팀은 신규 유통 채널과 테마 존의 특성을 파악하여 차별화된 소스 제품을 개발하고, 올리브 오일, 트러플 등 프리미엄 원료 및 해외 소스 트렌드를 반영한 혁신적인 콘셉트 발굴에 집중해야 한다."
-    },
-    {
-      "id": "33c0f915b683",
-      "title": "[위클리오늘] 산업일반-식품 소식(3.9)",
-      "url": "http://www.weeklytoday.com/news/articleView.html?idxno=763496",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-09T10:10:00+09:00",
-      "content": "강화한 신제품 선봬 팔도가 '팔도비빔면 더 블루(The Blue)'를 선보인다고 밝혔다. 새로운 이름 '더 블루'는... 김동락 팔도 마케팅담당은 &quot;'팔도비빔면 더 블루'는 오리지널의 정체성 아래 새로운 면발과 소스를 적용해... ",
-      "search_keyword": "소스 신제품",
-      "category": "product",
-      "keywords": [
-        "팔도비빔면 더 블루",
-        "신제품",
-        "소스",
-        "비빔면",
-        "제품 혁신"
-      ],
-      "summary": "팔도가 기존 비빔면의 정체성을 유지하면서도 새로운 면발과 '새로운 소스'를 적용한 '팔도비빔면 더 블루' 신제품을 출시한다. 이는 인기 제품의 핵심 요소인 소스에 변화를 주어 시장 경쟁력을 강화하려는 전략으로 분석된다.",
-      "relevance_score": 9,
-      "trend_signal": "stable",
-      "key_ingredients": [],
-      "actionable_insight": "'팔도비빔면 더 블루'에 적용된 '새로운 소스'가 기존 오리지널 소스와 어떻게 차별화되는지, 그리고 오리지널의 정체성을 유지하면서 어떤 새로운 맛 경험을 제공하는지 분석하여 자사 소스 개발에 벤치마킹 요소로 활용해야 한다."
     }
   ],
   "daily_article_counts": {
     "2026-03-09": 73,
     "2026-03-10": 86,
-    "2026-03-11": 64
+    "2026-03-11": 64,
+    "2026-03-12": 80
   },
   "ai_summary": null
 }
