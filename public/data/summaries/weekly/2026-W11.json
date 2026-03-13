@@ -2,60 +2,25 @@
   "week_id": "2026-W11",
   "start_date": "2026-03-09",
   "end_date": "2026-03-15",
-  "total_articles": 303,
+  "total_articles": 392,
   "days_included": [
     "2026-03-09",
     "2026-03-10",
     "2026-03-11",
-    "2026-03-12"
+    "2026-03-12",
+    "2026-03-13"
   ],
   "top_keywords": [
-    {
-      "keyword": "저칼로리",
-      "count": 11
-    },
-    {
-      "keyword": "저당",
-      "count": 7
-    },
     {
       "keyword": "신제품",
       "count": 6
     },
     {
-      "keyword": "제철코어",
-      "count": 6
-    },
-    {
-      "keyword": "오뚜기",
-      "count": 5
-    },
-    {
-      "keyword": "비법 양념",
-      "count": 5
-    },
-    {
-      "keyword": "쭈꾸미볶음",
-      "count": 5
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 5
-    },
-    {
-      "keyword": "진밀면",
+      "keyword": "식물성 단백질",
       "count": 4
     },
     {
-      "keyword": "간장",
-      "count": 4
-    },
-    {
-      "keyword": "고추장",
-      "count": 4
-    },
-    {
-      "keyword": "비빔소스",
+      "keyword": "저칼로리",
       "count": 4
     },
     {
@@ -63,31 +28,7 @@
       "count": 4
     },
     {
-      "keyword": "저지방",
-      "count": 4
-    },
-    {
-      "keyword": "하프 칼로리 마요네즈",
-      "count": 4
-    },
-    {
-      "keyword": "양지 육수",
-      "count": 3
-    },
-    {
-      "keyword": "혈당 관리",
-      "count": 3
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "제철 식재료",
-      "count": 3
-    },
-    {
-      "keyword": "소비 트렌드",
+      "keyword": "저당",
       "count": 3
     },
     {
@@ -95,57 +36,117 @@
       "count": 3
     },
     {
-      "keyword": "로우 스펙 소스",
+      "keyword": "소스 팬",
       "count": 3
+    },
+    {
+      "keyword": "이마트",
+      "count": 3
+    },
+    {
+      "keyword": "피코크",
+      "count": 3
+    },
+    {
+      "keyword": "콩",
+      "count": 2
+    },
+    {
+      "keyword": "건강",
+      "count": 2
+    },
+    {
+      "keyword": "이소플라본",
+      "count": 2
     },
     {
       "keyword": "LOWTAG",
-      "count": 3
+      "count": 2
     },
     {
-      "keyword": "양념",
-      "count": 3
+      "keyword": "소스",
+      "count": 2
     },
     {
-      "keyword": "비법육수",
+      "keyword": "소비 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "협업",
+      "count": 2
+    },
+    {
+      "keyword": "인덕션",
+      "count": 2
+    },
+    {
+      "keyword": "맘스터치",
+      "count": 2
+    },
+    {
+      "keyword": "어향소스",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 원료",
+      "count": 2
+    },
+    {
+      "keyword": "식물 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "기능성 식품",
+      "count": 2
+    },
+    {
+      "keyword": "하프 칼로리 마요네즈",
+      "count": 2
+    },
+    {
+      "keyword": "저지방",
+      "count": 2
+    },
+    {
+      "keyword": "대상 청정원",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "저칼로리": 11,
-    "저당": 7,
     "신제품": 6,
-    "제철코어": 6,
-    "오뚜기": 5,
-    "비법 양념": 5,
-    "쭈꾸미볶음": 5,
-    "알룰로스": 5,
-    "진밀면": 4,
-    "간장": 4,
-    "고추장": 4,
-    "비빔소스": 4,
+    "식물성 단백질": 4,
+    "저칼로리": 4,
     "간편식": 4,
-    "저지방": 4,
-    "하프 칼로리 마요네즈": 4,
-    "양지 육수": 3,
-    "혈당 관리": 3,
-    "건강 트렌드": 3,
-    "제철 식재료": 3,
-    "소비 트렌드": 3,
+    "저당": 3,
     "마요네즈": 3,
-    "로우 스펙 소스": 3,
-    "LOWTAG": 3,
-    "양념": 3,
-    "비법육수": 2
+    "소스 팬": 3,
+    "이마트": 3,
+    "피코크": 3,
+    "콩": 2,
+    "건강": 2,
+    "이소플라본": 2,
+    "LOWTAG": 2,
+    "소스": 2,
+    "소비 트렌드": 2,
+    "협업": 2,
+    "인덕션": 2,
+    "맘스터치": 2,
+    "어향소스": 2,
+    "식물성 원료": 2,
+    "식물 단백질": 2,
+    "기능성 식품": 2,
+    "하프 칼로리 마요네즈": 2,
+    "저지방": 2,
+    "대상 청정원": 2
   },
   "category_totals": {
+    "ingredient": 13,
+    "product": 18,
+    "consumer": 12,
+    "market": 3,
+    "manufacturing": 2,
     "regulation": 1,
-    "product": 30,
-    "consumer": 8,
-    "manufacturing": 4,
-    "market": 4,
-    "ingredient": 6,
-    "other": 27
+    "other": 40
   },
   "highlighted_articles": [
     {
@@ -700,7 +701,8 @@
     "2026-03-09": 73,
     "2026-03-10": 86,
     "2026-03-11": 64,
-    "2026-03-12": 80
+    "2026-03-12": 80,
+    "2026-03-13": 89
   },
   "ai_summary": null
 }
