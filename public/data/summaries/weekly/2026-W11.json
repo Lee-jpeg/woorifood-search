@@ -2,77 +2,26 @@
   "week_id": "2026-W11",
   "start_date": "2026-03-09",
   "end_date": "2026-03-15",
-  "total_articles": 392,
+  "total_articles": 452,
   "days_included": [
     "2026-03-09",
     "2026-03-10",
     "2026-03-11",
     "2026-03-12",
-    "2026-03-13"
+    "2026-03-13",
+    "2026-03-14"
   ],
   "top_keywords": [
     {
-      "keyword": "신제품",
-      "count": 6
-    },
-    {
-      "keyword": "식물성 단백질",
+      "keyword": "봄동",
       "count": 4
-    },
-    {
-      "keyword": "저칼로리",
-      "count": 4
-    },
-    {
-      "keyword": "간편식",
-      "count": 4
-    },
-    {
-      "keyword": "저당",
-      "count": 3
-    },
-    {
-      "keyword": "마요네즈",
-      "count": 3
-    },
-    {
-      "keyword": "소스 팬",
-      "count": 3
-    },
-    {
-      "keyword": "이마트",
-      "count": 3
-    },
-    {
-      "keyword": "피코크",
-      "count": 3
-    },
-    {
-      "keyword": "콩",
-      "count": 2
     },
     {
       "keyword": "건강",
-      "count": 2
+      "count": 3
     },
     {
-      "keyword": "이소플라본",
-      "count": 2
-    },
-    {
-      "keyword": "LOWTAG",
-      "count": 2
-    },
-    {
-      "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "협업",
+      "keyword": "양파",
       "count": 2
     },
     {
@@ -80,73 +29,124 @@
       "count": 2
     },
     {
-      "keyword": "맘스터치",
+      "keyword": "소스팬",
       "count": 2
     },
     {
-      "keyword": "어향소스",
+      "keyword": "저당",
       "count": 2
     },
     {
-      "keyword": "식물성 원료",
+      "keyword": "봄동 비빔밥",
       "count": 2
     },
     {
-      "keyword": "식물 단백질",
+      "keyword": "소스 팬",
       "count": 2
     },
     {
-      "keyword": "기능성 식품",
+      "keyword": "디저트 트렌드",
       "count": 2
     },
     {
-      "keyword": "하프 칼로리 마요네즈",
+      "keyword": "인덕션레인지",
       "count": 2
     },
     {
-      "keyword": "저지방",
+      "keyword": "비건",
       "count": 2
     },
     {
-      "keyword": "대상 청정원",
+      "keyword": "프리미엄",
       "count": 2
+    },
+    {
+      "keyword": "큐브 프로버",
+      "count": 2
+    },
+    {
+      "keyword": "숙성",
+      "count": 2
+    },
+    {
+      "keyword": "신제품",
+      "count": 2
+    },
+    {
+      "keyword": "양념 컵치킨",
+      "count": 2
+    },
+    {
+      "keyword": "클로렐라",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "엽록소",
+      "count": 2
+    },
+    {
+      "keyword": "샐러드 드레싱",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "양념",
+      "count": 2
+    },
+    {
+      "keyword": "감칠맛",
+      "count": 2
+    },
+    {
+      "keyword": "양념돼지갈비",
+      "count": 1
+    },
+    {
+      "keyword": "AI 초벌",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 6,
-    "식물성 단백질": 4,
-    "저칼로리": 4,
-    "간편식": 4,
-    "저당": 3,
-    "마요네즈": 3,
-    "소스 팬": 3,
-    "이마트": 3,
-    "피코크": 3,
-    "콩": 2,
-    "건강": 2,
-    "이소플라본": 2,
-    "LOWTAG": 2,
-    "소스": 2,
-    "소비 트렌드": 2,
-    "협업": 2,
+    "봄동": 4,
+    "건강": 3,
+    "양파": 2,
     "인덕션": 2,
-    "맘스터치": 2,
-    "어향소스": 2,
-    "식물성 원료": 2,
-    "식물 단백질": 2,
-    "기능성 식품": 2,
-    "하프 칼로리 마요네즈": 2,
-    "저지방": 2,
-    "대상 청정원": 2
+    "소스팬": 2,
+    "저당": 2,
+    "봄동 비빔밥": 2,
+    "소스 팬": 2,
+    "디저트 트렌드": 2,
+    "인덕션레인지": 2,
+    "비건": 2,
+    "프리미엄": 2,
+    "큐브 프로버": 2,
+    "숙성": 2,
+    "신제품": 2,
+    "양념 컵치킨": 2,
+    "클로렐라": 2,
+    "식물성 단백질": 2,
+    "엽록소": 2,
+    "샐러드 드레싱": 2,
+    "소스": 2,
+    "양념": 2,
+    "감칠맛": 2,
+    "양념돼지갈비": 1,
+    "AI 초벌": 1
   },
   "category_totals": {
-    "ingredient": 13,
     "product": 18,
-    "consumer": 12,
-    "market": 3,
-    "manufacturing": 2,
     "regulation": 1,
-    "other": 40
+    "ingredient": 10,
+    "consumer": 13,
+    "other": 15,
+    "market": 3
   },
   "highlighted_articles": [
     {
@@ -702,7 +702,8 @@
     "2026-03-10": 86,
     "2026-03-11": 64,
     "2026-03-12": 80,
-    "2026-03-13": 89
+    "2026-03-13": 89,
+    "2026-03-14": 60
   },
   "ai_summary": null
 }
