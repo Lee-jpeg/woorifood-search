@@ -2,58 +2,43 @@
   "week_id": "2026-W11",
   "start_date": "2026-03-09",
   "end_date": "2026-03-15",
-  "total_articles": 452,
+  "total_articles": 498,
   "days_included": [
     "2026-03-09",
     "2026-03-10",
     "2026-03-11",
     "2026-03-12",
     "2026-03-13",
-    "2026-03-14"
+    "2026-03-14",
+    "2026-03-15"
   ],
   "top_keywords": [
     {
-      "keyword": "봄동",
+      "keyword": "삼성전자",
+      "count": 7
+    },
+    {
+      "keyword": "사운드바",
+      "count": 6
+    },
+    {
+      "keyword": "간편식",
       "count": 4
     },
     {
-      "keyword": "건강",
+      "keyword": "식물성 단백질",
+      "count": 4
+    },
+    {
+      "keyword": "시장 점유율",
       "count": 3
     },
     {
-      "keyword": "양파",
-      "count": 2
+      "keyword": "퓨처소스",
+      "count": 3
     },
     {
-      "keyword": "인덕션",
-      "count": 2
-    },
-    {
-      "keyword": "소스팬",
-      "count": 2
-    },
-    {
-      "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "봄동 비빔밥",
-      "count": 2
-    },
-    {
-      "keyword": "소스 팬",
-      "count": 2
-    },
-    {
-      "keyword": "디저트 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "인덕션레인지",
-      "count": 2
-    },
-    {
-      "keyword": "비건",
+      "keyword": "신제품",
       "count": 2
     },
     {
@@ -61,92 +46,108 @@
       "count": 2
     },
     {
-      "keyword": "큐브 프로버",
+      "keyword": "신제품 라인업",
       "count": 2
     },
     {
-      "keyword": "숙성",
+      "keyword": "전통 장",
       "count": 2
     },
     {
-      "keyword": "신제품",
+      "keyword": "된장 소스",
       "count": 2
     },
     {
-      "keyword": "양념 컵치킨",
+      "keyword": "발효 식초",
       "count": 2
     },
     {
-      "keyword": "클로렐라",
+      "keyword": "제주 푸른콩",
       "count": 2
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "발효 식재료",
       "count": 2
     },
     {
-      "keyword": "엽록소",
+      "keyword": "컵 떡볶이",
       "count": 2
     },
     {
-      "keyword": "샐러드 드레싱",
+      "keyword": "K-푸드",
       "count": 2
     },
     {
-      "keyword": "소스",
+      "keyword": "밀떡",
       "count": 2
     },
     {
-      "keyword": "양념",
+      "keyword": "특허 기술",
       "count": 2
     },
     {
-      "keyword": "감칠맛",
+      "keyword": "소스 흡수력",
       "count": 2
     },
     {
-      "keyword": "양념돼지갈비",
+      "keyword": "장기 보관",
+      "count": 2
+    },
+    {
+      "keyword": "콩",
+      "count": 2
+    },
+    {
+      "keyword": "저칼로리",
+      "count": 2
+    },
+    {
+      "keyword": "감미료",
+      "count": 2
+    },
+    {
+      "keyword": "오디오 경험",
       "count": 1
     },
     {
-      "keyword": "AI 초벌",
+      "keyword": "해외소싱",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "봄동": 4,
-    "건강": 3,
-    "양파": 2,
-    "인덕션": 2,
-    "소스팬": 2,
-    "저당": 2,
-    "봄동 비빔밥": 2,
-    "소스 팬": 2,
-    "디저트 트렌드": 2,
-    "인덕션레인지": 2,
-    "비건": 2,
-    "프리미엄": 2,
-    "큐브 프로버": 2,
-    "숙성": 2,
+    "삼성전자": 7,
+    "사운드바": 6,
+    "간편식": 4,
+    "식물성 단백질": 4,
+    "시장 점유율": 3,
+    "퓨처소스": 3,
     "신제품": 2,
-    "양념 컵치킨": 2,
-    "클로렐라": 2,
-    "식물성 단백질": 2,
-    "엽록소": 2,
-    "샐러드 드레싱": 2,
-    "소스": 2,
-    "양념": 2,
-    "감칠맛": 2,
-    "양념돼지갈비": 1,
-    "AI 초벌": 1
+    "프리미엄": 2,
+    "신제품 라인업": 2,
+    "전통 장": 2,
+    "된장 소스": 2,
+    "발효 식초": 2,
+    "제주 푸른콩": 2,
+    "발효 식재료": 2,
+    "컵 떡볶이": 2,
+    "K-푸드": 2,
+    "밀떡": 2,
+    "특허 기술": 2,
+    "소스 흡수력": 2,
+    "장기 보관": 2,
+    "콩": 2,
+    "저칼로리": 2,
+    "감미료": 2,
+    "오디오 경험": 1,
+    "해외소싱": 1
   },
   "category_totals": {
-    "product": 18,
-    "regulation": 1,
-    "ingredient": 10,
-    "consumer": 13,
-    "other": 15,
-    "market": 3
+    "other": 8,
+    "ingredient": 8,
+    "market": 5,
+    "product": 4,
+    "consumer": 9,
+    "manufacturing": 12
   },
   "highlighted_articles": [
     {
@@ -703,7 +704,8 @@
     "2026-03-11": 64,
     "2026-03-12": 80,
     "2026-03-13": 89,
-    "2026-03-14": 60
+    "2026-03-14": 60,
+    "2026-03-15": 46
   },
   "ai_summary": null
 }
