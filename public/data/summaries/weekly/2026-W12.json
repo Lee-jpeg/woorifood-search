@@ -2,148 +2,149 @@
   "week_id": "2026-W12",
   "start_date": "2026-03-16",
   "end_date": "2026-03-22",
-  "total_articles": 180,
+  "total_articles": 275,
   "days_included": [
     "2026-03-16",
     "2026-03-17",
-    "2026-03-18"
+    "2026-03-18",
+    "2026-03-19"
   ],
   "top_keywords": [
     {
-      "keyword": "소스",
+      "keyword": "파스타 소스",
+      "count": 11
+    },
+    {
+      "keyword": "스마트 키친",
+      "count": 9
+    },
+    {
+      "keyword": "대상",
+      "count": 9
+    },
+    {
+      "keyword": "무알코올",
       "count": 8
     },
     {
-      "keyword": "양념치킨",
+      "keyword": "리얼 제로",
       "count": 7
     },
     {
-      "keyword": "중국 시장",
-      "count": 6
+      "keyword": "브랜드파워",
+      "count": 7
     },
     {
-      "keyword": "블루푸드",
-      "count": 5
-    },
-    {
-      "keyword": "신제품 개발",
-      "count": 5
-    },
-    {
-      "keyword": "BBQ",
-      "count": 5
-    },
-    {
-      "keyword": "무띠",
-      "count": 4
-    },
-    {
-      "keyword": "토마토 소스",
-      "count": 4
-    },
-    {
-      "keyword": "토마토홀",
-      "count": 4
-    },
-    {
-      "keyword": "소용량",
-      "count": 4
-    },
-    {
-      "keyword": "수산식품",
-      "count": 4
-    },
-    {
-      "keyword": "더소스코리아",
-      "count": 4
-    },
-    {
-      "keyword": "치즐링",
-      "count": 4
-    },
-    {
-      "keyword": "미식 트렌드",
-      "count": 4
-    },
-    {
-      "keyword": "가정용",
-      "count": 3
-    },
-    {
-      "keyword": "삼양사",
-      "count": 3
+      "keyword": "국내산 농산물",
+      "count": 7
     },
     {
       "keyword": "신제품",
+      "count": 7
+    },
+    {
+      "keyword": "장류",
+      "count": 6
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 6
+    },
+    {
+      "keyword": "품질 관리",
+      "count": 6
+    },
+    {
+      "keyword": "푸드리스트",
+      "count": 5
+    },
+    {
+      "keyword": "레시피 추천",
+      "count": 4
+    },
+    {
+      "keyword": "제로 슈거",
+      "count": 4
+    },
+    {
+      "keyword": "AI 냉장고",
+      "count": 4
+    },
+    {
+      "keyword": "비스포크 AI 패밀리허브",
+      "count": 4
+    },
+    {
+      "keyword": "저탄소 인증",
       "count": 3
     },
     {
-      "keyword": "롯데리아",
+      "keyword": "지속가능성",
       "count": 3
     },
     {
-      "keyword": "온정돈까스",
+      "keyword": "AI",
       "count": 3
     },
     {
-      "keyword": "창사",
+      "keyword": "식재료 인식",
       "count": 3
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "제로 칼로리",
       "count": 3
     },
     {
-      "keyword": "소이갈릭",
+      "keyword": "소버 큐리어스",
       "count": 3
     },
     {
-      "keyword": "간편식",
-      "count": 3
-    },
-    {
-      "keyword": "디진다돈까스 소스",
+      "keyword": "삼진어묵",
       "count": 2
     },
     {
-      "keyword": "핑거 디저트",
+      "keyword": "수산가공식품",
+      "count": 2
+    },
+    {
+      "keyword": "K-BPI",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "소스": 8,
-    "양념치킨": 7,
-    "중국 시장": 6,
-    "블루푸드": 5,
-    "신제품 개발": 5,
-    "BBQ": 5,
-    "무띠": 4,
-    "토마토 소스": 4,
-    "토마토홀": 4,
-    "소용량": 4,
-    "수산식품": 4,
-    "더소스코리아": 4,
-    "치즐링": 4,
-    "미식 트렌드": 4,
-    "가정용": 3,
-    "삼양사": 3,
-    "신제품": 3,
-    "롯데리아": 3,
-    "온정돈까스": 3,
-    "창사": 3,
-    "식물성 단백질": 3,
-    "소이갈릭": 3,
-    "간편식": 3,
-    "디진다돈까스 소스": 2,
-    "핑거 디저트": 2
+    "파스타 소스": 11,
+    "스마트 키친": 9,
+    "대상": 9,
+    "무알코올": 8,
+    "리얼 제로": 7,
+    "브랜드파워": 7,
+    "국내산 농산물": 7,
+    "신제품": 7,
+    "장류": 6,
+    "소비 트렌드": 6,
+    "품질 관리": 6,
+    "푸드리스트": 5,
+    "레시피 추천": 4,
+    "제로 슈거": 4,
+    "AI 냉장고": 4,
+    "비스포크 AI 패밀리허브": 4,
+    "저탄소 인증": 3,
+    "지속가능성": 3,
+    "AI": 3,
+    "식재료 인식": 3,
+    "제로 칼로리": 3,
+    "소버 큐리어스": 3,
+    "삼진어묵": 2,
+    "수산가공식품": 2,
+    "K-BPI": 2
   },
   "category_totals": {
-    "product": 20,
-    "market": 6,
-    "consumer": 8,
-    "manufacturing": 10,
+    "consumer": 20,
+    "market": 9,
     "ingredient": 3,
-    "other": 19
+    "product": 17,
+    "manufacturing": 1,
+    "other": 45
   },
   "highlighted_articles": [
     {
@@ -712,7 +713,8 @@
   "daily_article_counts": {
     "2026-03-16": 49,
     "2026-03-17": 65,
-    "2026-03-18": 66
+    "2026-03-18": 66,
+    "2026-03-19": 95
   },
   "ai_summary": null
 }
