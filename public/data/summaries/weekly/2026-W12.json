@@ -2,149 +2,149 @@
   "week_id": "2026-W12",
   "start_date": "2026-03-16",
   "end_date": "2026-03-22",
-  "total_articles": 275,
+  "total_articles": 370,
   "days_included": [
     "2026-03-16",
     "2026-03-17",
     "2026-03-18",
-    "2026-03-19"
+    "2026-03-19",
+    "2026-03-20"
   ],
   "top_keywords": [
     {
-      "keyword": "파스타 소스",
+      "keyword": "식이섬유",
       "count": 11
     },
     {
-      "keyword": "스마트 키친",
-      "count": 9
-    },
-    {
-      "keyword": "대상",
-      "count": 9
-    },
-    {
-      "keyword": "무알코올",
-      "count": 8
-    },
-    {
-      "keyword": "리얼 제로",
+      "keyword": "식물성 단백질",
       "count": 7
     },
     {
-      "keyword": "브랜드파워",
+      "keyword": "드레싱",
       "count": 7
     },
     {
-      "keyword": "국내산 농산물",
-      "count": 7
-    },
-    {
-      "keyword": "신제품",
-      "count": 7
-    },
-    {
-      "keyword": "장류",
+      "keyword": "삼양사",
       "count": 6
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "케스토스",
       "count": 6
     },
     {
-      "keyword": "품질 관리",
+      "keyword": "알룰로스",
       "count": 6
     },
     {
-      "keyword": "푸드리스트",
+      "keyword": "저당 소스",
+      "count": 6
+    },
+    {
+      "keyword": "DSM",
       "count": 5
     },
     {
-      "keyword": "레시피 추천",
+      "keyword": "푸드테크",
       "count": 4
     },
     {
-      "keyword": "제로 슈거",
+      "keyword": "저당",
       "count": 4
     },
     {
-      "keyword": "AI 냉장고",
+      "keyword": "고려은단",
       "count": 4
     },
     {
-      "keyword": "비스포크 AI 패밀리허브",
+      "keyword": "밸런스케어 에너지바",
       "count": 4
     },
     {
-      "keyword": "저탄소 인증",
+      "keyword": "비타민",
+      "count": 4
+    },
+    {
+      "keyword": "소스",
+      "count": 4
+    },
+    {
+      "keyword": "피그인더가든",
+      "count": 4
+    },
+    {
+      "keyword": "웰니스",
+      "count": 4
+    },
+    {
+      "keyword": "모디슈머",
+      "count": 4
+    },
+    {
+      "keyword": "양념",
       "count": 3
     },
     {
-      "keyword": "지속가능성",
+      "keyword": "메뉴 다양화",
       "count": 3
     },
     {
-      "keyword": "AI",
+      "keyword": "프리미엄 원료",
       "count": 3
     },
     {
-      "keyword": "식재료 인식",
+      "keyword": "식사 대용",
       "count": 3
     },
     {
-      "keyword": "제로 칼로리",
+      "keyword": "스테비아",
       "count": 3
     },
     {
-      "keyword": "소버 큐리어스",
-      "count": 3
-    },
-    {
-      "keyword": "삼진어묵",
+      "keyword": "글로벌 시장",
       "count": 2
     },
     {
-      "keyword": "수산가공식품",
+      "keyword": "기능성 식품",
       "count": 2
     },
     {
-      "keyword": "K-BPI",
+      "keyword": "교촌치킨",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "파스타 소스": 11,
-    "스마트 키친": 9,
-    "대상": 9,
-    "무알코올": 8,
-    "리얼 제로": 7,
-    "브랜드파워": 7,
-    "국내산 농산물": 7,
-    "신제품": 7,
-    "장류": 6,
-    "소비 트렌드": 6,
-    "품질 관리": 6,
-    "푸드리스트": 5,
-    "레시피 추천": 4,
-    "제로 슈거": 4,
-    "AI 냉장고": 4,
-    "비스포크 AI 패밀리허브": 4,
-    "저탄소 인증": 3,
-    "지속가능성": 3,
-    "AI": 3,
-    "식재료 인식": 3,
-    "제로 칼로리": 3,
-    "소버 큐리어스": 3,
-    "삼진어묵": 2,
-    "수산가공식품": 2,
-    "K-BPI": 2
+    "식이섬유": 11,
+    "식물성 단백질": 7,
+    "드레싱": 7,
+    "삼양사": 6,
+    "케스토스": 6,
+    "알룰로스": 6,
+    "저당 소스": 6,
+    "DSM": 5,
+    "푸드테크": 4,
+    "저당": 4,
+    "고려은단": 4,
+    "밸런스케어 에너지바": 4,
+    "비타민": 4,
+    "소스": 4,
+    "피그인더가든": 4,
+    "웰니스": 4,
+    "모디슈머": 4,
+    "양념": 3,
+    "메뉴 다양화": 3,
+    "프리미엄 원료": 3,
+    "식사 대용": 3,
+    "스테비아": 3,
+    "글로벌 시장": 2,
+    "기능성 식품": 2,
+    "교촌치킨": 2
   },
   "category_totals": {
-    "consumer": 20,
-    "market": 9,
-    "ingredient": 3,
-    "product": 17,
-    "manufacturing": 1,
-    "other": 45
+    "market": 3,
+    "product": 33,
+    "ingredient": 7,
+    "consumer": 3,
+    "other": 49
   },
   "highlighted_articles": [
     {
@@ -714,7 +714,8 @@
     "2026-03-16": 49,
     "2026-03-17": 65,
     "2026-03-18": 66,
-    "2026-03-19": 95
+    "2026-03-19": 95,
+    "2026-03-20": 95
   },
   "ai_summary": null
 }
