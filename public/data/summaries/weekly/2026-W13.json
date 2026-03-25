@@ -2,94 +2,35 @@
   "week_id": "2026-W13",
   "start_date": "2026-03-23",
   "end_date": "2026-03-29",
-  "total_articles": 126,
+  "total_articles": 207,
   "days_included": [
     "2026-03-23",
-    "2026-03-24"
+    "2026-03-24",
+    "2026-03-25"
   ],
   "top_keywords": [
     {
-      "keyword": "저당",
-      "count": 10
-    },
-    {
-      "keyword": "저지방",
-      "count": 9
-    },
-    {
-      "keyword": "단백질",
-      "count": 7
-    },
-    {
-      "keyword": "저콜레스테롤",
-      "count": 7
-    },
-    {
-      "keyword": "리뉴얼",
+      "keyword": "신제품",
       "count": 6
     },
     {
-      "keyword": "퓨전 소스",
-      "count": 5
-    },
-    {
-      "keyword": "삼각김밥",
-      "count": 5
-    },
-    {
-      "keyword": "고추장 버터",
-      "count": 4
-    },
-    {
-      "keyword": "파스타 소스",
-      "count": 4
-    },
-    {
-      "keyword": "간편식",
-      "count": 4
-    },
-    {
-      "keyword": "소비 트렌드",
+      "keyword": "AI 활용",
       "count": 3
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "저당",
       "count": 3
     },
     {
-      "keyword": "스프레드",
+      "keyword": "제로슈거",
       "count": 3
     },
     {
-      "keyword": "비건",
-      "count": 3
-    },
-    {
-      "keyword": "단백질 음료",
-      "count": 3
-    },
-    {
-      "keyword": "동식물성 단백질",
-      "count": 3
-    },
-    {
-      "keyword": "틱톡 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "간장",
-      "count": 3
-    },
-    {
-      "keyword": "후리가케",
-      "count": 3
-    },
-    {
-      "keyword": "글로벌 전략 제품",
+      "keyword": "코스맥스그룹",
       "count": 2
     },
     {
-      "keyword": "잡 페스티벌",
+      "keyword": "신입사원 채용",
       "count": 2
     },
     {
@@ -97,52 +38,113 @@
       "count": 2
     },
     {
-      "keyword": "온라인 시장",
+      "keyword": "MZ세대",
       "count": 2
     },
     {
-      "keyword": "틱톡 레시피",
+      "keyword": "발효",
       "count": 2
     },
     {
-      "keyword": "신제품",
+      "keyword": "퀵커머스",
       "count": 2
+    },
+    {
+      "keyword": "근거리 쇼핑",
+      "count": 2
+    },
+    {
+      "keyword": "건강기능식품",
+      "count": 2
+    },
+    {
+      "keyword": "건강 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "신메뉴",
+      "count": 2
+    },
+    {
+      "keyword": "매운맛",
+      "count": 2
+    },
+    {
+      "keyword": "파스타 소스",
+      "count": 2
+    },
+    {
+      "keyword": "클린 라벨",
+      "count": 2
+    },
+    {
+      "keyword": "저염식",
+      "count": 2
+    },
+    {
+      "keyword": "인재 우대",
+      "count": 1
+    },
+    {
+      "keyword": "글로벌 규제",
+      "count": 1
+    },
+    {
+      "keyword": "인증 확보",
+      "count": 1
+    },
+    {
+      "keyword": "NSF 인증",
+      "count": 1
+    },
+    {
+      "keyword": "비건 V-Label",
+      "count": 1
+    },
+    {
+      "keyword": "수출 시장",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "저당": 10,
-    "저지방": 9,
-    "단백질": 7,
-    "저콜레스테롤": 7,
-    "리뉴얼": 6,
-    "퓨전 소스": 5,
-    "삼각김밥": 5,
-    "고추장 버터": 4,
-    "파스타 소스": 4,
-    "간편식": 4,
-    "소비 트렌드": 3,
-    "건강 트렌드": 3,
-    "스프레드": 3,
-    "비건": 3,
-    "단백질 음료": 3,
-    "동식물성 단백질": 3,
-    "틱톡 트렌드": 3,
-    "간장": 3,
-    "후리가케": 3,
-    "글로벌 전략 제품": 2,
-    "잡 페스티벌": 2,
+    "신제품": 6,
+    "AI 활용": 3,
+    "저당": 3,
+    "제로슈거": 3,
+    "코스맥스그룹": 2,
+    "신입사원 채용": 2,
     "K-푸드": 2,
-    "온라인 시장": 2,
-    "틱톡 레시피": 2,
-    "신제품": 2
+    "MZ세대": 2,
+    "발효": 2,
+    "퀵커머스": 2,
+    "근거리 쇼핑": 2,
+    "건강기능식품": 2,
+    "건강 트렌드": 2,
+    "소스": 2,
+    "신메뉴": 2,
+    "매운맛": 2,
+    "파스타 소스": 2,
+    "클린 라벨": 2,
+    "저염식": 2,
+    "인재 우대": 1,
+    "글로벌 규제": 1,
+    "인증 확보": 1,
+    "NSF 인증": 1,
+    "비건 V-Label": 1,
+    "수출 시장": 1
   },
   "category_totals": {
+    "other": 31,
+    "regulation": 3,
+    "manufacturing": 6,
+    "product": 17,
     "market": 9,
-    "consumer": 11,
-    "other": 32,
-    "product": 24,
-    "manufacturing": 3,
-    "ingredient": 1
+    "consumer": 9,
+    "ingredient": 6
   },
   "highlighted_articles": [
     {
@@ -682,7 +684,8 @@
   ],
   "daily_article_counts": {
     "2026-03-23": 46,
-    "2026-03-24": 80
+    "2026-03-24": 80,
+    "2026-03-25": 81
   },
   "ai_summary": null
 }
