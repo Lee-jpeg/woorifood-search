@@ -2,148 +2,149 @@
   "week_id": "2026-W14",
   "start_date": "2026-03-30",
   "end_date": "2026-04-05",
-  "total_articles": 158,
+  "total_articles": 255,
   "days_included": [
     "2026-03-30",
-    "2026-03-31"
+    "2026-03-31",
+    "2026-04-01"
   ],
   "top_keywords": [
     {
-      "keyword": "다시마 농축액",
-      "count": 11
+      "keyword": "알룰로스",
+      "count": 9
     },
     {
-      "keyword": "특제 양념",
-      "count": 10
+      "keyword": "저당",
+      "count": 7
     },
     {
-      "keyword": "감칠맛",
-      "count": 10
-    },
-    {
-      "keyword": "삼각김밥",
-      "count": 6
-    },
-    {
-      "keyword": "들기름",
+      "keyword": "고추장",
       "count": 5
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "신제품",
       "count": 4
     },
     {
-      "keyword": "식품의약품안전처",
+      "keyword": "드레싱",
       "count": 4
     },
     {
-      "keyword": "삼성웰스토리",
-      "count": 4
-    },
-    {
-      "keyword": "레피세리",
+      "keyword": "영유아식",
       "count": 3
     },
     {
-      "keyword": "미식 트렌드",
+      "keyword": "특제 소스",
       "count": 3
     },
     {
-      "keyword": "풍미",
+      "keyword": "소비 트렌드",
       "count": 3
     },
     {
-      "keyword": "삼삼한 데이",
+      "keyword": "홍초",
       "count": 3
     },
     {
-      "keyword": "식약처",
+      "keyword": "청정원",
       "count": 3
     },
     {
-      "keyword": "저나트륨",
+      "keyword": "건강 지향",
       "count": 3
     },
     {
-      "keyword": "저염식",
+      "keyword": "소스",
       "count": 3
     },
     {
-      "keyword": "나트륨 저감",
+      "keyword": "신제품 개발",
       "count": 3
     },
     {
-      "keyword": "식물성",
-      "count": 3
-    },
-    {
-      "keyword": "저당 소스",
-      "count": 3
-    },
-    {
-      "keyword": "건강 트렌드",
+      "keyword": "프리미엄",
       "count": 2
     },
     {
-      "keyword": "프리미엄 식료품점",
+      "keyword": "하림",
       "count": 2
     },
     {
-      "keyword": "토핑",
+      "keyword": "마살라 소스",
       "count": 2
     },
     {
-      "keyword": "간편식",
+      "keyword": "티카마살라",
       "count": 2
     },
     {
-      "keyword": "사조대림",
+      "keyword": "영양 설계",
       "count": 2
     },
     {
-      "keyword": "로얄크랩",
+      "keyword": "저당 홍초",
       "count": 2
     },
     {
-      "keyword": "맛살",
+      "keyword": "HMR",
       "count": 2
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "자동화",
+      "count": 2
+    },
+    {
+      "keyword": "RFID",
+      "count": 2
+    },
+    {
+      "keyword": "갤럭시 워치",
+      "count": 1
+    },
+    {
+      "keyword": "혈압 측정",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "다시마 농축액": 11,
-    "특제 양념": 10,
-    "감칠맛": 10,
-    "삼각김밥": 6,
-    "들기름": 5,
-    "건강기능식품": 4,
-    "식품의약품안전처": 4,
-    "삼성웰스토리": 4,
-    "레피세리": 3,
-    "미식 트렌드": 3,
-    "풍미": 3,
-    "삼삼한 데이": 3,
-    "식약처": 3,
-    "저나트륨": 3,
-    "저염식": 3,
-    "나트륨 저감": 3,
-    "식물성": 3,
-    "저당 소스": 3,
-    "건강 트렌드": 2,
-    "프리미엄 식료품점": 2,
-    "토핑": 2,
-    "간편식": 2,
-    "사조대림": 2,
-    "로얄크랩": 2,
-    "맛살": 2
+    "알룰로스": 9,
+    "저당": 7,
+    "고추장": 5,
+    "신제품": 4,
+    "드레싱": 4,
+    "영유아식": 3,
+    "특제 소스": 3,
+    "소비 트렌드": 3,
+    "홍초": 3,
+    "청정원": 3,
+    "건강 지향": 3,
+    "소스": 3,
+    "신제품 개발": 3,
+    "프리미엄": 2,
+    "하림": 2,
+    "마살라 소스": 2,
+    "티카마살라": 2,
+    "영양 설계": 2,
+    "저당 홍초": 2,
+    "HMR": 2,
+    "식물성 단백질": 2,
+    "자동화": 2,
+    "RFID": 2,
+    "갤럭시 워치": 1,
+    "혈압 측정": 1
   },
   "category_totals": {
-    "product": 17,
-    "consumer": 16,
-    "market": 7,
-    "ingredient": 6,
-    "other": 36,
-    "regulation": 1,
-    "manufacturing": 4
+    "consumer": 8,
+    "product": 27,
+    "market": 4,
+    "ingredient": 7,
+    "regulation": 2,
+    "manufacturing": 1,
+    "other": 48
   },
   "highlighted_articles": [
     {
@@ -171,6 +172,57 @@
         "당류"
       ],
       "actionable_insight": "소스/양념류 R&D팀은 나트륨 및 당 저감화 기술을 고도화하여 맛 품질을 유지하면서도 건강 트렌드에 부합하는 신제품 개발에 집중해야 한다."
+    },
+    {
+      "id": "a609ae3ffd15",
+      "title": "대상, 청정원 론칭 30주년 기념 브랜드 캠페인 본편 영상 공개",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=152502",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-04-01T09:48:00+09:00",
+      "content": "알룰로스, 저당 홍초, 저당 드레싱, 저당 현미 고추장 등 저당 제품군과 콩담백면, 그레인보우, 두부... 1996년 출시된 청정원은 국내 대표 종합식품 브랜드로 자리 잡았으며, 30주년을 맞아 식품을 넘어 라이프스타일... ",
+      "search_keyword": "알룰로스 식품",
+      "category": "product",
+      "keywords": [
+        "저당",
+        "알룰로스",
+        "청정원",
+        "드레싱",
+        "고추장",
+        "홍초"
+      ],
+      "summary": "대상 청정원은 30주년을 맞아 알룰로스를 적용한 저당 홍초, 저당 드레싱, 저당 현미 고추장 등 저당 소스·양념류를 주력으로 하는 캠페인을 공개했다. 이는 건강 지향적인 소비자 트렌드를 반영하여 당류 저감 기술과 대체 감미료 활용이 소스·양념 R&D의 중요 방향임을 시사한다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스"
+      ],
+      "actionable_insight": "소스·양념 R&D팀은 알룰로스 등 대체 감미료를 활용한 저당 소스·양념 개발을 핵심 과제로 삼고, 기존 제품군에도 건강 트렌드를 반영한 혁신 방안을 적극적으로 모색해야 한다."
+    },
+    {
+      "id": "5fc73ba330a3",
+      "title": "삼양사, 알룰로스로 '승부수'…스페셜티 소재 사업 확대",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=829208",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-04-01T06:02:00+09:00",
+      "content": "저당·제로 칼로리 식품 수요가 빠르게 증가하면서 식품업계 전반에서 활용도가 높아지고 있다. 삼양사는... 현재 삼양사의 알룰로스는 탄산음료, 과자, 젤리, 유제품, 베이커리, 소스 등 다양한 식품군에서 300여 개... ",
+      "search_keyword": "저당 소스",
+      "category": "ingredient",
+      "keywords": [
+        "알룰로스",
+        "저당",
+        "제로칼로리",
+        "스페셜티 소재",
+        "소스류"
+      ],
+      "summary": "저당 및 제로 칼로리 식품에 대한 소비자 수요가 급증하면서 알룰로스와 같은 대체 감미료의 중요성이 커지고 있다. 삼양사가 스페셜티 소재로 알룰로스 사업을 확장하며 소스류를 포함한 다양한 식품군에 적용하고 있어, 소스·양념류 R&D에서 당 저감 트렌드에 맞춰 알룰로스 적용을 적극 검토해야 한다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "알룰로스"
+      ],
+      "actionable_insight": "소스·양념류 R&D팀은 당 저감 및 제로 칼로리 트렌드에 맞춰 알룰로스를 활용한 신제품 개발 및 기존 제품 리뉴얼 방안을 모색해야 한다."
     },
     {
       "id": "02bd64883f25",
@@ -628,61 +680,12 @@
         "시그니처 소스"
       ],
       "actionable_insight": "기존 식품 제품군에 '소스 통합'을 통해 프리미엄 가치를 더하고, 제품의 주재료와 완벽하게 조화되는 시그니처 소스 개발에 집중해야 합니다."
-    },
-    {
-      "id": "41d741ec0c1b",
-      "title": "전북자치도, H마트 바이어 초청 수출상담회 개최…북미시장 공략",
-      "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=426731",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-31T10:42:00+09:00",
-      "content": "농수산식품 수출상담회 및 세미나'를 개최했다고 31일 밝혔다. H마트는 미국 14개 주에 79개 매장과 5개... 둘째 날에는 미국 시장 진출 전략 세미나를 통해 소비 트렌드, 유통채널 특성, FDA 절차 등 실무 중심 정보를... ",
-      "search_keyword": "식품 트렌드",
-      "category": "market",
-      "keywords": [
-        "H마트",
-        "북미시장",
-        "수출상담회",
-        "소비 트렌드",
-        "유통채널",
-        "FDA 절차"
-      ],
-      "summary": "전북자치도가 H마트 바이어 초청 수출상담회를 개최하여 북미 시장 진출을 모색한다. 이번 행사에서는 북미 시장의 소비 트렌드, 유통 채널 특성, FDA 절차 등 실무 정보가 공유되었다. 소스·양념류 R&D 관점에서는 북미 소비자의 취향과 현지 규제에 부합하는 제품 개발 전략 수립이 필요하다.",
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [],
-      "actionable_insight": "북미 시장의 최신 소비 트렌드와 유통 채널 특성을 면밀히 분석하고 FDA 규제에 부합하는 소스·양념류 현지화 제품 개발에 집중하라."
-    },
-    {
-      "id": "5807afa6b31b",
-      "title": "삼성웰스토리, 식약처와 함께하는 ‘삼삼한 데이’ 진행",
-      "url": "https://n.news.naver.com/mnews/article/082/0001373536?sid=101",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-03-31T10:42:00+09:00",
-      "content": "이번 행사는 저염 식문화를 확산하기 위해 마련했다. ​‘삼삼한 데이’는 식품의약품안전처가 지정한 건강 식습관 실천의 날로 올해 2회차를 맞았다. 삼성웰스토리는 더 많은 고객이 참여할 수 있도록 캠페인 기간을... ",
-      "search_keyword": "저염 식품",
-      "category": "consumer",
-      "keywords": [
-        "저염 식문화",
-        "건강 식습관",
-        "식약처",
-        "삼성웰스토리",
-        "저나트륨"
-      ],
-      "summary": "삼성웰스토리가 식약처와 함께 '삼삼한 데이'를 통해 저염 식문화 확산을 주도하고 있습니다. 이는 건강한 식습관에 대한 소비자 요구, 특히 나트륨 저감에 대한 관심이 증가하고 있음을 명확히 보여줍니다. 소스/양념 R&D 팀은 나트륨 함량을 줄이면서도 맛과 풍미를 유지할 수 있는 혁신적인 저염 제품 개발에 집중해야 할 필요가 있습니다.",
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "저나트륨 소금 대체재",
-        "천연 감칠맛 성분"
-      ],
-      "actionable_insight": "R&D팀은 저나트륨 소스/양념 개발 시, 단순히 나트륨을 줄이는 것을 넘어 풍미와 감칠맛을 극대화하는 혁신적인 원료 및 제형 솔루션 탐색에 집중해야 합니다."
     }
   ],
   "daily_article_counts": {
     "2026-03-30": 71,
-    "2026-03-31": 87
+    "2026-03-31": 87,
+    "2026-04-01": 97
   },
   "ai_summary": null
 }
