@@ -2,149 +2,149 @@
   "week_id": "2026-W14",
   "start_date": "2026-03-30",
   "end_date": "2026-04-05",
-  "total_articles": 255,
+  "total_articles": 342,
   "days_included": [
     "2026-03-30",
     "2026-03-31",
-    "2026-04-01"
+    "2026-04-01",
+    "2026-04-02"
   ],
   "top_keywords": [
     {
-      "keyword": "알룰로스",
-      "count": 9
-    },
-    {
       "keyword": "저당",
-      "count": 7
-    },
-    {
-      "keyword": "고추장",
       "count": 5
     },
     {
-      "keyword": "신제품",
+      "keyword": "간장치킨",
       "count": 4
     },
     {
-      "keyword": "드레싱",
+      "keyword": "식물성 원료",
       "count": 4
     },
     {
-      "keyword": "영유아식",
-      "count": 3
-    },
-    {
-      "keyword": "특제 소스",
-      "count": 3
+      "keyword": "식물성 단백질",
+      "count": 4
     },
     {
       "keyword": "소비 트렌드",
       "count": 3
     },
     {
-      "keyword": "홍초",
+      "keyword": "단백질",
       "count": 3
     },
     {
-      "keyword": "청정원",
+      "keyword": "쏘이갈릭킹",
       "count": 3
     },
     {
-      "keyword": "건강 지향",
+      "keyword": "건강",
       "count": 3
+    },
+    {
+      "keyword": "알룰로스",
+      "count": 3
+    },
+    {
+      "keyword": "간편식",
+      "count": 3
+    },
+    {
+      "keyword": "비건",
+      "count": 3
+    },
+    {
+      "keyword": "동물성 단백질",
+      "count": 3
+    },
+    {
+      "keyword": "바삭한 식감",
+      "count": 2
+    },
+    {
+      "keyword": "동원F&B",
+      "count": 2
     },
     {
       "keyword": "소스",
-      "count": 3
-    },
-    {
-      "keyword": "신제품 개발",
-      "count": 3
-    },
-    {
-      "keyword": "프리미엄",
       "count": 2
     },
     {
-      "keyword": "하림",
+      "keyword": "라이프스타일",
       "count": 2
     },
     {
-      "keyword": "마살라 소스",
+      "keyword": "양념치킨",
       "count": 2
     },
     {
-      "keyword": "티카마살라",
+      "keyword": "드레싱",
       "count": 2
     },
     {
-      "keyword": "영양 설계",
+      "keyword": "소비자 관심도",
       "count": 2
     },
     {
-      "keyword": "저당 홍초",
+      "keyword": "베트남 시장",
       "count": 2
     },
     {
-      "keyword": "HMR",
+      "keyword": "식감",
       "count": 2
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "배터믹스",
       "count": 2
     },
     {
-      "keyword": "자동화",
+      "keyword": "튀김옷",
       "count": 2
     },
     {
-      "keyword": "RFID",
+      "keyword": "감칠맛",
       "count": 2
     },
     {
-      "keyword": "갤럭시 워치",
-      "count": 1
-    },
-    {
-      "keyword": "혈압 측정",
-      "count": 1
+      "keyword": "건강 식단",
+      "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "알룰로스": 9,
-    "저당": 7,
-    "고추장": 5,
-    "신제품": 4,
-    "드레싱": 4,
-    "영유아식": 3,
-    "특제 소스": 3,
+    "저당": 5,
+    "간장치킨": 4,
+    "식물성 원료": 4,
+    "식물성 단백질": 4,
     "소비 트렌드": 3,
-    "홍초": 3,
-    "청정원": 3,
-    "건강 지향": 3,
-    "소스": 3,
-    "신제품 개발": 3,
-    "프리미엄": 2,
-    "하림": 2,
-    "마살라 소스": 2,
-    "티카마살라": 2,
-    "영양 설계": 2,
-    "저당 홍초": 2,
-    "HMR": 2,
-    "식물성 단백질": 2,
-    "자동화": 2,
-    "RFID": 2,
-    "갤럭시 워치": 1,
-    "혈압 측정": 1
+    "단백질": 3,
+    "쏘이갈릭킹": 3,
+    "건강": 3,
+    "알룰로스": 3,
+    "간편식": 3,
+    "비건": 3,
+    "동물성 단백질": 3,
+    "바삭한 식감": 2,
+    "동원F&B": 2,
+    "소스": 2,
+    "라이프스타일": 2,
+    "양념치킨": 2,
+    "드레싱": 2,
+    "소비자 관심도": 2,
+    "베트남 시장": 2,
+    "식감": 2,
+    "배터믹스": 2,
+    "튀김옷": 2,
+    "감칠맛": 2,
+    "건강 식단": 2
   },
   "category_totals": {
-    "consumer": 8,
-    "product": 27,
-    "market": 4,
-    "ingredient": 7,
-    "regulation": 2,
-    "manufacturing": 1,
-    "other": 48
+    "product": 21,
+    "ingredient": 5,
+    "market": 5,
+    "consumer": 14,
+    "manufacturing": 4,
+    "other": 38
   },
   "highlighted_articles": [
     {
@@ -685,7 +685,8 @@
   "daily_article_counts": {
     "2026-03-30": 71,
     "2026-03-31": 87,
-    "2026-04-01": 97
+    "2026-04-01": 97,
+    "2026-04-02": 87
   },
   "ai_summary": null
 }
