@@ -2,54 +2,103 @@
   "week_id": "2026-W14",
   "start_date": "2026-03-30",
   "end_date": "2026-04-05",
-  "total_articles": 480,
+  "total_articles": 516,
   "days_included": [
     "2026-03-30",
     "2026-03-31",
     "2026-04-01",
     "2026-04-02",
     "2026-04-03",
-    "2026-04-04"
+    "2026-04-04",
+    "2026-04-05"
   ],
   "top_keywords": [
     {
-      "keyword": "K-푸드",
-      "count": 5
-    },
-    {
-      "keyword": "비건",
-      "count": 5
-    },
-    {
-      "keyword": "소스",
-      "count": 4
-    },
-    {
-      "keyword": "치킨 소스",
-      "count": 3
+      "keyword": "간편식",
+      "count": 10
     },
     {
       "keyword": "소비 트렌드",
-      "count": 3
+      "count": 6
     },
     {
-      "keyword": "저당",
-      "count": 3
+      "keyword": "세븐일레븐",
+      "count": 6
     },
     {
-      "keyword": "간편식",
-      "count": 2
+      "keyword": "소스",
+      "count": 6
     },
     {
-      "keyword": "SNS 트렌드",
-      "count": 2
+      "keyword": "GS25",
+      "count": 5
+    },
+    {
+      "keyword": "도시락",
+      "count": 4
+    },
+    {
+      "keyword": "피크닉",
+      "count": 4
+    },
+    {
+      "keyword": "양념",
+      "count": 4
     },
     {
       "keyword": "식물성 단백질",
+      "count": 4
+    },
+    {
+      "keyword": "함박구이",
+      "count": 3
+    },
+    {
+      "keyword": "땡초",
+      "count": 3
+    },
+    {
+      "keyword": "후추",
+      "count": 3
+    },
+    {
+      "keyword": "정호영 셰프",
+      "count": 3
+    },
+    {
+      "keyword": "양념육",
+      "count": 3
+    },
+    {
+      "keyword": "이달의 도시락",
+      "count": 3
+    },
+    {
+      "keyword": "피크닉 도시락",
+      "count": 3
+    },
+    {
+      "keyword": "양념구이",
+      "count": 3
+    },
+    {
+      "keyword": "돈까스",
       "count": 2
     },
     {
-      "keyword": "신제품",
+      "keyword": "숯불바베큐",
+      "count": 2
+    },
+    {
+      "keyword": "김밥",
+      "count": 2
+    },
+    {
+      "keyword": "한정 판매",
+      "count": 2
+    },
+    {
+      "keyword": "시즌 수요",
       "count": 2
     },
     {
@@ -57,97 +106,47 @@
       "count": 2
     },
     {
-      "keyword": "발효",
-      "count": 2
-    },
-    {
-      "keyword": "쏘이갈릭킹",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 음료",
-      "count": 2
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 2
-    },
-    {
       "keyword": "식이섬유",
       "count": 2
     },
     {
-      "keyword": "K-푸드 수출",
+      "keyword": "소비자 인식",
       "count": 2
-    },
-    {
-      "keyword": "Healthy Pleasure",
-      "count": 2
-    },
-    {
-      "keyword": "헬스케어",
-      "count": 2
-    },
-    {
-      "keyword": "농림축산식품부",
-      "count": 2
-    },
-    {
-      "keyword": "발효소스",
-      "count": 2
-    },
-    {
-      "keyword": "발효간편식",
-      "count": 2
-    },
-    {
-      "keyword": "장류",
-      "count": 2
-    },
-    {
-      "keyword": "전통발효식품",
-      "count": 2
-    },
-    {
-      "keyword": "하림",
-      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "K-푸드": 5,
-    "비건": 5,
-    "소스": 4,
-    "치킨 소스": 3,
-    "소비 트렌드": 3,
-    "저당": 3,
-    "간편식": 2,
-    "SNS 트렌드": 2,
-    "식물성 단백질": 2,
-    "신제품": 2,
+    "간편식": 10,
+    "소비 트렌드": 6,
+    "세븐일레븐": 6,
+    "소스": 6,
+    "GS25": 5,
+    "도시락": 4,
+    "피크닉": 4,
+    "양념": 4,
+    "식물성 단백질": 4,
+    "함박구이": 3,
+    "땡초": 3,
+    "후추": 3,
+    "정호영 셰프": 3,
+    "양념육": 3,
+    "이달의 도시락": 3,
+    "피크닉 도시락": 3,
+    "양념구이": 3,
+    "돈까스": 2,
+    "숯불바베큐": 2,
+    "김밥": 2,
+    "한정 판매": 2,
+    "시즌 수요": 2,
     "단백질": 2,
-    "발효": 2,
-    "쏘이갈릭킹": 2,
-    "식물성 음료": 2,
-    "알룰로스": 2,
     "식이섬유": 2,
-    "K-푸드 수출": 2,
-    "Healthy Pleasure": 2,
-    "헬스케어": 2,
-    "농림축산식품부": 2,
-    "발효소스": 2,
-    "발효간편식": 2,
-    "장류": 2,
-    "전통발효식품": 2,
-    "하림": 1
+    "소비자 인식": 2
   },
   "category_totals": {
-    "manufacturing": 6,
-    "market": 6,
-    "consumer": 17,
-    "ingredient": 2,
-    "product": 16,
-    "other": 14,
-    "regulation": 2
+    "product": 18,
+    "other": 2,
+    "consumer": 12,
+    "market": 1,
+    "ingredient": 3
   },
   "highlighted_articles": [
     {
@@ -685,7 +684,8 @@
     "2026-04-01": 97,
     "2026-04-02": 87,
     "2026-04-03": 75,
-    "2026-04-04": 63
+    "2026-04-04": 63,
+    "2026-04-05": 36
   },
   "ai_summary": null
 }
