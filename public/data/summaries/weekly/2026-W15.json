@@ -2,147 +2,149 @@
   "week_id": "2026-W15",
   "start_date": "2026-04-06",
   "end_date": "2026-04-12",
-  "total_articles": 150,
+  "total_articles": 228,
   "days_included": [
     "2026-04-06",
-    "2026-04-07"
+    "2026-04-07",
+    "2026-04-08"
   ],
   "top_keywords": [
     {
-      "keyword": "소스",
-      "count": 13
+      "keyword": "저당 소스",
+      "count": 12
     },
     {
-      "keyword": "저당",
-      "count": 11
+      "keyword": "오뚜기",
+      "count": 10
     },
     {
-      "keyword": "저칼로리",
-      "count": 11
-    },
-    {
-      "keyword": "소비 트렌드",
+      "keyword": "LIGHT&JOY",
       "count": 7
     },
     {
-      "keyword": "간편식",
+      "keyword": "신제품",
       "count": 6
     },
     {
-      "keyword": "양념류",
-      "count": 6
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 6
-    },
-    {
-      "keyword": "춘천식 닭갈비 소스",
+      "keyword": "저당",
       "count": 5
     },
     {
-      "keyword": "신제품",
-      "count": 4
+      "keyword": "간편식",
+      "count": 5
     },
     {
-      "keyword": "대상",
-      "count": 4
+      "keyword": "삼겹살 양파절임소스",
+      "count": 5
     },
     {
-      "keyword": "양념",
-      "count": 4
+      "keyword": "알룰로스",
+      "count": 5
     },
     {
-      "keyword": "밀키트",
-      "count": 4
+      "keyword": "비건",
+      "count": 5
     },
     {
-      "keyword": "전통시장",
-      "count": 3
-    },
-    {
-      "keyword": "매출 증가",
-      "count": 3
-    },
-    {
-      "keyword": "가공식품",
-      "count": 3
-    },
-    {
-      "keyword": "BBQ",
-      "count": 3
-    },
-    {
-      "keyword": "특제 양념",
-      "count": 3
+      "keyword": "지속가능성",
+      "count": 5
     },
     {
       "keyword": "건강 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "제철 채소",
+      "count": 4
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 4
+    },
+    {
+      "keyword": "피넛버터",
       "count": 3
     },
     {
-      "keyword": "저당 소스",
+      "keyword": "풍미 유지",
       "count": 3
     },
     {
-      "keyword": "저칼로리 소스",
+      "keyword": "당류 저감",
       "count": 3
     },
     {
-      "keyword": "가정간편식(HMR)",
+      "keyword": "스위트칠리소스",
       "count": 3
     },
     {
-      "keyword": "단맛 매운맛 균형",
-      "count": 3
-    },
-    {
-      "keyword": "잘파세대",
+      "keyword": "가성비",
       "count": 2
     },
     {
-      "keyword": "K-미식벨트",
+      "keyword": "당 저감",
       "count": 2
     },
     {
-      "keyword": "수원시",
+      "keyword": "무설탕",
+      "count": 2
+    },
+    {
+      "keyword": "PB 상품",
+      "count": 2
+    },
+    {
+      "keyword": "렌치 소스",
+      "count": 2
+    },
+    {
+      "keyword": "건강",
+      "count": 2
+    },
+    {
+      "keyword": "동원홈푸드",
+      "count": 2
+    },
+    {
+      "keyword": "영칼로리포케",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "소스": 13,
-    "저당": 11,
-    "저칼로리": 11,
-    "소비 트렌드": 7,
-    "간편식": 6,
-    "양념류": 6,
-    "알룰로스": 6,
-    "춘천식 닭갈비 소스": 5,
-    "신제품": 4,
-    "대상": 4,
-    "양념": 4,
-    "밀키트": 4,
-    "전통시장": 3,
-    "매출 증가": 3,
-    "가공식품": 3,
-    "BBQ": 3,
-    "특제 양념": 3,
-    "건강 트렌드": 3,
-    "저당 소스": 3,
-    "저칼로리 소스": 3,
-    "가정간편식(HMR)": 3,
-    "단맛 매운맛 균형": 3,
-    "잘파세대": 2,
-    "K-미식벨트": 2,
-    "수원시": 2
+    "저당 소스": 12,
+    "오뚜기": 10,
+    "LIGHT&JOY": 7,
+    "신제품": 6,
+    "저당": 5,
+    "간편식": 5,
+    "삼겹살 양파절임소스": 5,
+    "알룰로스": 5,
+    "비건": 5,
+    "지속가능성": 5,
+    "건강 트렌드": 4,
+    "제철 채소": 4,
+    "식물성 단백질": 4,
+    "피넛버터": 3,
+    "풍미 유지": 3,
+    "당류 저감": 3,
+    "스위트칠리소스": 3,
+    "가성비": 2,
+    "당 저감": 2,
+    "무설탕": 2,
+    "PB 상품": 2,
+    "렌치 소스": 2,
+    "건강": 2,
+    "동원홈푸드": 2,
+    "영칼로리포케": 2
   },
   "category_totals": {
-    "consumer": 8,
+    "product": 24,
+    "consumer": 11,
     "market": 6,
-    "product": 30,
     "ingredient": 6,
-    "other": 25,
-    "manufacturing": 3
+    "regulation": 1,
+    "other": 26,
+    "manufacturing": 4
   },
   "highlighted_articles": [
     {
@@ -676,7 +678,8 @@
   ],
   "daily_article_counts": {
     "2026-04-06": 72,
-    "2026-04-07": 78
+    "2026-04-07": 78,
+    "2026-04-08": 78
   },
   "ai_summary": null
 }
