@@ -2,90 +2,43 @@
   "week_id": "2026-W16",
   "start_date": "2026-04-13",
   "end_date": "2026-04-19",
-  "total_articles": 186,
+  "total_articles": 253,
   "days_included": [
     "2026-04-13",
-    "2026-04-14"
+    "2026-04-14",
+    "2026-04-15"
   ],
   "top_keywords": [
     {
-      "keyword": "소스",
-      "count": 8
-    },
-    {
-      "keyword": "쉐이크쉑",
+      "keyword": "저당 소스",
       "count": 7
     },
     {
-      "keyword": "쉬림프 쉑",
-      "count": 7
-    },
-    {
-      "keyword": "허브마요 소스",
-      "count": 7
-    },
-    {
-      "keyword": "식초",
+      "keyword": "비비드키친",
       "count": 6
     },
     {
-      "keyword": "BHNBIO",
+      "keyword": "동원홈푸드",
       "count": 6
-    },
-    {
-      "keyword": "교촌",
-      "count": 5
-    },
-    {
-      "keyword": "새우버거",
-      "count": 5
     },
     {
       "keyword": "신제품",
-      "count": 5
-    },
-    {
-      "keyword": "팝업스토어",
-      "count": 5
-    },
-    {
-      "keyword": "장류",
-      "count": 5
-    },
-    {
-      "keyword": "발효공방1991",
       "count": 4
     },
     {
-      "keyword": "양념",
+      "keyword": "인플루언서 마케팅",
       "count": 3
     },
     {
-      "keyword": "한정 출시",
+      "keyword": "가공식품",
       "count": 3
     },
     {
-      "keyword": "체지방 관리",
+      "keyword": "HMR",
       "count": 3
     },
     {
-      "keyword": "헬시 플레저",
-      "count": 3
-    },
-    {
-      "keyword": "스파이시",
-      "count": 3
-    },
-    {
-      "keyword": "발효",
-      "count": 3
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "건강기능식품",
+      "keyword": "비건",
       "count": 3
     },
     {
@@ -93,56 +46,103 @@
       "count": 3
     },
     {
-      "keyword": "팝업 스토어",
-      "count": 2
+      "keyword": "K-푸드",
+      "count": 3
     },
     {
-      "keyword": "전통주",
-      "count": 2
+      "keyword": "매운 소스",
+      "count": 3
+    },
+    {
+      "keyword": "건강 트렌드",
+      "count": 3
     },
     {
       "keyword": "소비 트렌드",
       "count": 2
     },
     {
-      "keyword": "경남제약",
+      "keyword": "간편식",
+      "count": 2
+    },
+    {
+      "keyword": "도미노피자",
+      "count": 2
+    },
+    {
+      "keyword": "치즈 맥스 피자",
+      "count": 2
+    },
+    {
+      "keyword": "치즈 폴레 소스",
+      "count": 2
+    },
+    {
+      "keyword": "저칼로리 소스",
+      "count": 2
+    },
+    {
+      "keyword": "저지방",
+      "count": 2
+    },
+    {
+      "keyword": "갈릭버터 스프레드",
+      "count": 2
+    },
+    {
+      "keyword": "비건 인증",
+      "count": 2
+    },
+    {
+      "keyword": "TV CF",
+      "count": 2
+    },
+    {
+      "keyword": "냉장고 메이크오버",
+      "count": 2
+    },
+    {
+      "keyword": "푸드테크",
+      "count": 2
+    },
+    {
+      "keyword": "치킨 소스",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "소스": 8,
-    "쉐이크쉑": 7,
-    "쉬림프 쉑": 7,
-    "허브마요 소스": 7,
-    "식초": 6,
-    "BHNBIO": 6,
-    "교촌": 5,
-    "새우버거": 5,
-    "신제품": 5,
-    "팝업스토어": 5,
-    "장류": 5,
-    "발효공방1991": 4,
-    "양념": 3,
-    "한정 출시": 3,
-    "체지방 관리": 3,
-    "헬시 플레저": 3,
-    "스파이시": 3,
-    "발효": 3,
-    "건강 트렌드": 3,
-    "건강기능식품": 3,
+    "저당 소스": 7,
+    "비비드키친": 6,
+    "동원홈푸드": 6,
+    "신제품": 4,
+    "인플루언서 마케팅": 3,
+    "가공식품": 3,
+    "HMR": 3,
+    "비건": 3,
     "저당": 3,
-    "팝업 스토어": 2,
-    "전통주": 2,
+    "K-푸드": 3,
+    "매운 소스": 3,
+    "건강 트렌드": 3,
     "소비 트렌드": 2,
-    "경남제약": 2
+    "간편식": 2,
+    "도미노피자": 2,
+    "치즈 맥스 피자": 2,
+    "치즈 폴레 소스": 2,
+    "저칼로리 소스": 2,
+    "저지방": 2,
+    "갈릭버터 스프레드": 2,
+    "비건 인증": 2,
+    "TV CF": 2,
+    "냉장고 메이크오버": 2,
+    "푸드테크": 2,
+    "치킨 소스": 2
   },
   "category_totals": {
-    "market": 9,
-    "consumer": 6,
-    "product": 32,
-    "other": 50,
-    "manufacturing": 4,
-    "ingredient": 1
+    "product": 25,
+    "market": 7,
+    "consumer": 11,
+    "ingredient": 7,
+    "other": 17
   },
   "highlighted_articles": [
     {
@@ -705,7 +705,8 @@
   ],
   "daily_article_counts": {
     "2026-04-13": 84,
-    "2026-04-14": 102
+    "2026-04-14": 102,
+    "2026-04-15": 67
   },
   "ai_summary": null
 }
