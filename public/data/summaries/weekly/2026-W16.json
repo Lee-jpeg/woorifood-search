@@ -2,151 +2,151 @@
   "week_id": "2026-W16",
   "start_date": "2026-04-13",
   "end_date": "2026-04-19",
-  "total_articles": 467,
+  "total_articles": 506,
   "days_included": [
     "2026-04-13",
     "2026-04-14",
     "2026-04-15",
     "2026-04-16",
     "2026-04-17",
-    "2026-04-18"
+    "2026-04-18",
+    "2026-04-19"
   ],
   "top_keywords": [
     {
-      "keyword": "소스",
+      "keyword": "저당 소스",
       "count": 10
     },
     {
-      "keyword": "신제품",
-      "count": 5
-    },
-    {
-      "keyword": "건강기능식품",
-      "count": 4
-    },
-    {
-      "keyword": "풀무원푸드머스",
-      "count": 4
-    },
-    {
-      "keyword": "교촌",
-      "count": 3
-    },
-    {
-      "keyword": "저당",
-      "count": 3
-    },
-    {
-      "keyword": "저칼로리",
-      "count": 3
-    },
-    {
-      "keyword": "간편식",
-      "count": 3
-    },
-    {
-      "keyword": "장류",
-      "count": 3
-    },
-    {
-      "keyword": "천연 조미료",
-      "count": 2
-    },
-    {
-      "keyword": "핫소스",
-      "count": 2
-    },
-    {
-      "keyword": "헬시플레저",
-      "count": 2
-    },
-    {
-      "keyword": "롯데면세점",
-      "count": 2
-    },
-    {
-      "keyword": "인천공항",
-      "count": 2
-    },
-    {
-      "keyword": "식품 유통",
-      "count": 2
-    },
-    {
-      "keyword": "면세점",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 원료",
-      "count": 2
-    },
-    {
-      "keyword": "기능성 성분",
-      "count": 2
-    },
-    {
-      "keyword": "K1 소스",
-      "count": 2
-    },
-    {
-      "keyword": "BHNBIO",
-      "count": 2
-    },
-    {
-      "keyword": "김치트러플 핫소스",
-      "count": 2
-    },
-    {
-      "keyword": "무 발효식초",
-      "count": 2
+      "keyword": "샌드위치",
+      "count": 8
     },
     {
       "keyword": "식물성 단백질",
+      "count": 6
+    },
+    {
+      "keyword": "레트로 트렌드",
+      "count": 5
+    },
+    {
+      "keyword": "건강 베이커리",
+      "count": 5
+    },
+    {
+      "keyword": "베지밀",
+      "count": 4
+    },
+    {
+      "keyword": "MZ세대",
+      "count": 4
+    },
+    {
+      "keyword": "세븐일레븐",
+      "count": 3
+    },
+    {
+      "keyword": "식이섬유",
+      "count": 3
+    },
+    {
+      "keyword": "디저트",
+      "count": 3
+    },
+    {
+      "keyword": "신제품",
+      "count": 3
+    },
+    {
+      "keyword": "건강식",
+      "count": 3
+    },
+    {
+      "keyword": "베이커리",
+      "count": 3
+    },
+    {
+      "keyword": "두유",
       "count": 2
     },
     {
-      "keyword": "아미노산",
+      "keyword": "건강",
       "count": 2
     },
     {
-      "keyword": "핫도그",
+      "keyword": "포만감",
+      "count": 2
+    },
+    {
+      "keyword": "캠핑",
+      "count": 2
+    },
+    {
+      "keyword": "프리미엄 HMR",
+      "count": 2
+    },
+    {
+      "keyword": "협업",
+      "count": 2
+    },
+    {
+      "keyword": "저당",
+      "count": 2
+    },
+    {
+      "keyword": "콜라보",
+      "count": 2
+    },
+    {
+      "keyword": "편의점",
+      "count": 2
+    },
+    {
+      "keyword": "건강 지향",
+      "count": 2
+    },
+    {
+      "keyword": "병아리콩",
+      "count": 2
+    },
+    {
+      "keyword": "균형 잡힌 식단",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "소스": 10,
-    "신제품": 5,
-    "건강기능식품": 4,
-    "풀무원푸드머스": 4,
-    "교촌": 3,
-    "저당": 3,
-    "저칼로리": 3,
-    "간편식": 3,
-    "장류": 3,
-    "천연 조미료": 2,
-    "핫소스": 2,
-    "헬시플레저": 2,
-    "롯데면세점": 2,
-    "인천공항": 2,
-    "식품 유통": 2,
-    "면세점": 2,
-    "식물성 원료": 2,
-    "기능성 성분": 2,
-    "K1 소스": 2,
-    "BHNBIO": 2,
-    "김치트러플 핫소스": 2,
-    "무 발효식초": 2,
-    "식물성 단백질": 2,
-    "아미노산": 2,
-    "핫도그": 2
+    "저당 소스": 10,
+    "샌드위치": 8,
+    "식물성 단백질": 6,
+    "레트로 트렌드": 5,
+    "건강 베이커리": 5,
+    "베지밀": 4,
+    "MZ세대": 4,
+    "세븐일레븐": 3,
+    "식이섬유": 3,
+    "디저트": 3,
+    "신제품": 3,
+    "건강식": 3,
+    "베이커리": 3,
+    "두유": 2,
+    "건강": 2,
+    "포만감": 2,
+    "캠핑": 2,
+    "프리미엄 HMR": 2,
+    "협업": 2,
+    "저당": 2,
+    "콜라보": 2,
+    "편의점": 2,
+    "건강 지향": 2,
+    "병아리콩": 2,
+    "균형 잡힌 식단": 2
   },
   "category_totals": {
-    "ingredient": 7,
-    "product": 23,
-    "consumer": 8,
-    "market": 10,
-    "manufacturing": 4,
-    "other": 14
+    "product": 20,
+    "consumer": 11,
+    "ingredient": 4,
+    "market": 1,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -710,7 +710,8 @@
     "2026-04-15": 67,
     "2026-04-16": 76,
     "2026-04-17": 72,
-    "2026-04-18": 66
+    "2026-04-18": 66,
+    "2026-04-19": 39
   },
   "ai_summary": null
 }
