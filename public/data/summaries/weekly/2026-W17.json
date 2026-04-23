@@ -2,99 +2,104 @@
   "week_id": "2026-W17",
   "start_date": "2026-04-20",
   "end_date": "2026-04-26",
-  "total_articles": 217,
+  "total_articles": 296,
   "days_included": [
     "2026-04-20",
     "2026-04-21",
-    "2026-04-22"
+    "2026-04-22",
+    "2026-04-23"
   ],
   "top_keywords": [
     {
-      "keyword": "피클링소스",
-      "count": 12
+      "keyword": "동물복지",
+      "count": 8
     },
     {
-      "keyword": "수제 피클",
-      "count": 6
+      "keyword": "오뚜기",
+      "count": 7
     },
     {
-      "keyword": "소비 트렌드",
-      "count": 5
-    },
-    {
-      "keyword": "간편식",
-      "count": 5
-    },
-    {
-      "keyword": "용도형 식초",
-      "count": 5
-    },
-    {
-      "keyword": "신제품",
-      "count": 4
-    },
-    {
-      "keyword": "발효식초",
-      "count": 4
-    },
-    {
-      "keyword": "대상 청정원",
-      "count": 4
+      "keyword": "식물성 지향",
+      "count": 7
     },
     {
       "keyword": "저당",
+      "count": 6
+    },
+    {
+      "keyword": "지속가능식생활",
+      "count": 6
+    },
+    {
+      "keyword": "신제품",
+      "count": 5
+    },
+    {
+      "keyword": "파스타소스",
+      "count": 5
+    },
+    {
+      "keyword": "태국 시장",
+      "count": 5
+    },
+    {
+      "keyword": "양념치킨",
+      "count": 5
+    },
+    {
+      "keyword": "매운맛",
+      "count": 4
+    },
+    {
+      "keyword": "소이갈릭 치킨",
+      "count": 4
+    },
+    {
+      "keyword": "LIGHT&JOY",
+      "count": 4
+    },
+    {
+      "keyword": "211 식사법",
+      "count": 4
+    },
+    {
+      "keyword": "매운맛 트렌드",
       "count": 3
     },
     {
-      "keyword": "청정원",
+      "keyword": "소스 중심 식문화",
       "count": 3
     },
     {
-      "keyword": "슈퍼스트",
+      "keyword": "실속형 소비",
       "count": 3
     },
     {
-      "keyword": "샐러드 소스",
+      "keyword": "마스터프랜차이즈",
       "count": 3
     },
     {
-      "keyword": "모노유즈",
+      "keyword": "소스",
       "count": 3
     },
     {
-      "keyword": "모노 유즈",
+      "keyword": "저당 파스타소스",
       "count": 3
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "건강 지향",
       "count": 3
     },
     {
-      "keyword": "삼양식품",
+      "keyword": "당류 저감",
       "count": 2
     },
     {
-      "keyword": "알룰로스",
+      "keyword": "소비 트렌드",
       "count": 2
     },
     {
-      "keyword": "불고기 소스",
-      "count": 2
-    },
-    {
-      "keyword": "모노유즈 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "소스 소비 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "비건",
-      "count": 2
-    },
-    {
-      "keyword": "식사 대용",
+      "keyword": "건강기능식품",
       "count": 2
     },
     {
@@ -102,47 +107,45 @@
       "count": 2
     },
     {
-      "keyword": "고단백",
-      "count": 2
-    },
-    {
-      "keyword": "완탕",
+      "keyword": "당 함량",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "피클링소스": 12,
-    "수제 피클": 6,
-    "소비 트렌드": 5,
-    "간편식": 5,
-    "용도형 식초": 5,
-    "신제품": 4,
-    "발효식초": 4,
-    "대상 청정원": 4,
-    "저당": 3,
-    "청정원": 3,
-    "슈퍼스트": 3,
-    "샐러드 소스": 3,
-    "모노유즈": 3,
-    "모노 유즈": 3,
-    "식물성 단백질": 3,
-    "삼양식품": 2,
-    "알룰로스": 2,
-    "불고기 소스": 2,
-    "모노유즈 트렌드": 2,
-    "소스 소비 트렌드": 2,
-    "비건": 2,
-    "식사 대용": 2,
+    "동물복지": 8,
+    "오뚜기": 7,
+    "식물성 지향": 7,
+    "저당": 6,
+    "지속가능식생활": 6,
+    "신제품": 5,
+    "파스타소스": 5,
+    "태국 시장": 5,
+    "양념치킨": 5,
+    "매운맛": 4,
+    "소이갈릭 치킨": 4,
+    "LIGHT&JOY": 4,
+    "211 식사법": 4,
+    "매운맛 트렌드": 3,
+    "소스 중심 식문화": 3,
+    "실속형 소비": 3,
+    "마스터프랜차이즈": 3,
+    "소스": 3,
+    "저당 파스타소스": 3,
+    "건강 지향": 3,
+    "당류 저감": 2,
+    "소비 트렌드": 2,
+    "건강기능식품": 2,
     "건강": 2,
-    "고단백": 2,
-    "완탕": 2
+    "당 함량": 2
   },
   "category_totals": {
-    "market": 10,
-    "consumer": 8,
-    "other": 27,
-    "product": 27,
-    "ingredient": 4
+    "other": 28,
+    "ingredient": 1,
+    "product": 22,
+    "consumer": 15,
+    "manufacturing": 6,
+    "market": 6,
+    "regulation": 1
   },
   "highlighted_articles": [
     {
@@ -690,7 +693,8 @@
   "daily_article_counts": {
     "2026-04-20": 53,
     "2026-04-21": 88,
-    "2026-04-22": 76
+    "2026-04-22": 76,
+    "2026-04-23": 79
   },
   "ai_summary": null
 }
