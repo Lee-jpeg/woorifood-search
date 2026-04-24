@@ -2,150 +2,150 @@
   "week_id": "2026-W17",
   "start_date": "2026-04-20",
   "end_date": "2026-04-26",
-  "total_articles": 296,
+  "total_articles": 370,
   "days_included": [
     "2026-04-20",
     "2026-04-21",
     "2026-04-22",
-    "2026-04-23"
+    "2026-04-23",
+    "2026-04-24"
   ],
   "top_keywords": [
     {
-      "keyword": "동물복지",
-      "count": 8
-    },
-    {
-      "keyword": "오뚜기",
-      "count": 7
-    },
-    {
-      "keyword": "식물성 지향",
-      "count": 7
+      "keyword": "건강기능식품",
+      "count": 6
     },
     {
       "keyword": "저당",
-      "count": 6
-    },
-    {
-      "keyword": "지속가능식생활",
-      "count": 6
-    },
-    {
-      "keyword": "신제품",
       "count": 5
     },
     {
-      "keyword": "파스타소스",
-      "count": 5
-    },
-    {
-      "keyword": "태국 시장",
-      "count": 5
-    },
-    {
-      "keyword": "양념치킨",
-      "count": 5
-    },
-    {
-      "keyword": "매운맛",
+      "keyword": "발효 소스",
       "count": 4
     },
     {
-      "keyword": "소이갈릭 치킨",
+      "keyword": "구절판",
       "count": 4
-    },
-    {
-      "keyword": "LIGHT&JOY",
-      "count": 4
-    },
-    {
-      "keyword": "211 식사법",
-      "count": 4
-    },
-    {
-      "keyword": "매운맛 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "소스 중심 식문화",
-      "count": 3
-    },
-    {
-      "keyword": "실속형 소비",
-      "count": 3
-    },
-    {
-      "keyword": "마스터프랜차이즈",
-      "count": 3
-    },
-    {
-      "keyword": "소스",
-      "count": 3
-    },
-    {
-      "keyword": "저당 파스타소스",
-      "count": 3
-    },
-    {
-      "keyword": "건강 지향",
-      "count": 3
-    },
-    {
-      "keyword": "당류 저감",
-      "count": 2
     },
     {
       "keyword": "소비 트렌드",
+      "count": 3
+    },
+    {
+      "keyword": "신세계면세점",
+      "count": 3
+    },
+    {
+      "keyword": "간장소스",
+      "count": 3
+    },
+    {
+      "keyword": "마늘풍미",
+      "count": 3
+    },
+    {
+      "keyword": "한식 코스",
+      "count": 3
+    },
+    {
+      "keyword": "교촌치킨",
       "count": 2
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "감칠맛",
       "count": 2
     },
     {
-      "keyword": "건강",
+      "keyword": "K-푸드",
       "count": 2
     },
     {
-      "keyword": "당 함량",
+      "keyword": "웰니스",
+      "count": 2
+    },
+    {
+      "keyword": "신제품",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 원료",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "단백질 간식",
+      "count": 2
+    },
+    {
+      "keyword": "천연조미료",
+      "count": 2
+    },
+    {
+      "keyword": "다대 자연가루",
+      "count": 2
+    },
+    {
+      "keyword": "가공식품 개발",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 멜라토닌",
+      "count": 2
+    },
+    {
+      "keyword": "수면 음료",
+      "count": 2
+    },
+    {
+      "keyword": "단백질",
+      "count": 2
+    },
+    {
+      "keyword": "갈비찜",
+      "count": 2
+    },
+    {
+      "keyword": "신메뉴",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "동물복지": 8,
-    "오뚜기": 7,
-    "식물성 지향": 7,
-    "저당": 6,
-    "지속가능식생활": 6,
-    "신제품": 5,
-    "파스타소스": 5,
-    "태국 시장": 5,
-    "양념치킨": 5,
-    "매운맛": 4,
-    "소이갈릭 치킨": 4,
-    "LIGHT&JOY": 4,
-    "211 식사법": 4,
-    "매운맛 트렌드": 3,
-    "소스 중심 식문화": 3,
-    "실속형 소비": 3,
-    "마스터프랜차이즈": 3,
-    "소스": 3,
-    "저당 파스타소스": 3,
-    "건강 지향": 3,
-    "당류 저감": 2,
-    "소비 트렌드": 2,
-    "건강기능식품": 2,
-    "건강": 2,
-    "당 함량": 2
+    "건강기능식품": 6,
+    "저당": 5,
+    "발효 소스": 4,
+    "구절판": 4,
+    "소비 트렌드": 3,
+    "신세계면세점": 3,
+    "간장소스": 3,
+    "마늘풍미": 3,
+    "한식 코스": 3,
+    "교촌치킨": 2,
+    "감칠맛": 2,
+    "K-푸드": 2,
+    "웰니스": 2,
+    "신제품": 2,
+    "식물성 원료": 2,
+    "소스": 2,
+    "단백질 간식": 2,
+    "천연조미료": 2,
+    "다대 자연가루": 2,
+    "가공식품 개발": 2,
+    "식물성 멜라토닌": 2,
+    "수면 음료": 2,
+    "단백질": 2,
+    "갈비찜": 2,
+    "신메뉴": 2
   },
   "category_totals": {
-    "other": 28,
-    "ingredient": 1,
-    "product": 22,
-    "consumer": 15,
-    "manufacturing": 6,
-    "market": 6,
-    "regulation": 1
+    "market": 7,
+    "product": 27,
+    "ingredient": 7,
+    "consumer": 8,
+    "regulation": 1,
+    "other": 24
   },
   "highlighted_articles": [
     {
@@ -694,7 +694,8 @@
     "2026-04-20": 53,
     "2026-04-21": 88,
     "2026-04-22": 76,
-    "2026-04-23": 79
+    "2026-04-23": 79,
+    "2026-04-24": 74
   },
   "ai_summary": null
 }
