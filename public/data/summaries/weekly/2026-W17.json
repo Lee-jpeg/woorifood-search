@@ -2,150 +2,151 @@
   "week_id": "2026-W17",
   "start_date": "2026-04-20",
   "end_date": "2026-04-26",
-  "total_articles": 370,
+  "total_articles": 436,
   "days_included": [
     "2026-04-20",
     "2026-04-21",
     "2026-04-22",
     "2026-04-23",
-    "2026-04-24"
+    "2026-04-24",
+    "2026-04-25"
   ],
   "top_keywords": [
     {
-      "keyword": "건강기능식품",
+      "keyword": "저당",
       "count": 6
     },
     {
-      "keyword": "저당",
+      "keyword": "소비 트렌드",
       "count": 5
     },
     {
-      "keyword": "발효 소스",
-      "count": 4
-    },
-    {
-      "keyword": "구절판",
-      "count": 4
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "신세계면세점",
-      "count": 3
-    },
-    {
-      "keyword": "간장소스",
-      "count": 3
-    },
-    {
-      "keyword": "마늘풍미",
-      "count": 3
-    },
-    {
-      "keyword": "한식 코스",
-      "count": 3
-    },
-    {
-      "keyword": "교촌치킨",
-      "count": 2
-    },
-    {
-      "keyword": "감칠맛",
-      "count": 2
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 2
-    },
-    {
-      "keyword": "웰니스",
-      "count": 2
+      "keyword": "건강 트렌드",
+      "count": 5
     },
     {
       "keyword": "신제품",
-      "count": 2
+      "count": 5
     },
     {
-      "keyword": "식물성 원료",
-      "count": 2
+      "keyword": "건강기능식품",
+      "count": 4
     },
     {
       "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "단백질 간식",
-      "count": 2
-    },
-    {
-      "keyword": "천연조미료",
-      "count": 2
-    },
-    {
-      "keyword": "다대 자연가루",
-      "count": 2
-    },
-    {
-      "keyword": "가공식품 개발",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 멜라토닌",
-      "count": 2
-    },
-    {
-      "keyword": "수면 음료",
-      "count": 2
+      "count": 4
     },
     {
       "keyword": "단백질",
+      "count": 4
+    },
+    {
+      "keyword": "나또 효소",
+      "count": 3
+    },
+    {
+      "keyword": "오뚜기",
+      "count": 3
+    },
+    {
+      "keyword": "생강",
+      "count": 3
+    },
+    {
+      "keyword": "발효",
+      "count": 3
+    },
+    {
+      "keyword": "식이섬유",
+      "count": 3
+    },
+    {
+      "keyword": "가공식품 개발",
+      "count": 3
+    },
+    {
+      "keyword": "건강",
+      "count": 3
+    },
+    {
+      "keyword": "풀무원",
       "count": 2
     },
     {
-      "keyword": "갈비찜",
+      "keyword": "나또키나제",
       "count": 2
     },
     {
-      "keyword": "신메뉴",
+      "keyword": "허니진저비니거",
+      "count": 2
+    },
+    {
+      "keyword": "샐러드 소스",
+      "count": 2
+    },
+    {
+      "keyword": "건강 식단",
+      "count": 2
+    },
+    {
+      "keyword": "저염",
+      "count": 2
+    },
+    {
+      "keyword": "식단 관리",
+      "count": 2
+    },
+    {
+      "keyword": "간장소스",
+      "count": 2
+    },
+    {
+      "keyword": "마늘",
+      "count": 2
+    },
+    {
+      "keyword": "헬시 플레저",
+      "count": 2
+    },
+    {
+      "keyword": "AI 에이전트",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "건강기능식품": 6,
-    "저당": 5,
-    "발효 소스": 4,
-    "구절판": 4,
-    "소비 트렌드": 3,
-    "신세계면세점": 3,
-    "간장소스": 3,
-    "마늘풍미": 3,
-    "한식 코스": 3,
-    "교촌치킨": 2,
-    "감칠맛": 2,
-    "K-푸드": 2,
-    "웰니스": 2,
-    "신제품": 2,
-    "식물성 원료": 2,
-    "소스": 2,
-    "단백질 간식": 2,
-    "천연조미료": 2,
-    "다대 자연가루": 2,
-    "가공식품 개발": 2,
-    "식물성 멜라토닌": 2,
-    "수면 음료": 2,
-    "단백질": 2,
-    "갈비찜": 2,
-    "신메뉴": 2
+    "저당": 6,
+    "소비 트렌드": 5,
+    "건강 트렌드": 5,
+    "신제품": 5,
+    "건강기능식품": 4,
+    "소스": 4,
+    "단백질": 4,
+    "나또 효소": 3,
+    "오뚜기": 3,
+    "생강": 3,
+    "발효": 3,
+    "식이섬유": 3,
+    "가공식품 개발": 3,
+    "건강": 3,
+    "풀무원": 2,
+    "나또키나제": 2,
+    "허니진저비니거": 2,
+    "샐러드 소스": 2,
+    "건강 식단": 2,
+    "저염": 2,
+    "식단 관리": 2,
+    "간장소스": 2,
+    "마늘": 2,
+    "헬시 플레저": 2,
+    "AI 에이전트": 2
   },
   "category_totals": {
-    "market": 7,
-    "product": 27,
-    "ingredient": 7,
-    "consumer": 8,
-    "regulation": 1,
-    "other": 24
+    "product": 21,
+    "market": 3,
+    "consumer": 15,
+    "other": 12,
+    "ingredient": 6,
+    "manufacturing": 9
   },
   "highlighted_articles": [
     {
@@ -695,7 +696,8 @@
     "2026-04-21": 88,
     "2026-04-22": 76,
     "2026-04-23": 79,
-    "2026-04-24": 74
+    "2026-04-24": 74,
+    "2026-04-25": 66
   },
   "ai_summary": null
 }
