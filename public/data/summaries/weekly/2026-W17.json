@@ -2,151 +2,152 @@
   "week_id": "2026-W17",
   "start_date": "2026-04-20",
   "end_date": "2026-04-26",
-  "total_articles": 436,
+  "total_articles": 475,
   "days_included": [
     "2026-04-20",
     "2026-04-21",
     "2026-04-22",
     "2026-04-23",
     "2026-04-24",
-    "2026-04-25"
+    "2026-04-25",
+    "2026-04-26"
   ],
   "top_keywords": [
     {
-      "keyword": "저당",
-      "count": 6
-    },
-    {
-      "keyword": "소비 트렌드",
+      "keyword": "간편식",
       "count": 5
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 5
-    },
-    {
-      "keyword": "신제품",
-      "count": 5
-    },
-    {
-      "keyword": "건강기능식품",
-      "count": 4
-    },
-    {
-      "keyword": "소스",
-      "count": 4
     },
     {
       "keyword": "단백질",
       "count": 4
     },
     {
-      "keyword": "나또 효소",
+      "keyword": "참기름",
       "count": 3
     },
     {
-      "keyword": "오뚜기",
+      "keyword": "세븐일레븐",
       "count": 3
     },
     {
-      "keyword": "생강",
+      "keyword": "이색 한식 재료",
       "count": 3
     },
     {
-      "keyword": "발효",
+      "keyword": "풍미 증진",
       "count": 3
     },
     {
-      "keyword": "식이섬유",
-      "count": 3
-    },
-    {
-      "keyword": "가공식품 개발",
-      "count": 3
-    },
-    {
-      "keyword": "건강",
-      "count": 3
-    },
-    {
-      "keyword": "풀무원",
+      "keyword": "신제품",
       "count": 2
     },
     {
-      "keyword": "나또키나제",
+      "keyword": "고추장",
       "count": 2
     },
     {
-      "keyword": "허니진저비니거",
+      "keyword": "김희은 셰프",
       "count": 2
     },
     {
-      "keyword": "샐러드 소스",
+      "keyword": "비법 양념",
       "count": 2
     },
     {
-      "keyword": "건강 식단",
+      "keyword": "비법 양념 고추장",
       "count": 2
     },
     {
-      "keyword": "저염",
+      "keyword": "더덕",
       "count": 2
     },
     {
-      "keyword": "식단 관리",
+      "keyword": "소비 트렌드",
       "count": 2
     },
     {
-      "keyword": "간장소스",
+      "keyword": "글루텐 프리",
       "count": 2
     },
     {
-      "keyword": "마늘",
+      "keyword": "건강 트렌드",
       "count": 2
     },
     {
-      "keyword": "헬시 플레저",
+      "keyword": "동물성 단백질",
       "count": 2
     },
     {
-      "keyword": "AI 에이전트",
+      "keyword": "발효 소스",
       "count": 2
+    },
+    {
+      "keyword": "비건",
+      "count": 2
+    },
+    {
+      "keyword": "득근 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "체중 감량",
+      "count": 1
+    },
+    {
+      "keyword": "근육 중시",
+      "count": 1
+    },
+    {
+      "keyword": "갈색거저리",
+      "count": 1
+    },
+    {
+      "keyword": "곤충 단백질",
+      "count": 1
+    },
+    {
+      "keyword": "TVP",
+      "count": 1
+    },
+    {
+      "keyword": "대체식품",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "저당": 6,
-    "소비 트렌드": 5,
-    "건강 트렌드": 5,
-    "신제품": 5,
-    "건강기능식품": 4,
-    "소스": 4,
+    "간편식": 5,
     "단백질": 4,
-    "나또 효소": 3,
-    "오뚜기": 3,
-    "생강": 3,
-    "발효": 3,
-    "식이섬유": 3,
-    "가공식품 개발": 3,
-    "건강": 3,
-    "풀무원": 2,
-    "나또키나제": 2,
-    "허니진저비니거": 2,
-    "샐러드 소스": 2,
-    "건강 식단": 2,
-    "저염": 2,
-    "식단 관리": 2,
-    "간장소스": 2,
-    "마늘": 2,
-    "헬시 플레저": 2,
-    "AI 에이전트": 2
+    "참기름": 3,
+    "세븐일레븐": 3,
+    "이색 한식 재료": 3,
+    "풍미 증진": 3,
+    "신제품": 2,
+    "고추장": 2,
+    "김희은 셰프": 2,
+    "비법 양념": 2,
+    "비법 양념 고추장": 2,
+    "더덕": 2,
+    "소비 트렌드": 2,
+    "글루텐 프리": 2,
+    "건강 트렌드": 2,
+    "동물성 단백질": 2,
+    "발효 소스": 2,
+    "비건": 2,
+    "득근 트렌드": 1,
+    "체중 감량": 1,
+    "근육 중시": 1,
+    "갈색거저리": 1,
+    "곤충 단백질": 1,
+    "TVP": 1,
+    "대체식품": 1
   },
   "category_totals": {
-    "product": 21,
+    "consumer": 11,
+    "ingredient": 7,
+    "product": 15,
     "market": 3,
-    "consumer": 15,
-    "other": 12,
-    "ingredient": 6,
-    "manufacturing": 9
+    "regulation": 1,
+    "manufacturing": 2
   },
   "highlighted_articles": [
     {
@@ -697,7 +698,8 @@
     "2026-04-22": 76,
     "2026-04-23": 79,
     "2026-04-24": 74,
-    "2026-04-25": 66
+    "2026-04-25": 66,
+    "2026-04-26": 39
   },
   "ai_summary": null
 }
