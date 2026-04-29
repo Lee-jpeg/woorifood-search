@@ -2,42 +2,63 @@
   "week_id": "2026-W18",
   "start_date": "2026-04-27",
   "end_date": "2026-05-03",
-  "total_articles": 160,
+  "total_articles": 242,
   "days_included": [
     "2026-04-27",
-    "2026-04-28"
+    "2026-04-28",
+    "2026-04-29"
   ],
   "top_keywords": [
     {
-      "keyword": "불닭양념",
-      "count": 8
+      "keyword": "소스",
+      "count": 9
+    },
+    {
+      "keyword": "알룰로스",
+      "count": 7
+    },
+    {
+      "keyword": "간편식",
+      "count": 6
+    },
+    {
+      "keyword": "난소화성말토덱스트린",
+      "count": 6
     },
     {
       "keyword": "신제품",
       "count": 6
     },
     {
-      "keyword": "저당",
+      "keyword": "아이올리",
       "count": 5
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "당류 저감",
       "count": 4
     },
     {
-      "keyword": "간편식",
+      "keyword": "불닭",
       "count": 4
     },
     {
-      "keyword": "불향",
+      "keyword": "삼양사",
       "count": 4
     },
     {
-      "keyword": "로스트치킨",
+      "keyword": "바질 치폴레",
       "count": 4
     },
     {
-      "keyword": "와사비 타르타르 소스",
+      "keyword": "SNS 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "스페셜티 소재",
+      "count": 3
+    },
+    {
+      "keyword": "양념",
       "count": 3
     },
     {
@@ -45,104 +66,85 @@
       "count": 3
     },
     {
-      "keyword": "고단백",
+      "keyword": "양념치킨",
       "count": 3
     },
     {
-      "keyword": "저염",
+      "keyword": "핫칠리",
       "count": 3
     },
     {
-      "keyword": "오뚜기",
+      "keyword": "즉석식품",
       "count": 3
     },
     {
-      "keyword": "소스/양념",
+      "keyword": "대체 감미료",
       "count": 3
     },
     {
-      "keyword": "소금구이",
-      "count": 3
-    },
-    {
-      "keyword": "단백질",
-      "count": 3
-    },
-    {
-      "keyword": "클린 라벨",
+      "keyword": "신제품 개발",
       "count": 2
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "아워홈",
       "count": 2
     },
     {
-      "keyword": "현대면세점",
+      "keyword": "삼양식품",
       "count": 2
     },
     {
-      "keyword": "면세점",
+      "keyword": "외식 트렌드",
       "count": 2
     },
     {
-      "keyword": "제로 슈거",
+      "keyword": "팝업테이블",
       "count": 2
     },
     {
-      "keyword": "인공감미료",
+      "keyword": "건강 트렌드",
       "count": 2
     },
     {
-      "keyword": "소비자 인식",
-      "count": 2
-    },
-    {
-      "keyword": "건강",
-      "count": 2
-    },
-    {
-      "keyword": "무설탕",
-      "count": 2
-    },
-    {
-      "keyword": "와사비 풍미",
+      "keyword": "다이어트",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "불닭양념": 8,
+    "소스": 9,
+    "알룰로스": 7,
+    "간편식": 6,
+    "난소화성말토덱스트린": 6,
     "신제품": 6,
-    "저당": 5,
-    "소비 트렌드": 4,
-    "간편식": 4,
-    "불향": 4,
-    "로스트치킨": 4,
-    "와사비 타르타르 소스": 3,
+    "아이올리": 5,
+    "당류 저감": 4,
+    "불닭": 4,
+    "삼양사": 4,
+    "바질 치폴레": 4,
+    "SNS 트렌드": 4,
+    "스페셜티 소재": 3,
+    "양념": 3,
     "식물성 단백질": 3,
-    "고단백": 3,
-    "저염": 3,
-    "오뚜기": 3,
-    "소스/양념": 3,
-    "소금구이": 3,
-    "단백질": 3,
-    "클린 라벨": 2,
-    "건강기능식품": 2,
-    "현대면세점": 2,
-    "면세점": 2,
-    "제로 슈거": 2,
-    "인공감미료": 2,
-    "소비자 인식": 2,
-    "건강": 2,
-    "무설탕": 2,
-    "와사비 풍미": 2
+    "양념치킨": 3,
+    "핫칠리": 3,
+    "즉석식품": 3,
+    "대체 감미료": 3,
+    "신제품 개발": 2,
+    "아워홈": 2,
+    "삼양식품": 2,
+    "외식 트렌드": 2,
+    "팝업테이블": 2,
+    "건강 트렌드": 2,
+    "다이어트": 2
   },
   "category_totals": {
-    "ingredient": 3,
-    "consumer": 12,
-    "product": 26,
-    "market": 6,
-    "other": 42,
-    "regulation": 1
+    "ingredient": 13,
+    "product": 28,
+    "regulation": 3,
+    "consumer": 3,
+    "market": 2,
+    "manufacturing": 1,
+    "other": 32
   },
   "highlighted_articles": [
     {
@@ -688,7 +690,8 @@
   ],
   "daily_article_counts": {
     "2026-04-27": 70,
-    "2026-04-28": 90
+    "2026-04-28": 90,
+    "2026-04-29": 82
   },
   "ai_summary": null
 }
