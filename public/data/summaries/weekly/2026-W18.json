@@ -2,40 +2,29 @@
   "week_id": "2026-W18",
   "start_date": "2026-04-27",
   "end_date": "2026-05-03",
-  "total_articles": 323,
+  "total_articles": 383,
   "days_included": [
     "2026-04-27",
     "2026-04-28",
     "2026-04-29",
-    "2026-04-30"
+    "2026-04-30",
+    "2026-05-01"
   ],
   "top_keywords": [
     {
-      "keyword": "피클링소스",
-      "count": 6
-    },
-    {
-      "keyword": "소스",
-      "count": 6
-    },
-    {
-      "keyword": "저당",
-      "count": 4
-    },
-    {
-      "keyword": "양념",
-      "count": 4
-    },
-    {
       "keyword": "신제품",
-      "count": 3
+      "count": 6
     },
     {
-      "keyword": "고단백",
-      "count": 3
+      "keyword": "간편식",
+      "count": 5
     },
     {
-      "keyword": "팝업스토어",
+      "keyword": "식물성 단백질",
+      "count": 4
+    },
+    {
+      "keyword": "트렌드",
       "count": 3
     },
     {
@@ -43,39 +32,63 @@
       "count": 3
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "식이섬유",
       "count": 3
     },
     {
-      "keyword": "청정원",
+      "keyword": "스테이크 소스",
       "count": 3
     },
     {
-      "keyword": "화이트식초",
+      "keyword": "저당",
       "count": 3
     },
     {
-      "keyword": "간편식",
-      "count": 3
-    },
-    {
-      "keyword": "코인육수",
+      "keyword": "가정의 달",
       "count": 2
     },
     {
-      "keyword": "천연조미료",
+      "keyword": "가치 소비",
       "count": 2
     },
     {
-      "keyword": "대상 청정원",
+      "keyword": "토마토 소스",
       "count": 2
     },
     {
-      "keyword": "식초",
+      "keyword": "동물성 식품",
       "count": 2
     },
     {
-      "keyword": "복작복작 조리법",
+      "keyword": "말차",
+      "count": 2
+    },
+    {
+      "keyword": "크림 스피니치",
+      "count": 2
+    },
+    {
+      "keyword": "크리스피 어니언",
+      "count": 2
+    },
+    {
+      "keyword": "단백질",
+      "count": 2
+    },
+    {
+      "keyword": "소스/양념",
+      "count": 2
+    },
+    {
+      "keyword": "팝업 스토어",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "저나트륨",
       "count": 2
     },
     {
@@ -83,68 +96,57 @@
       "count": 2
     },
     {
-      "keyword": "수제맥주",
+      "keyword": "팝업스토어",
       "count": 2
     },
     {
-      "keyword": "전통주",
+      "keyword": "발효",
       "count": 2
     },
     {
-      "keyword": "소스류",
+      "keyword": "프로틴 파스타",
       "count": 2
     },
     {
-      "keyword": "로열라면",
-      "count": 2
-    },
-    {
-      "keyword": "신메뉴",
-      "count": 2
-    },
-    {
-      "keyword": "건강기능식품",
-      "count": 2
-    },
-    {
-      "keyword": "매운맛",
+      "keyword": "젓갈",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "피클링소스": 6,
-    "소스": 6,
-    "저당": 4,
-    "양념": 4,
-    "신제품": 3,
-    "고단백": 3,
-    "팝업스토어": 3,
+    "신제품": 6,
+    "간편식": 5,
+    "식물성 단백질": 4,
+    "트렌드": 3,
     "비건": 3,
-    "식물성 단백질": 3,
-    "청정원": 3,
-    "화이트식초": 3,
-    "간편식": 3,
-    "코인육수": 2,
-    "천연조미료": 2,
-    "대상 청정원": 2,
-    "식초": 2,
-    "복작복작 조리법": 2,
+    "식이섬유": 3,
+    "스테이크 소스": 3,
+    "저당": 3,
+    "가정의 달": 2,
+    "가치 소비": 2,
+    "토마토 소스": 2,
+    "동물성 식품": 2,
+    "말차": 2,
+    "크림 스피니치": 2,
+    "크리스피 어니언": 2,
+    "단백질": 2,
+    "소스/양념": 2,
+    "팝업 스토어": 2,
+    "소스": 2,
+    "저나트륨": 2,
     "특화 소스": 2,
-    "수제맥주": 2,
-    "전통주": 2,
-    "소스류": 2,
-    "로열라면": 2,
-    "신메뉴": 2,
-    "건강기능식품": 2,
-    "매운맛": 2
+    "팝업스토어": 2,
+    "발효": 2,
+    "프로틴 파스타": 2,
+    "젓갈": 2
   },
   "category_totals": {
-    "consumer": 9,
-    "manufacturing": 4,
-    "product": 26,
-    "market": 6,
-    "ingredient": 5,
-    "other": 31
+    "consumer": 12,
+    "market": 4,
+    "product": 27,
+    "ingredient": 4,
+    "other": 11,
+    "regulation": 1,
+    "manufacturing": 1
   },
   "highlighted_articles": [
     {
@@ -692,7 +694,8 @@
     "2026-04-27": 70,
     "2026-04-28": 90,
     "2026-04-29": 82,
-    "2026-04-30": 81
+    "2026-04-30": 81,
+    "2026-05-01": 60
   },
   "ai_summary": null
 }
