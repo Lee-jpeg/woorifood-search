@@ -2,98 +2,79 @@
   "week_id": "2026-W19",
   "start_date": "2026-05-04",
   "end_date": "2026-05-10",
-  "total_articles": 122,
+  "total_articles": 162,
   "days_included": [
     "2026-05-04",
-    "2026-05-05"
+    "2026-05-05",
+    "2026-05-06"
   ],
   "top_keywords": [
     {
-      "keyword": "식물성 단백질",
-      "count": 5
-    },
-    {
-      "keyword": "저당",
+      "keyword": "특제 소스",
       "count": 4
     },
     {
-      "keyword": "신세계라이브쇼핑",
+      "keyword": "아이스 커피 트렌드",
       "count": 3
     },
     {
-      "keyword": "조선호텔",
+      "keyword": "간편성",
       "count": 3
     },
     {
-      "keyword": "간편식",
+      "keyword": "신제품",
       "count": 3
     },
     {
-      "keyword": "특제 소스",
+      "keyword": "반려동물 식품",
       "count": 3
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "HMR",
       "count": 3
     },
     {
-      "keyword": "양념",
+      "keyword": "편의성",
       "count": 3
     },
     {
-      "keyword": "참기름",
-      "count": 3
+      "keyword": "동서식품",
+      "count": 2
+    },
+    {
+      "keyword": "카누 아이스 샷 아메리카노",
+      "count": 2
+    },
+    {
+      "keyword": "비건",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "고구마",
+      "count": 2
+    },
+    {
+      "keyword": "비트",
+      "count": 2
+    },
+    {
+      "keyword": "비빔장 소스",
+      "count": 2
+    },
+    {
+      "keyword": "황태",
+      "count": 2
     },
     {
       "keyword": "북경오리",
       "count": 2
     },
     {
-      "keyword": "HMR",
-      "count": 2
-    },
-    {
-      "keyword": "밀전병",
-      "count": 2
-    },
-    {
-      "keyword": "프리미엄 HMR",
-      "count": 2
-    },
-    {
-      "keyword": "밀키트",
-      "count": 2
-    },
-    {
-      "keyword": "냉동 간편식",
-      "count": 2
-    },
-    {
-      "keyword": "편의성",
-      "count": 2
-    },
-    {
-      "keyword": "단백질",
-      "count": 2
-    },
-    {
-      "keyword": "가성비",
-      "count": 2
-    },
-    {
-      "keyword": "간편식품",
-      "count": 2
-    },
-    {
-      "keyword": "불고기 양념",
-      "count": 2
-    },
-    {
-      "keyword": "CU",
-      "count": 2
-    },
-    {
-      "keyword": "하이퍼 리얼리즘",
+      "keyword": "저당",
       "count": 2
     },
     {
@@ -101,48 +82,67 @@
       "count": 2
     },
     {
-      "keyword": "프리미엄",
+      "keyword": "조선호텔 북경오리",
       "count": 2
     },
     {
-      "keyword": "자생생물",
+      "keyword": "신세계라이브쇼핑",
       "count": 2
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "미코노미",
+      "count": 1
+    },
+    {
+      "keyword": "개인의 취향",
+      "count": 1
+    },
+    {
+      "keyword": "남성 취미",
+      "count": 1
+    },
+    {
+      "keyword": "과자 DIY",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "식물성 단백질": 5,
-    "저당": 4,
-    "신세계라이브쇼핑": 3,
-    "조선호텔": 3,
-    "간편식": 3,
-    "특제 소스": 3,
-    "소비 트렌드": 3,
-    "양념": 3,
-    "참기름": 3,
+    "특제 소스": 4,
+    "아이스 커피 트렌드": 3,
+    "간편성": 3,
+    "신제품": 3,
+    "반려동물 식품": 3,
+    "HMR": 3,
+    "편의성": 3,
+    "동서식품": 2,
+    "카누 아이스 샷 아메리카노": 2,
+    "비건": 2,
+    "소스": 2,
+    "고구마": 2,
+    "비트": 2,
+    "비빔장 소스": 2,
+    "황태": 2,
     "북경오리": 2,
-    "HMR": 2,
-    "밀전병": 2,
-    "프리미엄 HMR": 2,
-    "밀키트": 2,
-    "냉동 간편식": 2,
-    "편의성": 2,
-    "단백질": 2,
-    "가성비": 2,
-    "간편식품": 2,
-    "불고기 양념": 2,
-    "CU": 2,
-    "하이퍼 리얼리즘": 2,
+    "저당": 2,
     "편의점": 2,
-    "프리미엄": 2,
-    "자생생물": 2
+    "조선호텔 북경오리": 2,
+    "신세계라이브쇼핑": 2,
+    "식물성 단백질": 2,
+    "미코노미": 1,
+    "개인의 취향": 1,
+    "남성 취미": 1,
+    "과자 DIY": 1
   },
   "category_totals": {
-    "product": 23,
-    "consumer": 11,
-    "ingredient": 10,
-    "market": 2,
-    "other": 8,
-    "regulation": 2
+    "consumer": 12,
+    "product": 18,
+    "ingredient": 7,
+    "other": 1,
+    "market": 2
   },
   "highlighted_articles": [
     {
@@ -705,7 +705,8 @@
   ],
   "daily_article_counts": {
     "2026-05-04": 66,
-    "2026-05-05": 56
+    "2026-05-05": 56,
+    "2026-05-06": 40
   },
   "ai_summary": null
 }
