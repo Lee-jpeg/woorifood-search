@@ -2,147 +2,150 @@
   "week_id": "2026-W19",
   "start_date": "2026-05-04",
   "end_date": "2026-05-10",
-  "total_articles": 162,
+  "total_articles": 242,
   "days_included": [
     "2026-05-04",
     "2026-05-05",
-    "2026-05-06"
+    "2026-05-06",
+    "2026-05-07"
   ],
   "top_keywords": [
     {
-      "keyword": "특제 소스",
-      "count": 4
-    },
-    {
-      "keyword": "아이스 커피 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "간편성",
-      "count": 3
-    },
-    {
-      "keyword": "신제품",
-      "count": 3
-    },
-    {
-      "keyword": "반려동물 식품",
-      "count": 3
-    },
-    {
-      "keyword": "HMR",
-      "count": 3
-    },
-    {
-      "keyword": "편의성",
-      "count": 3
-    },
-    {
-      "keyword": "동서식품",
-      "count": 2
-    },
-    {
-      "keyword": "카누 아이스 샷 아메리카노",
-      "count": 2
-    },
-    {
-      "keyword": "비건",
-      "count": 2
-    },
-    {
-      "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "고구마",
-      "count": 2
-    },
-    {
-      "keyword": "비트",
-      "count": 2
-    },
-    {
-      "keyword": "비빔장 소스",
-      "count": 2
-    },
-    {
-      "keyword": "황태",
-      "count": 2
-    },
-    {
-      "keyword": "북경오리",
-      "count": 2
-    },
-    {
       "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "편의점",
-      "count": 2
-    },
-    {
-      "keyword": "조선호텔 북경오리",
-      "count": 2
-    },
-    {
-      "keyword": "신세계라이브쇼핑",
-      "count": 2
+      "count": 8
     },
     {
       "keyword": "식물성 단백질",
+      "count": 7
+    },
+    {
+      "keyword": "신제품",
+      "count": 7
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 5
+    },
+    {
+      "keyword": "고추장",
+      "count": 5
+    },
+    {
+      "keyword": "프로모션",
+      "count": 5
+    },
+    {
+      "keyword": "비건",
+      "count": 5
+    },
+    {
+      "keyword": "소스",
+      "count": 5
+    },
+    {
+      "keyword": "신선식품",
+      "count": 4
+    },
+    {
+      "keyword": "불닭소스",
+      "count": 4
+    },
+    {
+      "keyword": "홍초",
+      "count": 4
+    },
+    {
+      "keyword": "건강 지향",
+      "count": 3
+    },
+    {
+      "keyword": "혈당 관리",
+      "count": 3
+    },
+    {
+      "keyword": "드레싱",
+      "count": 3
+    },
+    {
+      "keyword": "건강",
+      "count": 3
+    },
+    {
+      "keyword": "K-푸드",
+      "count": 3
+    },
+    {
+      "keyword": "건강 트렌드",
+      "count": 3
+    },
+    {
+      "keyword": "청정원",
+      "count": 3
+    },
+    {
+      "keyword": "발효식품",
+      "count": 3
+    },
+    {
+      "keyword": "김희은 셰프",
+      "count": 3
+    },
+    {
+      "keyword": "참기름",
+      "count": 3
+    },
+    {
+      "keyword": "신제품 출시",
       "count": 2
     },
     {
-      "keyword": "미코노미",
-      "count": 1
+      "keyword": "고소한 풍미",
+      "count": 2
     },
     {
-      "keyword": "개인의 취향",
-      "count": 1
+      "keyword": "이커머스",
+      "count": 2
     },
     {
-      "keyword": "남성 취미",
-      "count": 1
-    },
-    {
-      "keyword": "과자 DIY",
-      "count": 1
+      "keyword": "멤버십 혜택",
+      "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "특제 소스": 4,
-    "아이스 커피 트렌드": 3,
-    "간편성": 3,
-    "신제품": 3,
-    "반려동물 식품": 3,
-    "HMR": 3,
-    "편의성": 3,
-    "동서식품": 2,
-    "카누 아이스 샷 아메리카노": 2,
-    "비건": 2,
-    "소스": 2,
-    "고구마": 2,
-    "비트": 2,
-    "비빔장 소스": 2,
-    "황태": 2,
-    "북경오리": 2,
-    "저당": 2,
-    "편의점": 2,
-    "조선호텔 북경오리": 2,
-    "신세계라이브쇼핑": 2,
-    "식물성 단백질": 2,
-    "미코노미": 1,
-    "개인의 취향": 1,
-    "남성 취미": 1,
-    "과자 DIY": 1
+    "저당": 8,
+    "식물성 단백질": 7,
+    "신제품": 7,
+    "소비 트렌드": 5,
+    "고추장": 5,
+    "프로모션": 5,
+    "비건": 5,
+    "소스": 5,
+    "신선식품": 4,
+    "불닭소스": 4,
+    "홍초": 4,
+    "건강 지향": 3,
+    "혈당 관리": 3,
+    "드레싱": 3,
+    "건강": 3,
+    "K-푸드": 3,
+    "건강 트렌드": 3,
+    "청정원": 3,
+    "발효식품": 3,
+    "김희은 셰프": 3,
+    "참기름": 3,
+    "신제품 출시": 2,
+    "고소한 풍미": 2,
+    "이커머스": 2,
+    "멤버십 혜택": 2
   },
   "category_totals": {
-    "consumer": 12,
-    "product": 18,
-    "ingredient": 7,
-    "other": 1,
-    "market": 2
+    "ingredient": 6,
+    "product": 26,
+    "market": 8,
+    "consumer": 6,
+    "regulation": 2,
+    "other": 29,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -706,7 +709,8 @@
   "daily_article_counts": {
     "2026-05-04": 66,
     "2026-05-05": 56,
-    "2026-05-06": 40
+    "2026-05-06": 40,
+    "2026-05-07": 80
   },
   "ai_summary": null
 }
