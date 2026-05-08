@@ -2,150 +2,150 @@
   "week_id": "2026-W19",
   "start_date": "2026-05-04",
   "end_date": "2026-05-10",
-  "total_articles": 242,
+  "total_articles": 322,
   "days_included": [
     "2026-05-04",
     "2026-05-05",
     "2026-05-06",
-    "2026-05-07"
+    "2026-05-07",
+    "2026-05-08"
   ],
   "top_keywords": [
     {
-      "keyword": "저당",
-      "count": 8
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 7
-    },
-    {
-      "keyword": "신제품",
-      "count": 7
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 5
-    },
-    {
-      "keyword": "고추장",
-      "count": 5
-    },
-    {
-      "keyword": "프로모션",
-      "count": 5
-    },
-    {
-      "keyword": "비건",
-      "count": 5
+      "keyword": "간편식",
+      "count": 10
     },
     {
       "keyword": "소스",
-      "count": 5
+      "count": 7
     },
     {
-      "keyword": "신선식품",
-      "count": 4
-    },
-    {
-      "keyword": "불닭소스",
-      "count": 4
-    },
-    {
-      "keyword": "홍초",
-      "count": 4
-    },
-    {
-      "keyword": "건강 지향",
-      "count": 3
-    },
-    {
-      "keyword": "혈당 관리",
-      "count": 3
-    },
-    {
-      "keyword": "드레싱",
-      "count": 3
-    },
-    {
-      "keyword": "건강",
-      "count": 3
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 3
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "청정원",
-      "count": 3
+      "keyword": "한식 양념",
+      "count": 6
     },
     {
       "keyword": "발효식품",
+      "count": 5
+    },
+    {
+      "keyword": "신제품",
+      "count": 5
+    },
+    {
+      "keyword": "컵 물회",
+      "count": 4
+    },
+    {
+      "keyword": "고추장 소스",
       "count": 3
     },
     {
-      "keyword": "김희은 셰프",
+      "keyword": "이마트",
       "count": 3
     },
     {
-      "keyword": "참기름",
+      "keyword": "알룰로스",
       "count": 3
     },
     {
-      "keyword": "신제품 출시",
+      "keyword": "녹차",
+      "count": 3
+    },
+    {
+      "keyword": "비빔면",
+      "count": 3
+    },
+    {
+      "keyword": "진밀면",
+      "count": 3
+    },
+    {
+      "keyword": "장류",
+      "count": 3
+    },
+    {
+      "keyword": "양념",
+      "count": 3
+    },
+    {
+      "keyword": "고추장",
+      "count": 3
+    },
+    {
+      "keyword": "김치",
       "count": 2
     },
     {
-      "keyword": "고소한 풍미",
+      "keyword": "된장",
       "count": 2
     },
     {
-      "keyword": "이커머스",
+      "keyword": "발효 공법",
       "count": 2
     },
     {
-      "keyword": "멤버십 혜택",
+      "keyword": "기능성 식품",
+      "count": 2
+    },
+    {
+      "keyword": "건강",
+      "count": 2
+    },
+    {
+      "keyword": "하림",
+      "count": 2
+    },
+    {
+      "keyword": "닭근위",
+      "count": 2
+    },
+    {
+      "keyword": "직화근위볶음",
+      "count": 2
+    },
+    {
+      "keyword": "전자레인지 조리",
+      "count": 2
+    },
+    {
+      "keyword": "특수부위",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "저당": 8,
-    "식물성 단백질": 7,
-    "신제품": 7,
-    "소비 트렌드": 5,
-    "고추장": 5,
-    "프로모션": 5,
-    "비건": 5,
-    "소스": 5,
-    "신선식품": 4,
-    "불닭소스": 4,
-    "홍초": 4,
-    "건강 지향": 3,
-    "혈당 관리": 3,
-    "드레싱": 3,
-    "건강": 3,
-    "K-푸드": 3,
-    "건강 트렌드": 3,
-    "청정원": 3,
-    "발효식품": 3,
-    "김희은 셰프": 3,
-    "참기름": 3,
-    "신제품 출시": 2,
-    "고소한 풍미": 2,
-    "이커머스": 2,
-    "멤버십 혜택": 2
+    "간편식": 10,
+    "소스": 7,
+    "한식 양념": 6,
+    "발효식품": 5,
+    "신제품": 5,
+    "컵 물회": 4,
+    "고추장 소스": 3,
+    "이마트": 3,
+    "알룰로스": 3,
+    "녹차": 3,
+    "비빔면": 3,
+    "진밀면": 3,
+    "장류": 3,
+    "양념": 3,
+    "고추장": 3,
+    "김치": 2,
+    "된장": 2,
+    "발효 공법": 2,
+    "기능성 식품": 2,
+    "건강": 2,
+    "하림": 2,
+    "닭근위": 2,
+    "직화근위볶음": 2,
+    "전자레인지 조리": 2,
+    "특수부위": 2
   },
   "category_totals": {
-    "ingredient": 6,
-    "product": 26,
-    "market": 8,
-    "consumer": 6,
-    "regulation": 2,
-    "other": 29,
-    "manufacturing": 3
+    "product": 25,
+    "consumer": 8,
+    "manufacturing": 2,
+    "market": 6,
+    "ingredient": 7,
+    "other": 32
   },
   "highlighted_articles": [
     {
@@ -710,7 +710,8 @@
     "2026-05-04": 66,
     "2026-05-05": 56,
     "2026-05-06": 40,
-    "2026-05-07": 80
+    "2026-05-07": 80,
+    "2026-05-08": 80
   },
   "ai_summary": null
 }
