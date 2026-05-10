@@ -2,151 +2,152 @@
   "week_id": "2026-W19",
   "start_date": "2026-05-04",
   "end_date": "2026-05-10",
-  "total_articles": 380,
+  "total_articles": 426,
   "days_included": [
     "2026-05-04",
     "2026-05-05",
     "2026-05-06",
     "2026-05-07",
     "2026-05-08",
-    "2026-05-09"
+    "2026-05-09",
+    "2026-05-10"
   ],
   "top_keywords": [
     {
-      "keyword": "건강기능식품",
-      "count": 4
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 4
-    },
-    {
       "keyword": "저당",
-      "count": 4
-    },
-    {
-      "keyword": "간편식",
-      "count": 4
-    },
-    {
-      "keyword": "혈당 관리",
-      "count": 3
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 3
-    },
-    {
-      "keyword": "참기름",
-      "count": 3
-    },
-    {
-      "keyword": "신제품",
-      "count": 3
-    },
-    {
-      "keyword": "한식 양념",
-      "count": 3
-    },
-    {
-      "keyword": "비법소스",
-      "count": 3
-    },
-    {
-      "keyword": "감칠맛",
-      "count": 3
-    },
-    {
-      "keyword": "AI",
-      "count": 2
+      "count": 9
     },
     {
       "keyword": "단백질",
+      "count": 8
+    },
+    {
+      "keyword": "밸런스푼",
+      "count": 6
+    },
+    {
+      "keyword": "특제 소스",
+      "count": 6
+    },
+    {
+      "keyword": "저칼로리",
+      "count": 6
+    },
+    {
+      "keyword": "세븐일레븐",
+      "count": 5
+    },
+    {
+      "keyword": "건강 간편식",
+      "count": 5
+    },
+    {
+      "keyword": "간편식",
+      "count": 5
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 4
+    },
+    {
+      "keyword": "신제품",
+      "count": 4
+    },
+    {
+      "keyword": "비건",
+      "count": 4
+    },
+    {
+      "keyword": "K-푸드",
+      "count": 3
+    },
+    {
+      "keyword": "현대그린푸드",
+      "count": 3
+    },
+    {
+      "keyword": "사찰음식",
+      "count": 3
+    },
+    {
+      "keyword": "소비 트렌드",
       "count": 2
     },
     {
-      "keyword": "식이섬유",
+      "keyword": "아보카도",
       "count": 2
     },
     {
-      "keyword": "식물성 원료",
+      "keyword": "원물 토핑",
       "count": 2
     },
     {
-      "keyword": "소스류",
+      "keyword": "땅콩버터",
       "count": 2
     },
     {
-      "keyword": "HMR",
+      "keyword": "고단백",
       "count": 2
     },
     {
-      "keyword": "오뚜기 진밀면",
+      "keyword": "삼양사",
       "count": 2
     },
     {
-      "keyword": "고추장",
+      "keyword": "냉동생지",
       "count": 2
     },
     {
-      "keyword": "된장",
+      "keyword": "소스",
       "count": 2
     },
     {
-      "keyword": "수출",
+      "keyword": "편의성",
       "count": 2
     },
     {
-      "keyword": "비건 인증",
+      "keyword": "현지화",
       "count": 2
     },
     {
-      "keyword": "오뚜기",
-      "count": 2
-    },
-    {
-      "keyword": "진밀면",
-      "count": 2
-    },
-    {
-      "keyword": "1인 가구",
-      "count": 2
+      "keyword": "그린 큐레이션",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "건강기능식품": 4,
-    "소비 트렌드": 4,
-    "저당": 4,
-    "간편식": 4,
-    "혈당 관리": 3,
-    "식물성 단백질": 3,
-    "참기름": 3,
-    "신제품": 3,
-    "한식 양념": 3,
-    "비법소스": 3,
-    "감칠맛": 3,
-    "AI": 2,
-    "단백질": 2,
-    "식이섬유": 2,
-    "식물성 원료": 2,
-    "소스류": 2,
-    "HMR": 2,
-    "오뚜기 진밀면": 2,
-    "고추장": 2,
-    "된장": 2,
-    "수출": 2,
-    "비건 인증": 2,
-    "오뚜기": 2,
-    "진밀면": 2,
-    "1인 가구": 2
+    "저당": 9,
+    "단백질": 8,
+    "밸런스푼": 6,
+    "특제 소스": 6,
+    "저칼로리": 6,
+    "세븐일레븐": 5,
+    "건강 간편식": 5,
+    "간편식": 5,
+    "식물성 단백질": 4,
+    "신제품": 4,
+    "비건": 4,
+    "K-푸드": 3,
+    "현대그린푸드": 3,
+    "사찰음식": 3,
+    "소비 트렌드": 2,
+    "아보카도": 2,
+    "원물 토핑": 2,
+    "땅콩버터": 2,
+    "고단백": 2,
+    "삼양사": 2,
+    "냉동생지": 2,
+    "소스": 2,
+    "편의성": 2,
+    "현지화": 2,
+    "그린 큐레이션": 1
   },
   "category_totals": {
-    "consumer": 12,
-    "market": 8,
-    "ingredient": 8,
-    "product": 19,
-    "manufacturing": 1,
-    "other": 9,
+    "consumer": 14,
+    "product": 22,
+    "ingredient": 2,
+    "market": 3,
+    "manufacturing": 3,
+    "other": 1,
     "regulation": 1
   },
   "highlighted_articles": [
@@ -717,7 +718,8 @@
     "2026-05-06": 40,
     "2026-05-07": 80,
     "2026-05-08": 80,
-    "2026-05-09": 58
+    "2026-05-09": 58,
+    "2026-05-10": 46
   },
   "ai_summary": null
 }
