@@ -2,147 +2,149 @@
   "week_id": "2026-W20",
   "start_date": "2026-05-11",
   "end_date": "2026-05-17",
-  "total_articles": 150,
+  "total_articles": 225,
   "days_included": [
     "2026-05-11",
-    "2026-05-12"
+    "2026-05-12",
+    "2026-05-13"
   ],
   "top_keywords": [
     {
-      "keyword": "식물성 단백질",
-      "count": 9
-    },
-    {
-      "keyword": "신제품",
-      "count": 8
-    },
-    {
-      "keyword": "서리태",
-      "count": 7
-    },
-    {
-      "keyword": "대상",
+      "keyword": "신라면 로제",
       "count": 6
     },
     {
-      "keyword": "마마수카",
-      "count": 6
-    },
-    {
-      "keyword": "소스",
+      "keyword": "로제 소스",
       "count": 5
     },
     {
-      "keyword": "저당",
-      "count": 5
-    },
-    {
-      "keyword": "두유",
-      "count": 5
-    },
-    {
-      "keyword": "저염 소스",
-      "count": 5
-    },
-    {
-      "keyword": "동남아",
+      "keyword": "EU CRA",
       "count": 4
     },
     {
-      "keyword": "드레싱",
+      "keyword": "당솔브",
       "count": 4
     },
     {
-      "keyword": "K-푸드",
+      "keyword": "K-로제",
       "count": 4
     },
     {
-      "keyword": "신장질환식단",
+      "keyword": "토마토",
+      "count": 4
+    },
+    {
+      "keyword": "고추장",
+      "count": 4
+    },
+    {
+      "keyword": "퓨전 소스",
       "count": 4
     },
     {
       "keyword": "소비 트렌드",
-      "count": 4
-    },
-    {
-      "keyword": "웰니스 트렌드",
       "count": 3
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "혈당 관리",
       "count": 3
     },
     {
-      "keyword": "트렌드",
+      "keyword": "저당",
       "count": 3
     },
     {
-      "keyword": "매일두유 99.9 서리태",
+      "keyword": "식물성 단백질",
       "count": 3
     },
     {
-      "keyword": "설탕무첨가",
-      "count": 3
-    },
-    {
-      "keyword": "현대그린푸드",
-      "count": 3
-    },
-    {
-      "keyword": "그리팅",
-      "count": 3
-    },
-    {
-      "keyword": "소스·드레싱",
-      "count": 3
-    },
-    {
-      "keyword": "조미료",
-      "count": 3
-    },
-    {
-      "keyword": "김치",
+      "keyword": "소프트웨어 공급망 보안",
       "count": 2
     },
     {
-      "keyword": "된장",
+      "keyword": "식물성",
+      "count": 2
+    },
+    {
+      "keyword": "단백질",
+      "count": 2
+    },
+    {
+      "keyword": "환자식",
+      "count": 2
+    },
+    {
+      "keyword": "시장 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "K-푸드",
+      "count": 2
+    },
+    {
+      "keyword": "비건",
+      "count": 2
+    },
+    {
+      "keyword": "크림",
+      "count": 2
+    },
+    {
+      "keyword": "신제품",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "모디슈머",
+      "count": 2
+    },
+    {
+      "keyword": "누적 매출 20조",
+      "count": 2
+    },
+    {
+      "keyword": "MZ세대",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "식물성 단백질": 9,
-    "신제품": 8,
-    "서리태": 7,
-    "대상": 6,
-    "마마수카": 6,
-    "소스": 5,
-    "저당": 5,
-    "두유": 5,
-    "저염 소스": 5,
-    "동남아": 4,
-    "드레싱": 4,
-    "K-푸드": 4,
-    "신장질환식단": 4,
-    "소비 트렌드": 4,
-    "웰니스 트렌드": 3,
-    "건강기능식품": 3,
-    "트렌드": 3,
-    "매일두유 99.9 서리태": 3,
-    "설탕무첨가": 3,
-    "현대그린푸드": 3,
-    "그리팅": 3,
-    "소스·드레싱": 3,
-    "조미료": 3,
-    "김치": 2,
-    "된장": 2
+    "신라면 로제": 6,
+    "로제 소스": 5,
+    "EU CRA": 4,
+    "당솔브": 4,
+    "K-로제": 4,
+    "토마토": 4,
+    "고추장": 4,
+    "퓨전 소스": 4,
+    "소비 트렌드": 3,
+    "혈당 관리": 3,
+    "저당": 3,
+    "식물성 단백질": 3,
+    "소프트웨어 공급망 보안": 2,
+    "식물성": 2,
+    "단백질": 2,
+    "환자식": 2,
+    "시장 트렌드": 2,
+    "K-푸드": 2,
+    "비건": 2,
+    "크림": 2,
+    "신제품": 2,
+    "소스": 2,
+    "모디슈머": 2,
+    "누적 매출 20조": 2,
+    "MZ세대": 2
   },
   "category_totals": {
-    "consumer": 13,
-    "product": 21,
-    "ingredient": 5,
-    "market": 8,
-    "other": 29,
-    "manufacturing": 2
+    "regulation": 3,
+    "product": 22,
+    "ingredient": 6,
+    "consumer": 8,
+    "market": 6,
+    "other": 25,
+    "manufacturing": 5
   },
   "highlighted_articles": [
     {
@@ -660,7 +662,8 @@
   ],
   "daily_article_counts": {
     "2026-05-11": 72,
-    "2026-05-12": 78
+    "2026-05-12": 78,
+    "2026-05-13": 75
   },
   "ai_summary": null
 }
