@@ -2,149 +2,151 @@
   "week_id": "2026-W20",
   "start_date": "2026-05-11",
   "end_date": "2026-05-17",
-  "total_articles": 311,
+  "total_articles": 384,
   "days_included": [
     "2026-05-11",
     "2026-05-12",
     "2026-05-13",
-    "2026-05-14"
+    "2026-05-14",
+    "2026-05-15"
   ],
   "top_keywords": [
     {
-      "keyword": "저염식",
-      "count": 6
+      "keyword": "신제품",
+      "count": 5
     },
     {
-      "keyword": "건강식",
-      "count": 6
+      "keyword": "식물성 단백질",
+      "count": 5
     },
     {
-      "keyword": "저포화지방식",
+      "keyword": "간편식",
+      "count": 5
+    },
+    {
+      "keyword": "소스류",
       "count": 4
     },
     {
-      "keyword": "신제품",
-      "count": 3
-    },
-    {
       "keyword": "소비 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "저당",
+      "count": 4
+    },
+    {
+      "keyword": "홀그레인 타르타르 소스",
+      "count": 4
+    },
+    {
+      "keyword": "양념갈비맛",
       "count": 3
     },
     {
-      "keyword": "혈관관리",
+      "keyword": "소스",
       "count": 3
     },
     {
-      "keyword": "혈압관리",
-      "count": 3
+      "keyword": "양념",
+      "count": 2
     },
     {
-      "keyword": "오메가3",
-      "count": 3
+      "keyword": "K-푸드",
+      "count": 2
     },
     {
       "keyword": "신제품 개발",
       "count": 2
     },
     {
-      "keyword": "순살치킨",
+      "keyword": "한라봉 소스",
       "count": 2
     },
     {
-      "keyword": "저당 소스",
+      "keyword": "과일 소스",
       "count": 2
     },
     {
-      "keyword": "드레싱",
+      "keyword": "지역 특산물",
       "count": 2
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "고단백",
       "count": 2
     },
     {
-      "keyword": "한국식 매운맛",
+      "keyword": "건강",
       "count": 2
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "건강식",
       "count": 2
     },
     {
-      "keyword": "신라면 로제",
+      "keyword": "게살 크림 크로켓",
       "count": 2
     },
     {
-      "keyword": "무첨가",
+      "keyword": "대체 감미료",
       "count": 2
     },
     {
-      "keyword": "저칼로리",
+      "keyword": "알룰로스",
       "count": 2
     },
     {
-      "keyword": "감칠맛",
+      "keyword": "스테비아",
       "count": 2
     },
     {
-      "keyword": "식이섬유",
+      "keyword": "굽네몰",
       "count": 2
     },
     {
-      "keyword": "콩류",
+      "keyword": "오통닭",
       "count": 2
     },
     {
-      "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "저염",
-      "count": 2
-    },
-    {
-      "keyword": "저포화지방",
-      "count": 2
-    },
-    {
-      "keyword": "DHA",
+      "keyword": "닭가슴살",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "저염식": 6,
-    "건강식": 6,
-    "저포화지방식": 4,
-    "신제품": 3,
-    "소비 트렌드": 3,
-    "혈관관리": 3,
-    "혈압관리": 3,
-    "오메가3": 3,
+    "신제품": 5,
+    "식물성 단백질": 5,
+    "간편식": 5,
+    "소스류": 4,
+    "소비 트렌드": 4,
+    "저당": 4,
+    "홀그레인 타르타르 소스": 4,
+    "양념갈비맛": 3,
+    "소스": 3,
+    "양념": 2,
+    "K-푸드": 2,
     "신제품 개발": 2,
-    "순살치킨": 2,
-    "저당 소스": 2,
-    "드레싱": 2,
-    "건강기능식품": 2,
-    "한국식 매운맛": 2,
-    "건강 트렌드": 2,
-    "신라면 로제": 2,
-    "무첨가": 2,
-    "저칼로리": 2,
-    "감칠맛": 2,
-    "식이섬유": 2,
-    "콩류": 2,
-    "저당": 2,
-    "저염": 2,
-    "저포화지방": 2,
-    "DHA": 2
+    "한라봉 소스": 2,
+    "과일 소스": 2,
+    "지역 특산물": 2,
+    "고단백": 2,
+    "건강": 2,
+    "건강식": 2,
+    "게살 크림 크로켓": 2,
+    "대체 감미료": 2,
+    "알룰로스": 2,
+    "스테비아": 2,
+    "굽네몰": 2,
+    "오통닭": 2,
+    "닭가슴살": 2
   },
   "category_totals": {
-    "other": 40,
-    "product": 22,
-    "regulation": 1,
+    "product": 20,
     "consumer": 17,
-    "market": 3,
-    "ingredient": 3
+    "other": 24,
+    "market": 5,
+    "manufacturing": 1,
+    "regulation": 1,
+    "ingredient": 5
   },
   "highlighted_articles": [
     {
@@ -664,7 +666,8 @@
     "2026-05-11": 72,
     "2026-05-12": 78,
     "2026-05-13": 75,
-    "2026-05-14": 86
+    "2026-05-14": 86,
+    "2026-05-15": 73
   },
   "ai_summary": null
 }
