@@ -2,85 +2,62 @@
   "week_id": "2026-W21",
   "start_date": "2026-05-18",
   "end_date": "2026-05-24",
-  "total_articles": 393,
+  "total_articles": 481,
   "days_included": [
     "2026-05-18",
     "2026-05-19",
     "2026-05-20",
     "2026-05-21",
-    "2026-05-22"
+    "2026-05-22",
+    "2026-05-23"
   ],
   "top_keywords": [
     {
-      "keyword": "소스",
+      "keyword": "신제품",
       "count": 6
     },
     {
-      "keyword": "불닭소스",
-      "count": 5
-    },
-    {
-      "keyword": "분리배출",
+      "keyword": "간편식",
       "count": 4
     },
     {
-      "keyword": "칼집 닭가슴살",
+      "keyword": "저당",
+      "count": 4
+    },
+    {
+      "keyword": "불닭소스",
+      "count": 4
+    },
+    {
+      "keyword": "건강 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "식이섬유",
       "count": 3
     },
     {
-      "keyword": "스와이시불닭",
+      "keyword": "소스 활용",
       "count": 3
     },
     {
-      "keyword": "동남아 시장",
+      "keyword": "알룰로스",
       "count": 3
     },
     {
-      "keyword": "오뚜기",
-      "count": 3
-    },
-    {
-      "keyword": "신제품",
-      "count": 3
-    },
-    {
-      "keyword": "태국",
-      "count": 3
-    },
-    {
-      "keyword": "재활용",
-      "count": 3
-    },
-    {
-      "keyword": "현지화 전략",
-      "count": 3
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 3
-    },
-    {
-      "keyword": "양념쌈장",
-      "count": 3
-    },
-    {
-      "keyword": "캠핑 BBQ",
-      "count": 3
-    },
-    {
-      "keyword": "산양유 단백",
-      "count": 3
-    },
-    {
-      "keyword": "특제 소스",
+      "keyword": "가공식품",
       "count": 2
     },
     {
-      "keyword": "간편식",
+      "keyword": "양념돼지구이",
       "count": 2
     },
     {
-      "keyword": "K푸드",
+      "keyword": "외식 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "할랄 인증",
       "count": 2
     },
     {
@@ -88,64 +65,88 @@
       "count": 2
     },
     {
-      "keyword": "동남아시아",
+      "keyword": "식물성 단백질",
       "count": 2
     },
     {
-      "keyword": "카나페",
+      "keyword": "기능성 성분",
       "count": 2
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "저염식",
       "count": 2
     },
     {
-      "keyword": "친환경 포장",
+      "keyword": "단백질",
       "count": 2
     },
     {
-      "keyword": "소스 활용",
+      "keyword": "비건",
       "count": 2
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "당 저감",
       "count": 2
+    },
+    {
+      "keyword": "지속가능성",
+      "count": 2
+    },
+    {
+      "keyword": "건강식",
+      "count": 1
+    },
+    {
+      "keyword": "곡물 가공식품",
+      "count": 1
+    },
+    {
+      "keyword": "월드컵 특수",
+      "count": 1
+    },
+    {
+      "keyword": "간편식사류",
+      "count": 1
+    },
+    {
+      "keyword": "유통 마케팅",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "소스": 6,
-    "불닭소스": 5,
-    "분리배출": 4,
-    "칼집 닭가슴살": 3,
-    "스와이시불닭": 3,
-    "동남아 시장": 3,
-    "오뚜기": 3,
-    "신제품": 3,
-    "태국": 3,
-    "재활용": 3,
-    "현지화 전략": 3,
-    "K-푸드": 3,
-    "양념쌈장": 3,
-    "캠핑 BBQ": 3,
-    "산양유 단백": 3,
-    "특제 소스": 2,
-    "간편식": 2,
-    "K푸드": 2,
+    "신제품": 6,
+    "간편식": 4,
+    "저당": 4,
+    "불닭소스": 4,
+    "건강 트렌드": 4,
+    "식이섬유": 3,
+    "소스 활용": 3,
+    "알룰로스": 3,
+    "가공식품": 2,
+    "양념돼지구이": 2,
+    "외식 트렌드": 2,
+    "할랄 인증": 2,
     "현지화": 2,
-    "동남아시아": 2,
-    "카나페": 2,
-    "소비 트렌드": 2,
-    "친환경 포장": 2,
-    "소스 활용": 2,
-    "건강기능식품": 2
+    "식물성 단백질": 2,
+    "기능성 성분": 2,
+    "저염식": 2,
+    "단백질": 2,
+    "비건": 2,
+    "당 저감": 2,
+    "지속가능성": 2,
+    "건강식": 1,
+    "곡물 가공식품": 1,
+    "월드컵 특수": 1,
+    "간편식사류": 1,
+    "유통 마케팅": 1
   },
   "category_totals": {
-    "product": 20,
-    "market": 14,
-    "consumer": 11,
-    "regulation": 2,
-    "other": 40,
-    "ingredient": 1
+    "consumer": 12,
+    "market": 8,
+    "other": 41,
+    "ingredient": 3,
+    "product": 23,
+    "manufacturing": 1
   },
   "highlighted_articles": [
     {
@@ -250,6 +251,35 @@
         "불닭소스"
       ],
       "actionable_insight": "동남아 시장 공략을 위해 현지화된 매운맛과 탱글한 식감을 구현하는 소스 연구 개발에 집중하고, 불닭소스와 같은 기존 핵심 소스의 다각적인 메뉴 적용 방안을 모색해야 한다."
+    },
+    {
+      "id": "df1d89bcb20b",
+      "title": "오뚜기, 냉면부터 저당·수산 HMR까지···간편식 라인업 확대",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=144572",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-05-22T17:04:00+09:00",
+      "content": "JOY 저당 드레싱' 3종(참깨·아몬드캐슈넛·시저)을 출시했다. 제품은 100g당 당류 함량을 2g 수준으로 낮춰 기존 제품 대비 당 함량을 80% 이상 줄였으며, 감미료를 사용하지 않은 것이 특징이다. 샐러드뿐 아니라 딥핑 소스... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "오뚜기",
+        "저당 드레싱",
+        "감미료 무첨가",
+        "딥핑 소스",
+        "건강 트렌드"
+      ],
+      "summary": "오뚜기가 당류 함량을 80% 이상 줄인 저당 드레싱 3종을 출시하며 건강 지향 소비 트렌드를 겨냥했다. 100g당 당류 2g 수준을 달성하고 인공 감미료를 사용하지 않은 것이 핵심 기술적 특징이다. 이는 샐러드뿐만 아니라 딥핑 소스 등 다양한 활용성을 제시한다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "당류",
+        "참깨",
+        "아몬드",
+        "캐슈넛",
+        "시저"
+      ],
+      "actionable_insight": "경쟁사의 인공 감미료 없이 당류 함량을 80% 이상 저감하며 풍미를 유지한 기술적 접근 방식과 샐러드 외 딥핑 소스로의 활용성을 확대한 전략을 분석하여 자사 저당 소스 및 양념류 개발에 반영해야 한다."
     },
     {
       "id": "12e86f7e402b",
@@ -643,33 +673,6 @@
       "trend_signal": "rising",
       "key_ingredients": [],
       "actionable_insight": "글로벌 시장의 현지 식문화와 소비자 선호도를 깊이 이해하여, 타겟 국가 맞춤형 소스 및 양념류 개발에 집중해야 한다."
-    },
-    {
-      "id": "1647ad9da5d3",
-      "title": "인도네시아 '맞춤형 건강: 식이요법 및 생활습관 관리에서의 AI 부상' 세...",
-      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=241209",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-05-19T11:02:00+09:00",
-      "content": "인도네시아 건강·웰니스 식품 시장은 최근 몇 년간 영양, 질병 예방, 전반적인 건강에 대한 소비자... 저당·저지방·저염·고섬유질 제형이 핵심 제품 콘셉트로 부각됐으며, 천연 GLP-1 관련 보충제가 이 부문의... ",
-      "search_keyword": "저염 식품",
-      "category": "consumer",
-      "keywords": [
-        "인도네시아 건강·웰니스 시장",
-        "저당",
-        "저지방",
-        "저염",
-        "고섬유질",
-        "천연 GLP-1",
-        "식이요법"
-      ],
-      "summary": "인도네시아 건강·웰니스 식품 시장은 영양 및 질병 예방에 대한 소비자 관심 증대로 빠르게 성장하고 있으며, 저당·저지방·저염·고섬유질 제형이 핵심 제품 콘셉트로 부각되고 있습니다. 소스·양념류 R&D는 이 추세에 맞춰 나트륨, 설탕, 지방 함량을 줄이면서도 풍미를 유지하고, 식이섬유 및 천연 GLP-1 관련 기능성 성분을 강화한 제품 개발에 집중해야 합니다.",
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "천연 GLP-1 (관련 보충제)"
-      ],
-      "actionable_insight": "소스·양념류 R&D팀은 인도네시아 건강 트렌드에 발맞춰 저당, 저지방, 저염, 고섬유질 콘셉트의 제품 개발을 우선순위로 두고, 천연 GLP-1 등 기능성 원료의 적용 방안을 모색해야 한다."
     }
   ],
   "daily_article_counts": {
@@ -677,7 +680,8 @@
     "2026-05-19": 83,
     "2026-05-20": 76,
     "2026-05-21": 81,
-    "2026-05-22": 88
+    "2026-05-22": 88,
+    "2026-05-23": 88
   },
   "ai_summary": null
 }
