@@ -2,74 +2,51 @@
   "week_id": "2026-W21",
   "start_date": "2026-05-18",
   "end_date": "2026-05-24",
-  "total_articles": 481,
+  "total_articles": 527,
   "days_included": [
     "2026-05-18",
     "2026-05-19",
     "2026-05-20",
     "2026-05-21",
     "2026-05-22",
-    "2026-05-23"
+    "2026-05-23",
+    "2026-05-24"
   ],
   "top_keywords": [
     {
-      "keyword": "신제품",
-      "count": 6
-    },
-    {
-      "keyword": "간편식",
-      "count": 4
-    },
-    {
-      "keyword": "저당",
-      "count": 4
-    },
-    {
-      "keyword": "불닭소스",
-      "count": 4
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 4
-    },
-    {
-      "keyword": "식이섬유",
-      "count": 3
-    },
-    {
-      "keyword": "소스 활용",
-      "count": 3
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 3
-    },
-    {
-      "keyword": "가공식품",
-      "count": 2
-    },
-    {
-      "keyword": "양념돼지구이",
-      "count": 2
-    },
-    {
-      "keyword": "외식 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "할랄 인증",
-      "count": 2
-    },
-    {
-      "keyword": "현지화",
-      "count": 2
-    },
-    {
       "keyword": "식물성 단백질",
-      "count": 2
+      "count": 7
     },
     {
-      "keyword": "기능성 성분",
+      "keyword": "신제품",
+      "count": 5
+    },
+    {
+      "keyword": "저염",
+      "count": 5
+    },
+    {
+      "keyword": "저칼륨",
+      "count": 5
+    },
+    {
+      "keyword": "소스",
+      "count": 4
+    },
+    {
+      "keyword": "단백질",
+      "count": 3
+    },
+    {
+      "keyword": "나트륨 저감",
+      "count": 3
+    },
+    {
+      "keyword": "매운맛",
+      "count": 3
+    },
+    {
+      "keyword": "태국",
       "count": 2
     },
     {
@@ -77,76 +54,100 @@
       "count": 2
     },
     {
-      "keyword": "단백질",
+      "keyword": "가공식품",
       "count": 2
     },
     {
-      "keyword": "비건",
+      "keyword": "소비 트렌드",
       "count": 2
     },
     {
-      "keyword": "당 저감",
+      "keyword": "불닭소스",
       "count": 2
     },
     {
-      "keyword": "지속가능성",
+      "keyword": "사찰음식",
       "count": 2
     },
     {
-      "keyword": "건강식",
-      "count": 1
+      "keyword": "천연 재료",
+      "count": 2
     },
     {
-      "keyword": "곡물 가공식품",
-      "count": 1
+      "keyword": "클린 라벨",
+      "count": 2
     },
     {
-      "keyword": "월드컵 특수",
-      "count": 1
+      "keyword": "신라면 로제",
+      "count": 2
     },
     {
-      "keyword": "간편식사류",
-      "count": 1
+      "keyword": "로제 소스",
+      "count": 2
     },
     {
-      "keyword": "유통 마케팅",
-      "count": 1
+      "keyword": "저당",
+      "count": 2
+    },
+    {
+      "keyword": "저칼로리",
+      "count": 2
+    },
+    {
+      "keyword": "두부",
+      "count": 2
+    },
+    {
+      "keyword": "다이어트",
+      "count": 2
+    },
+    {
+      "keyword": "건강",
+      "count": 2
+    },
+    {
+      "keyword": "식이섬유",
+      "count": 2
+    },
+    {
+      "keyword": "동물성 단백질",
+      "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 6,
-    "간편식": 4,
-    "저당": 4,
-    "불닭소스": 4,
-    "건강 트렌드": 4,
-    "식이섬유": 3,
-    "소스 활용": 3,
-    "알룰로스": 3,
-    "가공식품": 2,
-    "양념돼지구이": 2,
-    "외식 트렌드": 2,
-    "할랄 인증": 2,
-    "현지화": 2,
-    "식물성 단백질": 2,
-    "기능성 성분": 2,
+    "식물성 단백질": 7,
+    "신제품": 5,
+    "저염": 5,
+    "저칼륨": 5,
+    "소스": 4,
+    "단백질": 3,
+    "나트륨 저감": 3,
+    "매운맛": 3,
+    "태국": 2,
     "저염식": 2,
-    "단백질": 2,
-    "비건": 2,
-    "당 저감": 2,
-    "지속가능성": 2,
-    "건강식": 1,
-    "곡물 가공식품": 1,
-    "월드컵 특수": 1,
-    "간편식사류": 1,
-    "유통 마케팅": 1
+    "가공식품": 2,
+    "소비 트렌드": 2,
+    "불닭소스": 2,
+    "사찰음식": 2,
+    "천연 재료": 2,
+    "클린 라벨": 2,
+    "신라면 로제": 2,
+    "로제 소스": 2,
+    "저당": 2,
+    "저칼로리": 2,
+    "두부": 2,
+    "다이어트": 2,
+    "건강": 2,
+    "식이섬유": 2,
+    "동물성 단백질": 2
   },
   "category_totals": {
-    "consumer": 12,
-    "market": 8,
-    "other": 41,
-    "ingredient": 3,
-    "product": 23,
-    "manufacturing": 1
+    "product": 16,
+    "market": 5,
+    "consumer": 16,
+    "other": 2,
+    "regulation": 1,
+    "ingredient": 6
   },
   "highlighted_articles": [
     {
@@ -681,7 +682,8 @@
     "2026-05-20": 76,
     "2026-05-21": 81,
     "2026-05-22": 88,
-    "2026-05-23": 88
+    "2026-05-23": 88,
+    "2026-05-24": 46
   },
   "ai_summary": null
 }
