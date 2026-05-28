@@ -2,95 +2,104 @@
   "week_id": "2026-W22",
   "start_date": "2026-05-25",
   "end_date": "2026-05-31",
-  "total_articles": 216,
+  "total_articles": 304,
   "days_included": [
     "2026-05-25",
     "2026-05-26",
-    "2026-05-27"
+    "2026-05-27",
+    "2026-05-28"
   ],
   "top_keywords": [
     {
-      "keyword": "저염",
-      "count": 5
+      "keyword": "특제소스",
+      "count": 9
     },
     {
-      "keyword": "양념치킨",
-      "count": 5
+      "keyword": "고추기름",
+      "count": 7
     },
     {
       "keyword": "식물성 단백질",
+      "count": 6
+    },
+    {
+      "keyword": "들깨",
       "count": 5
     },
     {
-      "keyword": "조미김",
+      "keyword": "땅콩",
+      "count": 5
+    },
+    {
+      "keyword": "맷돌 방식",
+      "count": 5
+    },
+    {
+      "keyword": "로우슈거",
+      "count": 5
+    },
+    {
+      "keyword": "HMR",
       "count": 4
     },
     {
-      "keyword": "BBQ",
+      "keyword": "K-푸드",
       "count": 4
     },
     {
-      "keyword": "호찌민",
+      "keyword": "콩",
       "count": 4
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "비건 인증",
+      "count": 4
+    },
+    {
+      "keyword": "소스",
+      "count": 4
+    },
+    {
+      "keyword": "급속 동결",
       "count": 3
     },
     {
-      "keyword": "김",
+      "keyword": "저당",
       "count": 3
     },
     {
-      "keyword": "간편식",
+      "keyword": "건강 트렌드",
       "count": 3
     },
     {
-      "keyword": "김 스낵",
+      "keyword": "기능성 식품",
       "count": 3
     },
     {
-      "keyword": "멸치 스낵",
+      "keyword": "식전 관리",
       "count": 3
     },
     {
-      "keyword": "베트남",
+      "keyword": "과일 농축액",
       "count": 3
     },
     {
-      "keyword": "시크릿소스치킨",
-      "count": 3
-    },
-    {
-      "keyword": "소이갈릭스",
-      "count": 3
-    },
-    {
-      "keyword": "신제품",
-      "count": 3
-    },
-    {
-      "keyword": "베트남 시장",
-      "count": 3
-    },
-    {
-      "keyword": "단백질",
-      "count": 3
-    },
-    {
-      "keyword": "시장 확장",
+      "keyword": "비린맛 제거",
       "count": 2
     },
     {
-      "keyword": "멸치",
+      "keyword": "남도식 추어탕",
       "count": 2
     },
     {
-      "keyword": "떡볶이",
+      "keyword": "푸드테크",
       "count": 2
     },
     {
-      "keyword": "현지 소비력",
+      "keyword": "카라멜 소스",
+      "count": 2
+    },
+    {
+      "keyword": "미꾸라지",
       "count": 2
     },
     {
@@ -98,52 +107,45 @@
       "count": 2
     },
     {
-      "keyword": "디저트 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "식품의약품안전처",
-      "count": 2
-    },
-    {
-      "keyword": "비건",
+      "keyword": "클린 라벨",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "저염": 5,
-    "양념치킨": 5,
-    "식물성 단백질": 5,
-    "조미김": 4,
-    "BBQ": 4,
-    "호찌민": 4,
-    "소비 트렌드": 3,
-    "김": 3,
-    "간편식": 3,
-    "김 스낵": 3,
-    "멸치 스낵": 3,
-    "베트남": 3,
-    "시크릿소스치킨": 3,
-    "소이갈릭스": 3,
-    "신제품": 3,
-    "베트남 시장": 3,
-    "단백질": 3,
-    "시장 확장": 2,
-    "멸치": 2,
-    "떡볶이": 2,
-    "현지 소비력": 2,
+    "특제소스": 9,
+    "고추기름": 7,
+    "식물성 단백질": 6,
+    "들깨": 5,
+    "땅콩": 5,
+    "맷돌 방식": 5,
+    "로우슈거": 5,
+    "HMR": 4,
+    "K-푸드": 4,
+    "콩": 4,
+    "비건 인증": 4,
+    "소스": 4,
+    "급속 동결": 3,
+    "저당": 3,
+    "건강 트렌드": 3,
+    "기능성 식품": 3,
+    "식전 관리": 3,
+    "과일 농축액": 3,
+    "비린맛 제거": 2,
+    "남도식 추어탕": 2,
+    "푸드테크": 2,
+    "카라멜 소스": 2,
+    "미꾸라지": 2,
     "소비자 트렌드": 2,
-    "디저트 트렌드": 2,
-    "식품의약품안전처": 2,
-    "비건": 2
+    "클린 라벨": 2
   },
   "category_totals": {
-    "market": 13,
-    "ingredient": 10,
-    "product": 16,
-    "consumer": 9,
-    "regulation": 1,
-    "other": 34
+    "ingredient": 5,
+    "product": 27,
+    "market": 5,
+    "consumer": 8,
+    "manufacturing": 5,
+    "regulation": 2,
+    "other": 36
   },
   "highlighted_articles": [
     {
@@ -671,7 +673,8 @@
   "daily_article_counts": {
     "2026-05-25": 46,
     "2026-05-26": 87,
-    "2026-05-27": 83
+    "2026-05-27": 83,
+    "2026-05-28": 88
   },
   "ai_summary": null
 }
