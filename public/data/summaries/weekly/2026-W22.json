@@ -2,56 +2,45 @@
   "week_id": "2026-W22",
   "start_date": "2026-05-25",
   "end_date": "2026-05-31",
-  "total_articles": 304,
+  "total_articles": 400,
   "days_included": [
     "2026-05-25",
     "2026-05-26",
     "2026-05-27",
-    "2026-05-28"
+    "2026-05-28",
+    "2026-05-29"
   ],
   "top_keywords": [
     {
-      "keyword": "특제소스",
-      "count": 9
+      "keyword": "미나리 오일",
+      "count": 8
     },
     {
-      "keyword": "고추기름",
+      "keyword": "배홍동막국수",
       "count": 7
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "쯔유 간장",
       "count": 6
     },
     {
-      "keyword": "들깨",
+      "keyword": "건강 트렌드",
+      "count": 6
+    },
+    {
+      "keyword": "파인 다이닝",
       "count": 5
     },
     {
-      "keyword": "땅콩",
+      "keyword": "삼양식품",
       "count": 5
     },
     {
-      "keyword": "맷돌 방식",
+      "keyword": "양념육류",
       "count": 5
     },
     {
-      "keyword": "로우슈거",
-      "count": 5
-    },
-    {
-      "keyword": "HMR",
-      "count": 4
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 4
-    },
-    {
-      "keyword": "콩",
-      "count": 4
-    },
-    {
-      "keyword": "비건 인증",
+      "keyword": "스핀들",
       "count": 4
     },
     {
@@ -59,93 +48,105 @@
       "count": 4
     },
     {
-      "keyword": "급속 동결",
-      "count": 3
-    },
-    {
       "keyword": "저당",
+      "count": 4
+    },
+    {
+      "keyword": "HMR",
+      "count": 4
+    },
+    {
+      "keyword": "양념치킨",
+      "count": 4
+    },
+    {
+      "keyword": "BBQ",
+      "count": 4
+    },
+    {
+      "keyword": "배홍동 소스",
       "count": 3
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "3-MCPD",
       "count": 3
     },
     {
-      "keyword": "기능성 식품",
+      "keyword": "건강기능식품",
       "count": 3
     },
     {
-      "keyword": "식전 관리",
+      "keyword": "간편식",
       "count": 3
     },
     {
-      "keyword": "과일 농축액",
+      "keyword": "가정간편식",
       "count": 3
     },
     {
-      "keyword": "비린맛 제거",
+      "keyword": "농심",
+      "count": 3
+    },
+    {
+      "keyword": "식품산업",
+      "count": 3
+    },
+    {
+      "keyword": "치킨",
+      "count": 3
+    },
+    {
+      "keyword": "HMR 치킨",
+      "count": 3
+    },
+    {
+      "keyword": "협업",
       "count": 2
     },
     {
-      "keyword": "남도식 추어탕",
+      "keyword": "소스 재해석",
       "count": 2
     },
     {
-      "keyword": "푸드테크",
-      "count": 2
-    },
-    {
-      "keyword": "카라멜 소스",
-      "count": 2
-    },
-    {
-      "keyword": "미꾸라지",
-      "count": 2
-    },
-    {
-      "keyword": "소비자 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "클린 라벨",
+      "keyword": "신제품",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "특제소스": 9,
-    "고추기름": 7,
-    "식물성 단백질": 6,
-    "들깨": 5,
-    "땅콩": 5,
-    "맷돌 방식": 5,
-    "로우슈거": 5,
-    "HMR": 4,
-    "K-푸드": 4,
-    "콩": 4,
-    "비건 인증": 4,
+    "미나리 오일": 8,
+    "배홍동막국수": 7,
+    "쯔유 간장": 6,
+    "건강 트렌드": 6,
+    "파인 다이닝": 5,
+    "삼양식품": 5,
+    "양념육류": 5,
+    "스핀들": 4,
     "소스": 4,
-    "급속 동결": 3,
-    "저당": 3,
-    "건강 트렌드": 3,
-    "기능성 식품": 3,
-    "식전 관리": 3,
-    "과일 농축액": 3,
-    "비린맛 제거": 2,
-    "남도식 추어탕": 2,
-    "푸드테크": 2,
-    "카라멜 소스": 2,
-    "미꾸라지": 2,
-    "소비자 트렌드": 2,
-    "클린 라벨": 2
+    "저당": 4,
+    "HMR": 4,
+    "양념치킨": 4,
+    "BBQ": 4,
+    "배홍동 소스": 3,
+    "3-MCPD": 3,
+    "건강기능식품": 3,
+    "간편식": 3,
+    "가정간편식": 3,
+    "농심": 3,
+    "식품산업": 3,
+    "치킨": 3,
+    "HMR 치킨": 3,
+    "협업": 2,
+    "소스 재해석": 2,
+    "신제품": 2
   },
   "category_totals": {
-    "ingredient": 5,
-    "product": 27,
-    "market": 5,
-    "consumer": 8,
-    "manufacturing": 5,
-    "regulation": 2,
-    "other": 36
+    "product": 26,
+    "ingredient": 3,
+    "regulation": 3,
+    "consumer": 11,
+    "market": 7,
+    "other": 43,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -674,7 +675,8 @@
     "2026-05-25": 46,
     "2026-05-26": 87,
     "2026-05-27": 83,
-    "2026-05-28": 88
+    "2026-05-28": 88,
+    "2026-05-29": 96
   },
   "ai_summary": null
 }
