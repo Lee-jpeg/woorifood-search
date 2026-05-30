@@ -2,153 +2,179 @@
   "week_id": "2026-W22",
   "start_date": "2026-05-25",
   "end_date": "2026-05-31",
-  "total_articles": 400,
+  "total_articles": 483,
   "days_included": [
     "2026-05-25",
     "2026-05-26",
     "2026-05-27",
     "2026-05-28",
-    "2026-05-29"
+    "2026-05-29",
+    "2026-05-30"
   ],
   "top_keywords": [
     {
-      "keyword": "미나리 오일",
-      "count": 8
+      "keyword": "비건",
+      "count": 3
     },
     {
-      "keyword": "배홍동막국수",
-      "count": 7
+      "keyword": "단백질 쉐이크",
+      "count": 3
     },
     {
-      "keyword": "쯔유 간장",
-      "count": 6
+      "keyword": "곡류효소",
+      "count": 3
     },
     {
-      "keyword": "건강 트렌드",
-      "count": 6
+      "keyword": "감칠맛",
+      "count": 3
+    },
+    {
+      "keyword": "삼양그룹",
+      "count": 3
     },
     {
       "keyword": "파인 다이닝",
-      "count": 5
+      "count": 2
     },
     {
-      "keyword": "삼양식품",
-      "count": 5
+      "keyword": "단백질",
+      "count": 2
     },
     {
-      "keyword": "양념육류",
-      "count": 5
+      "keyword": "바나바잎추출물",
+      "count": 2
     },
     {
-      "keyword": "스핀들",
-      "count": 4
+      "keyword": "동·식물성 단백질",
+      "count": 2
     },
     {
-      "keyword": "소스",
-      "count": 4
-    },
-    {
-      "keyword": "저당",
-      "count": 4
-    },
-    {
-      "keyword": "HMR",
-      "count": 4
-    },
-    {
-      "keyword": "양념치킨",
-      "count": 4
-    },
-    {
-      "keyword": "BBQ",
-      "count": 4
-    },
-    {
-      "keyword": "배홍동 소스",
-      "count": 3
-    },
-    {
-      "keyword": "3-MCPD",
-      "count": 3
-    },
-    {
-      "keyword": "건강기능식품",
-      "count": 3
+      "keyword": "하림",
+      "count": 2
     },
     {
       "keyword": "간편식",
-      "count": 3
-    },
-    {
-      "keyword": "가정간편식",
-      "count": 3
-    },
-    {
-      "keyword": "농심",
-      "count": 3
-    },
-    {
-      "keyword": "식품산업",
-      "count": 3
-    },
-    {
-      "keyword": "치킨",
-      "count": 3
-    },
-    {
-      "keyword": "HMR 치킨",
-      "count": 3
-    },
-    {
-      "keyword": "협업",
       "count": 2
     },
     {
-      "keyword": "소스 재해석",
+      "keyword": "저당",
       "count": 2
     },
     {
-      "keyword": "신제품",
+      "keyword": "건강 트렌드",
       "count": 2
+    },
+    {
+      "keyword": "HMR",
+      "count": 2
+    },
+    {
+      "keyword": "다이어트",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "건강식",
+      "count": 2
+    },
+    {
+      "keyword": "식이섬유",
+      "count": 2
+    },
+    {
+      "keyword": "지역 식재료",
+      "count": 2
+    },
+    {
+      "keyword": "밀키트",
+      "count": 2
+    },
+    {
+      "keyword": "알룰로스",
+      "count": 2
+    },
+    {
+      "keyword": "전복 내장 소스",
+      "count": 2
+    },
+    {
+      "keyword": "소다 아로마틱",
+      "count": 2
+    },
+    {
+      "keyword": "배홍동막국수",
+      "count": 2
+    },
+    {
+      "keyword": "막국수 재해석",
+      "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "미나리 오일": 8,
-    "배홍동막국수": 7,
-    "쯔유 간장": 6,
-    "건강 트렌드": 6,
-    "파인 다이닝": 5,
-    "삼양식품": 5,
-    "양념육류": 5,
-    "스핀들": 4,
-    "소스": 4,
-    "저당": 4,
-    "HMR": 4,
-    "양념치킨": 4,
-    "BBQ": 4,
-    "배홍동 소스": 3,
-    "3-MCPD": 3,
-    "건강기능식품": 3,
-    "간편식": 3,
-    "가정간편식": 3,
-    "농심": 3,
-    "식품산업": 3,
-    "치킨": 3,
-    "HMR 치킨": 3,
-    "협업": 2,
-    "소스 재해석": 2,
-    "신제품": 2
+    "비건": 3,
+    "단백질 쉐이크": 3,
+    "곡류효소": 3,
+    "감칠맛": 3,
+    "삼양그룹": 3,
+    "파인 다이닝": 2,
+    "단백질": 2,
+    "바나바잎추출물": 2,
+    "동·식물성 단백질": 2,
+    "하림": 2,
+    "간편식": 2,
+    "저당": 2,
+    "건강 트렌드": 2,
+    "HMR": 2,
+    "다이어트": 2,
+    "식물성 단백질": 2,
+    "건강식": 2,
+    "식이섬유": 2,
+    "지역 식재료": 2,
+    "밀키트": 2,
+    "알룰로스": 2,
+    "전복 내장 소스": 2,
+    "소다 아로마틱": 2,
+    "배홍동막국수": 2,
+    "막국수 재해석": 1
   },
   "category_totals": {
-    "product": 26,
-    "ingredient": 3,
-    "regulation": 3,
-    "consumer": 11,
-    "market": 7,
-    "other": 43,
-    "manufacturing": 3
+    "product": 17,
+    "consumer": 15,
+    "market": 10,
+    "ingredient": 5,
+    "other": 32,
+    "manufacturing": 4
   },
   "highlighted_articles": [
+    {
+      "id": "5ec51fb5f3a7",
+      "title": "[C스토리] '우지 파동' 눈물 닦은 삼양 김정수의 '불닭'",
+      "url": "https://n.news.naver.com/mnews/article/138/0002229382?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-05-30T06:01:00+09:00",
+      "content": "그럼에도 2006년부터 신제품 위원회를 직접 주도해온 김 부회장은 개발을 밀어붙였다. 약 1년 여의 개발 기간 동안 소스 2t과 닭 1200마리가 사용됐다. 우여곡절 끝에 2012년 출시된 불닭볶음면은 초반엔 &quot;사람이 먹을 수... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "불닭볶음면",
+        "신제품 개발",
+        "소스 R&D",
+        "삼양",
+        "김정수"
+      ],
+      "summary": "삼양 김정수 부회장은 약 1년간의 신제품 개발 기간 동안 2톤의 소스와 1200마리의 닭을 사용하여 불닭볶음면 소스를 완성했다. 이는 매운맛 소스 제품 개발에 있어 대규모 원료 투자와 반복적인 테스트 과정이 성공에 필수적임을 보여준다.",
+      "relevance_score": 10,
+      "trend_signal": "stable",
+      "key_ingredients": [
+        "소스",
+        "닭"
+      ],
+      "actionable_insight": "성공적인 신제품 소스 개발을 위해 대규모 재료 투입과 반복적인 테스트 과정의 중요성을 인지하고 R&D 프로세스에 반영해야 한다."
+    },
     {
       "id": "8b463f104d1d",
       "title": "샘표, 美 조지아대학교 학생들과 한식 체험 프로그램 진행",
@@ -643,32 +669,6 @@
         "슈레드 치즈"
       ],
       "actionable_insight": "특정 품종의 치즈 소스(그뤼에르)와 치즈 토핑을 결합하여 기존 인기 메뉴의 풍미를 프리미엄화하고 차별화하는 전략을 연구해야 한다."
-    },
-    {
-      "id": "c67f4a533a5b",
-      "title": "&quot;밥은 촉촉·김은 바삭&quot;...세븐일레븐, 삼각김밥 이어 일반 김밥까지 전...",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=521466",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-05-26T11:00:00+09:00",
-      "content": "땡초 양념 계란볶음밥과 스팸 데리야끼 마요를 조합한 제품이다. 다음 달 10일에는 '소고기고추장&amp;참치마요삼각김밥' 리뉴얼 상품도 출시된다. 편의점 업계에서는 최근 간편식 경쟁이 단순 가격 경쟁을 넘어 제조 기술과... ",
-      "search_keyword": "간편식 양념",
-      "category": "product",
-      "keywords": [
-        "땡초 양념",
-        "데리야끼 마요",
-        "소고기고추장",
-        "간편식"
-      ],
-      "summary": "편의점 간편식 시장에서 땡초 양념 계란볶음밥, 스팸 데리야끼 마요 등 새로운 소스 조합이 적용된 김밥류 제품이 출시된다. 또한, 소고기고추장 및 참치마요와 같은 인기 소스 기반의 삼각김밥 리뉴얼도 예정되어 있다. 이는 간편식 경쟁이 가격을 넘어 소스 기술력과 차별화된 맛으로 심화되고 있음을 보여준다.",
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "땡초",
-        "마요네즈",
-        "고추장"
-      ],
-      "actionable_insight": "편의점 간편식 시장의 맛 경쟁 심화에 따라, 매콤함(땡초), 고소함(마요), 감칠맛(고추장)을 조합한 복합 소스 및 리뉴얼 소스의 개발에 집중하여 차별화된 맛과 안정성을 확보해야 한다."
     }
   ],
   "daily_article_counts": {
@@ -676,7 +676,8 @@
     "2026-05-26": 87,
     "2026-05-27": 83,
     "2026-05-28": 88,
-    "2026-05-29": 96
+    "2026-05-29": 96,
+    "2026-05-30": 83
   },
   "ai_summary": null
 }
