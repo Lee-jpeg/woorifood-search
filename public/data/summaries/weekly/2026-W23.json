@@ -2,146 +2,147 @@
   "week_id": "2026-W23",
   "start_date": "2026-06-01",
   "end_date": "2026-06-07",
-  "total_articles": 84,
+  "total_articles": 175,
   "days_included": [
-    "2026-06-01"
+    "2026-06-01",
+    "2026-06-02"
   ],
   "top_keywords": [
     {
-      "keyword": "소스",
-      "count": 11
-    },
-    {
-      "keyword": "서울푸드 2026",
-      "count": 4
-    },
-    {
-      "keyword": "글로벌 시장",
-      "count": 4
-    },
-    {
-      "keyword": "K푸드",
-      "count": 4
-    },
-    {
-      "keyword": "할랄 인증",
-      "count": 4
-    },
-    {
-      "keyword": "액상소스",
-      "count": 4
-    },
-    {
-      "keyword": "클린 라벨",
-      "count": 4
-    },
-    {
-      "keyword": "K-푸드 수출",
-      "count": 3
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "대상",
-      "count": 3
-    },
-    {
-      "keyword": "저당",
-      "count": 3
-    },
-    {
-      "keyword": "저칼로리",
-      "count": 3
-    },
-    {
-      "keyword": "고추장 페이스트",
-      "count": 3
+      "keyword": "부추겉절이",
+      "count": 7
     },
     {
       "keyword": "신제품",
-      "count": 3
+      "count": 7
     },
     {
-      "keyword": "신제품 개발",
-      "count": 2
+      "keyword": "13-HODE",
+      "count": 6
     },
     {
-      "keyword": "AI 푸드테크",
-      "count": 2
+      "keyword": "리놀레산",
+      "count": 6
     },
     {
-      "keyword": "오뚜기",
-      "count": 2
+      "keyword": "암세포 성장 억제",
+      "count": 6
     },
     {
-      "keyword": "일본 시장",
-      "count": 2
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 2
-    },
-    {
-      "keyword": "현지 법인",
-      "count": 2
-    },
-    {
-      "keyword": "전통 장류",
-      "count": 2
+      "keyword": "식물성 기름",
+      "count": 6
     },
     {
       "keyword": "간편식",
+      "count": 5
+    },
+    {
+      "keyword": "비건",
+      "count": 4
+    },
+    {
+      "keyword": "식이섬유",
+      "count": 3
+    },
+    {
+      "keyword": "지방산",
+      "count": 3
+    },
+    {
+      "keyword": "로코노미",
+      "count": 3
+    },
+    {
+      "keyword": "제철코어",
+      "count": 3
+    },
+    {
+      "keyword": "필수 불포화지방산",
+      "count": 3
+    },
+    {
+      "keyword": "파이버맥싱",
       "count": 2
     },
     {
-      "keyword": "천연 감미료",
+      "keyword": "건강 트렌드",
       "count": 2
     },
     {
-      "keyword": "라면 소스",
+      "keyword": "소스류",
       "count": 2
     },
     {
-      "keyword": "조미 소스",
+      "keyword": "기능성 성분",
+      "count": 2
+    },
+    {
+      "keyword": "KAIST",
+      "count": 2
+    },
+    {
+      "keyword": "북미 시장",
+      "count": 2
+    },
+    {
+      "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "국산 농산물",
+      "count": 2
+    },
+    {
+      "keyword": "제철 식재료",
+      "count": 2
+    },
+    {
+      "keyword": "mTOR 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "피자빵",
+      "count": 2
+    },
+    {
+      "keyword": "가성비",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "소스": 11,
-    "서울푸드 2026": 4,
-    "글로벌 시장": 4,
-    "K푸드": 4,
-    "할랄 인증": 4,
-    "액상소스": 4,
-    "클린 라벨": 4,
-    "K-푸드 수출": 3,
-    "소비 트렌드": 3,
-    "대상": 3,
-    "저당": 3,
-    "저칼로리": 3,
-    "고추장 페이스트": 3,
-    "신제품": 3,
-    "신제품 개발": 2,
-    "AI 푸드테크": 2,
-    "오뚜기": 2,
-    "일본 시장": 2,
-    "K-푸드": 2,
-    "현지 법인": 2,
-    "전통 장류": 2,
-    "간편식": 2,
-    "천연 감미료": 2,
-    "라면 소스": 2,
-    "조미 소스": 2
+    "부추겉절이": 7,
+    "신제품": 7,
+    "13-HODE": 6,
+    "리놀레산": 6,
+    "암세포 성장 억제": 6,
+    "식물성 기름": 6,
+    "간편식": 5,
+    "비건": 4,
+    "식이섬유": 3,
+    "지방산": 3,
+    "로코노미": 3,
+    "제철코어": 3,
+    "필수 불포화지방산": 3,
+    "파이버맥싱": 2,
+    "건강 트렌드": 2,
+    "소스류": 2,
+    "기능성 성분": 2,
+    "KAIST": 2,
+    "북미 시장": 2,
+    "소스": 2,
+    "국산 농산물": 2,
+    "제철 식재료": 2,
+    "mTOR 단백질": 2,
+    "피자빵": 2,
+    "가성비": 2
   },
   "category_totals": {
-    "ingredient": 7,
-    "market": 11,
     "consumer": 7,
-    "product": 25,
-    "other": 31,
-    "manufacturing": 3
+    "ingredient": 11,
+    "market": 8,
+    "product": 23,
+    "regulation": 1,
+    "other": 41
   },
   "highlighted_articles": [
     {
@@ -473,10 +474,222 @@
         "라이신"
       ],
       "actionable_insight": "경쟁 심화와 수익성 악화에 직면한 소스 시장에서 R&D팀은 원가 절감형 또는 고부가가치 프리미엄 소스 개발을 통해 시장 차별화 전략을 모색해야 합니다."
+    },
+    {
+      "id": "274bd19333fe",
+      "title": "K-푸드, 방콕서 9720만 만 달러 수출상담 성과",
+      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1372869",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T12:22:00+09:00",
+      "content": "그 결과 바이어들의 주목을 받은 비건만두, 녹차류, 소스류 제품 등을 중심으로 현장 MOU가 체결되는 등 총 9720만 달러 규모의 상담이 성사됐다. 전기찬 aT 수출식품이사는 &quot;아세안 시장은 맛과 편의성을 갖춘 제품의... ",
+      "search_keyword": "비건 식품",
+      "category": "market",
+      "keywords": [
+        "K-푸드 수출",
+        "아세안 시장",
+        "소스류",
+        "맛과 편의성",
+        "비건 트렌드"
+      ],
+      "summary": "K-푸드 수출상담회에서 소스류 제품이 아세안 바이어들의 주목을 받아 총 9720만 달러 규모의 상담 성과를 달성했다. 이는 아세안 시장에서 K-소스의 맛과 편의성에 대한 높은 수요를 보여주며, 비건 만두처럼 특정 콘셉트와 결합된 소스 제품의 개발 잠재력을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "아세안 시장의 현지 입맛과 편의성 요구를 충족시키면서 비건 트렌드 등 특정 콘셉트에 부합하는 K-소스 제품 개발에 R&D 역량을 집중해야 한다."
+    },
+    {
+      "id": "e1147f946370",
+      "title": "aT, 태국서 K-푸드 수출판로 넓혔다",
+      "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=429492",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:44:00+09:00",
+      "content": "한국관 행사에 방문한 현지 바이어 파쏜 씨는 &quot;최근 글로벌 경기침체가 길어지며 소비자들의 선택 기준이 더욱 까다로워지고, 식품 트렌드도 빠르게 변화하고 있다&quot;며 &quot;한국 식품기업들은 이러한 변화에 민첩하게... ",
+      "search_keyword": "식품 트렌드",
+      "category": "consumer",
+      "keywords": [
+        "소비자 트렌드",
+        "식품 트렌드 변화",
+        "선택 기준",
+        "민첩한 대응",
+        "글로벌 경기침체"
+      ],
+      "summary": "글로벌 경기침체로 인해 소비자의 식품 선택 기준이 까다로워지고 식품 트렌드 변화 속도가 빨라지고 있습니다. 소스/양념 R&D는 이러한 변화에 민첩하게 대응하여 새로운 맛과 기능성을 갖춘 제품을 개발해야 할 시점입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "소비자의 까다로운 요구와 빠르게 변하는 식품 트렌드에 맞춰, 소스/양념 R&D는 신속한 시장 분석과 유연한 제품 개발 프로세스를 통해 혁신적인 제품을 지속적으로 출시해야 합니다."
+    },
+    {
+      "id": "d0dd9a27fa9b",
+      "title": "&quot;처음엔 이상했는데&quot;…요즘 해외서 따라 하기 시작한 한국식 다이어트 ...",
+      "url": "https://www.wikitree.co.kr/articles/1139367",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:42:00+09:00",
+      "content": "특히 나물 반찬은 기름진 소스보다 비교적 담백하게 먹을 수 있어 해외에서도 ‘Korean vegetable side dishes’로... 배추, 무 등 채소를 발효해 만든 김치는 한국인들에게는 너무 익숙한 반찬이지만, 해외에서는 장 건강과... ",
+      "search_keyword": "발효 소스",
+      "category": "consumer",
+      "keywords": [
+        "한국식 다이어트",
+        "나물",
+        "김치",
+        "장 건강",
+        "해외 트렌드"
+      ],
+      "summary": "해외에서 한국식 다이어트의 인기가 높아지며 나물 반찬과 김치에 대한 관심이 증가하고 있습니다. 이는 기름진 소스보다 담백한 맛과 장 건강을 고려한 소스/양념류에 대한 수요가 커질 수 있음을 시사하며, 발효 기반의 건강 지향적 양념 개발이 유망할 것으로 보입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "나물",
+        "김치",
+        "채소",
+        "발효 성분"
+      ],
+      "actionable_insight": "해외 K-다이어트 트렌드에 맞춰 나물, 김치 등 채소 요리에 어울리는 담백하고 건강(발효, 장 건강) 지향적인 소스 및 양념류 개발에 집중해야 합니다."
+    },
+    {
+      "id": "c3df542bb770",
+      "title": "비건만두·녹차·소스 주목…K-푸드, 태국서 9720만달러 상담",
+      "url": "https://n.news.naver.com/mnews/article/119/0003096993?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:42:00+09:00",
+      "content": "한국관을 찾은 현지 바이어 파쏜 씨는 “글로벌 경기침체가 이어지며 소비자들의 선택 기준이 더욱 까다로워지고 식품 트렌드도 빠르게 변화하고 있다”며 “한국 식품기업들은 변화에 민첩하게 대응하면서 경쟁력... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "소스",
+        "K-푸드",
+        "태국 시장",
+        "비건",
+        "소비자 트렌드 변화",
+        "수출 상담"
+      ],
+      "summary": "태국 시장에서 K-푸드 수출 상담 중 '소스'에 대한 높은 관심이 확인되었으며, 비건 만두와 같은 새로운 제품 트렌드와 까다로워진 소비자 선택 기준에 맞춰 소스 개발의 중요성이 강조되고 있다. 이는 글로벌 경기침체 속에서도 한국 식품기업들이 변화에 민첩하게 대응하여 경쟁력을 확보해야 함을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 원료",
+        "한국적인 맛 성분"
+      ],
+      "actionable_insight": "급변하는 소비자 트렌드와 비건 컨셉에 맞춰 태국 등 글로벌 시장의 니즈를 충족시킬 수 있는 혁신적이고 현지화된 K-소스를 개발하는 데 주력해야 한다."
+    },
+    {
+      "id": "85439df4cda7",
+      "title": "[오늘의 유통街] 오뚜기, 수원 '진미통닭' 협업…매장서 '오뚜기카레 통...",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=261284",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:40:00+09:00",
+      "content": "'오뚜기카레 통닭'은 오뚜기카레 소스를 치킨에 버무린 메뉴로, 카레와 치킨의 이색적인 조합을 통해 기존... 별미김치 신제품 '부추겉절이'를 출시한다. 부추겉절이는 100% 우리 농산물을 사용했으며, 겉절이 특유의... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "오뚜기카레 소스",
+        "부추겉절이",
+        "이색 조합",
+        "치킨 양념",
+        "국산 농산물"
+      ],
+      "summary": "오뚜기가 진미통닭과 협업하여 기존 카레 소스를 활용한 '오뚜기카레 통닭'을 선보이며, 인기 소스의 외식 메뉴 접목 가능성을 보여줍니다. 또한, 100% 국산 농산물로 만든 '부추겉절이' 신제품을 출시하여 신선한 재료 기반의 김치 및 양념류 개발 트렌드를 제시합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "오뚜기카레 소스",
+        "카레",
+        "부추",
+        "국산 농산물"
+      ],
+      "actionable_insight": "기존 인기 소스의 외식 메뉴 접목 가능성과 신선한 국산 농산물을 활용한 김치/겉절이류 양념 개발에 주목하여 신규 소스 및 양념 제품군 확장을 모색해야 한다."
+    },
+    {
+      "id": "d42298bab268",
+      "title": "&quot;몸속 지방산이 암세포 성장 억제&quot; KAIST",
+      "url": "https://n.news.naver.com/mnews/article/374/0000513648?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:40:00+09:00",
+      "content": "엠토르 단백질의 활성 부위에 직접 달라붙어 암세포에서의 작동을 멈추게 한다는 것을 밝혀냈습니다. 13-HODE 분자는 우리 몸에서 식물성 기름 등에 풍부한 리놀레산(필수 불포화지방산)이 체내에서 대사되는 과정에서... ",
+      "search_keyword": "식물성 단백질",
+      "category": "ingredient",
+      "keywords": [
+        "리놀레산",
+        "지방산",
+        "항암",
+        "식물성 기름",
+        "13-HODE"
+      ],
+      "summary": "KAIST 연구에 따르면, 식물성 기름에 풍부한 필수 불포화지방산인 리놀레산이 체내에서 대사되어 생성되는 13-HODE 분자가 암세포 성장을 억제하는 메커니즘이 밝혀졌습니다. 이는 13-HODE가 mTOR 단백질의 활성을 직접 저해하여 암세포 기능을 멈추게 하는 것으로, 소스·양념류 R&D 관점에서는 리놀레산 함유 식물성 기름의 기능성 활용 가능성을 시사합니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "리놀레산 (Linoleic acid)",
+        "13-HODE",
+        "식물성 기름 (Vegetable oil)"
+      ],
+      "actionable_insight": "리놀레산이 풍부한 식물성 기름(예: 콩기름, 해바라기씨유 등)을 활용하여 항암 기능성을 강조한 건강 지향 소스/양념류 개발 가능성을 모색해야 합니다."
+    },
+    {
+      "id": "4ab08e8452ec",
+      "title": "하이포크, 흰찰쌀보리 숙성 ‘고기본연’ 안주 6종 선봬",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260602001124368",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:28:00+09:00",
+      "content": "축산식품 전문기업 팜스코의 돼지고기 브랜드 하이포크가 양념육 브랜드 '고기본연' 안주류 제품 6종을 쿠팡에 출시했다고 2일 밝혔다.이번에 선보인 제품은 1~2인 가구와 간편식 수요를 고려해 300g 소포장 형태로... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "하이포크",
+        "고기본연",
+        "안주류",
+        "양념육",
+        "흰찰쌀보리 숙성",
+        "1~2인 가구",
+        "간편식",
+        "소포장"
+      ],
+      "summary": "하이포크가 흰찰쌀보리 숙성 공법을 적용한 양념육 안주 6종을 1~2인 가구 및 간편식 수요에 맞춰 소포장 형태로 출시했다. 이는 고기 본연의 맛과 부드러움을 강조하는 차별화된 숙성 양념 기술이 프리미엄 간편식 시장에서 핵심 경쟁력이 되고 있음을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "흰찰쌀보리"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 흰찰쌀보리 등 천연 원료를 활용한 차별화된 숙성 및 연육 기술이 육류용 소스와 양념에 미치는 영향과 적용 가능성을 연구하여, 간편식 시장의 프리미엄화에 기여할 수 있는 신제품 개발을 모색해야 한다."
+    },
+    {
+      "id": "d0e23e6a5368",
+      "title": "암세포 성장 억제하는 ‘천연 브레이크’ 찾았다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002651159?sid=105",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T11:22:00+09:00",
+      "content": "엠토르 단백질의 활성 부위에 직접 달라붙어 암세포에서의 작동을 멈추게 한다는 것을 밝혀냈다. 13-HODE 분자는 우리 몸에서 식물성 기름 등에 풍부한 리놀레산(필수 불포화지방산)이 체내에서 대사되는 과정에서... ",
+      "search_keyword": "식물성 단백질",
+      "category": "ingredient",
+      "keywords": [
+        "13-HODE",
+        "리놀레산",
+        "필수 불포화지방산",
+        "암세포 성장 억제",
+        "mTOR 단백질"
+      ],
+      "summary": "식물성 기름에 풍부한 리놀레산이 체내에서 대사되는 과정에서 생성되는 13-HODE 분자가 mTOR 단백질 활성을 직접 억제하여 암세포 성장을 막는다는 연구 결과가 나왔다. 이는 소스/양념류에 널리 쓰이는 식물성 기름의 잠재적 항암 기능성을 보여주며, 건강 지향적 제품 개발에 새로운 가능성을 제시한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "13-HODE",
+        "리놀레산",
+        "식물성 기름"
+      ],
+      "actionable_insight": "R&D팀은 리놀레산이 풍부한 식물성 기름의 활용도를 높이거나 13-HODE 성분 자체의 안정성 및 기능성 적용 가능성을 평가하여 암 예방 콘셉트의 기능성 소스/양념류 개발을 모색해야 한다."
     }
   ],
   "daily_article_counts": {
-    "2026-06-01": 84
+    "2026-06-01": 84,
+    "2026-06-02": 91
   },
   "ai_summary": null
 }
