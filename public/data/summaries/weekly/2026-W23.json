@@ -2,149 +2,178 @@
   "week_id": "2026-W23",
   "start_date": "2026-06-01",
   "end_date": "2026-06-07",
-  "total_articles": 175,
+  "total_articles": 248,
   "days_included": [
     "2026-06-01",
-    "2026-06-02"
+    "2026-06-02",
+    "2026-06-03"
   ],
   "top_keywords": [
     {
-      "keyword": "부추겉절이",
-      "count": 7
+      "keyword": "무가당",
+      "count": 13
     },
     {
-      "keyword": "신제품",
-      "count": 7
+      "keyword": "식물성 단백질",
+      "count": 8
     },
     {
-      "keyword": "13-HODE",
-      "count": 6
-    },
-    {
-      "keyword": "리놀레산",
-      "count": 6
-    },
-    {
-      "keyword": "암세포 성장 억제",
-      "count": 6
-    },
-    {
-      "keyword": "식물성 기름",
-      "count": 6
+      "keyword": "저당",
+      "count": 8
     },
     {
       "keyword": "간편식",
+      "count": 7
+    },
+    {
+      "keyword": "제로슈거",
+      "count": 6
+    },
+    {
+      "keyword": "훈연향",
       "count": 5
     },
     {
-      "keyword": "비건",
-      "count": 4
+      "keyword": "고단백",
+      "count": 5
+    },
+    {
+      "keyword": "K푸드",
+      "count": 3
+    },
+    {
+      "keyword": "대체 감미료",
+      "count": 3
+    },
+    {
+      "keyword": "다이어트",
+      "count": 3
+    },
+    {
+      "keyword": "단백질",
+      "count": 3
+    },
+    {
+      "keyword": "양념불고기",
+      "count": 3
+    },
+    {
+      "keyword": "HMR",
+      "count": 3
     },
     {
       "keyword": "식이섬유",
       "count": 3
     },
     {
-      "keyword": "지방산",
-      "count": 3
-    },
-    {
-      "keyword": "로코노미",
-      "count": 3
-    },
-    {
-      "keyword": "제철코어",
-      "count": 3
-    },
-    {
-      "keyword": "필수 불포화지방산",
-      "count": 3
-    },
-    {
-      "keyword": "파이버맥싱",
-      "count": 2
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 2
-    },
-    {
       "keyword": "소스류",
+      "count": 3
+    },
+    {
+      "keyword": "저당 트렌드",
       "count": 2
     },
     {
-      "keyword": "기능성 성분",
+      "keyword": "가금육",
       "count": 2
     },
     {
-      "keyword": "KAIST",
+      "keyword": "K-푸드",
       "count": 2
     },
     {
-      "keyword": "북미 시장",
+      "keyword": "소비 트렌드",
       "count": 2
     },
     {
-      "keyword": "소스",
+      "keyword": "닭가슴살",
       "count": 2
     },
     {
-      "keyword": "국산 농산물",
+      "keyword": "불닭소스",
       "count": 2
     },
     {
-      "keyword": "제철 식재료",
+      "keyword": "특제소스",
       "count": 2
     },
     {
-      "keyword": "mTOR 단백질",
+      "keyword": "신선식품 트렌드",
       "count": 2
     },
     {
-      "keyword": "피자빵",
+      "keyword": "치킨 훈제 슬라이스",
       "count": 2
     },
     {
-      "keyword": "가성비",
+      "keyword": "저당 소스",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "부추겉절이": 7,
-    "신제품": 7,
-    "13-HODE": 6,
-    "리놀레산": 6,
-    "암세포 성장 억제": 6,
-    "식물성 기름": 6,
-    "간편식": 5,
-    "비건": 4,
+    "무가당": 13,
+    "식물성 단백질": 8,
+    "저당": 8,
+    "간편식": 7,
+    "제로슈거": 6,
+    "훈연향": 5,
+    "고단백": 5,
+    "K푸드": 3,
+    "대체 감미료": 3,
+    "다이어트": 3,
+    "단백질": 3,
+    "양념불고기": 3,
+    "HMR": 3,
     "식이섬유": 3,
-    "지방산": 3,
-    "로코노미": 3,
-    "제철코어": 3,
-    "필수 불포화지방산": 3,
-    "파이버맥싱": 2,
-    "건강 트렌드": 2,
-    "소스류": 2,
-    "기능성 성분": 2,
-    "KAIST": 2,
-    "북미 시장": 2,
-    "소스": 2,
-    "국산 농산물": 2,
-    "제철 식재료": 2,
-    "mTOR 단백질": 2,
-    "피자빵": 2,
-    "가성비": 2
+    "소스류": 3,
+    "저당 트렌드": 2,
+    "가금육": 2,
+    "K-푸드": 2,
+    "소비 트렌드": 2,
+    "닭가슴살": 2,
+    "불닭소스": 2,
+    "특제소스": 2,
+    "신선식품 트렌드": 2,
+    "치킨 훈제 슬라이스": 2,
+    "저당 소스": 2
   },
   "category_totals": {
-    "consumer": 7,
+    "market": 4,
     "ingredient": 11,
-    "market": 8,
-    "product": 23,
-    "regulation": 1,
-    "other": 41
+    "consumer": 11,
+    "product": 20,
+    "other": 22,
+    "manufacturing": 5
   },
   "highlighted_articles": [
+    {
+      "id": "722aa04ef838",
+      "title": "무더위 예보에 외식물가 부담까지…보양식 HMR ‘눈길’",
+      "url": "https://www.ekn.kr/web/view.php?key=20260602027359216",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-06-02T23:40:00+09:00",
+      "content": "HMR 신제품을 잇달아 선보이고 있다. 오뚜기는 여름철 늘어나는 삼계탕 수요를 겨냥해 프리미엄 보양식... 국내산 무청 시래기를 가득 넣어 걸쭉함을 살렸고, 들깨즙과 고추기름을 활용한 특제소스로 미꾸라지 특유의... ",
+      "search_keyword": "소스 신제품",
+      "category": "ingredient",
+      "keywords": [
+        "HMR",
+        "보양식",
+        "특제소스",
+        "들깨즙",
+        "고추기름",
+        "무청 시래기"
+      ],
+      "summary": "무더위와 외식물가 부담으로 보양식 HMR 신제품 출시가 활발한 가운데, 오뚜기 등은 삼계탕 및 미꾸라지 요리에 국내산 무청 시래기와 함께 들깨즙, 고추기름을 활용한 특제소스를 적용했다. 이는 HMR 보양식의 풍미와 식감을 높이고 특정 재료의 특유의 맛을 잡는 기능성 소스 개발 트렌드를 보여준다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "들깨즙",
+        "고추기름",
+        "무청 시래기"
+      ],
+      "actionable_insight": "R&D팀은 HMR 보양식 시장 성장에 맞춰 식재료의 풍미를 살리면서도 특정 맛을 보완하고 걸쭉한 식감을 부여하는 들깨즙, 고추기름 등 복합 기능성 소스 개발에 집중해야 한다."
+    },
     {
       "id": "147028070fd3",
       "title": "당진시, 2026년 농산물가공 창업교육생 모집",
@@ -658,38 +687,12 @@
         "흰찰쌀보리"
       ],
       "actionable_insight": "소스/양념 R&D팀은 흰찰쌀보리 등 천연 원료를 활용한 차별화된 숙성 및 연육 기술이 육류용 소스와 양념에 미치는 영향과 적용 가능성을 연구하여, 간편식 시장의 프리미엄화에 기여할 수 있는 신제품 개발을 모색해야 한다."
-    },
-    {
-      "id": "d0e23e6a5368",
-      "title": "암세포 성장 억제하는 ‘천연 브레이크’ 찾았다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002651159?sid=105",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-06-02T11:22:00+09:00",
-      "content": "엠토르 단백질의 활성 부위에 직접 달라붙어 암세포에서의 작동을 멈추게 한다는 것을 밝혀냈다. 13-HODE 분자는 우리 몸에서 식물성 기름 등에 풍부한 리놀레산(필수 불포화지방산)이 체내에서 대사되는 과정에서... ",
-      "search_keyword": "식물성 단백질",
-      "category": "ingredient",
-      "keywords": [
-        "13-HODE",
-        "리놀레산",
-        "필수 불포화지방산",
-        "암세포 성장 억제",
-        "mTOR 단백질"
-      ],
-      "summary": "식물성 기름에 풍부한 리놀레산이 체내에서 대사되는 과정에서 생성되는 13-HODE 분자가 mTOR 단백질 활성을 직접 억제하여 암세포 성장을 막는다는 연구 결과가 나왔다. 이는 소스/양념류에 널리 쓰이는 식물성 기름의 잠재적 항암 기능성을 보여주며, 건강 지향적 제품 개발에 새로운 가능성을 제시한다.",
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "13-HODE",
-        "리놀레산",
-        "식물성 기름"
-      ],
-      "actionable_insight": "R&D팀은 리놀레산이 풍부한 식물성 기름의 활용도를 높이거나 13-HODE 성분 자체의 안정성 및 기능성 적용 가능성을 평가하여 암 예방 콘셉트의 기능성 소스/양념류 개발을 모색해야 한다."
     }
   ],
   "daily_article_counts": {
     "2026-06-01": 84,
-    "2026-06-02": 91
+    "2026-06-02": 91,
+    "2026-06-03": 73
   },
   "ai_summary": null
 }
