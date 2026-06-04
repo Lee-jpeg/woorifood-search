@@ -2,148 +2,149 @@
   "week_id": "2026-W23",
   "start_date": "2026-06-01",
   "end_date": "2026-06-07",
-  "total_articles": 248,
+  "total_articles": 320,
   "days_included": [
     "2026-06-01",
     "2026-06-02",
-    "2026-06-03"
+    "2026-06-03",
+    "2026-06-04"
   ],
   "top_keywords": [
-    {
-      "keyword": "무가당",
-      "count": 13
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 8
-    },
     {
       "keyword": "저당",
       "count": 8
     },
     {
-      "keyword": "간편식",
+      "keyword": "소스",
       "count": 7
     },
     {
-      "keyword": "제로슈거",
-      "count": 6
-    },
-    {
-      "keyword": "훈연향",
+      "keyword": "서울푸드 2026",
       "count": 5
     },
     {
-      "keyword": "고단백",
+      "keyword": "K-푸드 수출",
       "count": 5
     },
     {
-      "keyword": "K푸드",
+      "keyword": "식물성 단백질",
+      "count": 5
+    },
+    {
+      "keyword": "저칼로리",
+      "count": 5
+    },
+    {
+      "keyword": "소스 전문 기업",
+      "count": 4
+    },
+    {
+      "keyword": "장류",
+      "count": 4
+    },
+    {
+      "keyword": "발효식초",
+      "count": 4
+    },
+    {
+      "keyword": "토마토 파스타소스",
+      "count": 4
+    },
+    {
+      "keyword": "AI·푸드테크",
       "count": 3
     },
     {
-      "keyword": "대체 감미료",
+      "keyword": "파스타소스",
       "count": 3
     },
     {
-      "keyword": "다이어트",
+      "keyword": "팝업 스토어",
       "count": 3
     },
     {
-      "keyword": "단백질",
+      "keyword": "라이트푸드",
       "count": 3
     },
     {
-      "keyword": "양념불고기",
+      "keyword": "비건",
       "count": 3
     },
     {
-      "keyword": "HMR",
-      "count": 3
-    },
-    {
-      "keyword": "식이섬유",
-      "count": 3
-    },
-    {
-      "keyword": "소스류",
-      "count": 3
-    },
-    {
-      "keyword": "저당 트렌드",
+      "keyword": "서울푸드",
       "count": 2
     },
     {
-      "keyword": "가금육",
+      "keyword": "건강 트렌드",
       "count": 2
     },
     {
-      "keyword": "K-푸드",
+      "keyword": "B2B 식품산업 전시회",
       "count": 2
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "Light Now",
       "count": 2
     },
     {
-      "keyword": "닭가슴살",
+      "keyword": "건강",
       "count": 2
     },
     {
-      "keyword": "불닭소스",
+      "keyword": "협업",
       "count": 2
     },
     {
-      "keyword": "특제소스",
+      "keyword": "저지방",
       "count": 2
     },
     {
-      "keyword": "신선식품 트렌드",
+      "keyword": "신제품",
       "count": 2
     },
     {
-      "keyword": "치킨 훈제 슬라이스",
+      "keyword": "라이트앤조이",
       "count": 2
     },
     {
-      "keyword": "저당 소스",
+      "keyword": "할랄 인증",
       "count": 2
     }
   ],
   "daily_keyword_freq": {
-    "무가당": 13,
-    "식물성 단백질": 8,
     "저당": 8,
-    "간편식": 7,
-    "제로슈거": 6,
-    "훈연향": 5,
-    "고단백": 5,
-    "K푸드": 3,
-    "대체 감미료": 3,
-    "다이어트": 3,
-    "단백질": 3,
-    "양념불고기": 3,
-    "HMR": 3,
-    "식이섬유": 3,
-    "소스류": 3,
-    "저당 트렌드": 2,
-    "가금육": 2,
-    "K-푸드": 2,
-    "소비 트렌드": 2,
-    "닭가슴살": 2,
-    "불닭소스": 2,
-    "특제소스": 2,
-    "신선식품 트렌드": 2,
-    "치킨 훈제 슬라이스": 2,
-    "저당 소스": 2
+    "소스": 7,
+    "서울푸드 2026": 5,
+    "K-푸드 수출": 5,
+    "식물성 단백질": 5,
+    "저칼로리": 5,
+    "소스 전문 기업": 4,
+    "장류": 4,
+    "발효식초": 4,
+    "토마토 파스타소스": 4,
+    "AI·푸드테크": 3,
+    "파스타소스": 3,
+    "팝업 스토어": 3,
+    "라이트푸드": 3,
+    "비건": 3,
+    "서울푸드": 2,
+    "건강 트렌드": 2,
+    "B2B 식품산업 전시회": 2,
+    "Light Now": 2,
+    "건강": 2,
+    "협업": 2,
+    "저지방": 2,
+    "신제품": 2,
+    "라이트앤조이": 2,
+    "할랄 인증": 2
   },
   "category_totals": {
-    "market": 4,
-    "ingredient": 11,
-    "consumer": 11,
+    "market": 16,
     "product": 20,
-    "other": 22,
-    "manufacturing": 5
+    "manufacturing": 2,
+    "consumer": 11,
+    "ingredient": 1,
+    "other": 22
   },
   "highlighted_articles": [
     {
@@ -692,7 +693,8 @@
   "daily_article_counts": {
     "2026-06-01": 84,
     "2026-06-02": 91,
-    "2026-06-03": 73
+    "2026-06-03": 73,
+    "2026-06-04": 72
   },
   "ai_summary": null
 }
