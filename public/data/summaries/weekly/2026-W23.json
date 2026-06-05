@@ -2,149 +2,19 @@
   "week_id": "2026-W23",
   "start_date": "2026-06-01",
   "end_date": "2026-06-07",
-  "total_articles": 320,
+  "total_articles": 401,
   "days_included": [
     "2026-06-01",
     "2026-06-02",
     "2026-06-03",
-    "2026-06-04"
+    "2026-06-04",
+    "2026-06-05"
   ],
-  "top_keywords": [
-    {
-      "keyword": "저당",
-      "count": 8
-    },
-    {
-      "keyword": "소스",
-      "count": 7
-    },
-    {
-      "keyword": "서울푸드 2026",
-      "count": 5
-    },
-    {
-      "keyword": "K-푸드 수출",
-      "count": 5
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 5
-    },
-    {
-      "keyword": "저칼로리",
-      "count": 5
-    },
-    {
-      "keyword": "소스 전문 기업",
-      "count": 4
-    },
-    {
-      "keyword": "장류",
-      "count": 4
-    },
-    {
-      "keyword": "발효식초",
-      "count": 4
-    },
-    {
-      "keyword": "토마토 파스타소스",
-      "count": 4
-    },
-    {
-      "keyword": "AI·푸드테크",
-      "count": 3
-    },
-    {
-      "keyword": "파스타소스",
-      "count": 3
-    },
-    {
-      "keyword": "팝업 스토어",
-      "count": 3
-    },
-    {
-      "keyword": "라이트푸드",
-      "count": 3
-    },
-    {
-      "keyword": "비건",
-      "count": 3
-    },
-    {
-      "keyword": "서울푸드",
-      "count": 2
-    },
-    {
-      "keyword": "건강 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "B2B 식품산업 전시회",
-      "count": 2
-    },
-    {
-      "keyword": "Light Now",
-      "count": 2
-    },
-    {
-      "keyword": "건강",
-      "count": 2
-    },
-    {
-      "keyword": "협업",
-      "count": 2
-    },
-    {
-      "keyword": "저지방",
-      "count": 2
-    },
-    {
-      "keyword": "신제품",
-      "count": 2
-    },
-    {
-      "keyword": "라이트앤조이",
-      "count": 2
-    },
-    {
-      "keyword": "할랄 인증",
-      "count": 2
-    }
-  ],
-  "daily_keyword_freq": {
-    "저당": 8,
-    "소스": 7,
-    "서울푸드 2026": 5,
-    "K-푸드 수출": 5,
-    "식물성 단백질": 5,
-    "저칼로리": 5,
-    "소스 전문 기업": 4,
-    "장류": 4,
-    "발효식초": 4,
-    "토마토 파스타소스": 4,
-    "AI·푸드테크": 3,
-    "파스타소스": 3,
-    "팝업 스토어": 3,
-    "라이트푸드": 3,
-    "비건": 3,
-    "서울푸드": 2,
-    "건강 트렌드": 2,
-    "B2B 식품산업 전시회": 2,
-    "Light Now": 2,
-    "건강": 2,
-    "협업": 2,
-    "저지방": 2,
-    "신제품": 2,
-    "라이트앤조이": 2,
-    "할랄 인증": 2
-  },
+  "top_keywords": [],
+  "daily_keyword_freq": {},
   "category_totals": {
-    "market": 16,
-    "product": 20,
-    "manufacturing": 2,
-    "consumer": 11,
-    "ingredient": 1,
-    "other": 22
+    "other": 75,
+    "manufacturing": 6
   },
   "highlighted_articles": [
     {
@@ -694,7 +564,8 @@
     "2026-06-01": 84,
     "2026-06-02": 91,
     "2026-06-03": 73,
-    "2026-06-04": 72
+    "2026-06-04": 72,
+    "2026-06-05": 81
   },
   "ai_summary": null
 }
