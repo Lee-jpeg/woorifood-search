@@ -2,19 +2,20 @@
   "week_id": "2026-W23",
   "start_date": "2026-06-01",
   "end_date": "2026-06-07",
-  "total_articles": 401,
+  "total_articles": 471,
   "days_included": [
     "2026-06-01",
     "2026-06-02",
     "2026-06-03",
     "2026-06-04",
-    "2026-06-05"
+    "2026-06-05",
+    "2026-06-06"
   ],
   "top_keywords": [],
   "daily_keyword_freq": {},
   "category_totals": {
-    "other": 75,
-    "manufacturing": 6
+    "other": 67,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -565,7 +566,8 @@
     "2026-06-02": 91,
     "2026-06-03": 73,
     "2026-06-04": 72,
-    "2026-06-05": 81
+    "2026-06-05": 81,
+    "2026-06-06": 70
   },
   "ai_summary": null
 }
