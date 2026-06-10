@@ -2,20 +2,22 @@
   "week_id": "2026-W24",
   "start_date": "2026-06-08",
   "end_date": "2026-06-14",
-  "total_articles": 149,
+  "total_articles": 239,
   "days_included": [
     "2026-06-08",
-    "2026-06-09"
+    "2026-06-09",
+    "2026-06-10"
   ],
   "top_keywords": [],
   "daily_keyword_freq": {},
   "category_totals": {
-    "other": 82
+    "other": 90
   },
   "highlighted_articles": [],
   "daily_article_counts": {
     "2026-06-08": 67,
-    "2026-06-09": 82
+    "2026-06-09": 82,
+    "2026-06-10": 90
   },
   "ai_summary": null
 }
