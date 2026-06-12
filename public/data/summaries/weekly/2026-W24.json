@@ -2,150 +2,19 @@
   "week_id": "2026-W24",
   "start_date": "2026-06-08",
   "end_date": "2026-06-14",
-  "total_articles": 326,
+  "total_articles": 404,
   "days_included": [
     "2026-06-08",
     "2026-06-09",
     "2026-06-10",
-    "2026-06-11"
+    "2026-06-11",
+    "2026-06-12"
   ],
-  "top_keywords": [
-    {
-      "keyword": "건강기능식품",
-      "count": 4
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 4
-    },
-    {
-      "keyword": "식물성 식품",
-      "count": 4
-    },
-    {
-      "keyword": "소스",
-      "count": 3
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 3
-    },
-    {
-      "keyword": "간편식",
-      "count": 3
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 3
-    },
-    {
-      "keyword": "K-원볼밀",
-      "count": 3
-    },
-    {
-      "keyword": "글로벌 시장",
-      "count": 3
-    },
-    {
-      "keyword": "오뚜기",
-      "count": 2
-    },
-    {
-      "keyword": "컵떡볶이",
-      "count": 2
-    },
-    {
-      "keyword": "액상소스",
-      "count": 2
-    },
-    {
-      "keyword": "크림분말",
-      "count": 2
-    },
-    {
-      "keyword": "토마토소스",
-      "count": 2
-    },
-    {
-      "keyword": "바비큐 소스",
-      "count": 2
-    },
-    {
-      "keyword": "비건",
-      "count": 2
-    },
-    {
-      "keyword": "풀무원",
-      "count": 2
-    },
-    {
-      "keyword": "직화 공정",
-      "count": 2
-    },
-    {
-      "keyword": "소스 동봉",
-      "count": 2
-    },
-    {
-      "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "락토프리",
-      "count": 2
-    },
-    {
-      "keyword": "소스 조합",
-      "count": 2
-    },
-    {
-      "keyword": "대체감미료",
-      "count": 2
-    },
-    {
-      "keyword": "맛인지 디지털화",
-      "count": 2
-    },
-    {
-      "keyword": "밀키트",
-      "count": 1
-    }
-  ],
-  "daily_keyword_freq": {
-    "건강기능식품": 4,
-    "식물성 단백질": 4,
-    "식물성 식품": 4,
-    "소스": 3,
-    "소비 트렌드": 3,
-    "간편식": 3,
-    "K-푸드": 3,
-    "K-원볼밀": 3,
-    "글로벌 시장": 3,
-    "오뚜기": 2,
-    "컵떡볶이": 2,
-    "액상소스": 2,
-    "크림분말": 2,
-    "토마토소스": 2,
-    "바비큐 소스": 2,
-    "비건": 2,
-    "풀무원": 2,
-    "직화 공정": 2,
-    "소스 동봉": 2,
-    "저당": 2,
-    "락토프리": 2,
-    "소스 조합": 2,
-    "대체감미료": 2,
-    "맛인지 디지털화": 2,
-    "밀키트": 1
-  },
+  "top_keywords": [],
+  "daily_keyword_freq": {},
   "category_totals": {
-    "product": 22,
-    "manufacturing": 6,
-    "market": 3,
-    "ingredient": 4,
-    "consumer": 3,
-    "other": 47,
-    "regulation": 2
+    "other": 75,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -469,7 +338,8 @@
     "2026-06-08": 67,
     "2026-06-09": 82,
     "2026-06-10": 90,
-    "2026-06-11": 87
+    "2026-06-11": 87,
+    "2026-06-12": 78
   },
   "ai_summary": null
 }
