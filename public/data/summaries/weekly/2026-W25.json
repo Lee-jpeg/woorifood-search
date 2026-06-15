@@ -1,0 +1,20 @@
+{
+  "week_id": "2026-W25",
+  "start_date": "2026-06-15",
+  "end_date": "2026-06-21",
+  "total_articles": 77,
+  "days_included": [
+    "2026-06-15"
+  ],
+  "top_keywords": [],
+  "daily_keyword_freq": {},
+  "category_totals": {
+    "other": 74,
+    "manufacturing": 3
+  },
+  "highlighted_articles": [],
+  "daily_article_counts": {
+    "2026-06-15": 77
+  },
+  "ai_summary": null
+}
