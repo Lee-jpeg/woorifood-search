@@ -2,150 +2,152 @@
   "week_id": "2026-W25",
   "start_date": "2026-06-15",
   "end_date": "2026-06-21",
-  "total_articles": 496,
+  "total_articles": 532,
   "days_included": [
     "2026-06-15",
     "2026-06-16",
     "2026-06-17",
     "2026-06-18",
     "2026-06-19",
-    "2026-06-20"
+    "2026-06-20",
+    "2026-06-21"
   ],
   "top_keywords": [
     {
-      "keyword": "건강식품",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 2
-    },
-    {
-      "keyword": "토마토",
-      "count": 1
-    },
-    {
-      "keyword": "웰니스",
-      "count": 1
-    },
-    {
-      "keyword": "믹솔로지",
-      "count": 1
-    },
-    {
-      "keyword": "발효 엑기스",
-      "count": 1
-    },
-    {
-      "keyword": "기능성",
-      "count": 1
-    },
-    {
-      "keyword": "다용도",
-      "count": 1
-    },
-    {
-      "keyword": "편의성",
-      "count": 1
-    },
-    {
-      "keyword": "면사랑",
-      "count": 1
-    },
-    {
-      "keyword": "냉동면밀키트",
-      "count": 1
-    },
-    {
-      "keyword": "간편식",
-      "count": 1
-    },
-    {
-      "keyword": "여름철",
-      "count": 1
-    },
-    {
       "keyword": "소스",
+      "count": 2
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "신제품",
+      "count": 2
+    },
+    {
+      "keyword": "발효",
+      "count": 2
+    },
+    {
+      "keyword": "의성마늘",
       "count": 1
     },
     {
-      "keyword": "밀키트",
+      "keyword": "갈릭소스",
       "count": 1
     },
     {
-      "keyword": "롯데마트",
+      "keyword": "지역특산물",
       "count": 1
     },
     {
-      "keyword": "K-씨푸드",
+      "keyword": "HMR",
       "count": 1
     },
     {
-      "keyword": "프랑스 시장",
+      "keyword": "젊은소비층",
       "count": 1
     },
     {
-      "keyword": "헬시플레저",
+      "keyword": "특제소스",
       "count": 1
     },
     {
-      "keyword": "한국산 김",
+      "keyword": "PB 간편식",
       "count": 1
     },
     {
-      "keyword": "참치",
+      "keyword": "외식 대체 수요",
       "count": 1
     },
     {
-      "keyword": "유럽 시장",
+      "keyword": "집밥 트렌드",
       "count": 1
     },
     {
-      "keyword": "마요네즈",
+      "keyword": "합리적 소비",
       "count": 1
     },
     {
-      "keyword": "글루텐",
+      "keyword": "냉동식품",
       "count": 1
     },
     {
-      "keyword": "반죽",
+      "keyword": "식재료",
+      "count": 1
+    },
+    {
+      "keyword": "피코크",
+      "count": 1
+    },
+    {
+      "keyword": "면사리",
+      "count": 1
+    },
+    {
+      "keyword": "소스류",
+      "count": 1
+    },
+    {
+      "keyword": "간편식(HMR)",
+      "count": 1
+    },
+    {
+      "keyword": "냉동 즉석식품",
+      "count": 1
+    },
+    {
+      "keyword": "자동화 설비",
+      "count": 1
+    },
+    {
+      "keyword": "생산성 향상",
+      "count": 1
+    },
+    {
+      "keyword": "원가 절감",
+      "count": 1
+    },
+    {
+      "keyword": "K-푸드",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "건강식품": 2,
-    "식물성 단백질": 2,
-    "토마토": 1,
-    "웰니스": 1,
-    "믹솔로지": 1,
-    "발효 엑기스": 1,
-    "기능성": 1,
-    "다용도": 1,
-    "편의성": 1,
-    "면사랑": 1,
-    "냉동면밀키트": 1,
-    "간편식": 1,
-    "여름철": 1,
-    "소스": 1,
-    "밀키트": 1,
-    "롯데마트": 1,
-    "K-씨푸드": 1,
-    "프랑스 시장": 1,
-    "헬시플레저": 1,
-    "한국산 김": 1,
-    "참치": 1,
-    "유럽 시장": 1,
-    "마요네즈": 1,
-    "글루텐": 1,
-    "반죽": 1
+    "소스": 2,
+    "소비 트렌드": 2,
+    "신제품": 2,
+    "발효": 2,
+    "의성마늘": 1,
+    "갈릭소스": 1,
+    "지역특산물": 1,
+    "HMR": 1,
+    "젊은소비층": 1,
+    "특제소스": 1,
+    "PB 간편식": 1,
+    "외식 대체 수요": 1,
+    "집밥 트렌드": 1,
+    "합리적 소비": 1,
+    "냉동식품": 1,
+    "식재료": 1,
+    "피코크": 1,
+    "면사리": 1,
+    "소스류": 1,
+    "간편식(HMR)": 1,
+    "냉동 즉석식품": 1,
+    "자동화 설비": 1,
+    "생산성 향상": 1,
+    "원가 절감": 1,
+    "K-푸드": 1
   },
   "category_totals": {
     "ingredient": 3,
-    "product": 2,
-    "consumer": 7,
-    "other": 54,
-    "manufacturing": 1
+    "market": 1,
+    "product": 8,
+    "consumer": 4,
+    "regulation": 1,
+    "other": 19
   },
   "highlighted_articles": [
     {
@@ -697,7 +699,8 @@
     "2026-06-17": 95,
     "2026-06-18": 75,
     "2026-06-19": 101,
-    "2026-06-20": 67
+    "2026-06-20": 67,
+    "2026-06-21": 36
   },
   "ai_summary": null
 }
