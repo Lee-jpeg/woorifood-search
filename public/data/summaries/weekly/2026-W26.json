@@ -2,149 +2,150 @@
   "week_id": "2026-W26",
   "start_date": "2026-06-22",
   "end_date": "2026-06-28",
-  "total_articles": 298,
+  "total_articles": 377,
   "days_included": [
     "2026-06-22",
     "2026-06-23",
     "2026-06-24",
-    "2026-06-25"
+    "2026-06-25",
+    "2026-06-26"
   ],
   "top_keywords": [
     {
-      "keyword": "저당",
-      "count": 5
-    },
-    {
-      "keyword": "열무비빔국수",
-      "count": 4
-    },
-    {
-      "keyword": "비빔소스",
-      "count": 4
-    },
-    {
       "keyword": "간편식",
-      "count": 4
+      "count": 5
     },
     {
       "keyword": "신제품",
       "count": 3
     },
     {
-      "keyword": "케어푸드",
+      "keyword": "피자",
       "count": 3
     },
     {
-      "keyword": "동치미 육수",
+      "keyword": "오뚜기",
       "count": 2
     },
     {
-      "keyword": "콩담백면",
+      "keyword": "바비큐 소스",
       "count": 2
     },
     {
-      "keyword": "타코미트",
+      "keyword": "SSG닷컴",
       "count": 2
     },
     {
-      "keyword": "랜치소스",
+      "keyword": "숯불 양념치킨",
       "count": 2
     },
     {
-      "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "고단백",
-      "count": 2
-    },
-    {
-      "keyword": "헬시플레저",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 2
-    },
-    {
-      "keyword": "A2 우유",
-      "count": 2
-    },
-    {
-      "keyword": "양념 소불고기",
-      "count": 2
-    },
-    {
-      "keyword": "대상 청정원",
-      "count": 2
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 2
-    },
-    {
-      "keyword": "저칼로리",
-      "count": 2
-    },
-    {
-      "keyword": "대상청정원",
+      "keyword": "소스/양념",
       "count": 1
     },
     {
-      "keyword": "열무물냉면",
+      "keyword": "편의성",
       "count": 1
     },
     {
-      "keyword": "코스트코",
+      "keyword": "편리성",
       "count": 1
     },
     {
-      "keyword": "프랜차이즈 맞춤형 상품",
+      "keyword": "집밥",
       "count": 1
     },
     {
-      "keyword": "R&D 강화",
+      "keyword": "큐레이션",
       "count": 1
     },
     {
-      "keyword": "소스 레시피 데이터",
+      "keyword": "식품소비트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "AI 농업",
+      "count": 1
+    },
+    {
+      "keyword": "스마트팜",
+      "count": 1
+    },
+    {
+      "keyword": "농업기술",
+      "count": 1
+    },
+    {
+      "keyword": "멕시칸 스타일",
+      "count": 1
+    },
+    {
+      "keyword": "마요소스",
+      "count": 1
+    },
+    {
+      "keyword": "미트앤치즈",
+      "count": 1
+    },
+    {
+      "keyword": "한정판",
+      "count": 1
+    },
+    {
+      "keyword": "멕시칸 마요소스",
+      "count": 1
+    },
+    {
+      "keyword": "매콤한 소스",
+      "count": 1
+    },
+    {
+      "keyword": "피자 소스",
+      "count": 1
+    },
+    {
+      "keyword": "복합 토핑 소스",
+      "count": 1
+    },
+    {
+      "keyword": "CJ제일제당",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "저당": 5,
-    "열무비빔국수": 4,
-    "비빔소스": 4,
-    "간편식": 4,
+    "간편식": 5,
     "신제품": 3,
-    "케어푸드": 3,
-    "동치미 육수": 2,
-    "콩담백면": 2,
-    "타코미트": 2,
-    "랜치소스": 2,
-    "소스": 2,
-    "고단백": 2,
-    "헬시플레저": 2,
-    "식물성 단백질": 2,
-    "A2 우유": 2,
-    "양념 소불고기": 2,
-    "대상 청정원": 2,
-    "알룰로스": 2,
-    "저칼로리": 2,
-    "대상청정원": 1,
-    "열무물냉면": 1,
-    "코스트코": 1,
-    "프랜차이즈 맞춤형 상품": 1,
-    "R&D 강화": 1,
-    "소스 레시피 데이터": 1
+    "피자": 3,
+    "오뚜기": 2,
+    "바비큐 소스": 2,
+    "SSG닷컴": 2,
+    "숯불 양념치킨": 2,
+    "소스/양념": 1,
+    "편의성": 1,
+    "편리성": 1,
+    "집밥": 1,
+    "큐레이션": 1,
+    "식품소비트렌드": 1,
+    "AI 농업": 1,
+    "스마트팜": 1,
+    "농업기술": 1,
+    "멕시칸 스타일": 1,
+    "마요소스": 1,
+    "미트앤치즈": 1,
+    "한정판": 1,
+    "멕시칸 마요소스": 1,
+    "매콤한 소스": 1,
+    "피자 소스": 1,
+    "복합 토핑 소스": 1,
+    "CJ제일제당": 1
   },
   "category_totals": {
-    "product": 14,
-    "other": 53,
-    "consumer": 5,
-    "regulation": 1,
     "market": 1,
-    "manufacturing": 6
+    "consumer": 2,
+    "other": 65,
+    "product": 7,
+    "ingredient": 1,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -702,7 +703,8 @@
     "2026-06-22": 61,
     "2026-06-23": 75,
     "2026-06-24": 82,
-    "2026-06-25": 80
+    "2026-06-25": 80,
+    "2026-06-26": 79
   },
   "ai_summary": null
 }
