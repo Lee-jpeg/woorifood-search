@@ -2,150 +2,151 @@
   "week_id": "2026-W26",
   "start_date": "2026-06-22",
   "end_date": "2026-06-28",
-  "total_articles": 377,
+  "total_articles": 445,
   "days_included": [
     "2026-06-22",
     "2026-06-23",
     "2026-06-24",
     "2026-06-25",
-    "2026-06-26"
+    "2026-06-26",
+    "2026-06-27"
   ],
   "top_keywords": [
     {
-      "keyword": "간편식",
-      "count": 5
-    },
-    {
-      "keyword": "신제품",
+      "keyword": "식물성 식품",
       "count": 3
     },
     {
-      "keyword": "피자",
-      "count": 3
-    },
-    {
-      "keyword": "오뚜기",
+      "keyword": "클린 스타디움",
       "count": 2
     },
     {
-      "keyword": "바비큐 소스",
+      "keyword": "브랜드 노출",
       "count": 2
     },
     {
-      "keyword": "SSG닷컴",
+      "keyword": "건강기능식품",
       "count": 2
     },
     {
-      "keyword": "숯불 양념치킨",
+      "keyword": "식물성",
       "count": 2
     },
     {
-      "keyword": "소스/양념",
+      "keyword": "식물성 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "FIFA",
       "count": 1
     },
     {
-      "keyword": "편의성",
+      "keyword": "물병 라벨",
       "count": 1
     },
     {
-      "keyword": "편리성",
+      "keyword": "공식 스폰서",
       "count": 1
     },
     {
-      "keyword": "집밥",
+      "keyword": "규제",
       "count": 1
     },
     {
-      "keyword": "큐레이션",
+      "keyword": "모디슈머",
       "count": 1
     },
     {
-      "keyword": "식품소비트렌드",
+      "keyword": "간편함",
       "count": 1
     },
     {
-      "keyword": "AI 농업",
+      "keyword": "2030세대",
       "count": 1
     },
     {
-      "keyword": "스마트팜",
+      "keyword": "맞춤형",
       "count": 1
     },
     {
-      "keyword": "농업기술",
+      "keyword": "스폰서십",
       "count": 1
     },
     {
-      "keyword": "멕시칸 스타일",
+      "keyword": "상표 규제",
       "count": 1
     },
     {
-      "keyword": "마요소스",
+      "keyword": "마케팅 독점",
       "count": 1
     },
     {
-      "keyword": "미트앤치즈",
+      "keyword": "무가당",
       "count": 1
     },
     {
-      "keyword": "한정판",
+      "keyword": "건강 식습관 트렌드",
       "count": 1
     },
     {
-      "keyword": "멕시칸 마요소스",
+      "keyword": "플랜트베이스",
       "count": 1
     },
     {
-      "keyword": "매콤한 소스",
+      "keyword": "써큐란",
       "count": 1
     },
     {
-      "keyword": "피자 소스",
+      "keyword": "혈행 개선",
       "count": 1
     },
     {
-      "keyword": "복합 토핑 소스",
+      "keyword": "기억력",
       "count": 1
     },
     {
-      "keyword": "CJ제일제당",
+      "keyword": "코엔자임Q10",
+      "count": 1
+    },
+    {
+      "keyword": "비건 인증",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "간편식": 5,
-    "신제품": 3,
-    "피자": 3,
-    "오뚜기": 2,
-    "바비큐 소스": 2,
-    "SSG닷컴": 2,
-    "숯불 양념치킨": 2,
-    "소스/양념": 1,
-    "편의성": 1,
-    "편리성": 1,
-    "집밥": 1,
-    "큐레이션": 1,
-    "식품소비트렌드": 1,
-    "AI 농업": 1,
-    "스마트팜": 1,
-    "농업기술": 1,
-    "멕시칸 스타일": 1,
-    "마요소스": 1,
-    "미트앤치즈": 1,
-    "한정판": 1,
-    "멕시칸 마요소스": 1,
-    "매콤한 소스": 1,
-    "피자 소스": 1,
-    "복합 토핑 소스": 1,
-    "CJ제일제당": 1
+    "식물성 식품": 3,
+    "클린 스타디움": 2,
+    "브랜드 노출": 2,
+    "건강기능식품": 2,
+    "식물성": 2,
+    "식물성 단백질": 2,
+    "FIFA": 1,
+    "물병 라벨": 1,
+    "공식 스폰서": 1,
+    "규제": 1,
+    "모디슈머": 1,
+    "간편함": 1,
+    "2030세대": 1,
+    "맞춤형": 1,
+    "스폰서십": 1,
+    "상표 규제": 1,
+    "마케팅 독점": 1,
+    "무가당": 1,
+    "건강 식습관 트렌드": 1,
+    "플랜트베이스": 1,
+    "써큐란": 1,
+    "혈행 개선": 1,
+    "기억력": 1,
+    "코엔자임Q10": 1,
+    "비건 인증": 1
   },
   "category_totals": {
+    "regulation": 3,
+    "consumer": 4,
+    "product": 3,
     "market": 1,
-    "consumer": 2,
-    "other": 65,
-    "product": 7,
-    "ingredient": 1,
-    "manufacturing": 3
+    "other": 56,
+    "ingredient": 1
   },
   "highlighted_articles": [
     {
@@ -704,7 +705,8 @@
     "2026-06-23": 75,
     "2026-06-24": 82,
     "2026-06-25": 80,
-    "2026-06-26": 79
+    "2026-06-26": 79,
+    "2026-06-27": 68
   },
   "ai_summary": null
 }
