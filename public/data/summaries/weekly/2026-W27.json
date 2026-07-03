@@ -2,149 +2,149 @@
   "week_id": "2026-W27",
   "start_date": "2026-06-29",
   "end_date": "2026-07-05",
-  "total_articles": 361,
+  "total_articles": 440,
   "days_included": [
     "2026-06-29",
     "2026-06-30",
     "2026-07-01",
-    "2026-07-02"
+    "2026-07-02",
+    "2026-07-03"
   ],
   "top_keywords": [
     {
-      "keyword": "쌈장",
+      "keyword": "식물성 단백질",
+      "count": 3
+    },
+    {
+      "keyword": "쉐이크쉑",
       "count": 2
     },
     {
-      "keyword": "비건",
+      "keyword": "헤리티지 컬렉션",
       "count": 2
-    },
-    {
-      "keyword": "CJ제일제당",
-      "count": 2
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 2
-    },
-    {
-      "keyword": "어르신",
-      "count": 1
-    },
-    {
-      "keyword": "혁신식품",
-      "count": 1
-    },
-    {
-      "keyword": "육수 큐브",
-      "count": 1
-    },
-    {
-      "keyword": "K-브랜드 파워",
-      "count": 1
-    },
-    {
-      "keyword": "글로벌 시장 확대",
-      "count": 1
-    },
-    {
-      "keyword": "수출액 증가",
-      "count": 1
-    },
-    {
-      "keyword": "미국 시장",
-      "count": 1
-    },
-    {
-      "keyword": "체험 마케팅",
-      "count": 1
-    },
-    {
-      "keyword": "한류 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "사업개편",
-      "count": 1
-    },
-    {
-      "keyword": "핵심소재",
-      "count": 1
-    },
-    {
-      "keyword": "원료사업",
-      "count": 1
-    },
-    {
-      "keyword": "설탕대체",
-      "count": 1
-    },
-    {
-      "keyword": "지속성장",
-      "count": 1
-    },
-    {
-      "keyword": "Healthy Aging",
-      "count": 1
     },
     {
       "keyword": "소비 트렌드",
+      "count": 2
+    },
+    {
+      "keyword": "동물성 단백질",
+      "count": 2
+    },
+    {
+      "keyword": "저당",
+      "count": 2
+    },
+    {
+      "keyword": "단백질 균형",
+      "count": 2
+    },
+    {
+      "keyword": "멸균우유",
       "count": 1
     },
     {
-      "keyword": "제품 개발",
+      "keyword": "식물성 원료",
       "count": 1
     },
     {
-      "keyword": "경진대회",
+      "keyword": "원료 다변화",
       "count": 1
     },
     {
-      "keyword": "KGC",
+      "keyword": "마요 소스",
       "count": 1
     },
     {
-      "keyword": "닭강정",
+      "keyword": "한국적인 감칠맛",
       "count": 1
     },
     {
-      "keyword": "마늘간장",
+      "keyword": "협업",
+      "count": 1
+    },
+    {
+      "keyword": "신제품",
+      "count": 1
+    },
+    {
+      "keyword": "떡갈비",
+      "count": 1
+    },
+    {
+      "keyword": "기능성 식품",
+      "count": 1
+    },
+    {
+      "keyword": "케어푸드",
+      "count": 1
+    },
+    {
+      "keyword": "특수의료용도식품",
+      "count": 1
+    },
+    {
+      "keyword": "신흥 시장",
+      "count": 1
+    },
+    {
+      "keyword": "간편식",
+      "count": 1
+    },
+    {
+      "keyword": "영양 균형",
+      "count": 1
+    },
+    {
+      "keyword": "지역 농산물",
+      "count": 1
+    },
+    {
+      "keyword": "프리미엄 가공식품",
+      "count": 1
+    },
+    {
+      "keyword": "건강 먹거리",
+      "count": 1
+    },
+    {
+      "keyword": "백화점 유통",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "쌈장": 2,
-    "비건": 2,
-    "CJ제일제당": 2,
-    "알룰로스": 2,
-    "어르신": 1,
-    "혁신식품": 1,
-    "육수 큐브": 1,
-    "K-브랜드 파워": 1,
-    "글로벌 시장 확대": 1,
-    "수출액 증가": 1,
-    "미국 시장": 1,
-    "체험 마케팅": 1,
-    "한류 트렌드": 1,
-    "사업개편": 1,
-    "핵심소재": 1,
-    "원료사업": 1,
-    "설탕대체": 1,
-    "지속성장": 1,
-    "Healthy Aging": 1,
-    "소비 트렌드": 1,
-    "제품 개발": 1,
-    "경진대회": 1,
-    "KGC": 1,
-    "닭강정": 1,
-    "마늘간장": 1
+    "식물성 단백질": 3,
+    "쉐이크쉑": 2,
+    "헤리티지 컬렉션": 2,
+    "소비 트렌드": 2,
+    "동물성 단백질": 2,
+    "저당": 2,
+    "단백질 균형": 2,
+    "멸균우유": 1,
+    "식물성 원료": 1,
+    "원료 다변화": 1,
+    "마요 소스": 1,
+    "한국적인 감칠맛": 1,
+    "협업": 1,
+    "신제품": 1,
+    "떡갈비": 1,
+    "기능성 식품": 1,
+    "케어푸드": 1,
+    "특수의료용도식품": 1,
+    "신흥 시장": 1,
+    "간편식": 1,
+    "영양 균형": 1,
+    "지역 농산물": 1,
+    "프리미엄 가공식품": 1,
+    "건강 먹거리": 1,
+    "백화점 유통": 1
   },
   "category_totals": {
-    "product": 5,
     "market": 4,
-    "ingredient": 2,
-    "consumer": 2,
-    "other": 80,
-    "manufacturing": 3
+    "product": 8,
+    "consumer": 4,
+    "other": 61,
+    "ingredient": 2
   },
   "highlighted_articles": [
     {
@@ -692,7 +692,8 @@
     "2026-06-29": 73,
     "2026-06-30": 90,
     "2026-07-01": 102,
-    "2026-07-02": 96
+    "2026-07-02": 96,
+    "2026-07-03": 79
   },
   "ai_summary": null
 }
