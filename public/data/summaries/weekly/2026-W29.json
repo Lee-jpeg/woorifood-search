@@ -2,78 +2,55 @@
   "week_id": "2026-W29",
   "start_date": "2026-07-13",
   "end_date": "2026-07-19",
-  "total_articles": 136,
+  "total_articles": 233,
   "days_included": [
     "2026-07-13",
-    "2026-07-14"
+    "2026-07-14",
+    "2026-07-15"
   ],
   "top_keywords": [
     {
-      "keyword": "초간편 국물요리",
+      "keyword": "롯데",
       "count": 3
     },
     {
-      "keyword": "농축 소스",
-      "count": 3
-    },
-    {
-      "keyword": "전처리 기술",
+      "keyword": "AI",
       "count": 2
     },
     {
-      "keyword": "호밍스",
-      "count": 2
-    },
-    {
-      "keyword": "간편식",
-      "count": 2
-    },
-    {
-      "keyword": "청정원 호밍스",
+      "keyword": "가상소비자",
       "count": 1
     },
     {
-      "keyword": "공정 표준화",
+      "keyword": "소비 트렌드 예측",
       "count": 1
     },
     {
-      "keyword": "HMR",
+      "keyword": "신상품 출시",
       "count": 1
     },
     {
-      "keyword": "국산 콩",
+      "keyword": "롯데리아",
       "count": 1
     },
     {
-      "keyword": "식물성 단백질",
+      "keyword": "리아 두툼새우",
       "count": 1
     },
     {
-      "keyword": "필수 영양소",
+      "keyword": "스파이시토마토 소스",
       "count": 1
     },
     {
-      "keyword": "식이섬유",
+      "keyword": "딱새우 엑기스",
       "count": 1
     },
     {
-      "keyword": "이소플라본",
+      "keyword": "갑각류 풍미",
       "count": 1
     },
     {
-      "keyword": "사포닌",
-      "count": 1
-    },
-    {
-      "keyword": "여름철 건강",
-      "count": 1
-    },
-    {
-      "keyword": "이색 요리법",
-      "count": 1
-    },
-    {
-      "keyword": "대상 청정원",
+      "keyword": "감칠맛",
       "count": 1
     },
     {
@@ -81,36 +58,91 @@
       "count": 1
     },
     {
-      "keyword": "국물요리",
+      "keyword": "새우버거",
+      "count": 1
+    },
+    {
+      "keyword": "AX",
+      "count": 1
+    },
+    {
+      "keyword": "현장형 AI",
+      "count": 1
+    },
+    {
+      "keyword": "식품",
+      "count": 1
+    },
+    {
+      "keyword": "경쟁력",
+      "count": 1
+    },
+    {
+      "keyword": "전략",
+      "count": 1
+    },
+    {
+      "keyword": "VCM",
+      "count": 1
+    },
+    {
+      "keyword": "신동빈",
+      "count": 1
+    },
+    {
+      "keyword": "수익성",
+      "count": 1
+    },
+    {
+      "keyword": "AI 전략",
+      "count": 1
+    },
+    {
+      "keyword": "사업 경쟁력",
+      "count": 1
+    },
+    {
+      "keyword": "성장 전략",
+      "count": 1
+    },
+    {
+      "keyword": "수익성 강화",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "초간편 국물요리": 3,
-    "농축 소스": 3,
-    "전처리 기술": 2,
-    "호밍스": 2,
-    "간편식": 2,
-    "청정원 호밍스": 1,
-    "공정 표준화": 1,
-    "HMR": 1,
-    "국산 콩": 1,
-    "식물성 단백질": 1,
-    "필수 영양소": 1,
-    "식이섬유": 1,
-    "이소플라본": 1,
-    "사포닌": 1,
-    "여름철 건강": 1,
-    "이색 요리법": 1,
-    "대상 청정원": 1,
+    "롯데": 3,
+    "AI": 2,
+    "가상소비자": 1,
+    "소비 트렌드 예측": 1,
+    "신상품 출시": 1,
+    "롯데리아": 1,
+    "리아 두툼새우": 1,
+    "스파이시토마토 소스": 1,
+    "딱새우 엑기스": 1,
+    "갑각류 풍미": 1,
+    "감칠맛": 1,
     "신제품": 1,
-    "국물요리": 1
+    "새우버거": 1,
+    "AX": 1,
+    "현장형 AI": 1,
+    "식품": 1,
+    "경쟁력": 1,
+    "전략": 1,
+    "VCM": 1,
+    "신동빈": 1,
+    "수익성": 1,
+    "AI 전략": 1,
+    "사업 경쟁력": 1,
+    "성장 전략": 1,
+    "수익성 강화": 1
   },
   "category_totals": {
-    "manufacturing": 1,
-    "product": 2,
+    "consumer": 1,
+    "product": 1,
+    "market": 3,
     "ingredient": 1,
-    "other": 84
+    "other": 91
   },
   "highlighted_articles": [
     {
@@ -384,6 +416,27 @@
       "actionable_insight": "소스 R&D팀은 진한 풍미를 보존하면서도 유통기한과 편의성을 확보할 수 있는 '농축 소스' 개발 기술 및 제형 안정화 방안에 주목해야 한다."
     },
     {
+      "id": "7ed3ca02a47c",
+      "title": "&quot;팔기 전에 AI 소비자에게 묻는다&quot;...유통가, '가상소비자' 실험 본격화",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=153393",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-15T10:54:00+09:00",
+      "content": "유통업계는 신상품 출시 주기가 짧고 소비 트렌드 변화가 빠르다. 특히 편의점, 식품, 생활용품처럼 상품 회전이 빠른 업태에서는 출시 전 반응 예측의 정확도와 속도가 경쟁력으로 이어질 수 있다. 소비자 조사를... ",
+      "search_keyword": "식품 트렌드",
+      "category": "consumer",
+      "keywords": [
+        "가상소비자",
+        "소비 트렌드 예측",
+        "신상품 출시"
+      ],
+      "summary": "유통업계는 신상품 출시 전 AI 가상소비자를 활용하여 소비 반응을 예측, 빠른 트렌드 변화에 대응하고 경쟁력을 확보하려 합니다. 소스·양념 R&D 분야에서도 이러한 기술을 도입하여 새로운 맛과 콘셉트의 제품에 대한 소비자 선호도를 조기에 파악하고 개발 주기를 단축할 수 있습니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "소스·양념 R&D팀은 AI 가상소비자 기술 도입을 검토하여 신제품 아이디어의 시장 반응을 출시 전 빠르게 검증하고, 트렌드에 맞는 제품 개발 속도를 높여야 한다."
+    },
+    {
       "id": "fd54f165b10d",
       "title": "매일유업, 국내 최초 우유 3배 농축 단백질 음료 ‘퓨어틴’ 출시",
       "url": "https://www.sentv.co.kr/article/view/sentv202607130071",
@@ -499,6 +552,60 @@
       "actionable_insight": "국산 콩의 식물성 단백질 및 기능성 성분을 활용하여 여름철 건강과 편의성을 강조한 새로운 소스 및 양념류 개발 가능성을 검토하라."
     },
     {
+      "id": "931c316064be",
+      "title": "롯데리아, '리아 두툼새우' 2종 선봬…두툼한 새우 패티 풍미 가득",
+      "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=1412",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-15T10:52:00+09:00",
+      "content": "'리아 두툼새우 스파이시토마토'는 매콤한 토마토소스에 딱새우 엑기스를 더해 갑각류 풍미와 은은한 감칠맛을 강조했다. 롯데리아는 이번 신제품 모델로 가수 악뮤(AKMU)를 발탁하고 신규 광고를 7월 16일 롯데리아... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "롯데리아",
+        "리아 두툼새우",
+        "스파이시토마토 소스",
+        "딱새우 엑기스",
+        "갑각류 풍미",
+        "감칠맛",
+        "신제품",
+        "새우버거"
+      ],
+      "summary": "롯데리아가 신제품 '리아 두툼새우 스파이시토마토' 버거를 출시하며, 해당 제품의 핵심인 매콤한 토마토소스에 딱새우 엑기스를 활용하여 갑각류 풍미와 감칠맛을 강화했습니다. 이는 특정 해산물 추출물을 이용한 소스 풍미 차별화 전략을 보여줍니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "매콤한 토마토소스",
+        "딱새우 엑기스"
+      ],
+      "actionable_insight": "특정 해산물 추출물(예: 딱새우 엑기스)을 활용하여 소스의 갑각류 풍미와 자연스러운 감칠맛을 증진시키는 방안을 신제품 소스 개발에 적용할 필요가 있습니다."
+    },
+    {
+      "id": "0d0db2a211b9",
+      "title": "롯데, VCM서 ‘현장형 AI’ 공개…신동빈표 AX 속도전",
+      "url": "https://www.mediapen.com/news/view/1110277",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-15T10:52:00+09:00",
+      "content": "더그 스티븐스는 글로벌 유수 기업의 전략 수립 경험을 바탕으로 롯데 경영진에게 AI 트렌드 변화 및... 식품, 유통, 화학, 호텔 부문의 주요 계열사 대표들은 각 사업의 본질에 집중한 경쟁력 제고 방안을 제시한다.... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "롯데",
+        "AI",
+        "AX",
+        "현장형 AI",
+        "식품",
+        "경쟁력",
+        "전략"
+      ],
+      "summary": "롯데는 식품 부문을 포함한 전 사업에 '현장형 AI' 도입을 가속화하며 기업 경쟁력 강화에 나선다. 이는 소스/양념류 R&D 과정에서 데이터 분석, 신제품 기획, 제조 공정 최적화 등 AI 활용 기회가 증가할 것임을 시사한다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "AI 기반의 데이터 분석, 레시피 개발 지원, 품질 관리 및 생산 공정 최적화 등 소스/양념류 R&D에 AI 기술을 접목할 방안을 적극적으로 모색해야 한다."
+    },
+    {
       "id": "146a6cced117",
       "title": "매일유업 단백질 가공유 출시",
       "url": "http://www.bokuennews.com/news/article.html?no=281198",
@@ -520,11 +627,68 @@
         "단백질"
       ],
       "actionable_insight": "단백질 식품 시장의 '맛과 건강' 동시 추구 트렌드에 맞춰, 소스/양념류에서도 단백질 함유 또는 단백질 식품과의 페어링을 고려한 맛 개발에 주력해야 한다."
+    },
+    {
+      "id": "763614f49624",
+      "title": "롯데, 하반기 VCM 개최…신동빈 &quot;수익성 중심 성장&quot; 메시지·AI 전략 점검",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577757509906",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-15T10:52:00+09:00",
+      "content": "더그 스티븐스는 글로벌 기업의 전략 수립 경험을 바탕으로 AI 트렌드 변화와 글로벌 시장 전망에 대한... 식품·유통·화학·호텔 부문 주요 계열사 대표들도 사업 경쟁력 강화와 본업 중심의 성장 전략을 공유할... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "롯데",
+        "VCM",
+        "신동빈",
+        "수익성",
+        "AI 전략",
+        "사업 경쟁력",
+        "성장 전략"
+      ],
+      "summary": "롯데그룹이 VCM을 통해 수익성 중심 성장과 AI 전략 강화를 주요 경영 방침으로 제시했다. 식품 부문 역시 그룹의 이러한 방향성에 맞춰 사업 경쟁력 강화와 본업 중심의 성장을 추구할 것으로 예상되며, 소스·양념 R&D는 수익성 제고와 AI 기반의 효율성 및 혁신에 초점을 맞춰야 할 것이다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "소스·양념 R&D팀은 수익성 향상에 기여하는 제품 개발 및 공정 효율화 방안을 모색하고, AI 기술을 활용한 연구개발 프로세스 혁신 및 시장 트렌드 분석에 대비해야 한다."
+    },
+    {
+      "id": "45de07515ba0",
+      "title": "경남 수산물 수출 20%↑ 연간 목표 달성 ‘청신호’",
+      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1546479",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-15T10:52:00+09:00",
+      "content": "수산식품 박람회에 참가해 수출 상담을 진행하고 있는 모습./경남도/ 품목별로는 굴이 최대 수출 품목 지위를 지킨 가운데 냉동 고등어, 명태, 청어 등 원물 수출이 실적 상승을 견인했다. 아울러 트렌드를 반영한... ",
+      "search_keyword": "식품 트렌드",
+      "category": "ingredient",
+      "keywords": [
+        "경남",
+        "수산물",
+        "수출",
+        "굴",
+        "고등어",
+        "명태",
+        "청어",
+        "원물"
+      ],
+      "summary": "경남 지역의 수산물 수출이 굴, 고등어, 명태, 청어 등 원물 중심으로 20% 성장하며 연간 목표 달성에 청신호를 보였습니다. 이는 소스·양념 R&D 관점에서 해당 수산물들이 해산물 기반 소스 및 조미료 개발을 위한 잠재적인 주요 원료 공급원이 될 수 있음을 시사합니다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "굴",
+        "고등어",
+        "명태",
+        "청어"
+      ],
+      "actionable_insight": "경남의 수출 성공 수산물인 굴, 고등어, 명태, 청어 등 원물을 활용한 신규 해산물 기반 소스 및 액상 조미료 개발 가능성을 검토하라."
     }
   ],
   "daily_article_counts": {
     "2026-07-13": 48,
-    "2026-07-14": 88
+    "2026-07-14": 88,
+    "2026-07-15": 97
   },
   "ai_summary": null
 }
