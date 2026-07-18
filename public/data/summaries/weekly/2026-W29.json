@@ -2,93 +2,30 @@
   "week_id": "2026-W29",
   "start_date": "2026-07-13",
   "end_date": "2026-07-19",
-  "total_articles": 386,
+  "total_articles": 431,
   "days_included": [
     "2026-07-13",
     "2026-07-14",
     "2026-07-15",
     "2026-07-16",
-    "2026-07-17"
+    "2026-07-17",
+    "2026-07-18"
   ],
   "top_keywords": [
     {
-      "keyword": "단백질",
-      "count": 2
-    },
-    {
-      "keyword": "굿베이스 블루베리 퓨레",
+      "keyword": "식감",
       "count": 1
     },
     {
-      "keyword": "유기농 블루베리",
+      "keyword": "쫄깃함",
       "count": 1
     },
     {
-      "keyword": "원재료 본연의 맛과 영양",
+      "keyword": "냉각숙성 기술",
       "count": 1
     },
     {
-      "keyword": "식품 소비 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "제로 제품",
-      "count": 1
-    },
-    {
-      "keyword": "색소 무첨가",
-      "count": 1
-    },
-    {
-      "keyword": "합성향료 무첨가",
-      "count": 1
-    },
-    {
-      "keyword": "콩",
-      "count": 1
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 1
-    },
-    {
-      "keyword": "필수 아미노산",
-      "count": 1
-    },
-    {
-      "keyword": "식이섬유",
-      "count": 1
-    },
-    {
-      "keyword": "메티오닌",
-      "count": 1
-    },
-    {
-      "keyword": "영양 균형",
-      "count": 1
-    },
-    {
-      "keyword": "여름철 건강",
-      "count": 1
-    },
-    {
-      "keyword": "HMR",
-      "count": 1
-    },
-    {
-      "keyword": "홈쿡",
-      "count": 1
-    },
-    {
-      "keyword": "간편식",
-      "count": 1
-    },
-    {
-      "keyword": "편의성",
-      "count": 1
-    },
-    {
-      "keyword": "전문점 수준",
+      "keyword": "신제품",
       "count": 1
     },
     {
@@ -96,56 +33,121 @@
       "count": 1
     },
     {
-      "keyword": "소스",
+      "keyword": "차별화",
       "count": 1
     },
     {
-      "keyword": "양념",
+      "keyword": "홍콩 K-Food 시장",
       "count": 1
     },
     {
-      "keyword": "기능성 원료",
+      "keyword": "레스토랑 폐업",
       "count": 1
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "현지화 전략",
+      "count": 1
+    },
+    {
+      "keyword": "한국 음식 아이덴티티",
+      "count": 1
+    },
+    {
+      "keyword": "소스·양념 R&D",
+      "count": 1
+    },
+    {
+      "keyword": "대상",
+      "count": 1
+    },
+    {
+      "keyword": "IFT 2026",
+      "count": 1
+    },
+    {
+      "keyword": "차세대 식품 소재",
+      "count": 1
+    },
+    {
+      "keyword": "글로벌 식품 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "건강",
+      "count": 1
+    },
+    {
+      "keyword": "지속 가능성",
+      "count": 1
+    },
+    {
+      "keyword": "식품 솔루션",
+      "count": 1
+    },
+    {
+      "keyword": "평양냉면",
+      "count": 1
+    },
+    {
+      "keyword": "담백한 맛",
+      "count": 1
+    },
+    {
+      "keyword": "소비자 미각 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "외식 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "마니아층",
+      "count": 1
+    },
+    {
+      "keyword": "은은한 풍미",
+      "count": 1
+    },
+    {
+      "keyword": "ESG 경영",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "단백질": 2,
-    "굿베이스 블루베리 퓨레": 1,
-    "유기농 블루베리": 1,
-    "원재료 본연의 맛과 영양": 1,
-    "식품 소비 트렌드": 1,
-    "제로 제품": 1,
-    "색소 무첨가": 1,
-    "합성향료 무첨가": 1,
-    "콩": 1,
-    "식물성 단백질": 1,
-    "필수 아미노산": 1,
-    "식이섬유": 1,
-    "메티오닌": 1,
-    "영양 균형": 1,
-    "여름철 건강": 1,
-    "HMR": 1,
-    "홈쿡": 1,
-    "간편식": 1,
-    "편의성": 1,
-    "전문점 수준": 1,
+    "식감": 1,
+    "쫄깃함": 1,
+    "냉각숙성 기술": 1,
+    "신제품": 1,
     "면사랑": 1,
-    "소스": 1,
-    "양념": 1,
-    "기능성 원료": 1,
-    "건강 트렌드": 1
+    "차별화": 1,
+    "홍콩 K-Food 시장": 1,
+    "레스토랑 폐업": 1,
+    "현지화 전략": 1,
+    "한국 음식 아이덴티티": 1,
+    "소스·양념 R&D": 1,
+    "대상": 1,
+    "IFT 2026": 1,
+    "차세대 식품 소재": 1,
+    "글로벌 식품 트렌드": 1,
+    "건강": 1,
+    "지속 가능성": 1,
+    "식품 솔루션": 1,
+    "평양냉면": 1,
+    "담백한 맛": 1,
+    "소비자 미각 트렌드": 1,
+    "외식 트렌드": 1,
+    "마니아층": 1,
+    "은은한 풍미": 1,
+    "ESG 경영": 1
   },
   "category_totals": {
-    "product": 4,
+    "product": 3,
+    "market": 3,
     "ingredient": 1,
-    "market": 1,
-    "consumer": 1,
-    "other": 61,
-    "manufacturing": 1
+    "consumer": 3,
+    "regulation": 1,
+    "other": 28,
+    "manufacturing": 6
   },
   "highlighted_articles": [
     {
@@ -696,7 +698,8 @@
     "2026-07-14": 88,
     "2026-07-15": 97,
     "2026-07-16": 84,
-    "2026-07-17": 69
+    "2026-07-17": 69,
+    "2026-07-18": 45
   },
   "ai_summary": null
 }
