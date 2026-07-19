@@ -2,152 +2,90 @@
   "week_id": "2026-W29",
   "start_date": "2026-07-13",
   "end_date": "2026-07-19",
-  "total_articles": 431,
+  "total_articles": 478,
   "days_included": [
     "2026-07-13",
     "2026-07-14",
     "2026-07-15",
     "2026-07-16",
     "2026-07-17",
-    "2026-07-18"
+    "2026-07-18",
+    "2026-07-19"
   ],
   "top_keywords": [
     {
-      "keyword": "식감",
-      "count": 1
+      "keyword": "1인가구",
+      "count": 2
     },
     {
-      "keyword": "쫄깃함",
-      "count": 1
-    },
-    {
-      "keyword": "냉각숙성 기술",
-      "count": 1
-    },
-    {
-      "keyword": "신제품",
-      "count": 1
-    },
-    {
-      "keyword": "면사랑",
-      "count": 1
-    },
-    {
-      "keyword": "차별화",
-      "count": 1
-    },
-    {
-      "keyword": "홍콩 K-Food 시장",
-      "count": 1
-    },
-    {
-      "keyword": "레스토랑 폐업",
-      "count": 1
-    },
-    {
-      "keyword": "현지화 전략",
-      "count": 1
-    },
-    {
-      "keyword": "한국 음식 아이덴티티",
-      "count": 1
-    },
-    {
-      "keyword": "소스·양념 R&D",
-      "count": 1
-    },
-    {
-      "keyword": "대상",
-      "count": 1
-    },
-    {
-      "keyword": "IFT 2026",
-      "count": 1
-    },
-    {
-      "keyword": "차세대 식품 소재",
-      "count": 1
-    },
-    {
-      "keyword": "글로벌 식품 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "건강",
-      "count": 1
-    },
-    {
-      "keyword": "지속 가능성",
-      "count": 1
-    },
-    {
-      "keyword": "식품 솔루션",
-      "count": 1
-    },
-    {
-      "keyword": "평양냉면",
-      "count": 1
-    },
-    {
-      "keyword": "담백한 맛",
-      "count": 1
-    },
-    {
-      "keyword": "소비자 미각 트렌드",
-      "count": 1
+      "keyword": "소비 트렌드",
+      "count": 2
     },
     {
       "keyword": "외식 트렌드",
       "count": 1
     },
     {
-      "keyword": "마니아층",
+      "keyword": "양념치킨",
       "count": 1
     },
     {
-      "keyword": "은은한 풍미",
+      "keyword": "매운맛 선호",
       "count": 1
     },
     {
-      "keyword": "ESG 경영",
+      "keyword": "라면",
+      "count": 1
+    },
+    {
+      "keyword": "나물큐브",
+      "count": 1
+    },
+    {
+      "keyword": "간편식",
+      "count": 1
+    },
+    {
+      "keyword": "건강식",
+      "count": 1
+    },
+    {
+      "keyword": "양념",
+      "count": 1
+    },
+    {
+      "keyword": "프리미엄 식품",
+      "count": 1
+    },
+    {
+      "keyword": "새로운 음식 시도",
+      "count": 1
+    },
+    {
+      "keyword": "식품 가격",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "식감": 1,
-    "쫄깃함": 1,
-    "냉각숙성 기술": 1,
-    "신제품": 1,
-    "면사랑": 1,
-    "차별화": 1,
-    "홍콩 K-Food 시장": 1,
-    "레스토랑 폐업": 1,
-    "현지화 전략": 1,
-    "한국 음식 아이덴티티": 1,
-    "소스·양념 R&D": 1,
-    "대상": 1,
-    "IFT 2026": 1,
-    "차세대 식품 소재": 1,
-    "글로벌 식품 트렌드": 1,
-    "건강": 1,
-    "지속 가능성": 1,
-    "식품 솔루션": 1,
-    "평양냉면": 1,
-    "담백한 맛": 1,
-    "소비자 미각 트렌드": 1,
+    "1인가구": 2,
+    "소비 트렌드": 2,
     "외식 트렌드": 1,
-    "마니아층": 1,
-    "은은한 풍미": 1,
-    "ESG 경영": 1
+    "양념치킨": 1,
+    "매운맛 선호": 1,
+    "라면": 1,
+    "나물큐브": 1,
+    "간편식": 1,
+    "건강식": 1,
+    "양념": 1,
+    "프리미엄 식품": 1,
+    "새로운 음식 시도": 1,
+    "식품 가격": 1
   },
   "category_totals": {
-    "product": 3,
-    "market": 3,
-    "ingredient": 1,
     "consumer": 3,
-    "regulation": 1,
-    "other": 28,
-    "manufacturing": 6
+    "product": 1,
+    "other": 40,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -699,7 +637,8 @@
     "2026-07-15": 97,
     "2026-07-16": 84,
     "2026-07-17": 69,
-    "2026-07-18": 45
+    "2026-07-18": 45,
+    "2026-07-19": 47
   },
   "ai_summary": null
 }
