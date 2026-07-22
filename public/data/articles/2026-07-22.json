@@ -1,0 +1,1846 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T02:11:20.277196+00:00",
+  "total_articles": 81,
+  "category_counts": {
+    "product": 4,
+    "consumer": 7,
+    "market": 9,
+    "other": 60,
+    "ingredient": 1
+  },
+  "top_keywords": [
+    {
+      "keyword": "K-웰니스",
+      "count": 5
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 5
+    },
+    {
+      "keyword": "미국 시장",
+      "count": 4
+    },
+    {
+      "keyword": "클린라벨",
+      "count": 4
+    },
+    {
+      "keyword": "매일유업",
+      "count": 4
+    },
+    {
+      "keyword": "보양식",
+      "count": 3
+    },
+    {
+      "keyword": "북미 시장",
+      "count": 3
+    },
+    {
+      "keyword": "단백질",
+      "count": 3
+    },
+    {
+      "keyword": "식물성",
+      "count": 3
+    },
+    {
+      "keyword": "비건",
+      "count": 3
+    },
+    {
+      "keyword": "K-푸드",
+      "count": 3
+    },
+    {
+      "keyword": "양념장어구이",
+      "count": 2
+    },
+    {
+      "keyword": "식물성 식단",
+      "count": 2
+    },
+    {
+      "keyword": "미국 올리브영",
+      "count": 2
+    },
+    {
+      "keyword": "콜라겐",
+      "count": 2
+    },
+    {
+      "keyword": "이너뷰티",
+      "count": 2
+    },
+    {
+      "keyword": "수출",
+      "count": 2
+    },
+    {
+      "keyword": "매일두유",
+      "count": 2
+    },
+    {
+      "keyword": "간편식",
+      "count": 1
+    },
+    {
+      "keyword": "집밥 수요",
+      "count": 1
+    },
+    {
+      "keyword": "장어강정",
+      "count": 1
+    },
+    {
+      "keyword": "삼계탕",
+      "count": 1
+    },
+    {
+      "keyword": "멸균팩",
+      "count": 1
+    },
+    {
+      "keyword": "실온 보관",
+      "count": 1
+    },
+    {
+      "keyword": "휴대성",
+      "count": 1
+    }
+  ],
+  "highlighted_articles": [
+    {
+      "id": "201a915c1adc",
+      "title": "이마트, 중복 앞두고 보양식 할인전…집밥 수요에 장어·삼계탕 매출↑",
+      "url": "https://sateconomy.co.kr/news/view/1065578213520516",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:06:00+09:00",
+      "content": "키친델리에서는 녹두 삼계탕과 장어 영양덮밥을 비롯해 양념장어구이, 장어강정 등을 판매하며, 홍게... 이마트 관계자는 “외식 물가 부담으로 집에서 직접 보양식을 준비하거나 간편식을 찾는 소비자가 늘고 있다”며... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "보양식",
+        "간편식",
+        "집밥 수요",
+        "양념장어구이",
+        "장어강정",
+        "삼계탕"
+      ],
+      "summary": "외식 물가 상승으로 집에서 보양식을 준비하거나 간편식을 찾는 소비자가 증가하고 있다. 특히 이마트의 '양념장어구이'와 '장어강정' 매출 증가는 조리의 편의성을 높인 양념육/간편식 소스 제품에 대한 높은 수요를 보여준다. 소스 R&D팀은 이러한 시장 변화에 맞춰 가정 내에서 쉽게 활용할 수 있는 보양식 콘셉트의 특화 소스 개발에 주력할 필요가 있다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "장어",
+        "닭고기",
+        "녹두"
+      ],
+      "actionable_insight": "간편한 조리를 돕고 보양식의 풍미를 극대화할 수 있는 장어구이용 양념 소스, 장어 강정 소스 등 단백질 기반 HMR/밀키트용 특화 소스 개발에 집중하여 성장하는 집밥 및 간편식 시장을 공략해야 한다."
+    },
+    {
+      "id": "78848e58649f",
+      "title": "매일유업, 美 올리브영 입점…'K-웰니스' 앞세워 북미 공략",
+      "url": "https://theviewers.co.kr/View.aspx?No=4157377",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:02:00+09:00",
+      "content": "K-콘텐츠를 통해 한국 문화와 라이프스타일 전반에 대한 관심이 커지면서 한국인이 일상적으로 먹고 마시는 식품에 대한 관심도 함께 높아졌다. 미국 올리브영은 이러한 트렌드에 맞춰 K뷰티·웰니스 브랜드를... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "매일유업",
+        "미국 올리브영",
+        "K-웰니스",
+        "북미 시장",
+        "K-콘텐츠",
+        "한국 식품"
+      ],
+      "summary": "K-콘텐츠로 촉발된 북미 시장의 한국 문화 및 라이프스타일 관심 증가는 'K-웰니스' 식품의 성공적인 진출 기회를 만들고 있다. 소스/양념 R&D 관점에서는 북미 소비자들이 건강하고 편리하게 한국 음식을 즐길 수 있도록, 전통적인 맛과 웰니스 요소를 결합한 제품 개발이 중요해졌다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "발효 성분",
+        "자연 유래 감미료",
+        "저나트륨 원료"
+      ],
+      "actionable_insight": "북미 K-웰니스 식품 시장의 성장에 발맞춰, 건강하고 간편하게 한국 음식의 맛을 낼 수 있는 저염/저당 및 기능성 발효 기반의 소스/양념류 개발에 우선순위를 두어야 한다."
+    },
+    {
+      "id": "06a141500586",
+      "title": "중복 앞둔 호텔가, 장어·삼계탕·불도장 등 보양식 경쟁",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=753381",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:50:00+09:00",
+      "content": "조선호텔앤리조트는 프리미엄 HMR 브랜드 '조선호텔 홈다이닝'을 통해 신제품 '조선호텔 장어구이'를 출시했다. 국내산 자포니카 민물장어에 호텔 셰프의 특제 소스를 더하고 오븐 초벌과 직화 공정을 거쳐 은은한 단맛과... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "보양식",
+        "HMR",
+        "장어구이",
+        "특제 소스",
+        "프리미엄 HMR"
+      ],
+      "summary": "조선호텔에서 프리미엄 HMR 신제품으로 '조선호텔 장어구이'를 출시하며 보양식 경쟁에 참여했다. 이 제품은 국내산 민물장어에 호텔 셰프의 특제 소스를 더하여 은은한 단맛을 구현했으며, 오븐 초벌과 직화 공정을 거쳐 맛과 품질을 차별화했다. 이는 프리미엄 HMR 시장에서 소스의 역할과 제조 공정의 중요성을 보여준다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "특제 소스"
+      ],
+      "actionable_insight": "프리미엄 HMR 보양식 시장에서 제품의 고급화와 맛 차별화를 위해 '호텔 셰프의 특제 소스'와 같이 전문성을 강조한 소스 개발에 집중하고, 은은한 단맛 등 특정 풍미를 구현할 수 있는 소스 배합 기술을 연구해야 한다."
+    },
+    {
+      "id": "3a0cfbd1124c",
+      "title": "풀무원기술원, 부총리 유공 표창…&quot;식품 연구개발 역량 인정받아&quot;",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=297997",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:48:00+09:00",
+      "content": "식물성 단백질 소재와 가공 기술을 비롯해 발효·미생물, 김 육상양식, 세포배양, 인공지능(AI) 기반 식품 개발 등 미래 식품 분야 연구도 확대하고 있다. 김태석 풀무원기술원 원장은 &quot;이번 부총리 유공 표창은... ",
+      "search_keyword": "식물성 단백질",
+      "category": "ingredient",
+      "keywords": [
+        "풀무원",
+        "식품 R&D",
+        "식물성 단백질",
+        "발효",
+        "미생물",
+        "김 육상양식",
+        "AI 식품 개발"
+      ],
+      "summary": "풀무원기술원이 식물성 단백질, 발효·미생물, 김 육상양식, AI 기반 식품 개발 등 미래 식품 분야 연구 역량을 인정받았다. 소스·양념류 R&D 관점에서는 식물성 기반의 건강한 감칠맛, 발효를 통한 깊은 풍미, 해양 식물 유래의 독특한 재료를 활용한 혁신적인 제품 개발 가능성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "발효미생물 유래 성분",
+        "김"
+      ],
+      "actionable_insight": "소스·양념류 R&D팀은 식물성 단백질, 발효 기술 및 김 육상양식 등의 신규 소재를 활용하여 건강하고 지속 가능한 신제품을 개발하고, AI 기반 기술 도입으로 개발 효율성을 높이는 방안을 모색해야 한다."
+    },
+    {
+      "id": "216b94223073",
+      "title": "김부터 두유까지 해외로 가는 한국의 맛",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069987",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:40:00+09:00",
+      "content": "맞춰 한국인의 일상적인 건강 식음료를 현지 소비자들에게 제안한다는 전략입니다. 이처럼 국내 식품업계는 전통 식문화의 고유한 가치와 현대적인 웰니스 트렌드를 융합해 K-푸드의 영향력을 한층 끌어올리고 있습니다.",
+      "search_keyword": "식품 트렌드",
+      "category": "consumer",
+      "keywords": [
+        "K-푸드",
+        "글로벌 시장",
+        "건강",
+        "웰니스",
+        "전통 식문화",
+        "현지화"
+      ],
+      "summary": "K-푸드의 글로벌 시장 확장을 위해 소스·양념류 R&D는 전통적인 맛의 가치를 유지하면서도 현대적인 웰니스 트렌드를 반영해야 합니다. 현지 소비자의 건강 지향적 라이프스타일에 맞춰 저염, 저당, 또는 기능성 성분을 강화한 제품 개발이 중요하며, 이는 K-푸드의 영향력을 높이는 핵심 전략이 될 것입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "글로벌 소비자들의 웰니스 트렌드를 충족시키면서 한국 전통의 맛을 살린, '건강 지향적 K-소스' 개발에 즉각 착수해야 합니다."
+    },
+    {
+      "id": "c00590bf3886",
+      "title": "가정에서 즐기는 '홈 다이닝'···유통업계, HMR 넘어 RMR 시대 개막",
+      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403970",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:42:00+09:00",
+      "content": "기반으로 소스 배합과 농도를 설계해 매장에서 느낄 수 있는 카레 풍미를 가정에서도 즐길 수 있도록 개발된 것이 특징으로, 전국 대형마트와 주요 이커머스 채널을 통해 판매됐다. 농심 관계자는 &quot;신제품은 생면... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "홈 다이닝",
+        "RMR",
+        "소스 배합",
+        "카레 풍미",
+        "레스토랑 품질 재현"
+      ],
+      "summary": "홈 다이닝 트렌드와 RMR 시장 확대에 발맞춰, 가정에서도 매장과 동일한 수준의 카레 풍미와 농도를 즐길 수 있도록 정교하게 배합된 소스를 활용한 신제품이 출시되었다. 이는 소비자의 고급화된 미식 경험 요구에 부응하기 위한 소스 R&D의 중요성을 부각한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "카레"
+      ],
+      "actionable_insight": "R&D팀은 홈 다이닝 및 RMR 시장 공략을 위해, 매장 품질의 풍미와 농도를 가정에서 재현할 수 있는 소스 배합 기술 개발에 집중해야 한다."
+    },
+    {
+      "id": "e4d9ae54a5e9",
+      "title": "매일유업, 미국 올리브영에 K-웰니스 제품 8종 입점...미국 시장 공략",
+      "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251506",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:06:00+09:00",
+      "content": "식물성 식단을 선호하는 미국 소비자와 원료 성분의 투명성을 중시하는 '클린라벨' 트렌드에 부합한다는 점을 앞세웠다. 멸균팩 포장으로 실온 보관과 휴대가 편리하며 단백질 9g 이상을 함유해 파우치형 단백질... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "K-웰니스",
+        "미국 시장",
+        "식물성 식단",
+        "클린라벨",
+        "멸균팩",
+        "실온 보관",
+        "휴대성",
+        "고단백"
+      ],
+      "summary": "이 기사는 매일유업의 K-웰니스 제품 미국 시장 진출을 다루지만, 소스/양념류 R&D 관점에서는 식물성 기반, 클린라벨, 고단백, 휴대 및 실온 보관 편의성 등 핵심 소비자 트렌드를 주목해야 합니다. 이러한 트렌드는 향후 소스·양념류 개발 시 식물성 원료 활용, 성분 투명성 강화, 기능성(단백질 함량) 부여, 멸균 파우치 등 편리한 포장 형태 도입의 방향성을 제시합니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "단백질"
+      ],
+      "actionable_insight": "R&D팀은 식물성 기반, 클린라벨 기준을 충족하며 고단백 기능성을 갖춘 휴대 및 실온 보관 가능한 소스·양념 제품 개발 가능성을 모색해야 한다."
+    },
+    {
+      "id": "3799de5ac480",
+      "title": "&quot;뷰티 유통망 입점부터 역사 알리기까지&quot;… 식품업계, 해외 마케팅 다변...",
+      "url": "https://www.onews.tv/news/articleView.html?idxno=283489",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:02:00+09:00",
+      "content": "현지에서 식물성 식단과 원료 투명성을 강조하는 '클린라벨' 소비 경향이 이어짐에 따라, 무당 식물성 두유와 멸균 포장 단백질 제품을 주요 품목으로 마련했다. 아울러 음료 제품인 '피크닉'과 파우더·구미 형태의 콜라겐... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "식물성",
+        "클린라벨",
+        "무당",
+        "단백질",
+        "콜라겐"
+      ],
+      "summary": "해외 시장에서 식물성 식단 및 클린라벨 소비 트렌드가 지속됨에 따라, 소스·양념류 R&D는 무당 및 식물성 원료 기반 제품 개발에 집중해야 한다. 또한 단백질, 콜라겐 등 기능성 성분을 접목하여 건강 지향적인 소스 제품군으로 포트폴리오를 확장하는 기회를 모색할 필요가 있다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "콜라겐"
+      ],
+      "actionable_insight": "소스·양념류 R&D는 해외 시장의 식물성, 무당, 클린라벨 트렌드를 반영하여 기존 제품을 개선하고, 단백질 등 기능성 성분을 활용한 신규 건강 지향 소스 개발에 착수해야 한다."
+    },
+    {
+      "id": "4d59f3556e3e",
+      "title": "이마트, 중복 앞두고 보양식 최대 50% 할인…장어·전복 반값",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=111674",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:01:00+09:00",
+      "content": "이마트는 오는 23일부터 29일까지 전국 매장에서 보양식 식재료와 간편식, 제철 농산물 등을 특가에... 300g 중량의 장어를 활용한 '킹 양념장어구이'는 1만7,980원, '장어 강정'은 1만2,980원에 선보인다. 이와 함께... ",
+      "search_keyword": "간편식 양념",
+      "category": "market",
+      "keywords": [
+        "양념장어구이",
+        "장어 강정",
+        "보양식"
+      ],
+      "summary": "이마트의 중복 맞이 보양식 행사에서 '킹 양념장어구이'와 '장어 강정' 등 소스·양념이 핵심인 간편 보양식 제품이 주요 품목으로 등장했습니다. 이는 소비자들이 장어를 집에서 간편하게 즐기려는 수요가 높음을 시사하며, 특정 소스 베이스의 HMR 제품군에 대한 시장성을 보여줍니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "장어",
+        "전복"
+      ],
+      "actionable_insight": "장어 기반의 HMR 제품 확장에 맞춰 간편성과 전문성을 동시에 충족하는 양념장어구이 및 강정 소스 개발에 집중하여 시장 경쟁력을 확보해야 합니다."
+    },
+    {
+      "id": "7e8620db616d",
+      "title": "‘유통·수출·가공·정착’ 전방위 강화…강원, 지역경제 선순환 구축",
+      "url": "https://news.mtn.co.kr/news-detail/2026072209554788298",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:48:00+09:00",
+      "content": "최근 영국 현지 유통업체와 협약을 체결하고 판촉행사를 통해 두부와 쌀 등 약 8000만 원 규모의 초도 물량을 공급하며 현지 시장성을 확인했다.인제군은 글로벌 K-푸드 수요 확대와 건강식품 트렌드에 발맞춰 현지 맞춤형... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "K-푸드",
+        "수출",
+        "영국 시장",
+        "건강식품 트렌드",
+        "현지 맞춤형",
+        "두부",
+        "쌀"
+      ],
+      "summary": "영국 시장에 두부와 쌀 등 K-푸드 제품 수출이 성공하며 현지 시장성과 건강식품 트렌드 수요가 확인되었다. 이는 글로벌 K-푸드 확장에 발맞춰 소스·양념류의 동반 성장이 기대되며, 특히 두부와 쌀에 활용될 수 있는 건강 지향적이고 현지 맞춤형 소스 개발의 필요성을 보여준다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "두부",
+        "쌀"
+      ],
+      "actionable_insight": "K-푸드 수출 품목(두부, 쌀 등)과의 시너지를 위해 건강 트렌드를 반영하고 영국 등 현지 시장 맞춤형 소스·양념류 개발에 집중해야 한다."
+    },
+    {
+      "id": "b9f0e9041a2f",
+      "title": "K뷰티 다음은 K웰니스…매일유업, 미국 올리브영 입점",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607220063",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:44:00+09:00",
+      "content": "매일유업은 식물성 식단과 저당 제품을 선호하는 미국 소비자를 대상으로 매일두유의 식물성 단백질과 원료 구성을 강조할 계획이다. 미국에서 제품 성분과 원료 정보를 중시하는 클린라벨 소비가 확산하는 점도 시장... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "식물성 단백질",
+        "저당",
+        "클린라벨"
+      ],
+      "summary": "미국 시장에서 K웰니스 트렌드를 타고 식물성 단백질, 저당, 클린라벨을 중시하는 소비자가 증가하고 있다. 소스/양념 R&D 관점에서는 식물성 원료 기반의 저당 제품 개발 및 투명하고 간결한 성분 표기 전략이 중요함을 시사한다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질원",
+        "저당 감미료"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 식물성 원료 기반의 저당 제품 개발에 주력하고, 소비자가 이해하기 쉬운 클린라벨 원료 구성을 최우선으로 고려해야 한다."
+    },
+    {
+      "id": "925538310bec",
+      "title": "&quot;건강과 실속 둘 다 잡는다&quot;…식음료·유통업계, '헬시플레저·가성비' ...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100780",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:40:00+09:00",
+      "content": "맞춤형 신제품 출시와 차별화된 마케팅 전략으로 소비자의 눈길을 사로잡고 있다. 당을 낮춘 디저트부터... 무더위 속 가볍고 건강하게 즐길 수 있는 한 끼 식사로, 페리카나 시그니처 소스를 담은 '페리카나 시그니처... ",
+      "search_keyword": "소스 신제품",
+      "category": "consumer",
+      "keywords": [
+        "헬시플레저",
+        "가성비",
+        "당 저감",
+        "시그니처 소스"
+      ],
+      "summary": "소비자들이 건강과 실속을 동시에 추구하는 '헬시플레저' 및 '가성비' 트렌드가 식음료 시장을 주도하며, 당 저감 제품 등 맞춤형 신제품 출시로 이어진다. 소스/양념 R&D 관점에서는 페리카나 시그니처 소스 사례처럼 건강하고 간편하게 즐길 수 있는 한 끼 식사용 소스 개발 기회가 크다. 따라서 저당, 자연 유래 성분을 활용하여 차별화된 맛과 기능성을 제공하는 시그니처 소스 개발에 집중해야 할 시점이다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "대체 감미료",
+        "자연 유래 성분"
+      ],
+      "actionable_insight": "헬시플레저 및 가성비 트렌드에 발맞춰 저당, 클린 라벨 콘셉트를 적용하고 다양한 간편식에 활용 가능한 독점적인 시그니처 소스 개발에 역량을 집중해야 한다."
+    }
+  ],
+  "articles": [
+    {
+      "id": "201a915c1adc",
+      "title": "이마트, 중복 앞두고 보양식 할인전…집밥 수요에 장어·삼계탕 매출↑",
+      "url": "https://sateconomy.co.kr/news/view/1065578213520516",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:06:00+09:00",
+      "content": "키친델리에서는 녹두 삼계탕과 장어 영양덮밥을 비롯해 양념장어구이, 장어강정 등을 판매하며, 홍게... 이마트 관계자는 “외식 물가 부담으로 집에서 직접 보양식을 준비하거나 간편식을 찾는 소비자가 늘고 있다”며... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "보양식",
+        "간편식",
+        "집밥 수요",
+        "양념장어구이",
+        "장어강정",
+        "삼계탕"
+      ],
+      "summary": "외식 물가 상승으로 집에서 보양식을 준비하거나 간편식을 찾는 소비자가 증가하고 있다. 특히 이마트의 '양념장어구이'와 '장어강정' 매출 증가는 조리의 편의성을 높인 양념육/간편식 소스 제품에 대한 높은 수요를 보여준다. 소스 R&D팀은 이러한 시장 변화에 맞춰 가정 내에서 쉽게 활용할 수 있는 보양식 콘셉트의 특화 소스 개발에 주력할 필요가 있다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "장어",
+        "닭고기",
+        "녹두"
+      ],
+      "actionable_insight": "간편한 조리를 돕고 보양식의 풍미를 극대화할 수 있는 장어구이용 양념 소스, 장어 강정 소스 등 단백질 기반 HMR/밀키트용 특화 소스 개발에 집중하여 성장하는 집밥 및 간편식 시장을 공략해야 한다."
+    },
+    {
+      "id": "e4d9ae54a5e9",
+      "title": "매일유업, 미국 올리브영에 K-웰니스 제품 8종 입점...미국 시장 공략",
+      "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=251506",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:06:00+09:00",
+      "content": "식물성 식단을 선호하는 미국 소비자와 원료 성분의 투명성을 중시하는 '클린라벨' 트렌드에 부합한다는 점을 앞세웠다. 멸균팩 포장으로 실온 보관과 휴대가 편리하며 단백질 9g 이상을 함유해 파우치형 단백질... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "K-웰니스",
+        "미국 시장",
+        "식물성 식단",
+        "클린라벨",
+        "멸균팩",
+        "실온 보관",
+        "휴대성",
+        "고단백"
+      ],
+      "summary": "이 기사는 매일유업의 K-웰니스 제품 미국 시장 진출을 다루지만, 소스/양념류 R&D 관점에서는 식물성 기반, 클린라벨, 고단백, 휴대 및 실온 보관 편의성 등 핵심 소비자 트렌드를 주목해야 합니다. 이러한 트렌드는 향후 소스·양념류 개발 시 식물성 원료 활용, 성분 투명성 강화, 기능성(단백질 함량) 부여, 멸균 파우치 등 편리한 포장 형태 도입의 방향성을 제시합니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "단백질"
+      ],
+      "actionable_insight": "R&D팀은 식물성 기반, 클린라벨 기준을 충족하며 고단백 기능성을 갖춘 휴대 및 실온 보관 가능한 소스·양념 제품 개발 가능성을 모색해야 한다."
+    },
+    {
+      "id": "bcc1d6a7baba",
+      "title": "매일유업, K웰니스 앞세워 美 올리브영 입점...북미 공략 박차",
+      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=221821",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:06:00+09:00",
+      "content": "매일유업은 이번 입점을 통해 올리브영을 찾는 미국의 젊은 소비자에게 브랜드를 알리고 기존 유제품 중심 이미지를 단백질·식물성·맞춤형 영양기업으로 확대할 수 있을 것으로 기대하고 있다. 유통업계 관계자는... ",
+      "search_keyword": "식물성 단백질",
+      "category": "market",
+      "keywords": [
+        "매일유업",
+        "美 올리브영",
+        "북미 시장",
+        "K웰니스",
+        "단백질",
+        "식물성",
+        "맞춤형 영양",
+        "젊은 소비자",
+        "브랜드 이미지 확장"
+      ],
+      "summary": "매일유업의 미국 올리브영 입점을 통한 북미 시장 공략은 단백질, 식물성, 맞춤형 영양이라는 글로벌 소비자 트렌드의 중요성을 보여줍니다. 소스·양념류 R&D 관점에서는 건강 및 기능성에 대한 소비자의 높은 관심이 소스 제품군 개발에도 반영되어야 함을 시사합니다. 즉, 식물성 기반, 단백질 강화, 또는 특정 영양 요구를 충족시키는 맞춤형 소스 및 양념류 개발의 기회가 있음을 나타냅니다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "식물성 원료",
+        "기능성 성분"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 북미 시장의 젊은 소비자층을 겨냥하여 단백질 강화, 식물성 기반, 맞춤형 영양 콘셉트를 접목한 소스 및 양념류 개발에 집중해야 한다."
+    },
+    {
+      "id": "78848e58649f",
+      "title": "매일유업, 美 올리브영 입점…'K-웰니스' 앞세워 북미 공략",
+      "url": "https://theviewers.co.kr/View.aspx?No=4157377",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:02:00+09:00",
+      "content": "K-콘텐츠를 통해 한국 문화와 라이프스타일 전반에 대한 관심이 커지면서 한국인이 일상적으로 먹고 마시는 식품에 대한 관심도 함께 높아졌다. 미국 올리브영은 이러한 트렌드에 맞춰 K뷰티·웰니스 브랜드를... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "매일유업",
+        "미국 올리브영",
+        "K-웰니스",
+        "북미 시장",
+        "K-콘텐츠",
+        "한국 식품"
+      ],
+      "summary": "K-콘텐츠로 촉발된 북미 시장의 한국 문화 및 라이프스타일 관심 증가는 'K-웰니스' 식품의 성공적인 진출 기회를 만들고 있다. 소스/양념 R&D 관점에서는 북미 소비자들이 건강하고 편리하게 한국 음식을 즐길 수 있도록, 전통적인 맛과 웰니스 요소를 결합한 제품 개발이 중요해졌다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "발효 성분",
+        "자연 유래 감미료",
+        "저나트륨 원료"
+      ],
+      "actionable_insight": "북미 K-웰니스 식품 시장의 성장에 발맞춰, 건강하고 간편하게 한국 음식의 맛을 낼 수 있는 저염/저당 및 기능성 발효 기반의 소스/양념류 개발에 우선순위를 두어야 한다."
+    },
+    {
+      "id": "3799de5ac480",
+      "title": "&quot;뷰티 유통망 입점부터 역사 알리기까지&quot;… 식품업계, 해외 마케팅 다변...",
+      "url": "https://www.onews.tv/news/articleView.html?idxno=283489",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:02:00+09:00",
+      "content": "현지에서 식물성 식단과 원료 투명성을 강조하는 '클린라벨' 소비 경향이 이어짐에 따라, 무당 식물성 두유와 멸균 포장 단백질 제품을 주요 품목으로 마련했다. 아울러 음료 제품인 '피크닉'과 파우더·구미 형태의 콜라겐... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "식물성",
+        "클린라벨",
+        "무당",
+        "단백질",
+        "콜라겐"
+      ],
+      "summary": "해외 시장에서 식물성 식단 및 클린라벨 소비 트렌드가 지속됨에 따라, 소스·양념류 R&D는 무당 및 식물성 원료 기반 제품 개발에 집중해야 한다. 또한 단백질, 콜라겐 등 기능성 성분을 접목하여 건강 지향적인 소스 제품군으로 포트폴리오를 확장하는 기회를 모색할 필요가 있다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "콜라겐"
+      ],
+      "actionable_insight": "소스·양념류 R&D는 해외 시장의 식물성, 무당, 클린라벨 트렌드를 반영하여 기존 제품을 개선하고, 단백질 등 기능성 성분을 활용한 신규 건강 지향 소스 개발에 착수해야 한다."
+    },
+    {
+      "id": "4d59f3556e3e",
+      "title": "이마트, 중복 앞두고 보양식 최대 50% 할인…장어·전복 반값",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=111674",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T11:01:00+09:00",
+      "content": "이마트는 오는 23일부터 29일까지 전국 매장에서 보양식 식재료와 간편식, 제철 농산물 등을 특가에... 300g 중량의 장어를 활용한 '킹 양념장어구이'는 1만7,980원, '장어 강정'은 1만2,980원에 선보인다. 이와 함께... ",
+      "search_keyword": "간편식 양념",
+      "category": "market",
+      "keywords": [
+        "양념장어구이",
+        "장어 강정",
+        "보양식"
+      ],
+      "summary": "이마트의 중복 맞이 보양식 행사에서 '킹 양념장어구이'와 '장어 강정' 등 소스·양념이 핵심인 간편 보양식 제품이 주요 품목으로 등장했습니다. 이는 소비자들이 장어를 집에서 간편하게 즐기려는 수요가 높음을 시사하며, 특정 소스 베이스의 HMR 제품군에 대한 시장성을 보여줍니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "장어",
+        "전복"
+      ],
+      "actionable_insight": "장어 기반의 HMR 제품 확장에 맞춰 간편성과 전문성을 동시에 충족하는 양념장어구이 및 강정 소스 개발에 집중하여 시장 경쟁력을 확보해야 합니다."
+    },
+    {
+      "id": "c340086039d3",
+      "title": "정관장, 여름 맞이 ‘건강 正복’ 진행…최대 20% 할인",
+      "url": "https://n.news.naver.com/mnews/article/468/0001255160?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:59:00+09:00",
+      "content": "건강식품기업 정관장이 22일부터 다음 달 10일까지 여름 맞이 제품 할인 행사인 ‘건강 正복’ (건강 정복)... 건강관리 트렌드와 고객 니즈를 반영하여 다양한 제품과 풍부한 혜택을 지속 선보일 계획”이라고 전했다.",
+      "search_keyword": "식품 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "f49e831e085c",
+      "title": "사조푸디스트, 오뚜기와 함께한 '팝업키친' 성료",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=133279",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:54:00+09:00",
+      "content": "피크닉참치마요귀리덮밥', △저당 토마토파스타소스로 맛과 영양의 균형을 맞춘 '저당 토마토파스타소스만두그라탕' 등이 준비됐다. 특히, '비밀돈까스 카레덮밥'은 밀가루 대신 국산 쌀로 만든 글루텐프리 카레를... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "8dab765e447a",
+      "title": "중복 앞두고 마트 보양식 할인전…생닭·장어·전복 최대 반값",
+      "url": "https://www.ajunews.com/view/20260722104638864",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:52:00+09:00",
+      "content": "외식비 부담이 커지면서 집에서 직접 조리하거나 간편식으로 보양식을 즐기려는 수요를 잡기 위해서다.... ‘킹 양념장어구이’와 ‘장어 강정’은 각각 1만7980원, 1만2980원에 판매한다. 소비자가 롯데마트에서... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "06a141500586",
+      "title": "중복 앞둔 호텔가, 장어·삼계탕·불도장 등 보양식 경쟁",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=753381",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:50:00+09:00",
+      "content": "조선호텔앤리조트는 프리미엄 HMR 브랜드 '조선호텔 홈다이닝'을 통해 신제품 '조선호텔 장어구이'를 출시했다. 국내산 자포니카 민물장어에 호텔 셰프의 특제 소스를 더하고 오븐 초벌과 직화 공정을 거쳐 은은한 단맛과... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "보양식",
+        "HMR",
+        "장어구이",
+        "특제 소스",
+        "프리미엄 HMR"
+      ],
+      "summary": "조선호텔에서 프리미엄 HMR 신제품으로 '조선호텔 장어구이'를 출시하며 보양식 경쟁에 참여했다. 이 제품은 국내산 민물장어에 호텔 셰프의 특제 소스를 더하여 은은한 단맛을 구현했으며, 오븐 초벌과 직화 공정을 거쳐 맛과 품질을 차별화했다. 이는 프리미엄 HMR 시장에서 소스의 역할과 제조 공정의 중요성을 보여준다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "특제 소스"
+      ],
+      "actionable_insight": "프리미엄 HMR 보양식 시장에서 제품의 고급화와 맛 차별화를 위해 '호텔 셰프의 특제 소스'와 같이 전문성을 강조한 소스 개발에 집중하고, 은은한 단맛 등 특정 풍미를 구현할 수 있는 소스 배합 기술을 연구해야 한다."
+    },
+    {
+      "id": "ad59467241ee",
+      "title": "매일유업, 美 올리브영 입점…대표 제품 8종 판매",
+      "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=362839",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:50:00+09:00",
+      "content": "제품군은 식물성 단백질 음료와 이너뷰티 제품을 중심으로 구성됐다. '매일두유'는 비건 등 식물성 식단 소비자를 겨냥했으며, '셀렉스 밀세라 콜라겐'은 음료와 스틱, 구미 형태로 선보였다. '피크닉'은 한국 대표 음료... ",
+      "search_keyword": "식물성 단백질",
+      "category": "market",
+      "keywords": [
+        "미국 시장",
+        "올리브영",
+        "식물성 단백질",
+        "이너뷰티",
+        "비건",
+        "콜라겐",
+        "K-푸드",
+        "수출"
+      ],
+      "summary": "매일유업이 미국 올리브영에 식물성 단백질 음료와 이너뷰티 제품을 출시하며 미국 시장 공략을 본격화했습니다. 이는 비건 및 건강 지향 소비 트렌드가 강한 미국 시장에서 한국 식품 기업의 성공 가능성을 보여주며, 소스/양념류 R&D 역시 이 같은 트렌드에 맞춰 식물성 기반 및 기능성 제품 개발에 집중할 필요성을 시사합니다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "콜라겐"
+      ],
+      "actionable_insight": "미국 시장의 식물성 및 기능성 식품 수요 증가에 발맞춰, 소스/양념류 R&D는 비건 친화적 원료 기반의 건강 지향 제품 개발 및 K-소스의 글로벌 진출 전략을 강화해야 한다."
+    },
+    {
+      "id": "2ebfd6c9de85",
+      "title": "매일유업, 미국 올리브영 입점..K-웰니스 전면 배치",
+      "url": "https://www.inthenews.co.kr/news/article.html?no=89600",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:50:00+09:00",
+      "content": "한편 미국에서 단백질과 식물성 식품을 일상적으로 섭취하려는 소비자가 꾸준히 늘면서 두유와 고단백 음료 시장도 성장세를 이어가고 있습니다. 매일유업은 매일두유를 앞세워 현지 식물성 식품 수요에 대응하는... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "식물성 식품",
+        "단백질",
+        "소비 트렌드"
+      ],
+      "summary": "미국 시장에서 단백질과 식물성 식품을 선호하는 소비 트렌드가 확산되며 관련 음료 시장이 성장하고 있습니다. 소스/양념 R&D팀은 이러한 식물성 및 고단백 식단을 보완하고 풍미를 높일 수 있는 제품 개발에 집중해야 합니다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "대두",
+        "식물성 단백질원"
+      ],
+      "actionable_insight": "식물성 및 고단백 식단에 어울리면서 맛과 영양을 동시에 충족시키는 소스/양념 제품 개발을 최우선 과제로 삼아 미국 시장 진출을 모색해야 합니다."
+    },
+    {
+      "id": "dc09f33791b8",
+      "title": "매일유업, 미국 올리브영 입점...북미 시장 공략",
+      "url": "http://www.issuenbiz.com/news/articleView.html?idxno=78040",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:50:00+09:00",
+      "content": "제품은 식물성 단백질 음료인 '매일두유' 3종(99.9플레인·고단백플레인·검은콩), 과일 맛 음료 '피크닉' 2종(사과·천도복숭아), 이너뷰티(먹는 화장품) 제품인 '셀렉스 밀세라 콜라겐' 3종(음료·파우더스틱·구미)이다.... ",
+      "search_keyword": "식물성 단백질",
+      "category": "market",
+      "keywords": [
+        "북미 시장",
+        "올리브영 입점",
+        "식물성 단백질"
+      ],
+      "summary": "매일유업의 북미 시장 진출은 K-푸드 및 건강 지향적 제품에 대한 글로벌 수요 증가를 보여줍니다. 식물성 단백질 및 이너뷰티 제품의 성공적 안착은 향후 소스/양념류 시장에서도 건강 기능성 및 비건 트렌드 접목의 중요성을 시사할 수 있습니다.",
+      "relevance_score": 4,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "두유",
+        "검은콩",
+        "사과",
+        "천도복숭아",
+        "콜라겐"
+      ],
+      "actionable_insight": "K-푸드 및 건강 트렌드 확산에 발맞춰, 소스/양념류 R&D 시 식물성 기반 및 기능성 원료 접목을 통한 '건강 지향적' 신제품 개발에 주력해야 합니다."
+    },
+    {
+      "id": "7e8620db616d",
+      "title": "‘유통·수출·가공·정착’ 전방위 강화…강원, 지역경제 선순환 구축",
+      "url": "https://news.mtn.co.kr/news-detail/2026072209554788298",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:48:00+09:00",
+      "content": "최근 영국 현지 유통업체와 협약을 체결하고 판촉행사를 통해 두부와 쌀 등 약 8000만 원 규모의 초도 물량을 공급하며 현지 시장성을 확인했다.인제군은 글로벌 K-푸드 수요 확대와 건강식품 트렌드에 발맞춰 현지 맞춤형... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "K-푸드",
+        "수출",
+        "영국 시장",
+        "건강식품 트렌드",
+        "현지 맞춤형",
+        "두부",
+        "쌀"
+      ],
+      "summary": "영국 시장에 두부와 쌀 등 K-푸드 제품 수출이 성공하며 현지 시장성과 건강식품 트렌드 수요가 확인되었다. 이는 글로벌 K-푸드 확장에 발맞춰 소스·양념류의 동반 성장이 기대되며, 특히 두부와 쌀에 활용될 수 있는 건강 지향적이고 현지 맞춤형 소스 개발의 필요성을 보여준다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "두부",
+        "쌀"
+      ],
+      "actionable_insight": "K-푸드 수출 품목(두부, 쌀 등)과의 시너지를 위해 건강 트렌드를 반영하고 영국 등 현지 시장 맞춤형 소스·양념류 개발에 집중해야 한다."
+    },
+    {
+      "id": "2695e1dacdb7",
+      "title": "영국 마스크팩 시장동향",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=242719",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:48:00+09:00",
+      "content": "한국의 마스크팩 제조기업 메디힐(Mediheal)은 코코넛 워터 등 식물성 원료에서 추출한... 25 (8,633원) Cryo Rubber Cooling Korean Face Mask with Serum -수분 공급 -단백질의 구성 단위인 펩타이드(Peptide)가 함유된... ",
+      "search_keyword": "식물성 단백질",
+      "category": "market",
+      "keywords": [
+        "영국 마스크팩 시장",
+        "메디힐",
+        "코코넛 워터",
+        "식물성 원료",
+        "펩타이드"
+      ],
+      "summary": "본 기사는 영국 마스크팩 시장 동향을 다루며, 한국 기업 메디힐의 제품(Cryo Rubber Cooling Korean Face Mask with Serum)이 코코넛 워터, 식물성 원료, 펩타이드 등을 함유하여 수분 공급에 중점을 둔다는 내용을 포함합니다. 이는 식품 R&D(특히 소스/양념류) 분야와는 직접적인 관련성이 낮습니다.",
+      "relevance_score": 1,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "코코넛 워터",
+        "식물성 원료",
+        "펩타이드"
+      ],
+      "actionable_insight": "미용 분야에서 '식물성 원료' 및 '펩타이드' 등 기능성 성분에 대한 소비자 관심이 높음을 참고하여, 소스/양념류 개발 시 식용 가능한 유사 성분(예: 특정 기능성 펩타이드, 식물성 추출물)의 적용 가능성과 시장 수요를 간접적으로 모색할 수 있습니다."
+    },
+    {
+      "id": "3a0cfbd1124c",
+      "title": "풀무원기술원, 부총리 유공 표창…&quot;식품 연구개발 역량 인정받아&quot;",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=297997",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:48:00+09:00",
+      "content": "식물성 단백질 소재와 가공 기술을 비롯해 발효·미생물, 김 육상양식, 세포배양, 인공지능(AI) 기반 식품 개발 등 미래 식품 분야 연구도 확대하고 있다. 김태석 풀무원기술원 원장은 &quot;이번 부총리 유공 표창은... ",
+      "search_keyword": "식물성 단백질",
+      "category": "ingredient",
+      "keywords": [
+        "풀무원",
+        "식품 R&D",
+        "식물성 단백질",
+        "발효",
+        "미생물",
+        "김 육상양식",
+        "AI 식품 개발"
+      ],
+      "summary": "풀무원기술원이 식물성 단백질, 발효·미생물, 김 육상양식, AI 기반 식품 개발 등 미래 식품 분야 연구 역량을 인정받았다. 소스·양념류 R&D 관점에서는 식물성 기반의 건강한 감칠맛, 발효를 통한 깊은 풍미, 해양 식물 유래의 독특한 재료를 활용한 혁신적인 제품 개발 가능성을 시사한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질",
+        "발효미생물 유래 성분",
+        "김"
+      ],
+      "actionable_insight": "소스·양념류 R&D팀은 식물성 단백질, 발효 기술 및 김 육상양식 등의 신규 소재를 활용하여 건강하고 지속 가능한 신제품을 개발하고, AI 기반 기술 도입으로 개발 효율성을 높이는 방안을 모색해야 한다."
+    },
+    {
+      "id": "b9f0e9041a2f",
+      "title": "K뷰티 다음은 K웰니스…매일유업, 미국 올리브영 입점",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607220063",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:44:00+09:00",
+      "content": "매일유업은 식물성 식단과 저당 제품을 선호하는 미국 소비자를 대상으로 매일두유의 식물성 단백질과 원료 구성을 강조할 계획이다. 미국에서 제품 성분과 원료 정보를 중시하는 클린라벨 소비가 확산하는 점도 시장... ",
+      "search_keyword": "식물성 단백질",
+      "category": "consumer",
+      "keywords": [
+        "식물성 단백질",
+        "저당",
+        "클린라벨"
+      ],
+      "summary": "미국 시장에서 K웰니스 트렌드를 타고 식물성 단백질, 저당, 클린라벨을 중시하는 소비자가 증가하고 있다. 소스/양념 R&D 관점에서는 식물성 원료 기반의 저당 제품 개발 및 투명하고 간결한 성분 표기 전략이 중요함을 시사한다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "식물성 단백질원",
+        "저당 감미료"
+      ],
+      "actionable_insight": "소스/양념 R&D팀은 식물성 원료 기반의 저당 제품 개발에 주력하고, 소비자가 이해하기 쉬운 클린라벨 원료 구성을 최우선으로 고려해야 한다."
+    },
+    {
+      "id": "925538310bec",
+      "title": "&quot;건강과 실속 둘 다 잡는다&quot;…식음료·유통업계, '헬시플레저·가성비' ...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100780",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:40:00+09:00",
+      "content": "맞춤형 신제품 출시와 차별화된 마케팅 전략으로 소비자의 눈길을 사로잡고 있다. 당을 낮춘 디저트부터... 무더위 속 가볍고 건강하게 즐길 수 있는 한 끼 식사로, 페리카나 시그니처 소스를 담은 '페리카나 시그니처... ",
+      "search_keyword": "소스 신제품",
+      "category": "consumer",
+      "keywords": [
+        "헬시플레저",
+        "가성비",
+        "당 저감",
+        "시그니처 소스"
+      ],
+      "summary": "소비자들이 건강과 실속을 동시에 추구하는 '헬시플레저' 및 '가성비' 트렌드가 식음료 시장을 주도하며, 당 저감 제품 등 맞춤형 신제품 출시로 이어진다. 소스/양념 R&D 관점에서는 페리카나 시그니처 소스 사례처럼 건강하고 간편하게 즐길 수 있는 한 끼 식사용 소스 개발 기회가 크다. 따라서 저당, 자연 유래 성분을 활용하여 차별화된 맛과 기능성을 제공하는 시그니처 소스 개발에 집중해야 할 시점이다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "대체 감미료",
+        "자연 유래 성분"
+      ],
+      "actionable_insight": "헬시플레저 및 가성비 트렌드에 발맞춰 저당, 클린 라벨 콘셉트를 적용하고 다양한 간편식에 활용 가능한 독점적인 시그니처 소스 개발에 역량을 집중해야 한다."
+    },
+    {
+      "id": "216b94223073",
+      "title": "김부터 두유까지 해외로 가는 한국의 맛",
+      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069987",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:40:00+09:00",
+      "content": "맞춰 한국인의 일상적인 건강 식음료를 현지 소비자들에게 제안한다는 전략입니다. 이처럼 국내 식품업계는 전통 식문화의 고유한 가치와 현대적인 웰니스 트렌드를 융합해 K-푸드의 영향력을 한층 끌어올리고 있습니다.",
+      "search_keyword": "식품 트렌드",
+      "category": "consumer",
+      "keywords": [
+        "K-푸드",
+        "글로벌 시장",
+        "건강",
+        "웰니스",
+        "전통 식문화",
+        "현지화"
+      ],
+      "summary": "K-푸드의 글로벌 시장 확장을 위해 소스·양념류 R&D는 전통적인 맛의 가치를 유지하면서도 현대적인 웰니스 트렌드를 반영해야 합니다. 현지 소비자의 건강 지향적 라이프스타일에 맞춰 저염, 저당, 또는 기능성 성분을 강화한 제품 개발이 중요하며, 이는 K-푸드의 영향력을 높이는 핵심 전략이 될 것입니다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "글로벌 소비자들의 웰니스 트렌드를 충족시키면서 한국 전통의 맛을 살린, '건강 지향적 K-소스' 개발에 즉각 착수해야 합니다."
+    },
+    {
+      "id": "ae6eea639544",
+      "title": "매일유업, 미국 올리브영 통해 K-웰니스 제품군 판매",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745784",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:38:00+09:00",
+      "content": "마시는 식품에 대한 관심도 함께 높아졌다. 매일유업은 이에 맞춰 K푸드와 이너뷰티를 아우르는 자사 제품들로 해외 시장을 공략한다는 계획이다. 대표적으로 올해로 출시 10주년을 맞은 '매일두유'는 비건 등 식물성... ",
+      "search_keyword": "비건 식품",
+      "category": "market",
+      "keywords": [
+        "매일유업",
+        "K-웰니스",
+        "K푸드",
+        "이너뷰티",
+        "해외 시장",
+        "미국 올리브영",
+        "매일두유",
+        "비건",
+        "식물성"
+      ],
+      "summary": "해외 시장에서 K-웰니스 및 K푸드 제품군에 대한 관심이 높아지는 가운데, 소스/양념 R&D는 글로벌 소비자의 건강 지향 트렌드를 주목해야 합니다. 특히 비건 및 식물성 기반의 건강 기능성 소스 개발은 향후 시장 경쟁력 확보에 중요한 기회가 될 것입니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "두유",
+        "식물성 원료"
+      ],
+      "actionable_insight": "글로벌 K푸드 트렌드와 비건, 이너뷰티 등 웰니스 소비자 니즈를 반영한 식물성 기반의 기능성 한국식 소스 개발을 우선적으로 고려해야 합니다."
+    },
+    {
+      "id": "6b3c263d8640",
+      "title": "'매일두유·피크닉'으로 美 소비자 공략…매일유업, 미국 올리브영 입점",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315403",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:36:00+09:00",
+      "content": "마시는 식품에 대한 관심도 함께 높아졌다. 매일유업은 이에 맞춰 K웰니스 브랜드를 큐레이션하는 미국... Label)' 트렌드 속 미국 소비자의 관심이 기대된다. 또 '셀렉스 밀세라 콜라겐'은 뷰티와 건강을 동시에 챙기는... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "미국 시장",
+        "K-웰니스",
+        "클린 라벨",
+        "소비자 트렌드",
+        "매일유업"
+      ],
+      "summary": "매일유업의 미국 시장 진출 전략에서 K-웰니스와 클린 라벨 트렌드가 강조된 것은 소스·양념류 R&D에도 중요한 시사점을 준다. 미국 소비자들이 건강 지향적인 마시는 식품에 관심을 보이는 만큼, 소스·양념류 개발 시에도 저염, 저당, 무첨가 등 클린 라벨 기준을 충족하며 웰빙 요리에 활용될 수 있는 제품 콘셉트 발굴이 필요하다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "두유",
+        "콜라겐"
+      ],
+      "actionable_insight": "미국 시장 진출 시 K-웰니스 및 클린 라벨 트렌드를 반영하여 저염/저당/무첨가 등 건강 지향적인 소스 및 양념류 개발에 집중해야 한다."
+    },
+    {
+      "id": "020d10ac6368",
+      "title": "이마트 '중복' 맞이 할인행사 진행, 생닭·장어·전복 등 최대 50% 싸게 ...",
+      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=442822",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:32:00+09:00",
+      "content": "9980원, '킹 양념장어구이'는 1만7980원에 마련했다. 앞서 이마트는 8일 초복을 앞두고 민물장어와 활전복, 영계 등 보양 식재료를 최대 50% 할인하는 행사도 진행했다. 당시 이마트는 프리미엄 간편식 브랜드 피코크와... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "bdc7d1007a6f",
+      "title": "신송식품-매일유업-맘스터치, 말련부터 美·日 시장 공략",
+      "url": "https://www.slist.kr/news/articleView.html?idxno=753371",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:30:00+09:00",
+      "content": "전시 부스에서는 고추장·된장·쌈장 등 전통 장류와 간편하게 활용할 수 있는 K-소스를 소개한다. 고추장은... 저당 설계와 9g 이상의 단백질, 실온 보관이 가능한 멸균팩을 내세우며 비건·클린라벨 식단과 파우치형... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "2ee8a4b214e9",
+      "title": "매일유업, 미국 올리브영 입점…8종 라인업으로 북미 웰니스 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/629/0000517931?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:28:00+09:00",
+      "content": "'매일두유·피크닉·셀렉스' 오프라인 매장 및 온라인몰 진출 현지 클린라벨 트렌드 대응 미국 내 K-뷰티에 대한 관심이 K-웰니스 영역으로 확장되는 흐름에 맞춰, 매일유업이 현지 뷰티·웰니스 플랫폼의 유통망을 통해... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "76246f655bec",
+      "title": "구내식당이 브랜드 무대 된다…식품업계, 직장인 접점 확대",
+      "url": "http://www.kdfnews.com/news/articleView.html?idxno=185521",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:26:00+09:00",
+      "content": "여기에 건강과 영양을 중시하는 소비 트렌드가 확산되면서 식품기업들은 급식 전문기업과의 협업을 통해 맞춤형 메뉴를 개발하고 브랜드 경험을 강화하는 활동을 지속적으로 확대할 것으로 전망된다.",
+      "search_keyword": "식품 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "49d805a5fffc",
+      "title": "매일유업, 'K-웰니스' 제품군 美 올리브영 입점",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792940?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:20:00+09:00",
+      "content": "매일유업은 미국에서 원료 성분의 투명성을 중시하는 '클린라벨(Clean Label)'이 트렌드로 자리 잡은 만큼, 두유 원액 함량과 저당 설계, 풍부한 식물성 단백질을 앞세운 매일두유가 미국 소비자의 관심을 끌 것으로... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e75ec06a3126",
+      "title": "중복 앞두고 호텔가도 '보양식 대전'…HMR·투고로 집밥 공략",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792939?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:19:00+09:00",
+      "content": "조선호텔앤리조트는 프리미엄 HMR 브랜드 '조선호텔 홈다이닝'을 통해 신제품 '조선호텔 장어구이'를 출시했다. 국내산 자포니카 민물장어를 사용하고 조선호텔 셰프의 특제 소스를 더했으며, 오븐 초벌과 직화구이... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "ddb8d2eb0e60",
+      "title": "매일유업, 미국 올리브영 입점",
+      "url": "http://www.bokuennews.com/news/article.html?no=281584",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:18:00+09:00",
+      "content": "특히 미국에서 원료 성분의 투명성을 중시하는 '클린라벨(Clean Label)'이 트렌드로 자리 잡은 만큼, 두유 원액 함량과 저당 설계, 풍부한 식물성 단백질을 앞세운 매일두유가 미국 소비자의 관심을 끌 것으로 기대된다.... ",
+      "search_keyword": "클린라벨",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "90e14f58fe6c",
+      "title": "[1인가구 동향] '밥상모임·웰컴키트까지'…지자체 1인가구 정책, 발굴 ...",
+      "url": "http://www.dailypop.kr/news/articleView.html?idxno=100773",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:16:00+09:00",
+      "content": "전입 청년을 겨냥한 '웰컴' 지원도 새 트렌드로 떠올랐다. 성북구는 7월 8일부터 신규 전입 1인가구에 '웰컴... 7월 6일 농림축산식품부 청년 1인가구 식생활 개선 공모사업에 선정돼, 로컬푸드로 청년 1인가구의 식사를... ",
+      "search_keyword": "식품 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "f8be40dfd44b",
+      "title": "삼계탕 한 그릇 1만7000원 시대… 대형마트, 중복 맞아 보양식 최대 반값...",
+      "url": "https://www.wikitree.co.kr/articles/1147700",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:16:00+09:00",
+      "content": "24일 단 하루 특가 상품으로는 해물 간편식인 ‘한가득 홍게 해물탕’을 30% 할인하고, ‘호주산 곡물... ‘킹 양념장어구이’와 ‘장어 강정’을 각각 1만7980원, 1만2980원에 내놓는다. 고물가 속 마트 보양식 수요는... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "620439a7e594",
+      "title": "매일유업, 미국 올리브영 입점…“K-웰니스로 북미 시장 공략”",
+      "url": "https://www.ceoscoredaily.com/page/view/2026072210123398989",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:14:00+09:00",
+      "content": "K-콘텐츠를 통해 한국 문화와 라이프스타일 전반에 대한 관심이 커지면서 한국인이 일상적으로 먹고 마시는 식품에 대한 관심도 함께 높아졌다. 매일유업은 이러한 트렌드에 맞춰 식물성 단백질과 이너뷰티 제품을... ",
+      "search_keyword": "식품 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "74b3ae4d3ac7",
+      "title": "매일유업, 美 올리브영 입점…매일두유·피크닉 등 8종 판매",
+      "url": "https://n.news.naver.com/mnews/article/092/0002431372?sid=105",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:11:00+09:00",
+      "content": "마시는 식품에 대한 관심도 함께 높아졌다는 설명이다. 매일유업은 이에 맞춰 K-푸드와 이너뷰티를... 미국에서 원료 성분의 투명성을 중시하는 ‘클린라벨(Clean Label)’이 트렌드로 자리 잡은 만큼, 두유 원액 함량과... ",
+      "search_keyword": "식품 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "df417b04b6cd",
+      "title": "익숙한 맛의 반격... 장수 브랜드, 새 옷 장착",
+      "url": "https://www.pressman.kr/news/articleView.html?idxno=102828",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:08:00+09:00",
+      "content": "글루텐프리 '비밀카레', 지방 함량을 낮춘 '피크닉 참치', 저당 토마토파스타소스 등을 활용해 비밀돈까스 카레덮밥, 저칼로리 피크닉참치마요귀리덮밥, 저당 토마토파스타소스만두그라탕 등을 제공했다.... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "81055588d01b",
+      "title": "2026년 독일 식품산업 정보",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=242732",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:05:00+09:00",
+      "content": "특히 발효식품, 단백질 기반 스낵, 건강 간식 등은 독일 소비 트렌드와의 접점이 높은 분야로 평가된다.* 아울러 유기농 인증(EU-Bio, 독일 Bio Siegel), 비건 인증(V-Label) 등 현지에서 신뢰도가 높은 인증을... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "106231c7c3c9",
+      "title": "매일유업, 미국 올리브영 입점… 북미 소비자 공략 가속화",
+      "url": "https://www.cnbizm.com/news/articleView.html?idxno=309222",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T10:04:00+09:00",
+      "content": "마시는 식품에 대한 관심도 함께 높아진 것. 미국 올리브영은 이러한 트렌드에 맞춰 K뷰티·웰니스 브랜드를... 올해로 출시 10주년을 맞은 매일두유는 비건 등 식물성 위주의 식단을 선호하는 미국 소비자를 겨냥했다.... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e0aee771d302",
+      "title": "매일유업, 美 올리브영 입점…K-웰니스 제품군으로 북미 공략",
+      "url": "https://n.news.naver.com/mnews/article/003/0014080253?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:57:00+09:00",
+      "content": "마시는 식품에 대한 관심도 함께 높아졌다. 매일유업이 이번에 미국 시장에 선보인 제품은 ▲저당·고단백... 구체적으로 올해로 출시 10주년을 맞은 ‘매일두유’는 비건 등 식물성 위주의 식단을 선호하는 미국... ",
+      "search_keyword": "비건 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "12a4fddf06d6",
+      "title": "롯데마트·이마트, 중복 맞아 보양식 할인 대전",
+      "url": "http://www.metroseoul.co.kr/article/20260722500070",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:56:00+09:00",
+      "content": "식재료부터 간편식, 제철 신선식품까지 최대 50% 할인된 가격에 선보인다. 고물가 장기화로 집밥 보양식... 이에 더해 녹두 삼계탕, 두마리 장어 영양덮밥, 킹 양념장어구이 등 키친델리 코너의 즉석 조리 보양식과 호주산... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e991f6a29ff5",
+      "title": "매일유업, 美 올리브영 입점…'K-웰니스' 공략",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1393873",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:50:00+09:00",
+      "content": "올해 출시 10주년을 맞은 매일두유는 비건과 식물성 식단을 선호하는 미국 소비자를 주요 고객층으로... 매일유업은 미국 식품시장에서 원료와 성분의 투명성을 중시하는 '클린라벨' 소비가 확산하는 점을 고려해 두유... ",
+      "search_keyword": "비건 식품",
+      "category": "consumer",
+      "keywords": [
+        "매일두유",
+        "비건",
+        "식물성 식단",
+        "클린라벨",
+        "미국 시장",
+        "K-웰니스",
+        "식물성 단백질",
+        "성분 투명성"
+      ],
+      "summary": "매일두유의 미국 시장 진출은 비건 및 식물성 식단을 선호하고 클린라벨을 중시하는 소비 트렌드가 글로벌 시장에서 확산되고 있음을 보여줍니다. 이는 소스·양념류 R&D 분야에서도 식물성 기반 원료 사용과 성분 투명성 확보가 중요한 경쟁력이 될 수 있음을 시사합니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "두유",
+        "식물성 원료"
+      ],
+      "actionable_insight": "소스·양념류 R&D팀은 비건 및 식물성 식단 선호 트렌드에 맞춰 식물성 기반 원료 사용을 확대하고, 클린라벨 요구에 부응하는 투명하고 단순한 성분 구성의 제품 개발에 주력해야 한다."
+    },
+    {
+      "id": "c00590bf3886",
+      "title": "가정에서 즐기는 '홈 다이닝'···유통업계, HMR 넘어 RMR 시대 개막",
+      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403970",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:42:00+09:00",
+      "content": "기반으로 소스 배합과 농도를 설계해 매장에서 느낄 수 있는 카레 풍미를 가정에서도 즐길 수 있도록 개발된 것이 특징으로, 전국 대형마트와 주요 이커머스 채널을 통해 판매됐다. 농심 관계자는 &quot;신제품은 생면... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "홈 다이닝",
+        "RMR",
+        "소스 배합",
+        "카레 풍미",
+        "레스토랑 품질 재현"
+      ],
+      "summary": "홈 다이닝 트렌드와 RMR 시장 확대에 발맞춰, 가정에서도 매장과 동일한 수준의 카레 풍미와 농도를 즐길 수 있도록 정교하게 배합된 소스를 활용한 신제품이 출시되었다. 이는 소비자의 고급화된 미식 경험 요구에 부응하기 위한 소스 R&D의 중요성을 부각한다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "카레"
+      ],
+      "actionable_insight": "R&D팀은 홈 다이닝 및 RMR 시장 공략을 위해, 매장 품질의 풍미와 농도를 가정에서 재현할 수 있는 소스 배합 기술 개발에 집중해야 한다."
+    },
+    {
+      "id": "2a8e09ec43ed",
+      "title": "외식 물가 부담에… 중복엔 집에서 보양식 먹을까",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=92571",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:42:00+09:00",
+      "content": "키친델리에서는 녹두 삼계탕과 두마리 장어 영양덮밥, 킹 양념장어구이, 장어강정 등 즉석 보양식을 선보이며, 홍게·가리비·새우 등을 담은 해물탕 간편식도 한정 행사로 준비했다. 이와 함께 전복을 활용한 양장피와... ",
+      "search_keyword": "간편식 양념",
+      "category": "product",
+      "keywords": [
+        "보양식 HMR",
+        "간편 보양식",
+        "외식 물가 부담",
+        "소스/양념",
+        "장어 요리",
+        "해물 요리",
+        "양장피"
+      ],
+      "summary": "외식 물가 부담으로 인한 집밥 선호 트렌드 속에서 키친델리가 중복 보양식 HMR을 출시하며 양념장어구이, 장어강정, 해물탕, 전복 양장피 등을 선보였다. 이는 가정에서 고급 보양식을 간편하게 즐기려는 수요 증가에 따라, 해당 제품군에 적용될 수 있는 프리미엄 소스 및 양념류 개발의 중요성이 커지고 있음을 시사한다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "장어",
+        "홍게",
+        "가리비",
+        "새우",
+        "전복"
+      ],
+      "actionable_insight": "가정용 프리미엄 보양식 HMR 시장 성장에 맞춰, 양념장어구이, 장어강정, 해물탕, 양장피 등에 활용 가능한 차별화된 맛과 편의성을 갖춘 소스/양념류 개발에 집중해야 한다."
+    },
+    {
+      "id": "4bd27f06c079",
+      "title": "장어부터 불도장까지…무더위 날릴 호텔가 ‘투고(To-go)·HMR 보양식’ ...",
+      "url": "https://n.news.naver.com/mnews/article/468/0001255128?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:40:00+09:00",
+      "content": "가정간편식(HMR)과 투고(To-go) 보양식을 잇따라 선보이고 있다. 최근 외식 물가 상승과 맞물려 호텔 셰프의... 한식당 무궁화의 한우 갈비탕 및 특제 양념 갈비찜과 중식당 도림의 시그니처 메뉴인 ‘고법 불도장’으로... ",
+      "search_keyword": "간편식 양념",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "dfcc9cfff76a",
+      "title": "셰프 레시피 그대로 집으로… ‘호텔 보양식’ 간편식 경쟁 후끈",
+      "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/22/2026072280023.html",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:36:00+09:00",
+      "content": "두반장 소스로 풍미를 더할 수 있다. 사전 예약 후 픽업하는 방식으로 신선도를 관리하며, 선물용 기프트 박스와 보자기 포장까지 갖췄다. 가격은 19만5,000원이며 최소 사흘 전 예약이 필요하다. 온라인 전용 HMR로 승부... ",
+      "search_keyword": "HMR 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "4ec42e2fc385",
+      "title": "호주 소스류 시장동향",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=242997",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:25:00+09:00",
+      "content": "소비 트렌드이다. 점점 더 도시화되는 바쁜 일상 속에서 간편하게 전문점 수준의 맛을 구현할 수 있는 페이스트, 마리네이드, 쿠킹 소스 제품들이 인기를 끌고 있다. 이는 별도의 양념을 준비하지... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "5eab373e4e23",
+      "title": "&quot;치즈만 5개&quot;…버거킹, 콰트로 아니고 '펜타치즈와퍼' 한정 재출시",
+      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=315388",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:24:00+09:00",
+      "content": "신제품은 직화 방식으로 구운 쇠고기 패티에 파마산 치즈 소스, 아메리칸 슬라이스 치즈, 체다·모차렐라 슈레드 치즈를 더했다. 여기에 모차렐라 치즈가 들어간 치즈번으로 치즈 맛을 더 높였다. 특히 올해는 치즈번... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e1f47c916f4e",
+      "title": "사조푸디스트·오뚜기, 급식장에 '헬시플레저' 밥상 차렸다… 맞춤형 건...",
+      "url": "https://www.maxmovie.com/news/articleView.html?idxno=500675",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:16:00+09:00",
+      "content": "또한, 지방 함량을 줄인 '피크닉 참치'와 '하프마요네스'를 조합해 고소한 맛은 살리면서도 칼로리 부담을 덜어낸 ▲저칼로리 피크닉참치마요귀리덮밥을 선보였으며, 여기에 저당 토마토파스타소스를 활용한 ▲저당... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "fcb2abce866a",
+      "title": "동원F&amp;B, 서경덕 교수와 '김(Gim)' 세계화 나선다...다국어 콘텐츠 공개",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=127240",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:16:00+09:00",
+      "content": "최근 K-푸드는 라면과 김치, 만두를 넘어 김과 소스, 간편식 등으로 수출 품목이 다양해지고 있다. 특히 김은... 한식 가정간편식(HMR) 브랜드 '양반'도 이러한 전략의 중심에 있다. '한식 맛의 오리지널'을 콘셉트로 다양한... ",
+      "search_keyword": "HMR 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "92b4b6de14f5",
+      "title": "사조푸디스트, 오뚜기와 손잡고 '헬시플레저' 급식 선봬…30개 사업장 팝...",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571344282743",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:08:00+09:00",
+      "content": "대표 메뉴는 국산 쌀로 만든 글루텐프리 카레를 활용한 '비밀돈까스 카레덮밥', '피크닉참치'와 하프마요네스를 사용해 지방 함량을 줄인 '저칼로리 피크닉참치마요귀리덮밥', 저당 토마토파스타소스를 적용한 '저당... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "746ca83f5202",
+      "title": "5가지 치즈 풍미 구현…버거킹, '펜타치즈와퍼' 재출시",
+      "url": "https://n.news.naver.com/mnews/article/003/0014080049?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:07:00+09:00",
+      "content": "신제품은 직화 방식으로 구운 100% 순쇠고기 패티에 파마산 치즈 소스, 아메리칸 슬라이스 치즈, 체다·모짜렐라 슈레드 치즈를 더했다. 여기에 모짜렐라 치즈가 들어간 특별한 치즈번을 적용해 한층 더 치즈맛을... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "a3986c34e080",
+      "title": "&quot;급식에서도 맛있게 건강 챙긴다&quot; 사조푸디스트, 오뚜기와 '팝업키친'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014080047?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:07:00+09:00",
+      "content": "주요 메뉴로는 국산 쌀로 만든 글루텐프리 '비밀카레'를 활용한 '비밀돈까스 카레덮밥'을 비롯해 '저칼로리 피크닉참치마요귀리덮밥', '저당 토마토파스타소스만두그라탕' 등을 선보였다. 피크닉참치와 하프마요네스를... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "d2fc398c870d",
+      "title": "해남군, 해남 밤호박 활용한 당뇨환자용 식단형 식품 개발",
+      "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=324960",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:06:00+09:00",
+      "content": "들어간 저당 곡물 웜 샐러드'와 '해남 밤호박이 올라간 저당 토마토 파스타'등 2종이다. 웜 샐러드는 해남... 토마토 파스타는 닭가슴살로 만든 고단백 면에 해남산 양파와 마늘을 더한 토마토소스를 곁들이고 새우로... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "bc322e4e931e",
+      "title": "[유통갤러리] 대상 청정원 호밍스, ‘종가’ 묵은지 담은 ‘두툼 한돈 ...",
+      "url": "https://theviewers.co.kr/View.aspx?No=4157179",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:02:00+09:00",
+      "content": "국물요리 신제품 ‘두툼 한돈 김치찌개’를 출시한다. 간편식 시장 확대 속 소비자들의 취향이... 먼저 삼성웰스토리는 여름 시즌을 맞아 안유성 셰프 IP를 활용한 '동치미맛 냉면육수'와 '남도식 불고기소스' 등 B2B... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "871d278c750a",
+      "title": "사조푸디스트, 오뚜기와 손잡고 건강 급식 '팝업키친' 선보여",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3642446",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:02:00+09:00",
+      "content": "주요 메뉴로는 국산 쌀로 만든 글루텐프리 카레를 사용한 '비밀돈까스 카레덮밥', 피크닉참치와 하프마요네스를 사용해 지방 함량을 낮춘 '저칼로리 피크닉참치마요귀리덮밥', 저당 토마토파스타소스를 활용한 '저당... ",
+      "search_keyword": "저당 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "bbf8a36d3280",
+      "title": "[AT 현장] 커리 입은 '커링클' 출격…bhc, 시즈닝 치킨 라인업 확대",
+      "url": "https://www.asiatime.co.kr/article/20260721500424",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T09:00:00+09:00",
+      "content": "허니버터요거트 소스로 시즈닝 치킨의 '쉽게 질리는 맛' 보완 출시 일주일 만에 15만개 판매…'뿌링클' 이을 신메뉴 기대 [아시아타임즈=윤수현 기자] bhc가 커리 풍미를 더한 신제품 '커링클'을 출시하며 시즈닝 치킨... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "8fc24438e8e9",
+      "title": "헬시플레저 잡아라 … 식품업계, 저당·영양강화 신제품 출시 이어진다",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200034.html",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T08:58:00+09:00",
+      "content": "뉴데일리 조현우 기자 = 건강을 관리하면서도 맛과 편의성을 포기하지 않는 ‘헬시플레저’ 트렌드가... 여름철 보양식 수요와 샐러드의 건강 이미지를 결합해 양념치킨과 간장치킨을 토핑으로 활용했다. 오뚜기는... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "f7f68c3a3dd2",
+      "title": "CJ제일제당, 3대 축으로 재편...비비고·PHA·라이신에 건 실적 반등",
+      "url": "https://thetracker.co.kr/View.aspx?No=4156826",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T08:57:00+09:00",
+      "content": "만두 하나로 시작한 비비고는 치킨과 가공밥, 김치, K-소스로 영토를 넓히며 K-푸드를 하나의... 식물 유래 원료를 미생물이 발효해 만드는 이 친환경 플라스틱은 사용 후 자연에서 분해돼 석유계 플라스틱을 대체할... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "ec673d1888fa",
+      "title": "삼성웰스토리, 구내식당 '체험형 플랫폼' 진화…미식부터 팝업스토어까...",
+      "url": "https://www.etoday.co.kr/news/view/2605954",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T08:50:00+09:00",
+      "content": "삼성웰스토리는 안유성 셰프와 함께 '동치미맛 냉면육수', '남도식 불고기소스' 등 B2B 전용 한식소스 2종을... 업계에서는 구내식당이 하루 수천 명의 직장인이 이용하는 공간인 만큼 신제품 체험과 브랜드 경험을 제공하는... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "eacf387f4625",
+      "title": "&quot;콰트로도 부족하다&quot;…버거킹, 5가지 치즈 담은 '펜타치즈와퍼' 출시",
+      "url": "https://n.news.naver.com/mnews/article/421/0009071649?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T08:29:00+09:00",
+      "content": "신제품은 직화 방식으로 구운 100% 순쇠고기 패티에 파마산 치즈 소스, 아메리칸 슬라이스 치즈, 체다·모차렐라 슈레드 치즈를 더해 진한 치즈 풍미를 완성했다. 이에 더해 치즈번 크기를 지난해보다 확대했다. 버거킹... ",
+      "search_keyword": "소스 신제품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "e2a6d213cd13",
+      "title": "이마트, 중복 앞두고 보양식 최대 반값…생닭·장어·전복 할인 총출동",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=534330",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T08:00:00+09:00",
+      "content": "키친델리 코너에서는 '녹두 삼계탕'과 '두마리 장어 영양덮밥'을 각각 9980원에 선보이며, '킹 양념장어구이... 업계 관계자는 &quot;고물가가 장기화되면서 외식보다 집에서 보양식을 즐기려는 소비 트렌드가 뚜렷해지고... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "16b178897936",
+      "title": "이마트, 중복 맞아 '집보양족' 공략...삼계탕·장어·전복 할인전",
+      "url": "http://www.popcornnews.net/news/articleView.html?idxno=127190",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T06:00:00+09:00",
+      "content": "키친델리에서는 생닭 한 마리를 통째로 넣은 녹두 삼계탕과 장어를 활용한 영양덮밥, 양념장어구이... 유통업계는 지속되는 고물가와 외식비 부담 속에서 집에서 건강식을 즐기려는 '홈보양' 트렌드가 확산되면서 보양... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "18d1c8d583a9",
+      "title": "증상 없어 더 위험한 '신부전', 어떻게 예방할까?",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538933",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T05:52:00+09:00",
+      "content": "저염식과 적정 체중 유지, 금연, 규칙적인 운동을 실천하고, 신장에 부담을 줄 수 있는 약물이나 건강보조식품은 무분별하게 복용하지 않도록 주의해야 한다. 문영윤 교수는 &quot;신부전은 증상이 나타난 뒤보다 증상이 없을... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "d84bf1aa92df",
+      "title": "“살 찔까봐 안 먹었는데”… 혈관 튼튼하게 하는 네 가지 음식",
+      "url": "https://n.news.naver.com/mnews/article/346/0000113164?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-22T01:01:00+09:00",
+      "content": "그릭요거트는 설탕이나 감미료가 없는 제품을 골라 하루에 200~250g 섭취하는 게 좋다. 땅콩버터... 연구진은 탄수화물을 아보카도로 대체하면 식단의 영양소 다양성을 높이고 심혈관 건강을 지킬 수 있다고... ",
+      "search_keyword": "대체 감미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "355e6f86fa37",
+      "title": "[주식마감] '로봇주' 강세에 코스모로보틱스 상한가... 에브리봇, 스모...",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1170536",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T19:40:00+09:00",
+      "content": "에스아이리소스, 비케이홀딩스, 신라에스지가 상한가에 이름을 올리고 장을 마감한 가운데 투자자들의... 조아제약은 1988년 설립된 의약품 및 건강기능식품 제조·공급 기업으로, 위수탁 생산과 해외 수출... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "de4412e3344e",
+      "title": "“마리당 75회… 소스 붓질 따라 교촌치킨 맛 천지 차”",
+      "url": "https://n.news.naver.com/mnews/article/082/0001390674?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T17:54:00+09:00",
+      "content": "교촌 측은 “소스 붓질 로봇은 아직 개발 중”이라고 했다. 체험장 옆 브랜드 전시관에서는 전통주 브랜드 ‘발효공방1991’, 수제맥주 브랜드 ‘문베어’, 치킨무 브랜드 ‘케이앤피푸드’ 등 그동안 확장해온 브랜드... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "f626ff943de0",
+      "title": "인도네시아 식약청 가공식품·음료 영양등급 표기제(Nutri-Level) 의무화 ...",
+      "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=90&CONTENTS_NO=1&bbsGbn=244&bbsSn=244&pNttSn=242601",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T17:37:00+09:00",
+      "content": "07/MENKES/301/2026호를 발효시키며 대형 식음료 사업체를 대상으로 즉석 섭취 식음료에 영양등급... (조미소스 등) 식용 식초 효모 식품 첨가물 제3조 제1항 분쇄 커피 인스턴트 커피 디카페인 커피 커피 원두... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "5fdf7fc56bd9",
+      "title": "&quot;삼계탕·장어 옛말&quot;… 용인 수지 동천동에 몰리는 이유, '자연 담은 보...",
+      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3127143",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T17:34:00+09:00",
+      "content": "고물가로 소비 심리가 다소 위축된 상황 속에서도, 국내 외식 및 관광 시장에서는 고품질·고명분 중심의 '가치 소비' 트렌드가 더욱 확고해지고 있다. 특히 프리미엄 보양 외식 시장이 급부상하는 추세다. 자극적인 양념과... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "56be514f225c",
+      "title": "[김현아의 아는 맛] 생활용품 사러 갔다가 장도 본다…커지는 다이소 식...",
+      "url": "https://www.ajunews.com/view/20260721171051030",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T17:30:00+09:00",
+      "content": "트렌드코리아 2026 기획전'에서 선보인 초기 패키지 과자 제품들 [사진=아성다이소] 생활용품을 사러 들르는 곳으로 여겨졌던 다이소가 식품 구매처로 존재감을 키우고 있다. 과자와 초콜릿을 넘어 견과류와 양념... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "882743fb3c8f",
+      "title": "주식회사 앤리치, 고돼지·무궁김치찜 품질 경쟁력 강화…'쌀뜨물 유산...",
+      "url": "https://www.abcn.kr/news/articleView.html?idxno=89649",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T17:10:00+09:00",
+      "content": "유산균 발효 숙성 돼지고기'를 전국 '고돼지', '무궁김치찜' 가맹점에 공식 공급한다고 밝혔다. 이번 가맹점... 앤리치 관계자는 &quot;단순한 조리법이나 소스 맛으로만 경쟁하는 것이 아니라, 원재료부터 차별화된 품질을 갖춘... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "6c2c79b075ef",
+      "title": "'오늘N' 황새비빔칼국수·두루치기",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202607210229",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T16:56:00+09:00",
+      "content": "또한, 다양한 맛집과 시대의 트렌드와 각종 핫한 이슈까지 포괄하여 시청자들의 거실을 찾아가는 양질의... 비빔 양념장이 깊은 감칠맛을 완성했다. 주문과 동시에 바삭하게 튀겨 올리는 새우튀김까지 더해져 풍성한... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "95ea403c8aa3",
+      "title": "[여름면 전쟁②] &quot;밀 대신 콩&quot;…대상·풀무원, '웰니스 면' 시대 연다",
+      "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=250613",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T16:54:00+09:00",
+      "content": "건강을 즐기듯 관리하는 '헬시플레저'와 노화를 늦추는 '저속노화' 트렌드가 식품 업계 기준으로 자리를... 동봉 소스에도 대상이 자체 생산한 알룰로스를 활용해 당류와 칼로리를 낮췄다. 올해 여름에는 열무비빔국수... ",
+      "search_keyword": "알룰로스 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "a63754723606",
+      "title": "삼립 '피그인더가든', 복날 겨냥 '페리카나' 컬래버 치킨 샐러드 출시",
+      "url": "http://www.techholic.co.kr/news/articleView.html?idxno=222188",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T16:22:00+09:00",
+      "content": "신제품은 페리카나 전통 양념소스를 버무린 치킨에 고소한 땅콩 분태를 올려 감칠맛을 높이고 바삭한... 앞으로도 웰니스 트렌드에 발맞춰 소비자의 입맛과 건강을 모두 충족시킬 수 있는 차별화된 프로젝트 라인업을... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "b3c4f0ab75a5",
+      "title": "&quot;어쩐지 마시면 배 아프더라&quot;⋯제로 음료 속 '이 성분', 장내 유익균 억...",
+      "url": "https://n.news.naver.com/mnews/article/031/0001043688?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T16:16:00+09:00",
+      "content": "감미료는 설탕보다 칼로리가 낮거나 없는 건강한 대체재로 알려져 있지만, 설탕과 달리 소화 과정에서 분해되지 않고 장까지 이동해 장내 미생물과 직접 상호작용한다는 점이 특징이다. 최근에는 일부... ",
+      "search_keyword": "대체 감미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "088736291369",
+      "title": "대상, 전방위 해외 시장 공략…최근 페루서 ‘종가’ 상표 등록",
+      "url": "https://www.g-enews.com/view.php?ud=202607211540335638056c162803_1",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T15:54:00+09:00",
+      "content": "등록 대상에는 김치를 비롯해 고추장, 발효식품, 즉석라면, 수프, 두부, 소스, 간편식, 차 음료 등 한식 관련 다양한 제품군이 포함됐다. 대상은 페루 외에도 주요 중남미 수출국에서 상표권 등록을 마쳤다. 앞서... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "c61fbd3647f2",
+      "title": "글로벌 승부수 성과 언제쯤…‘고속 승진’ 샘표 오너 4세 박용학 전무...",
+      "url": "https://ilyo.co.kr/?ac=article_view&entry_id=511934",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T15:38:00+09:00",
+      "content": "이와 관련해 한 식품업계 관계자는 “간장과 소스 중심의 조미식품은 현지 식생활에 녹아들어야 하는... 이와 관련해 샘표식품 관계자는 “사업 가능성을 열어두기 위한 사전적 준비 차원의 조치”라며 “발효... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "8ad9707064f7",
+      "title": "복날도 '헬시플레저' 트렌드…삼립 피그인더가든, 페리카나와 치킨 샐러...",
+      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=204266",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T15:32:00+09:00",
+      "content": "사진=삼립 복날 보양식 시장에도 '헬시플레저(Healthy Pleasure)' 소비 트렌드가 확산되고 있다. 건강을... 제품은 페리카나의 전통 양념소스를 활용한 '페리카나 시그니처 양념치킨 샐러드'와 특제 간장소스를 입힌 치킨에... ",
+      "search_keyword": "양념 트렌드",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "fbbd6b7b33bc",
+      "title": "유기농인생, 천연조미료 활용한 건강반찬 운영…13년간 당일 조리 원칙",
+      "url": "https://n.news.naver.com/mnews/article/241/0003520998?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T15:29:00+09:00",
+      "content": "-선주문 수량에 맞춰 식재료 매입…매주 다양한 메뉴 순환 운영 -영유아 먹거리·요리대회 경험 바탕으로 김치 제품군 확대 준비 서울 동작구 사당동의 반찬·건강식 브랜드 유기농인생이 천연조미료를 활용한 조리법과... ",
+      "search_keyword": "천연 조미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "b3e4eade8cf9",
+      "title": "해남군, 해남 밤호박 활용 서울대와 손잡고 항당뇨 가공식품 개발",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=711028",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T15:04:00+09:00",
+      "content": "토마토 파스타는 닭가슴살로 만든 고단백 면에 해남산 양파와 마늘을 더한 토마토소스를 곁들이고, 새우로... 또한 건강기능식품과 식단형 식품 시장이 지속적으로 성장하는 가운데 해남 농산물의 브랜드 가치를 높이는... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "1ea62a668d5d",
+      "title": "삼립, 페리카나 소스 더한 복날 치킨샐러드 2종 출시",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=551671",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T14:48:00+09:00",
+      "content": "샐러드 토핑 가운데 소비자가 가장 선호하는 치킨 메뉴에 페리카나의 시그니처 소스를 더해 맛과 영양을... 최근 삼립은 제빵 사업 외에 가정간편식(HMR), 육가공품, 샐러드 등 제품·사업 다변화를 시도하고 있다.",
+      "search_keyword": "HMR 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "ac55666321e2",
+      "title": "[칼럼] EU 사이버복원력법, 스마트 제조·IoT 기업이 지금 준비해야 하는...",
+      "url": "https://www.hellot.net/news/article.html?no=113872",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T14:30:00+09:00",
+      "content": "EU 집행위원회 공식 자료 기준으로 2024년 12월 10일 발효되었다. 기존 제품 인증 제도와 가장 크게 구분되는... 상업적 활동의 일환으로 EU 시장에 공급되는 오픈소스 소프트웨어도 대상에 포함되지만, 대가 없이... ",
+      "search_keyword": "발효 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "49347896e6bc",
+      "title": "“살 안 찐대서 마셨는데”… 인공감미료 대신 먹으면 좋은 식품 3가지",
+      "url": "https://n.news.naver.com/mnews/article/346/0000113130?sid=103",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T14:01:00+09:00",
+      "content": "건강한 대체제로는 꿀·통과일 등 있어 인공감미료 대신 영양소가 풍부한 천연 감미료나 자연 그대로의 당분을 활용하는 게 좋다. 대표적으로 어떤 게 있을까? ▶꿀=항산화 물질과 비타민, 미네랄이 다량 함유돼 있어... ",
+      "search_keyword": "대체 감미료",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "eff1f9bba0db",
+      "title": "“GMO 완전표시 도입 앞당겨야”…이 대통령, ‘국민 선택권 우선’ 강...",
+      "url": "https://n.news.naver.com/mnews/article/662/0000100063?sid=102",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T13:39:00+09:00",
+      "content": "지난해 12월 ‘식품위생법’과 ‘건강기능식품에 관한 법률’이 개정되며 도입 기반이 갖춰졌다. 이에... 농업계는 GMO 완전표시제 도입 대상에 소스류 등을 추가하는 것과 함께 비의도적 혼입 허용 비율을 현행 3%에서... ",
+      "search_keyword": "건강기능식품 소스",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    },
+    {
+      "id": "41b68b314db9",
+      "title": "K-푸드 성장의 이면, '건강·편의·고령화'가 식품산업 지형을 바꾼다",
+      "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=119457",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-07-21T12:04:00+09:00",
+      "content": "고령친화식, 저당·저염 제품, 단백질 강화식품, 맞춤형 영양식 등 세분화 시장은 더욱 확대될 가능성이 크다. 식품산업은 이제 국가 경제의 중요한 미래 성장축이다. K-푸드 열풍도 결국 철저한 품질관리와 안전성 확보가... ",
+      "search_keyword": "저염 식품",
+      "category": "other",
+      "keywords": [],
+      "summary": null,
+      "relevance_score": null
+    }
+  ],
+  "ai_summary": "## 2026-07-22 트렌드 요약\n\n총 81건 수집. 주요 키워드: 보양식, 간편식, 집밥 수요, 양념장어구이, 장어강정, 삼계탕, K-웰니스, 미국 시장, 식물성 식단, 클린라벨",
+  "youtube_highlights": [],
+  "trends_summary": {
+    "google_trends": []
+  }
+}
