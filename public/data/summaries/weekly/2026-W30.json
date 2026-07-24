@@ -2,149 +2,147 @@
   "week_id": "2026-W30",
   "start_date": "2026-07-20",
   "end_date": "2026-07-26",
-  "total_articles": 351,
+  "total_articles": 434,
   "days_included": [
     "2026-07-20",
     "2026-07-21",
     "2026-07-22",
-    "2026-07-23"
+    "2026-07-23",
+    "2026-07-24"
   ],
   "top_keywords": [
     {
-      "keyword": "비빔면",
-      "count": 4
+      "keyword": "삼립",
+      "count": 3
     },
     {
-      "keyword": "숯불양념치킨",
-      "count": 4
+      "keyword": "비스포크빵",
+      "count": 3
     },
     {
-      "keyword": "소비 트렌드",
+      "keyword": "신제품",
+      "count": 3
+    },
+    {
+      "keyword": "토마토소스",
+      "count": 3
+    },
+    {
+      "keyword": "마요네즈",
+      "count": 3
+    },
+    {
+      "keyword": "피자맛",
+      "count": 3
+    },
+    {
+      "keyword": "식물성 단백질",
       "count": 3
     },
     {
       "keyword": "소스",
+      "count": 3
+    },
+    {
+      "keyword": "CJ제일제당",
       "count": 2
     },
     {
-      "keyword": "양념",
+      "keyword": "가정간편식",
       "count": 2
     },
     {
-      "keyword": "간편식",
+      "keyword": "저당",
       "count": 2
     },
     {
-      "keyword": "SSG닷컴",
+      "keyword": "토마토 파스타소스",
       "count": 2
     },
     {
-      "keyword": "간편식 페스타",
+      "keyword": "키토제닉",
       "count": 2
     },
     {
-      "keyword": "바캉스 먹거리",
-      "count": 2
-    },
-    {
-      "keyword": "할인 프로모션",
-      "count": 2
-    },
-    {
-      "keyword": "썸트렌드 MCP",
+      "keyword": "소스조합",
       "count": 1
     },
     {
-      "keyword": "데이터 분석",
+      "keyword": "맞춤 빵",
       "count": 1
     },
     {
-      "keyword": "식품 산업 트렌드",
+      "keyword": "베이커리",
       "count": 1
     },
     {
-      "keyword": "R&D 효율성",
+      "keyword": "콩류",
       "count": 1
     },
     {
-      "keyword": "밀키트",
+      "keyword": "체중 감량",
       "count": 1
     },
     {
-      "keyword": "여름 시즌",
+      "keyword": "콜레스테롤 감소",
       "count": 1
     },
     {
-      "keyword": "흑마늘",
+      "keyword": "식이섬유",
       "count": 1
     },
     {
-      "keyword": "우베",
+      "keyword": "다용도 소스",
       "count": 1
     },
     {
-      "keyword": "저칼로리 소스",
+      "keyword": "활용성",
       "count": 1
     },
     {
-      "keyword": "저당 소스",
+      "keyword": "스타 셰프 IP",
       "count": 1
     },
     {
-      "keyword": "식단 관리",
+      "keyword": "영양 결핍",
       "count": 1
     },
     {
-      "keyword": "건강 관리",
-      "count": 1
-    },
-    {
-      "keyword": "인도네시아",
-      "count": 1
-    },
-    {
-      "keyword": "K-뷰티",
-      "count": 1
-    },
-    {
-      "keyword": "BPOM",
+      "keyword": "식물성 대체육",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "비빔면": 4,
-    "숯불양념치킨": 4,
-    "소비 트렌드": 3,
-    "소스": 2,
-    "양념": 2,
-    "간편식": 2,
-    "SSG닷컴": 2,
-    "간편식 페스타": 2,
-    "바캉스 먹거리": 2,
-    "할인 프로모션": 2,
-    "썸트렌드 MCP": 1,
-    "데이터 분석": 1,
-    "식품 산업 트렌드": 1,
-    "R&D 효율성": 1,
-    "밀키트": 1,
-    "여름 시즌": 1,
-    "흑마늘": 1,
-    "우베": 1,
-    "저칼로리 소스": 1,
-    "저당 소스": 1,
-    "식단 관리": 1,
-    "건강 관리": 1,
-    "인도네시아": 1,
-    "K-뷰티": 1,
-    "BPOM": 1
+    "삼립": 3,
+    "비스포크빵": 3,
+    "신제품": 3,
+    "토마토소스": 3,
+    "마요네즈": 3,
+    "피자맛": 3,
+    "식물성 단백질": 3,
+    "소스": 3,
+    "CJ제일제당": 2,
+    "가정간편식": 2,
+    "저당": 2,
+    "토마토 파스타소스": 2,
+    "키토제닉": 2,
+    "소스조합": 1,
+    "맞춤 빵": 1,
+    "베이커리": 1,
+    "콩류": 1,
+    "체중 감량": 1,
+    "콜레스테롤 감소": 1,
+    "식이섬유": 1,
+    "다용도 소스": 1,
+    "활용성": 1,
+    "스타 셰프 IP": 1,
+    "영양 결핍": 1,
+    "식물성 대체육": 1
   },
   "category_totals": {
-    "market": 6,
-    "product": 7,
-    "other": 83,
-    "ingredient": 2,
-    "consumer": 2,
-    "manufacturing": 6
+    "product": 10,
+    "consumer": 3,
+    "other": 70
   },
   "highlighted_articles": [
     {
@@ -682,7 +680,8 @@
     "2026-07-20": 74,
     "2026-07-21": 90,
     "2026-07-22": 81,
-    "2026-07-23": 106
+    "2026-07-23": 106,
+    "2026-07-24": 83
   },
   "ai_summary": null
 }
