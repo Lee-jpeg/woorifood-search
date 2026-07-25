@@ -2,147 +2,151 @@
   "week_id": "2026-W30",
   "start_date": "2026-07-20",
   "end_date": "2026-07-26",
-  "total_articles": 434,
+  "total_articles": 508,
   "days_included": [
     "2026-07-20",
     "2026-07-21",
     "2026-07-22",
     "2026-07-23",
-    "2026-07-24"
+    "2026-07-24",
+    "2026-07-25"
   ],
   "top_keywords": [
     {
-      "keyword": "삼립",
+      "keyword": "저당",
       "count": 3
     },
     {
-      "keyword": "비스포크빵",
+      "keyword": "대용량",
       "count": 3
+    },
+    {
+      "keyword": "파스타소스",
+      "count": 2
+    },
+    {
+      "keyword": "천연감미료",
+      "count": 2
+    },
+    {
+      "keyword": "토마토",
+      "count": 2
+    },
+    {
+      "keyword": "간편식",
+      "count": 2
     },
     {
       "keyword": "신제품",
-      "count": 3
+      "count": 2
     },
     {
-      "keyword": "토마토소스",
-      "count": 3
+      "keyword": "삼계탕",
+      "count": 2
     },
     {
-      "keyword": "마요네즈",
-      "count": 3
+      "keyword": "흑마늘",
+      "count": 2
     },
     {
-      "keyword": "피자맛",
-      "count": 3
+      "keyword": "간장게장",
+      "count": 1
     },
     {
-      "keyword": "식물성 단백질",
-      "count": 3
+      "keyword": "양념게장",
+      "count": 1
+    },
+    {
+      "keyword": "직화낙지볶음",
+      "count": 1
+    },
+    {
+      "keyword": "건강",
+      "count": 1
+    },
+    {
+      "keyword": "AI",
+      "count": 1
+    },
+    {
+      "keyword": "키미 K3",
+      "count": 1
+    },
+    {
+      "keyword": "미중 AI 패권 경쟁",
+      "count": 1
+    },
+    {
+      "keyword": "로코노미",
+      "count": 1
+    },
+    {
+      "keyword": "지역 특산물",
+      "count": 1
+    },
+    {
+      "keyword": "전복",
+      "count": 1
     },
     {
       "keyword": "소스",
-      "count": 3
+      "count": 1
     },
     {
-      "keyword": "CJ제일제당",
-      "count": 2
-    },
-    {
-      "keyword": "가정간편식",
-      "count": 2
-    },
-    {
-      "keyword": "저당",
-      "count": 2
+      "keyword": "양념",
+      "count": 1
     },
     {
       "keyword": "토마토 파스타소스",
-      "count": 2
-    },
-    {
-      "keyword": "키토제닉",
-      "count": 2
-    },
-    {
-      "keyword": "소스조합",
       "count": 1
     },
     {
-      "keyword": "맞춤 빵",
+      "keyword": "건강 트렌드",
       "count": 1
     },
     {
-      "keyword": "베이커리",
+      "keyword": "콩국수",
       "count": 1
     },
     {
-      "keyword": "콩류",
-      "count": 1
-    },
-    {
-      "keyword": "체중 감량",
-      "count": 1
-    },
-    {
-      "keyword": "콜레스테롤 감소",
-      "count": 1
-    },
-    {
-      "keyword": "식이섬유",
-      "count": 1
-    },
-    {
-      "keyword": "다용도 소스",
-      "count": 1
-    },
-    {
-      "keyword": "활용성",
-      "count": 1
-    },
-    {
-      "keyword": "스타 셰프 IP",
-      "count": 1
-    },
-    {
-      "keyword": "영양 결핍",
-      "count": 1
-    },
-    {
-      "keyword": "식물성 대체육",
+      "keyword": "고단백",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "삼립": 3,
-    "비스포크빵": 3,
-    "신제품": 3,
-    "토마토소스": 3,
-    "마요네즈": 3,
-    "피자맛": 3,
-    "식물성 단백질": 3,
-    "소스": 3,
-    "CJ제일제당": 2,
-    "가정간편식": 2,
-    "저당": 2,
-    "토마토 파스타소스": 2,
-    "키토제닉": 2,
-    "소스조합": 1,
-    "맞춤 빵": 1,
-    "베이커리": 1,
-    "콩류": 1,
-    "체중 감량": 1,
-    "콜레스테롤 감소": 1,
-    "식이섬유": 1,
-    "다용도 소스": 1,
-    "활용성": 1,
-    "스타 셰프 IP": 1,
-    "영양 결핍": 1,
-    "식물성 대체육": 1
+    "저당": 3,
+    "대용량": 3,
+    "파스타소스": 2,
+    "천연감미료": 2,
+    "토마토": 2,
+    "간편식": 2,
+    "신제품": 2,
+    "삼계탕": 2,
+    "흑마늘": 2,
+    "간장게장": 1,
+    "양념게장": 1,
+    "직화낙지볶음": 1,
+    "건강": 1,
+    "AI": 1,
+    "키미 K3": 1,
+    "미중 AI 패권 경쟁": 1,
+    "로코노미": 1,
+    "지역 특산물": 1,
+    "전복": 1,
+    "소스": 1,
+    "양념": 1,
+    "토마토 파스타소스": 1,
+    "건강 트렌드": 1,
+    "콩국수": 1,
+    "고단백": 1
   },
   "category_totals": {
-    "product": 10,
-    "consumer": 3,
-    "other": 70
+    "product": 7,
+    "other": 60,
+    "consumer": 2,
+    "ingredient": 1,
+    "market": 1,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -681,7 +685,8 @@
     "2026-07-21": 90,
     "2026-07-22": 81,
     "2026-07-23": 106,
-    "2026-07-24": 83
+    "2026-07-24": 83,
+    "2026-07-25": 74
   },
   "ai_summary": null
 }
