@@ -2,82 +2,51 @@
   "week_id": "2026-W31",
   "start_date": "2026-07-27",
   "end_date": "2026-08-02",
-  "total_articles": 503,
+  "total_articles": 538,
   "days_included": [
     "2026-07-27",
     "2026-07-28",
     "2026-07-29",
     "2026-07-30",
     "2026-07-31",
-    "2026-08-01"
+    "2026-08-01",
+    "2026-08-02"
   ],
   "top_keywords": [
     {
-      "keyword": "저당",
-      "count": 3
-    },
-    {
       "keyword": "소비 트렌드",
-      "count": 3
+      "count": 4
     },
     {
-      "keyword": "파스타소스",
-      "count": 2
-    },
-    {
-      "keyword": "대용량",
-      "count": 2
-    },
-    {
-      "keyword": "토마토 파스타소스",
+      "keyword": "수박주스",
       "count": 1
     },
     {
-      "keyword": "신제품",
+      "keyword": "대용량 음료",
       "count": 1
     },
     {
-      "keyword": "건강 지향",
+      "keyword": "SNS 반응",
       "count": 1
     },
     {
-      "keyword": "배",
+      "keyword": "한국 인기 영향",
       "count": 1
     },
     {
-      "keyword": "천연 단맛",
+      "keyword": "과일 전문점",
       "count": 1
     },
     {
-      "keyword": "감칠맛",
+      "keyword": "햇볕 화상",
       "count": 1
     },
     {
-      "keyword": "3-MCPD",
+      "keyword": "피부 건강",
       "count": 1
     },
     {
-      "keyword": "식약처",
-      "count": 1
-    },
-    {
-      "keyword": "식품 안전성",
-      "count": 1
-    },
-    {
-      "keyword": "실속 소비 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "초가성비",
-      "count": 1
-    },
-    {
-      "keyword": "물가 부담",
-      "count": 1
-    },
-    {
-      "keyword": "다이소",
+      "keyword": "기능성 식품",
       "count": 1
     },
     {
@@ -85,67 +54,99 @@
       "count": 1
     },
     {
-      "keyword": "건강지향",
+      "keyword": "라이코펜",
       "count": 1
     },
     {
-      "keyword": "식품업계",
+      "keyword": "발효유",
       "count": 1
     },
     {
-      "keyword": "제품 후원",
+      "keyword": "유익균",
       "count": 1
     },
     {
-      "keyword": "시장 변화",
+      "keyword": "협업",
       "count": 1
     },
     {
-      "keyword": "웰니스",
+      "keyword": "신상품 기획",
       "count": 1
     },
     {
-      "keyword": "이너뷰티",
+      "keyword": "메가 브랜드",
       "count": 1
     },
     {
-      "keyword": "건강한 생활습관",
+      "keyword": "편의점",
+      "count": 1
+    },
+    {
+      "keyword": "롯데마트",
+      "count": 1
+    },
+    {
+      "keyword": "FRESH 365",
+      "count": 1
+    },
+    {
+      "keyword": "신선식품",
+      "count": 1
+    },
+    {
+      "keyword": "자체 브랜드",
+      "count": 1
+    },
+    {
+      "keyword": "유통",
+      "count": 1
+    },
+    {
+      "keyword": "GS25",
+      "count": 1
+    },
+    {
+      "keyword": "춘식이 꼬북칩",
+      "count": 1
+    },
+    {
+      "keyword": "고구마탕후루맛",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "저당": 3,
-    "소비 트렌드": 3,
-    "파스타소스": 2,
-    "대용량": 2,
-    "토마토 파스타소스": 1,
-    "신제품": 1,
-    "건강 지향": 1,
-    "배": 1,
-    "천연 단맛": 1,
-    "감칠맛": 1,
-    "3-MCPD": 1,
-    "식약처": 1,
-    "식품 안전성": 1,
-    "실속 소비 트렌드": 1,
-    "초가성비": 1,
-    "물가 부담": 1,
-    "다이소": 1,
+    "소비 트렌드": 4,
+    "수박주스": 1,
+    "대용량 음료": 1,
+    "SNS 반응": 1,
+    "한국 인기 영향": 1,
+    "과일 전문점": 1,
+    "햇볕 화상": 1,
+    "피부 건강": 1,
+    "기능성 식품": 1,
     "토마토": 1,
-    "건강지향": 1,
-    "식품업계": 1,
-    "제품 후원": 1,
-    "시장 변화": 1,
-    "웰니스": 1,
-    "이너뷰티": 1,
-    "건강한 생활습관": 1
+    "라이코펜": 1,
+    "발효유": 1,
+    "유익균": 1,
+    "협업": 1,
+    "신상품 기획": 1,
+    "메가 브랜드": 1,
+    "편의점": 1,
+    "롯데마트": 1,
+    "FRESH 365": 1,
+    "신선식품": 1,
+    "자체 브랜드": 1,
+    "유통": 1,
+    "GS25": 1,
+    "춘식이 꼬북칩": 1,
+    "고구마탕후루맛": 1
   },
   "category_totals": {
-    "product": 6,
-    "regulation": 1,
-    "consumer": 6,
-    "market": 2,
-    "other": 46
+    "consumer": 1,
+    "ingredient": 1,
+    "product": 3,
+    "market": 1,
+    "other": 29
   },
   "highlighted_articles": [
     {
@@ -671,7 +672,8 @@
     "2026-07-29": 92,
     "2026-07-30": 100,
     "2026-07-31": 88,
-    "2026-08-01": 61
+    "2026-08-01": 61,
+    "2026-08-02": 35
   },
   "ai_summary": null
 }
