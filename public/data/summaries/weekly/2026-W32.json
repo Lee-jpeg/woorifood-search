@@ -2,151 +2,151 @@
   "week_id": "2026-W32",
   "start_date": "2026-08-03",
   "end_date": "2026-08-09",
-  "total_articles": 374,
+  "total_articles": 444,
   "days_included": [
     "2026-08-03",
     "2026-08-04",
     "2026-08-05",
     "2026-08-06",
-    "2026-08-07"
+    "2026-08-07",
+    "2026-08-08"
   ],
   "top_keywords": [
     {
-      "keyword": "신제품",
-      "count": 4
-    },
-    {
-      "keyword": "특제 소스",
+      "keyword": "식이섬유",
       "count": 2
     },
     {
-      "keyword": "간편식",
+      "keyword": "설탕",
       "count": 2
+    },
+    {
+      "keyword": "채식주의",
+      "count": 1
+    },
+    {
+      "keyword": "식물성 식품",
+      "count": 1
+    },
+    {
+      "keyword": "장 건강",
+      "count": 1
+    },
+    {
+      "keyword": "단백질",
+      "count": 1
+    },
+    {
+      "keyword": "비타민B12",
+      "count": 1
+    },
+    {
+      "keyword": "콩국수",
+      "count": 1
+    },
+    {
+      "keyword": "콩",
+      "count": 1
+    },
+    {
+      "keyword": "소금",
+      "count": 1
     },
     {
       "keyword": "식물성 단백질",
-      "count": 2
-    },
-    {
-      "keyword": "치킨 스테이크",
       "count": 1
     },
     {
-      "keyword": "온라인몰",
+      "keyword": "이소플라본",
       "count": 1
     },
     {
-      "keyword": "이벤트",
+      "keyword": "레시틴",
       "count": 1
     },
     {
-      "keyword": "치킨 플레이트",
+      "keyword": "식품 과학자",
       "count": 1
     },
     {
-      "keyword": "온라인 프로모션",
+      "keyword": "비건",
       "count": 1
     },
     {
-      "keyword": "K컬처",
+      "keyword": "비건 요리책",
       "count": 1
     },
     {
-      "keyword": "글로벌 트렌드",
+      "keyword": "식물성",
       "count": 1
     },
     {
-      "keyword": "브랜드 굿즈",
+      "keyword": "글로벌 요리",
       "count": 1
     },
     {
-      "keyword": "협업",
+      "keyword": "스리라차",
       "count": 1
     },
     {
-      "keyword": "수산식품 브랜드",
+      "keyword": "매운소스",
       "count": 1
     },
     {
-      "keyword": "피시 와이프",
+      "keyword": "혈당",
       "count": 1
     },
     {
-      "keyword": "영국 피트니스 시장",
+      "keyword": "혈압",
       "count": 1
     },
     {
-      "keyword": "웰니스 생태계",
+      "keyword": "저칼로리",
       "count": 1
     },
     {
-      "keyword": "영양",
+      "keyword": "칠리소스",
       "count": 1
     },
     {
-      "keyword": "식품보충제",
-      "count": 1
-    },
-    {
-      "keyword": "제품 규제",
-      "count": 1
-    },
-    {
-      "keyword": "진주 고추",
-      "count": 1
-    },
-    {
-      "keyword": "매콤 소스",
-      "count": 1
-    },
-    {
-      "keyword": "크림치즈",
-      "count": 1
-    },
-    {
-      "keyword": "프리미엄 원료",
-      "count": 1
-    },
-    {
-      "keyword": "지역 특산물",
+      "keyword": "한국 발효 소스",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 4,
-    "특제 소스": 2,
-    "간편식": 2,
-    "식물성 단백질": 2,
-    "치킨 스테이크": 1,
-    "온라인몰": 1,
-    "이벤트": 1,
-    "치킨 플레이트": 1,
-    "온라인 프로모션": 1,
-    "K컬처": 1,
-    "글로벌 트렌드": 1,
-    "브랜드 굿즈": 1,
-    "협업": 1,
-    "수산식품 브랜드": 1,
-    "피시 와이프": 1,
-    "영국 피트니스 시장": 1,
-    "웰니스 생태계": 1,
-    "영양": 1,
-    "식품보충제": 1,
-    "제품 규제": 1,
-    "진주 고추": 1,
-    "매콤 소스": 1,
-    "크림치즈": 1,
-    "프리미엄 원료": 1,
-    "지역 특산물": 1
+    "식이섬유": 2,
+    "설탕": 2,
+    "채식주의": 1,
+    "식물성 식품": 1,
+    "장 건강": 1,
+    "단백질": 1,
+    "비타민B12": 1,
+    "콩국수": 1,
+    "콩": 1,
+    "소금": 1,
+    "식물성 단백질": 1,
+    "이소플라본": 1,
+    "레시틴": 1,
+    "식품 과학자": 1,
+    "비건": 1,
+    "비건 요리책": 1,
+    "식물성": 1,
+    "글로벌 요리": 1,
+    "스리라차": 1,
+    "매운소스": 1,
+    "혈당": 1,
+    "혈압": 1,
+    "저칼로리": 1,
+    "칠리소스": 1,
+    "한국 발효 소스": 1
   },
   "category_totals": {
-    "product": 6,
-    "market": 4,
-    "manufacturing": 1,
-    "consumer": 6,
-    "ingredient": 3,
-    "other": 62,
-    "regulation": 1
+    "consumer": 3,
+    "ingredient": 1,
+    "product": 1,
+    "market": 1,
+    "other": 61,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -705,7 +705,8 @@
     "2026-08-04": 68,
     "2026-08-05": 80,
     "2026-08-06": 78,
-    "2026-08-07": 83
+    "2026-08-07": 83,
+    "2026-08-08": 70
   },
   "ai_summary": null
 }
