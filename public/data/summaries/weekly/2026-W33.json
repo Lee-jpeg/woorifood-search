@@ -2,148 +2,149 @@
   "week_id": "2026-W33",
   "start_date": "2026-08-10",
   "end_date": "2026-08-16",
-  "total_articles": 308,
+  "total_articles": 388,
   "days_included": [
     "2026-08-10",
     "2026-08-11",
     "2026-08-12",
-    "2026-08-13"
+    "2026-08-13",
+    "2026-08-14"
   ],
   "top_keywords": [
     {
-      "keyword": "더본코리아",
-      "count": 4
-    },
-    {
       "keyword": "식물성 단백질",
-      "count": 4
-    },
-    {
-      "keyword": "RMR",
-      "count": 3
-    },
-    {
-      "keyword": "TBK 소스",
       "count": 2
     },
     {
-      "keyword": "미초",
+      "keyword": "김부각",
       "count": 2
     },
     {
-      "keyword": "아사이",
-      "count": 2
-    },
-    {
-      "keyword": "신제품",
-      "count": 2
-    },
-    {
-      "keyword": "AI",
-      "count": 2
-    },
-    {
-      "keyword": "김치분말소스",
-      "count": 2
-    },
-    {
-      "keyword": "양념치킨소스",
-      "count": 2
-    },
-    {
-      "keyword": "갈비양념소스",
-      "count": 2
-    },
-    {
-      "keyword": "건강식",
-      "count": 2
-    },
-    {
-      "keyword": "글로벌 확장",
+      "keyword": "제로 칼로리",
       "count": 1
     },
     {
-      "keyword": "CJ제일제당",
+      "keyword": "제로 슈가",
       "count": 1
     },
     {
-      "keyword": "건강식초",
+      "keyword": "무라벨",
       "count": 1
     },
     {
-      "keyword": "일상음료",
+      "keyword": "소용량",
       "count": 1
     },
     {
-      "keyword": "데일리 웰니스",
+      "keyword": "친환경",
       "count": 1
     },
     {
-      "keyword": "K-음료",
+      "keyword": "휴대성",
       "count": 1
     },
     {
-      "keyword": "일본 시장",
+      "keyword": "침향환",
       "count": 1
     },
     {
-      "keyword": "소비자 라이프스타일",
+      "keyword": "중장년 건강",
       "count": 1
     },
     {
-      "keyword": "지속가능성",
+      "keyword": "저당 트렌드",
       "count": 1
     },
     {
-      "keyword": "콩",
+      "keyword": "ODM",
       "count": 1
     },
     {
-      "keyword": "소비자 연결",
+      "keyword": "결착제",
       "count": 1
     },
     {
-      "keyword": "워터마크",
+      "keyword": "벌꿀 대체",
       "count": 1
     },
     {
-      "keyword": "AI법",
+      "keyword": "캡슐레이션",
+      "count": 1
+    },
+    {
+      "keyword": "DDS 플랫폼",
+      "count": 1
+    },
+    {
+      "keyword": "특허 출원",
+      "count": 1
+    },
+    {
+      "keyword": "성분 전달 시스템",
+      "count": 1
+    },
+    {
+      "keyword": "CU",
+      "count": 1
+    },
+    {
+      "keyword": "스몰밀",
+      "count": 1
+    },
+    {
+      "keyword": "간편식",
+      "count": 1
+    },
+    {
+      "keyword": "여성 고객",
+      "count": 1
+    },
+    {
+      "keyword": "편의점",
+      "count": 1
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "로스팅 양파 간장 소스",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "더본코리아": 4,
-    "식물성 단백질": 4,
-    "RMR": 3,
-    "TBK 소스": 2,
-    "미초": 2,
-    "아사이": 2,
-    "신제품": 2,
-    "AI": 2,
-    "김치분말소스": 2,
-    "양념치킨소스": 2,
-    "갈비양념소스": 2,
-    "건강식": 2,
-    "글로벌 확장": 1,
-    "CJ제일제당": 1,
-    "건강식초": 1,
-    "일상음료": 1,
-    "데일리 웰니스": 1,
-    "K-음료": 1,
-    "일본 시장": 1,
-    "소비자 라이프스타일": 1,
-    "지속가능성": 1,
-    "콩": 1,
-    "소비자 연결": 1,
-    "워터마크": 1,
-    "AI법": 1
+    "식물성 단백질": 2,
+    "김부각": 2,
+    "제로 칼로리": 1,
+    "제로 슈가": 1,
+    "무라벨": 1,
+    "소용량": 1,
+    "친환경": 1,
+    "휴대성": 1,
+    "침향환": 1,
+    "중장년 건강": 1,
+    "저당 트렌드": 1,
+    "ODM": 1,
+    "결착제": 1,
+    "벌꿀 대체": 1,
+    "캡슐레이션": 1,
+    "DDS 플랫폼": 1,
+    "특허 출원": 1,
+    "성분 전달 시스템": 1,
+    "CU": 1,
+    "스몰밀": 1,
+    "간편식": 1,
+    "여성 고객": 1,
+    "편의점": 1,
+    "소비 트렌드": 1,
+    "로스팅 양파 간장 소스": 1
   },
   "category_totals": {
-    "market": 3,
-    "product": 10,
-    "ingredient": 3,
-    "other": 57,
-    "consumer": 2
+    "product": 5,
+    "consumer": 4,
+    "ingredient": 2,
+    "other": 63,
+    "manufacturing": 6
   },
   "highlighted_articles": [
     {
@@ -703,7 +704,8 @@
     "2026-08-10": 69,
     "2026-08-11": 80,
     "2026-08-12": 84,
-    "2026-08-13": 75
+    "2026-08-13": 75,
+    "2026-08-14": 80
   },
   "ai_summary": null
 }
