@@ -2,24 +2,45 @@
   "week_id": "2026-W34",
   "start_date": "2026-08-17",
   "end_date": "2026-08-23",
-  "total_articles": 295,
+  "total_articles": 372,
   "days_included": [
     "2026-08-17",
     "2026-08-18",
     "2026-08-19",
-    "2026-08-20"
+    "2026-08-20",
+    "2026-08-21"
   ],
   "top_keywords": [
     {
-      "keyword": "황치즈",
-      "count": 2
+      "keyword": "K-뷰티",
+      "count": 1
     },
     {
-      "keyword": "식품 트렌드",
-      "count": 2
+      "keyword": "글로벌 수출",
+      "count": 1
     },
     {
-      "keyword": "저당 트렌드",
+      "keyword": "소비자 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "가격 경쟁력",
+      "count": 1
+    },
+    {
+      "keyword": "K-브랜드",
+      "count": 1
+    },
+    {
+      "keyword": "해외 시장",
+      "count": 1
+    },
+    {
+      "keyword": "웰니스 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "저당 소비",
       "count": 1
     },
     {
@@ -31,120 +52,58 @@
       "count": 1
     },
     {
-      "keyword": "웰니스 브랜드",
+      "keyword": "식품 신제품",
       "count": 1
     },
     {
-      "keyword": "피그인더가든",
+      "keyword": "Vitafoods Asia",
       "count": 1
     },
     {
-      "keyword": "당류 함량",
+      "keyword": "건강기능식품 산업",
       "count": 1
     },
     {
-      "keyword": "배민B마트",
+      "keyword": "뉴트라슈티컬 트렌드",
       "count": 1
     },
     {
-      "keyword": "최저가도전",
+      "keyword": "세대별 트렌드",
       "count": 1
     },
     {
-      "keyword": "합리적 소비",
+      "keyword": "기능성 식품",
       "count": 1
     },
     {
-      "keyword": "고물가",
-      "count": 1
-    },
-    {
-      "keyword": "가성비",
-      "count": 1
-    },
-    {
-      "keyword": "오뚜기",
-      "count": 1
-    },
-    {
-      "keyword": "가뿐한끼",
-      "count": 1
-    },
-    {
-      "keyword": "저당",
-      "count": 1
-    },
-    {
-      "keyword": "곤누들",
-      "count": 1
-    },
-    {
-      "keyword": "메밀소바맛",
-      "count": 1
-    },
-    {
-      "keyword": "덮밥소스",
-      "count": 1
-    },
-    {
-      "keyword": "리뉴얼",
-      "count": 1
-    },
-    {
-      "keyword": "닭가슴살",
-      "count": 1
-    },
-    {
-      "keyword": "병아리콩",
-      "count": 1
-    },
-    {
-      "keyword": "양배추",
-      "count": 1
-    },
-    {
-      "keyword": "냉소바",
-      "count": 1
-    },
-    {
-      "keyword": "온소바",
+      "keyword": "수출",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "황치즈": 2,
-    "식품 트렌드": 2,
-    "저당 트렌드": 1,
+    "K-뷰티": 1,
+    "글로벌 수출": 1,
+    "소비자 트렌드": 1,
+    "가격 경쟁력": 1,
+    "K-브랜드": 1,
+    "해외 시장": 1,
+    "웰니스 트렌드": 1,
+    "저당 소비": 1,
     "저당 소스": 1,
     "저당 드레싱": 1,
-    "웰니스 브랜드": 1,
-    "피그인더가든": 1,
-    "당류 함량": 1,
-    "배민B마트": 1,
-    "최저가도전": 1,
-    "합리적 소비": 1,
-    "고물가": 1,
-    "가성비": 1,
-    "오뚜기": 1,
-    "가뿐한끼": 1,
-    "저당": 1,
-    "곤누들": 1,
-    "메밀소바맛": 1,
-    "덮밥소스": 1,
-    "리뉴얼": 1,
-    "닭가슴살": 1,
-    "병아리콩": 1,
-    "양배추": 1,
-    "냉소바": 1,
-    "온소바": 1
+    "식품 신제품": 1,
+    "Vitafoods Asia": 1,
+    "건강기능식품 산업": 1,
+    "뉴트라슈티컬 트렌드": 1,
+    "세대별 트렌드": 1,
+    "기능성 식품": 1,
+    "수출": 1
   },
   "category_totals": {
-    "consumer": 4,
     "market": 1,
-    "product": 5,
-    "other": 80,
-    "regulation": 1,
-    "manufacturing": 3
+    "consumer": 1,
+    "ingredient": 1,
+    "other": 74
   },
   "highlighted_articles": [
     {
@@ -670,7 +629,8 @@
     "2026-08-17": 50,
     "2026-08-18": 68,
     "2026-08-19": 83,
-    "2026-08-20": 94
+    "2026-08-20": 94,
+    "2026-08-21": 77
   },
   "ai_summary": null
 }
