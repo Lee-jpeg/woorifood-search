@@ -2,108 +2,149 @@
   "week_id": "2026-W34",
   "start_date": "2026-08-17",
   "end_date": "2026-08-23",
-  "total_articles": 372,
+  "total_articles": 425,
   "days_included": [
     "2026-08-17",
     "2026-08-18",
     "2026-08-19",
     "2026-08-20",
-    "2026-08-21"
+    "2026-08-21",
+    "2026-08-22"
   ],
   "top_keywords": [
     {
-      "keyword": "K-뷰티",
-      "count": 1
-    },
-    {
-      "keyword": "글로벌 수출",
-      "count": 1
-    },
-    {
-      "keyword": "소비자 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "가격 경쟁력",
-      "count": 1
-    },
-    {
-      "keyword": "K-브랜드",
-      "count": 1
-    },
-    {
-      "keyword": "해외 시장",
-      "count": 1
-    },
-    {
-      "keyword": "웰니스 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "저당 소비",
-      "count": 1
-    },
-    {
-      "keyword": "저당 소스",
-      "count": 1
-    },
-    {
-      "keyword": "저당 드레싱",
-      "count": 1
-    },
-    {
-      "keyword": "식품 신제품",
-      "count": 1
-    },
-    {
-      "keyword": "Vitafoods Asia",
-      "count": 1
-    },
-    {
-      "keyword": "건강기능식품 산업",
-      "count": 1
-    },
-    {
-      "keyword": "뉴트라슈티컬 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "세대별 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "기능성 식품",
-      "count": 1
-    },
-    {
       "keyword": "수출",
+      "count": 2
+    },
+    {
+      "keyword": "K-FOOD 아카데미",
+      "count": 1
+    },
+    {
+      "keyword": "AI 디지털 전략",
+      "count": 1
+    },
+    {
+      "keyword": "농식품 산업",
+      "count": 1
+    },
+    {
+      "keyword": "실무 중심 프로그램",
+      "count": 1
+    },
+    {
+      "keyword": "수산물 소스",
+      "count": 1
+    },
+    {
+      "keyword": "간편식 소스",
+      "count": 1
+    },
+    {
+      "keyword": "공동 개발",
+      "count": 1
+    },
+    {
+      "keyword": "저도수 하이볼",
+      "count": 1
+    },
+    {
+      "keyword": "워터젤리",
+      "count": 1
+    },
+    {
+      "keyword": "닭가슴살",
+      "count": 1
+    },
+    {
+      "keyword": "소스",
+      "count": 1
+    },
+    {
+      "keyword": "과일농축액",
+      "count": 1
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "식단 관리",
+      "count": 1
+    },
+    {
+      "keyword": "영양 보충",
+      "count": 1
+    },
+    {
+      "keyword": "베리류",
+      "count": 1
+    },
+    {
+      "keyword": "씨앗류",
+      "count": 1
+    },
+    {
+      "keyword": "섬유질",
+      "count": 1
+    },
+    {
+      "keyword": "단백질",
+      "count": 1
+    },
+    {
+      "keyword": "식단 다양성",
+      "count": 1
+    },
+    {
+      "keyword": "한우",
+      "count": 1
+    },
+    {
+      "keyword": "가지",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "K-뷰티": 1,
-    "글로벌 수출": 1,
-    "소비자 트렌드": 1,
-    "가격 경쟁력": 1,
-    "K-브랜드": 1,
-    "해외 시장": 1,
-    "웰니스 트렌드": 1,
-    "저당 소비": 1,
-    "저당 소스": 1,
-    "저당 드레싱": 1,
-    "식품 신제품": 1,
-    "Vitafoods Asia": 1,
-    "건강기능식품 산업": 1,
-    "뉴트라슈티컬 트렌드": 1,
-    "세대별 트렌드": 1,
-    "기능성 식품": 1,
-    "수출": 1
+    "수출": 2,
+    "K-FOOD 아카데미": 1,
+    "AI 디지털 전략": 1,
+    "농식품 산업": 1,
+    "실무 중심 프로그램": 1,
+    "수산물 소스": 1,
+    "간편식 소스": 1,
+    "공동 개발": 1,
+    "저도수 하이볼": 1,
+    "워터젤리": 1,
+    "닭가슴살": 1,
+    "소스": 1,
+    "과일농축액": 1,
+    "위고비": 1,
+    "마운자로": 1,
+    "GLP-1": 1,
+    "식단 관리": 1,
+    "영양 보충": 1,
+    "베리류": 1,
+    "씨앗류": 1,
+    "섬유질": 1,
+    "단백질": 1,
+    "식단 다양성": 1,
+    "한우": 1,
+    "가지": 1
   },
   "category_totals": {
-    "market": 1,
-    "consumer": 1,
-    "ingredient": 1,
-    "other": 74
+    "market": 2,
+    "ingredient": 4,
+    "product": 6,
+    "other": 41
   },
   "highlighted_articles": [
     {
@@ -630,7 +671,8 @@
     "2026-08-18": 68,
     "2026-08-19": 83,
     "2026-08-20": 94,
-    "2026-08-21": 77
+    "2026-08-21": 77,
+    "2026-08-22": 53
   },
   "ai_summary": null
 }
