@@ -2,149 +2,150 @@
   "week_id": "2026-W34",
   "start_date": "2026-08-17",
   "end_date": "2026-08-23",
-  "total_articles": 425,
+  "total_articles": 456,
   "days_included": [
     "2026-08-17",
     "2026-08-18",
     "2026-08-19",
     "2026-08-20",
     "2026-08-21",
-    "2026-08-22"
+    "2026-08-22",
+    "2026-08-23"
   ],
   "top_keywords": [
     {
-      "keyword": "수출",
+      "keyword": "마라 소스",
+      "count": 3
+    },
+    {
+      "keyword": "떡볶이",
+      "count": 3
+    },
+    {
+      "keyword": "풀토핑",
       "count": 2
     },
     {
-      "keyword": "K-FOOD 아카데미",
+      "keyword": "들깨가루",
+      "count": 2
+    },
+    {
+      "keyword": "분모자",
+      "count": 2
+    },
+    {
+      "keyword": "가성비",
       "count": 1
     },
     {
-      "keyword": "AI 디지털 전략",
+      "keyword": "편의점",
       "count": 1
     },
     {
-      "keyword": "농식품 산업",
+      "keyword": "웰니스 트렌드",
       "count": 1
     },
     {
-      "keyword": "실무 중심 프로그램",
+      "keyword": "건강기능식품",
       "count": 1
     },
     {
-      "keyword": "수산물 소스",
+      "keyword": "수출 시장",
       "count": 1
     },
     {
-      "keyword": "간편식 소스",
+      "keyword": "중국 시장",
       "count": 1
     },
     {
-      "keyword": "공동 개발",
+      "keyword": "건강 지향",
       "count": 1
     },
     {
-      "keyword": "저도수 하이볼",
+      "keyword": "대용량",
       "count": 1
     },
     {
-      "keyword": "워터젤리",
+      "keyword": "편의점 HMR",
       "count": 1
     },
     {
-      "keyword": "닭가슴살",
+      "keyword": "CU",
       "count": 1
     },
     {
-      "keyword": "소스",
+      "keyword": "1.5인분",
       "count": 1
     },
     {
-      "keyword": "과일농축액",
+      "keyword": "냉장분식",
       "count": 1
     },
     {
-      "keyword": "위고비",
+      "keyword": "순대",
       "count": 1
     },
     {
-      "keyword": "마운자로",
+      "keyword": "납작당면",
       "count": 1
     },
     {
-      "keyword": "GLP-1",
+      "keyword": "K-푸드",
       "count": 1
     },
     {
-      "keyword": "식단 관리",
+      "keyword": "북미 시장",
       "count": 1
     },
     {
-      "keyword": "영양 보충",
+      "keyword": "현지 생산",
       "count": 1
     },
     {
-      "keyword": "베리류",
+      "keyword": "TBK 소스",
       "count": 1
     },
     {
-      "keyword": "씨앗류",
+      "keyword": "비건 김치",
       "count": 1
     },
     {
-      "keyword": "섬유질",
-      "count": 1
-    },
-    {
-      "keyword": "단백질",
-      "count": 1
-    },
-    {
-      "keyword": "식단 다양성",
-      "count": 1
-    },
-    {
-      "keyword": "한우",
-      "count": 1
-    },
-    {
-      "keyword": "가지",
+      "keyword": "미국 소비 트렌드",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "수출": 2,
-    "K-FOOD 아카데미": 1,
-    "AI 디지털 전략": 1,
-    "농식품 산업": 1,
-    "실무 중심 프로그램": 1,
-    "수산물 소스": 1,
-    "간편식 소스": 1,
-    "공동 개발": 1,
-    "저도수 하이볼": 1,
-    "워터젤리": 1,
-    "닭가슴살": 1,
-    "소스": 1,
-    "과일농축액": 1,
-    "위고비": 1,
-    "마운자로": 1,
-    "GLP-1": 1,
-    "식단 관리": 1,
-    "영양 보충": 1,
-    "베리류": 1,
-    "씨앗류": 1,
-    "섬유질": 1,
-    "단백질": 1,
-    "식단 다양성": 1,
-    "한우": 1,
-    "가지": 1
+    "마라 소스": 3,
+    "떡볶이": 3,
+    "풀토핑": 2,
+    "들깨가루": 2,
+    "분모자": 2,
+    "가성비": 1,
+    "편의점": 1,
+    "웰니스 트렌드": 1,
+    "건강기능식품": 1,
+    "수출 시장": 1,
+    "중국 시장": 1,
+    "건강 지향": 1,
+    "대용량": 1,
+    "편의점 HMR": 1,
+    "CU": 1,
+    "1.5인분": 1,
+    "냉장분식": 1,
+    "순대": 1,
+    "납작당면": 1,
+    "K-푸드": 1,
+    "북미 시장": 1,
+    "현지 생산": 1,
+    "TBK 소스": 1,
+    "비건 김치": 1,
+    "미국 소비 트렌드": 1
   },
   "category_totals": {
-    "market": 2,
-    "ingredient": 4,
     "product": 6,
-    "other": 41
+    "consumer": 5,
+    "market": 1,
+    "other": 19
   },
   "highlighted_articles": [
     {
@@ -672,7 +673,8 @@
     "2026-08-19": 83,
     "2026-08-20": 94,
     "2026-08-21": 77,
-    "2026-08-22": 53
+    "2026-08-22": 53,
+    "2026-08-23": 31
   },
   "ai_summary": null
 }
