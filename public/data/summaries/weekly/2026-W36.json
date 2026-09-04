@@ -2,148 +2,150 @@
   "week_id": "2026-W36",
   "start_date": "2026-08-31",
   "end_date": "2026-09-06",
-  "total_articles": 304,
+  "total_articles": 393,
   "days_included": [
     "2026-08-31",
     "2026-09-01",
     "2026-09-02",
-    "2026-09-03"
+    "2026-09-03",
+    "2026-09-04"
   ],
   "top_keywords": [
     {
-      "keyword": "크로켓",
-      "count": 2
+      "keyword": "오뚜기",
+      "count": 3
     },
     {
-      "keyword": "카레 소스",
-      "count": 2
+      "keyword": "타바스코",
+      "count": 3
     },
     {
-      "keyword": "풍미",
-      "count": 2
+      "keyword": "타코부스",
+      "count": 3
     },
     {
       "keyword": "신제품",
+      "count": 3
+    },
+    {
+      "keyword": "간편식",
+      "count": 3
+    },
+    {
+      "keyword": "혼웰식",
       "count": 2
     },
     {
-      "keyword": "북유럽 요리",
+      "keyword": "HMR",
+      "count": 2
+    },
+    {
+      "keyword": "순대국",
+      "count": 2
+    },
+    {
+      "keyword": "웰니스",
+      "count": 2
+    },
+    {
+      "keyword": "멕시칸 푸드",
+      "count": 2
+    },
+    {
+      "keyword": "핫소스",
+      "count": 2
+    },
+    {
+      "keyword": "팝업 스토어",
+      "count": 2
+    },
+    {
+      "keyword": "치폴레 살사",
       "count": 1
     },
     {
-      "keyword": "발효",
+      "keyword": "다이닝브랜즈그룹",
       "count": 1
     },
     {
-      "keyword": "해산물 소스",
+      "keyword": "큰맘할매순대국",
       "count": 1
     },
     {
-      "keyword": "새콤한 소스",
+      "keyword": "외식 트렌드",
       "count": 1
     },
     {
-      "keyword": "김 퓨레",
+      "keyword": "추석 선물",
       "count": 1
     },
     {
-      "keyword": "염장",
+      "keyword": "프리미엄 식품",
       "count": 1
     },
     {
-      "keyword": "미래 헬스케어",
+      "keyword": "소비 트렌드",
       "count": 1
     },
     {
-      "keyword": "의료 AI",
+      "keyword": "유기농",
       "count": 1
     },
     {
-      "keyword": "식품의약품안전처",
+      "keyword": "동물복지",
       "count": 1
     },
     {
-      "keyword": "디지털 의료기기",
+      "keyword": "타바스코 살사 피칸테",
       "count": 1
     },
     {
-      "keyword": "AI 허가",
+      "keyword": "멕시칸 스타일 핫소스",
       "count": 1
     },
     {
-      "keyword": "AI 기술",
+      "keyword": "토마토 살사",
       "count": 1
     },
     {
-      "keyword": "에너지 효율",
-      "count": 1
-    },
-    {
-      "keyword": "스마트 키친",
-      "count": 1
-    },
-    {
-      "keyword": "유럽 시장",
-      "count": 1
-    },
-    {
-      "keyword": "파리바게뜨",
-      "count": 1
-    },
-    {
-      "keyword": "겉바속쫄",
-      "count": 1
-    },
-    {
-      "keyword": "식감",
-      "count": 1
-    },
-    {
-      "keyword": "식품문화축제",
-      "count": 1
-    },
-    {
-      "keyword": "개별관광객",
-      "count": 1
-    },
-    {
-      "keyword": "유통트렌드",
+      "keyword": "튀긴 닭다리살",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "크로켓": 2,
-    "카레 소스": 2,
-    "풍미": 2,
-    "신제품": 2,
-    "북유럽 요리": 1,
-    "발효": 1,
-    "해산물 소스": 1,
-    "새콤한 소스": 1,
-    "김 퓨레": 1,
-    "염장": 1,
-    "미래 헬스케어": 1,
-    "의료 AI": 1,
-    "식품의약품안전처": 1,
-    "디지털 의료기기": 1,
-    "AI 허가": 1,
-    "AI 기술": 1,
-    "에너지 효율": 1,
-    "스마트 키친": 1,
-    "유럽 시장": 1,
-    "파리바게뜨": 1,
-    "겉바속쫄": 1,
-    "식감": 1,
-    "식품문화축제": 1,
-    "개별관광객": 1,
-    "유통트렌드": 1
+    "오뚜기": 3,
+    "타바스코": 3,
+    "타코부스": 3,
+    "신제품": 3,
+    "간편식": 3,
+    "혼웰식": 2,
+    "HMR": 2,
+    "순대국": 2,
+    "웰니스": 2,
+    "멕시칸 푸드": 2,
+    "핫소스": 2,
+    "팝업 스토어": 2,
+    "치폴레 살사": 1,
+    "다이닝브랜즈그룹": 1,
+    "큰맘할매순대국": 1,
+    "외식 트렌드": 1,
+    "추석 선물": 1,
+    "프리미엄 식품": 1,
+    "소비 트렌드": 1,
+    "유기농": 1,
+    "동물복지": 1,
+    "타바스코 살사 피칸테": 1,
+    "멕시칸 스타일 핫소스": 1,
+    "토마토 살사": 1,
+    "튀긴 닭다리살": 1
   },
   "category_totals": {
-    "product": 3,
-    "regulation": 1,
-    "other": 68,
-    "market": 1,
-    "consumer": 3
+    "product": 9,
+    "consumer": 4,
+    "market": 2,
+    "other": 65,
+    "ingredient": 2,
+    "manufacturing": 7
   },
   "highlighted_articles": [
     {
@@ -682,7 +684,8 @@
     "2026-08-31": 69,
     "2026-09-01": 81,
     "2026-09-02": 78,
-    "2026-09-03": 76
+    "2026-09-03": 76,
+    "2026-09-04": 89
   },
   "ai_summary": null
 }
