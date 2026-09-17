@@ -2,147 +2,17 @@
   "week_id": "2026-W38",
   "start_date": "2026-09-14",
   "end_date": "2026-09-20",
-  "total_articles": 248,
+  "total_articles": 332,
   "days_included": [
     "2026-09-14",
     "2026-09-15",
-    "2026-09-16"
+    "2026-09-16",
+    "2026-09-17"
   ],
-  "top_keywords": [
-    {
-      "keyword": "저당",
-      "count": 3
-    },
-    {
-      "keyword": "고추장 버터 소스",
-      "count": 2
-    },
-    {
-      "keyword": "한국의 맛",
-      "count": 2
-    },
-    {
-      "keyword": "간장게장",
-      "count": 2
-    },
-    {
-      "keyword": "양념게장",
-      "count": 2
-    },
-    {
-      "keyword": "저칼로리",
-      "count": 2
-    },
-    {
-      "keyword": "퓨전 소스",
-      "count": 1
-    },
-    {
-      "keyword": "아시아 시장 확장",
-      "count": 1
-    },
-    {
-      "keyword": "한국 개발 소스",
-      "count": 1
-    },
-    {
-      "keyword": "글로벌 캠페인",
-      "count": 1
-    },
-    {
-      "keyword": "현지화",
-      "count": 1
-    },
-    {
-      "keyword": "저당/저칼로리",
-      "count": 1
-    },
-    {
-      "keyword": "황치즈맛",
-      "count": 1
-    },
-    {
-      "keyword": "대체 감미료",
-      "count": 1
-    },
-    {
-      "keyword": "단맛 조절",
-      "count": 1
-    },
-    {
-      "keyword": "풍미",
-      "count": 1
-    },
-    {
-      "keyword": "헬시플레저",
-      "count": 1
-    },
-    {
-      "keyword": "저당 초코 소스",
-      "count": 1
-    },
-    {
-      "keyword": "신제품 음료",
-      "count": 1
-    },
-    {
-      "keyword": "추석",
-      "count": 1
-    },
-    {
-      "keyword": "소스류 할인",
-      "count": 1
-    },
-    {
-      "keyword": "굴소스",
-      "count": 1
-    },
-    {
-      "keyword": "장류",
-      "count": 1
-    },
-    {
-      "keyword": "파스타 소스",
-      "count": 1
-    },
-    {
-      "keyword": "케첩",
-      "count": 1
-    }
-  ],
-  "daily_keyword_freq": {
-    "저당": 3,
-    "고추장 버터 소스": 2,
-    "한국의 맛": 2,
-    "간장게장": 2,
-    "양념게장": 2,
-    "저칼로리": 2,
-    "퓨전 소스": 1,
-    "아시아 시장 확장": 1,
-    "한국 개발 소스": 1,
-    "글로벌 캠페인": 1,
-    "현지화": 1,
-    "저당/저칼로리": 1,
-    "황치즈맛": 1,
-    "대체 감미료": 1,
-    "단맛 조절": 1,
-    "풍미": 1,
-    "헬시플레저": 1,
-    "저당 초코 소스": 1,
-    "신제품 음료": 1,
-    "추석": 1,
-    "소스류 할인": 1,
-    "굴소스": 1,
-    "장류": 1,
-    "파스타 소스": 1,
-    "케첩": 1
-  },
+  "top_keywords": [],
+  "daily_keyword_freq": {},
   "category_totals": {
-    "product": 5,
-    "ingredient": 2,
-    "consumer": 1,
-    "market": 2,
-    "other": 81
+    "other": 84
   },
   "highlighted_articles": [
     {
@@ -681,7 +551,8 @@
   "daily_article_counts": {
     "2026-09-14": 77,
     "2026-09-15": 80,
-    "2026-09-16": 91
+    "2026-09-16": 91,
+    "2026-09-17": 84
   },
   "ai_summary": null
 }
