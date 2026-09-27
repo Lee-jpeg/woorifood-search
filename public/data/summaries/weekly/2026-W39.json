@@ -2,149 +2,152 @@
   "week_id": "2026-W39",
   "start_date": "2026-09-21",
   "end_date": "2026-09-27",
-  "total_articles": 383,
+  "total_articles": 445,
   "days_included": [
     "2026-09-21",
     "2026-09-22",
     "2026-09-23",
     "2026-09-24",
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-09-27"
   ],
   "top_keywords": [
     {
-      "keyword": "식물성 단백질",
+      "keyword": "온라인 유통",
+      "count": 4
+    },
+    {
+      "keyword": "특제 소스",
       "count": 3
     },
     {
-      "keyword": "방아 소스",
-      "count": 1
+      "keyword": "신라면",
+      "count": 2
     },
     {
-      "keyword": "발효장",
-      "count": 1
+      "keyword": "용기면",
+      "count": 2
     },
     {
-      "keyword": "숙성",
-      "count": 1
+      "keyword": "쿠팡",
+      "count": 2
     },
     {
-      "keyword": "프리미엄 소스",
-      "count": 1
+      "keyword": "프리미엄 식품",
+      "count": 2
     },
     {
-      "keyword": "고단백",
-      "count": 1
+      "keyword": "프리미엄 푸드",
+      "count": 2
     },
     {
-      "keyword": "항염증",
-      "count": 1
+      "keyword": "소스류",
+      "count": 2
     },
     {
-      "keyword": "소스 침투력",
-      "count": 1
+      "keyword": "비건",
+      "count": 2
     },
     {
-      "keyword": "간편식",
-      "count": 1
+      "keyword": "신제품",
+      "count": 2
     },
     {
-      "keyword": "양념 맛",
-      "count": 1
-    },
-    {
-      "keyword": "단백질 음료",
-      "count": 1
-    },
-    {
-      "keyword": "씨앗 유래 단백질",
-      "count": 1
+      "keyword": "파일럿 키친",
+      "count": 2
     },
     {
       "keyword": "식이섬유",
+      "count": 2
+    },
+    {
+      "keyword": "멕시코 소비자 트렌드",
       "count": 1
     },
     {
-      "keyword": "곡물 토핑",
+      "keyword": "K-컬처",
       "count": 1
     },
     {
-      "keyword": "일상식",
+      "keyword": "글로벌 유통",
       "count": 1
     },
     {
-      "keyword": "당케어",
+      "keyword": "소스",
       "count": 1
     },
     {
-      "keyword": "MZ세대",
+      "keyword": "양념류",
       "count": 1
     },
     {
-      "keyword": "스틱 파우치",
+      "keyword": "전자상거래",
       "count": 1
     },
     {
-      "keyword": "편의성",
+      "keyword": "장류",
       "count": 1
     },
     {
-      "keyword": "휴대성",
+      "keyword": "기획전",
       "count": 1
     },
     {
-      "keyword": "데스크 다이닝",
+      "keyword": "멕시코",
       "count": 1
     },
     {
-      "keyword": "건강식 샐러드",
+      "keyword": "농심",
       "count": 1
     },
     {
-      "keyword": "고추장 양념",
+      "keyword": "샘스클럽",
       "count": 1
     },
     {
-      "keyword": "푸드 트렌드",
+      "keyword": "유통망 확대",
       "count": 1
     },
     {
-      "keyword": "직장인 식단",
+      "keyword": "K-컬쳐",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "식물성 단백질": 3,
-    "방아 소스": 1,
-    "발효장": 1,
-    "숙성": 1,
-    "프리미엄 소스": 1,
-    "고단백": 1,
-    "항염증": 1,
-    "소스 침투력": 1,
-    "간편식": 1,
-    "양념 맛": 1,
-    "단백질 음료": 1,
-    "씨앗 유래 단백질": 1,
-    "식이섬유": 1,
-    "곡물 토핑": 1,
-    "일상식": 1,
-    "당케어": 1,
-    "MZ세대": 1,
-    "스틱 파우치": 1,
-    "편의성": 1,
-    "휴대성": 1,
-    "데스크 다이닝": 1,
-    "건강식 샐러드": 1,
-    "고추장 양념": 1,
-    "푸드 트렌드": 1,
-    "직장인 식단": 1
+    "온라인 유통": 4,
+    "특제 소스": 3,
+    "신라면": 2,
+    "용기면": 2,
+    "쿠팡": 2,
+    "프리미엄 식품": 2,
+    "프리미엄 푸드": 2,
+    "소스류": 2,
+    "비건": 2,
+    "신제품": 2,
+    "파일럿 키친": 2,
+    "식이섬유": 2,
+    "멕시코 소비자 트렌드": 1,
+    "K-컬처": 1,
+    "글로벌 유통": 1,
+    "소스": 1,
+    "양념류": 1,
+    "전자상거래": 1,
+    "장류": 1,
+    "기획전": 1,
+    "멕시코": 1,
+    "농심": 1,
+    "샘스클럽": 1,
+    "유통망 확대": 1,
+    "K-컬쳐": 1
   },
   "category_totals": {
-    "ingredient": 5,
-    "product": 2,
-    "consumer": 3,
-    "other": 31
+    "consumer": 4,
+    "market": 7,
+    "other": 41,
+    "product": 5,
+    "ingredient": 2,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -704,7 +707,8 @@
     "2026-09-23": 79,
     "2026-09-24": 71,
     "2026-09-25": 45,
-    "2026-09-26": 41
+    "2026-09-26": 41,
+    "2026-09-27": 62
   },
   "ai_summary": null
 }
