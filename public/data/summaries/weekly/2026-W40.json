@@ -2,145 +2,94 @@
   "week_id": "2026-W40",
   "start_date": "2026-09-28",
   "end_date": "2026-10-04",
-  "total_articles": 63,
+  "total_articles": 139,
   "days_included": [
-    "2026-09-28"
+    "2026-09-28",
+    "2026-09-29"
   ],
   "top_keywords": [
     {
-      "keyword": "특제 소스",
-      "count": 3
-    },
-    {
-      "keyword": "파일럿 키친",
+      "keyword": "농식품 투자 트렌드",
       "count": 2
     },
     {
-      "keyword": "델리",
+      "keyword": "애그테크",
       "count": 2
     },
     {
-      "keyword": "간편식",
-      "count": 2
-    },
-    {
-      "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "냉동면밀키트",
-      "count": 2
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "올리브영",
+      "keyword": "SIAL Paris",
       "count": 1
     },
     {
-      "keyword": "협업",
+      "keyword": "식품박람회",
       "count": 1
     },
     {
-      "keyword": "캐릭터",
+      "keyword": "글로벌 시장",
       "count": 1
     },
     {
-      "keyword": "팬덤",
+      "keyword": "수출 상담",
       "count": 1
     },
     {
-      "keyword": "식품",
+      "keyword": "식품 트렌드",
       "count": 1
     },
     {
-      "keyword": "산리오",
+      "keyword": "저속노화 식사법",
       "count": 1
     },
     {
-      "keyword": "트렌드팟",
+      "keyword": "케어푸드",
       "count": 1
     },
     {
-      "keyword": "체험",
+      "keyword": "건강관리 트렌드",
       "count": 1
     },
     {
-      "keyword": "식품 부산물",
+      "keyword": "스마트 애그리테크",
       "count": 1
     },
     {
-      "keyword": "고부가가치화",
+      "keyword": "시장 기회",
       "count": 1
     },
     {
-      "keyword": "기능성 소재",
+      "keyword": "글로벌 진출",
       "count": 1
     },
     {
-      "keyword": "탄수화물 소재",
+      "keyword": "해외 투자 유치",
       "count": 1
     },
     {
-      "keyword": "전통장",
-      "count": 1
-    },
-    {
-      "keyword": "MZ세대",
-      "count": 1
-    },
-    {
-      "keyword": "디저트",
-      "count": 1
-    },
-    {
-      "keyword": "신상품 검증",
-      "count": 1
-    },
-    {
-      "keyword": "가정간편식(HMR)",
-      "count": 1
-    },
-    {
-      "keyword": "K소스",
+      "keyword": "SMART AGRITECH",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "특제 소스": 3,
-    "파일럿 키친": 2,
-    "델리": 2,
-    "간편식": 2,
-    "저당": 2,
-    "냉동면밀키트": 2,
-    "소비 트렌드": 2,
-    "올리브영": 1,
-    "협업": 1,
-    "캐릭터": 1,
-    "팬덤": 1,
-    "식품": 1,
-    "산리오": 1,
-    "트렌드팟": 1,
-    "체험": 1,
-    "식품 부산물": 1,
-    "고부가가치화": 1,
-    "기능성 소재": 1,
-    "탄수화물 소재": 1,
-    "전통장": 1,
-    "MZ세대": 1,
-    "디저트": 1,
-    "신상품 검증": 1,
-    "가정간편식(HMR)": 1,
-    "K소스": 1
+    "농식품 투자 트렌드": 2,
+    "애그테크": 2,
+    "SIAL Paris": 1,
+    "식품박람회": 1,
+    "글로벌 시장": 1,
+    "수출 상담": 1,
+    "식품 트렌드": 1,
+    "저속노화 식사법": 1,
+    "케어푸드": 1,
+    "건강관리 트렌드": 1,
+    "스마트 애그리테크": 1,
+    "시장 기회": 1,
+    "글로벌 진출": 1,
+    "해외 투자 유치": 1,
+    "SMART AGRITECH": 1
   },
   "category_totals": {
     "market": 3,
-    "ingredient": 3,
-    "product": 8,
-    "other": 47,
-    "consumer": 2
+    "consumer": 1,
+    "other": 72
   },
   "highlighted_articles": [
     {
@@ -471,10 +420,100 @@
         "감자"
       ],
       "actionable_insight": "R&D팀은 '파일럿 키친'에서 특제 소스의 다양한 맛 프로파일(맵기, 감칠맛 등)에 대한 소비자 선호도를 면밀히 분석하고, 해물찜 외 확장성을 고려한 범용성 높은 소스 개발에 집중해야 합니다."
+    },
+    {
+      "id": "57536524c2a4",
+      "title": "농심, 세계 최대 식품박람회 '시알 파리 2026' 참가",
+      "url": "https://n.news.naver.com/mnews/article/108/0003474495?sid=004",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-09-29T12:34:00+09:00",
+      "content": "시알 파리는 1964년 시작해 2년마다 열리는 글로벌 식품 전문 박람회로, 세계 각국의 식품기업과 유통 바이어가 한자리에 모여 제품 홍보와 수출 상담, 식품산업의 새로운 트렌드를 경험하는 자리다. 본지와 전화... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "SIAL Paris",
+        "식품박람회",
+        "글로벌 시장",
+        "수출 상담",
+        "식품 트렌드"
+      ],
+      "summary": "농심의 시알 파리 2026 참가는 소스·양념 R&D 팀에게 글로벌 시장의 최신 트렌드와 혁신 동향을 파악할 중요한 기회를 제공한다. 전 세계 바이어와의 교류를 통해 수출 잠재력이 있는 소스 제품군을 탐색하고, 경쟁사 신제품을 벤치마킹하여 미래 개발 방향을 설정할 수 있다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "SIAL Paris 2026 참가를 통해 글로벌 소스·양념 시장의 신규 트렌드, 혁신적인 맛 프로파일, 그리고 수출 기회 발굴을 위한 경쟁사 제품 동향을 면밀히 분석해야 한다."
+    },
+    {
+      "id": "3abb3d584c17",
+      "title": "“저속노화 식사법 103가지 알려드립니다”… 현대그린푸드, 가이드북 ...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002821898?sid=101",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-09-29T12:06:00+09:00",
+      "content": "건강관리 트렌드다. 이번 책에는 현대그린푸드 케어푸드 브랜드 ‘그리팅’의 핵심 연구 부서인 헬스케어랩과 그리팅랩 연구원 30여 명이 집필에 참여했다. 헬스케어랩은 식품 영양 데이터와 웰니스 솔루션을... ",
+      "search_keyword": "식품 트렌드",
+      "category": "consumer",
+      "keywords": [
+        "저속노화 식사법",
+        "케어푸드",
+        "건강관리 트렌드"
+      ],
+      "summary": "현대그린푸드가 케어푸드 브랜드 '그리팅'을 통해 '저속노화 식사법' 가이드북을 출간하며 건강관리 트렌드에 적극 대응하고 있습니다. 이는 소비자들이 건강을 위한 식단에 큰 관심을 보이면서, 소스·양념류 역시 특정 기능성(예: 저염, 항산화)을 강조하거나 웰니스 솔루션의 일부로 포지셔닝할 기회가 커지고 있음을 시사합니다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "저속노화 및 케어푸드 트렌드에 발맞춰, 소스·양념류 R&D팀은 기능성 원료를 활용한 건강 친화적 레시피 개발 및 영양 설계에 집중해야 합니다."
+    },
+    {
+      "id": "dc2d0bb5f1fd",
+      "title": "블리스바인벤처스, '2026 SMART AGRITECH: GLOBAL NETWORKING DAY' 주관…글...",
+      "url": "https://www.gokorea.kr/news/articleView.html?idxno=879918",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-09-29T11:58:00+09:00",
+      "content": "이어 트리거투자파트너스 서원일 대표가 '최신 농식품 투자 트렌드와 시장 기회'를 발제하며 애그테크 투자 동향을 분석했다. 두 연사는 패널토론을 통해 해외 투자 유치 실무 전략을 논의했다. 투자 상담... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "애그테크",
+        "농식품 투자 트렌드",
+        "해외 투자 유치",
+        "SMART AGRITECH"
+      ],
+      "summary": "블리스바인벤처스 주관 행사에서 최신 농식품 투자 트렌드와 애그테크 동향이 논의되었다. 소스·양념류 R&D 관점에서는 애그테크 발전이 미래 원료 수급의 다양성 및 지속가능성을 높이는 기회가 될 수 있음을 시사한다.",
+      "relevance_score": 8,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "R&D팀은 애그테크 기술 발전에 따른 혁신적인 농식품 원료의 등장을 주시하고, 이를 활용한 차별화된 소스·양념류 개발 기회를 모색해야 한다."
+    },
+    {
+      "id": "402f959805ff",
+      "title": "블리스바인벤처스, '2026 SMART AGRITECH: GLOBAL NETWORKING DAY' 성료",
+      "url": "http://www.e2news.com/news/articleView.html?idxno=334641",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-09-29T12:00:00+09:00",
+      "content": "이어 트리거투자파트너스 서원일 대표가 '최신 농식품 투자 트렌드와 시장 기회'를 주제로 농식품·애그테크 분야의 투자 환경과 사업화 기회를 짚었다. 두 연사는 이어진 패널토론에서 글로벌 진출과 해외... ",
+      "search_keyword": "식품 트렌드",
+      "category": "market",
+      "keywords": [
+        "스마트 애그리테크",
+        "농식품 투자 트렌드",
+        "시장 기회",
+        "애그테크",
+        "글로벌 진출"
+      ],
+      "summary": "본 기사는 농식품 및 애그리테크 분야의 최신 투자 트렌드와 시장 기회를 다루며, 스마트 애그리테크의 성장과 글로벌 진출 가능성을 강조합니다. 소스·양념류 R&D 관점에서는, 미래의 혁신적인 원료 조달 방식이나 지속가능한 생산 기술에 대한 투자 동향을 파악하고 이를 제품 개발에 연결할 기회를 모색해야 합니다.",
+      "relevance_score": 7,
+      "trend_signal": "rising",
+      "key_ingredients": [],
+      "actionable_insight": "R&D팀은 스마트 애그리테크 분야의 투자 동향을 주시하며, 소스·양념류에 적용 가능한 신규 원료 공급원이나 생산 효율을 높일 수 있는 기술 발굴에 초점을 맞춰야 합니다."
     }
   ],
   "daily_article_counts": {
-    "2026-09-28": 63
+    "2026-09-28": 63,
+    "2026-09-29": 76
   },
   "ai_summary": null
 }
