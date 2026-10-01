@@ -2,149 +2,180 @@
   "week_id": "2026-W40",
   "start_date": "2026-09-28",
   "end_date": "2026-10-04",
-  "total_articles": 233,
+  "total_articles": 321,
   "days_included": [
     "2026-09-28",
     "2026-09-29",
-    "2026-09-30"
+    "2026-09-30",
+    "2026-10-01"
   ],
   "top_keywords": [
     {
-      "keyword": "저당 소스",
-      "count": 7
-    },
-    {
-      "keyword": "웰니스 소스",
-      "count": 7
-    },
-    {
-      "keyword": "K-소스",
-      "count": 5
-    },
-    {
-      "keyword": "B2B 소스",
-      "count": 5
-    },
-    {
-      "keyword": "파스타소스",
+      "keyword": "K-푸드",
       "count": 4
     },
     {
-      "keyword": "레디밀 소스",
+      "keyword": "간편식",
       "count": 4
     },
     {
-      "keyword": "단백질",
+      "keyword": "식물성 단백질",
       "count": 2
     },
     {
-      "keyword": "농식품 가공",
+      "keyword": "어린이 식생활",
       "count": 2
     },
     {
-      "keyword": "지역 농산물",
+      "keyword": "저당",
       "count": 2
     },
     {
-      "keyword": "상품화 전략",
+      "keyword": "저염",
       "count": 2
     },
     {
-      "keyword": "패키지 리뉴얼",
+      "keyword": "가공식품",
       "count": 2
     },
     {
-      "keyword": "토마토",
+      "keyword": "롯데마트",
       "count": 2
     },
     {
-      "keyword": "청정원",
+      "keyword": "수출",
       "count": 2
     },
     {
-      "keyword": "K소스",
+      "keyword": "사업 확장",
       "count": 2
     },
     {
-      "keyword": "레디밀",
-      "count": 2
-    },
-    {
-      "keyword": "신제품",
-      "count": 2
-    },
-    {
-      "keyword": "기능성 식품",
+      "keyword": "유한양행",
       "count": 1
     },
     {
-      "keyword": "식물성 오메가-3",
+      "keyword": "현대홈쇼핑",
       "count": 1
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "코아시스",
       "count": 1
     },
     {
-      "keyword": "여성 건강",
+      "keyword": "헬스&뷰티",
       "count": 1
     },
     {
-      "keyword": "농심",
+      "keyword": "건강기능식품",
       "count": 1
     },
     {
-      "keyword": "너구링",
+      "keyword": "스킨케어",
       "count": 1
     },
     {
-      "keyword": "모디슈머",
+      "keyword": "비건 뷰티",
       "count": 1
     },
     {
-      "keyword": "크로스오버 맛",
+      "keyword": "맞춤형",
       "count": 1
     },
     {
-      "keyword": "소스",
+      "keyword": "비비고 김밥",
+      "count": 1
+    },
+    {
+      "keyword": "불고기맛",
+      "count": 1
+    },
+    {
+      "keyword": "매운 불고기맛",
+      "count": 1
+    },
+    {
+      "keyword": "CJ제일제당",
+      "count": 1
+    },
+    {
+      "keyword": "식품 이화학적 품질관리",
+      "count": 1
+    },
+    {
+      "keyword": "식품 가공학",
+      "count": 1
+    },
+    {
+      "keyword": "실습 프로그램",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "저당 소스": 7,
-    "웰니스 소스": 7,
-    "K-소스": 5,
-    "B2B 소스": 5,
-    "파스타소스": 4,
-    "레디밀 소스": 4,
-    "단백질": 2,
-    "농식품 가공": 2,
-    "지역 농산물": 2,
-    "상품화 전략": 2,
-    "패키지 리뉴얼": 2,
-    "토마토": 2,
-    "청정원": 2,
-    "K소스": 2,
-    "레디밀": 2,
-    "신제품": 2,
-    "기능성 식품": 1,
-    "식물성 오메가-3": 1,
-    "건강 트렌드": 1,
-    "여성 건강": 1,
-    "농심": 1,
-    "너구링": 1,
-    "모디슈머": 1,
-    "크로스오버 맛": 1,
-    "소스": 1
+    "K-푸드": 4,
+    "간편식": 4,
+    "식물성 단백질": 2,
+    "어린이 식생활": 2,
+    "저당": 2,
+    "저염": 2,
+    "가공식품": 2,
+    "롯데마트": 2,
+    "수출": 2,
+    "사업 확장": 2,
+    "유한양행": 1,
+    "현대홈쇼핑": 1,
+    "코아시스": 1,
+    "헬스&뷰티": 1,
+    "건강기능식품": 1,
+    "스킨케어": 1,
+    "비건 뷰티": 1,
+    "맞춤형": 1,
+    "비비고 김밥": 1,
+    "불고기맛": 1,
+    "매운 불고기맛": 1,
+    "CJ제일제당": 1,
+    "식품 이화학적 품질관리": 1,
+    "식품 가공학": 1,
+    "실습 프로그램": 1
   },
   "category_totals": {
-    "product": 15,
-    "market": 4,
-    "consumer": 2,
-    "other": 72,
-    "ingredient": 1
+    "market": 6,
+    "product": 5,
+    "consumer": 3,
+    "manufacturing": 1,
+    "ingredient": 1,
+    "other": 72
   },
   "highlighted_articles": [
+    {
+      "id": "31d5a05b1858",
+      "title": "허진수·허희수의 삼립 개조…2030년 글로벌 5000억 키운다",
+      "url": "https://www.peoplewatch.co.kr/article/view/ppw202610010002",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-10-01T09:22:00+09:00",
+      "content": "삼립은 샌드위치·샐러드 경쟁력을 강화하고 저당·웰니스 소스 B2B, K소스, 레디밀 등으로 사업 영역을 넓힐 계획이다. 반면 수익성이 낮은 사업은 덜어낸다. 육가공 부문을 B2B 중심으로 재편해 연간 약 25억원의... ",
+      "search_keyword": "저당 소스",
+      "category": "product",
+      "keywords": [
+        "저당 소스",
+        "웰니스 소스",
+        "K소스",
+        "B2B",
+        "사업 확장"
+      ],
+      "summary": "삼립은 저당·웰니스 B2B 소스 및 K소스 개발을 통해 사업 영역을 확장할 계획입니다. 이는 건강 지향 소비 트렌드와 K-푸드의 글로벌 인기에 발맞춰 소스·양념류 시장의 새로운 성장 동력을 확보하려는 전략으로 분석됩니다. 소스 R&D는 이 두 가지 핵심 트렌드를 반영한 제품 개발에 집중해야 합니다.",
+      "relevance_score": 10,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "천연감미료",
+        "발효 원료",
+        "고추장",
+        "간장",
+        "식이섬유"
+      ],
+      "actionable_insight": "B2B 시장을 겨냥한 저당·웰니스 소스 및 글로벌 수요에 맞는 K소스 개발에 집중하여 신규 비즈니스 기회를 창출해야 합니다."
+    },
     {
       "id": "b5b694cb3b49",
       "title": "담양·순창 전통장의 달콤한 변신… 디저트 팝업 '스윗담순' 성료",
@@ -666,35 +697,13 @@
         "한식 전통 원료"
       ],
       "actionable_insight": "R&D팀은 B2B 채널 공급을 목표로 하는 저당 및 웰니스 기능성 K소스 개발에 우선순위를 두어 신규 시장 경쟁력을 확보해야 한다."
-    },
-    {
-      "id": "1d55b80c9976",
-      "title": "삼립, 18개월 수익성 개선…2030년 매출 2조1107억원 목표",
-      "url": "https://www.seoultimes.news/news/article.html?no=2000100393",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-09-30T11:25:00+09:00",
-      "content": "샌드위치와 샐러드 시장의 1위 지위를 강화하고 저당·웰니스 소스 B2B 공급, K-소스, 레디밀 등으로 영역을 넓힌다. 육가공은 B2B 채널에 집중한다. 연간 약 25억원의 손익 개선을 예상하고 있다. 비핵심 사업 정리 등을... ",
-      "search_keyword": "저당 소스",
-      "category": "product",
-      "keywords": [
-        "저당 소스",
-        "웰니스 소스",
-        "B2B 소스",
-        "K-소스",
-        "레디밀 소스"
-      ],
-      "summary": "삼립은 샌드위치 및 샐러드 시장 1위 지위 강화를 목표로, 저당·웰니스 B2B 소스 공급 및 K-소스를 포함한 레디밀 분야로 사업 영역을 확장할 계획이다. 이는 건강 지향적이고 글로벌 트렌드를 반영한 소스 제품 개발의 중요성을 강조한다.",
-      "relevance_score": 9,
-      "trend_signal": "rising",
-      "key_ingredients": [],
-      "actionable_insight": "저당 및 웰니스 기능을 갖춘 B2B 소스와 글로벌 K-소스 트렌드에 맞는 혁신적인 제품 개발에 R&D 역량을 집중해야 한다."
     }
   ],
   "daily_article_counts": {
     "2026-09-28": 63,
     "2026-09-29": 76,
-    "2026-09-30": 94
+    "2026-09-30": 94,
+    "2026-10-01": 88
   },
   "ai_summary": null
 }
