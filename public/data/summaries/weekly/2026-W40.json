@@ -2,149 +2,152 @@
   "week_id": "2026-W40",
   "start_date": "2026-09-28",
   "end_date": "2026-10-04",
-  "total_articles": 403,
+  "total_articles": 467,
   "days_included": [
     "2026-09-28",
     "2026-09-29",
     "2026-09-30",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-03"
   ],
   "top_keywords": [
     {
-      "keyword": "소비 트렌드",
-      "count": 4
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 3
-    },
-    {
-      "keyword": "저당",
+      "keyword": "신제품",
       "count": 2
     },
     {
-      "keyword": "간장 양념",
-      "count": 2
+      "keyword": "비건 인증",
+      "count": 1
     },
     {
-      "keyword": "젊은 고객",
-      "count": 2
+      "keyword": "표시 기준",
+      "count": 1
     },
     {
-      "keyword": "들기름",
-      "count": 2
+      "keyword": "소비자 신뢰",
+      "count": 1
     },
     {
-      "keyword": "가공식품",
-      "count": 2
+      "keyword": "비건 표시",
+      "count": 1
+    },
+    {
+      "keyword": "동물성 원료",
+      "count": 1
+    },
+    {
+      "keyword": "식약처 가이드라인",
+      "count": 1
+    },
+    {
+      "keyword": "원재료명",
+      "count": 1
+    },
+    {
+      "keyword": "비건식품",
+      "count": 1
+    },
+    {
+      "keyword": "김밥",
+      "count": 1
     },
     {
       "keyword": "K-푸드",
-      "count": 2
-    },
-    {
-      "keyword": "건강 관리",
       "count": 1
     },
     {
-      "keyword": "식이·영양",
+      "keyword": "참기름",
       "count": 1
     },
     {
-      "keyword": "대용량",
+      "keyword": "AI",
       "count": 1
     },
     {
-      "keyword": "파스타소스",
+      "keyword": "소비자 트렌드 분석",
       "count": 1
     },
     {
-      "keyword": "소스속",
+      "keyword": "신제품 개발",
       "count": 1
     },
     {
-      "keyword": "캐시딜",
+      "keyword": "Food AI 360",
       "count": 1
     },
     {
-      "keyword": "최저가",
+      "keyword": "크림소스 해산물",
       "count": 1
     },
     {
-      "keyword": "소스",
+      "keyword": "식품 페어링",
       "count": 1
     },
     {
-      "keyword": "GLP-1 치료제",
+      "keyword": "말로락틱 발효",
       "count": 1
     },
     {
-      "keyword": "여성 건강",
+      "keyword": "풍미 변화",
       "count": 1
     },
     {
-      "keyword": "건강 트렌드",
+      "keyword": "IPO",
       "count": 1
     },
     {
-      "keyword": "건강기능식품",
+      "keyword": "K-뷰티 수출",
       "count": 1
     },
     {
-      "keyword": "건강수명",
+      "keyword": "식품의약품안전처",
       "count": 1
     },
     {
-      "keyword": "제품 개발",
+      "keyword": "샘표",
       "count": 1
     },
     {
-      "keyword": "헬시플레저",
-      "count": 1
-    },
-    {
-      "keyword": "클린 뉴트리션",
-      "count": 1
-    },
-    {
-      "keyword": "홀블렌딩",
+      "keyword": "연두",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "소비 트렌드": 4,
-    "식물성 단백질": 3,
-    "저당": 2,
-    "간장 양념": 2,
-    "젊은 고객": 2,
-    "들기름": 2,
-    "가공식품": 2,
-    "K-푸드": 2,
-    "건강 관리": 1,
-    "식이·영양": 1,
-    "대용량": 1,
-    "파스타소스": 1,
-    "소스속": 1,
-    "캐시딜": 1,
-    "최저가": 1,
-    "소스": 1,
-    "GLP-1 치료제": 1,
-    "여성 건강": 1,
-    "건강 트렌드": 1,
-    "건강기능식품": 1,
-    "건강수명": 1,
-    "제품 개발": 1,
-    "헬시플레저": 1,
-    "클린 뉴트리션": 1,
-    "홀블렌딩": 1
+    "신제품": 2,
+    "비건 인증": 1,
+    "표시 기준": 1,
+    "소비자 신뢰": 1,
+    "비건 표시": 1,
+    "동물성 원료": 1,
+    "식약처 가이드라인": 1,
+    "원재료명": 1,
+    "비건식품": 1,
+    "김밥": 1,
+    "K-푸드": 1,
+    "참기름": 1,
+    "AI": 1,
+    "소비자 트렌드 분석": 1,
+    "신제품 개발": 1,
+    "Food AI 360": 1,
+    "크림소스 해산물": 1,
+    "식품 페어링": 1,
+    "말로락틱 발효": 1,
+    "풍미 변화": 1,
+    "IPO": 1,
+    "K-뷰티 수출": 1,
+    "식품의약품안전처": 1,
+    "샘표": 1,
+    "연두": 1
   },
   "category_totals": {
-    "product": 10,
-    "consumer": 4,
-    "other": 63,
-    "market": 4,
-    "ingredient": 1
+    "regulation": 2,
+    "product": 8,
+    "consumer": 5,
+    "other": 42,
+    "market": 1,
+    "ingredient": 3,
+    "manufacturing": 3
   },
   "highlighted_articles": [
     {
@@ -704,7 +707,8 @@
     "2026-09-29": 76,
     "2026-09-30": 94,
     "2026-10-01": 88,
-    "2026-10-02": 82
+    "2026-10-02": 82,
+    "2026-10-03": 64
   },
   "ai_summary": null
 }
