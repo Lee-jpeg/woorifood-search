@@ -2,151 +2,149 @@
   "week_id": "2026-W40",
   "start_date": "2026-09-28",
   "end_date": "2026-10-04",
-  "total_articles": 467,
+  "total_articles": 499,
   "days_included": [
     "2026-09-28",
     "2026-09-29",
     "2026-09-30",
     "2026-10-01",
     "2026-10-02",
-    "2026-10-03"
+    "2026-10-03",
+    "2026-10-04"
   ],
   "top_keywords": [
     {
+      "keyword": "단백질",
+      "count": 1
+    },
+    {
+      "keyword": "근감소",
+      "count": 1
+    },
+    {
+      "keyword": "식물성 멜라토닌",
+      "count": 1
+    },
+    {
+      "keyword": "고령층 건강",
+      "count": 1
+    },
+    {
+      "keyword": "기능성 식품",
+      "count": 1
+    },
+    {
+      "keyword": "비건",
+      "count": 1
+    },
+    {
+      "keyword": "식문화 다양성",
+      "count": 1
+    },
+    {
+      "keyword": "외국인 관광객",
+      "count": 1
+    },
+    {
+      "keyword": "파스타소스",
+      "count": 1
+    },
+    {
       "keyword": "신제품",
-      "count": 2
-    },
-    {
-      "keyword": "비건 인증",
       "count": 1
     },
     {
-      "keyword": "표시 기준",
+      "keyword": "포모도로",
       "count": 1
     },
     {
-      "keyword": "소비자 신뢰",
+      "keyword": "나폴리탄",
       "count": 1
     },
     {
-      "keyword": "비건 표시",
+      "keyword": "토마토소스",
       "count": 1
     },
     {
-      "keyword": "동물성 원료",
+      "keyword": "직화",
       "count": 1
     },
     {
-      "keyword": "식약처 가이드라인",
+      "keyword": "K푸드",
       "count": 1
     },
     {
-      "keyword": "원재료명",
+      "keyword": "매직소바",
       "count": 1
     },
     {
-      "keyword": "비건식품",
+      "keyword": "냉동식품",
       "count": 1
     },
     {
-      "keyword": "김밥",
+      "keyword": "천천히 녹는 얼음",
       "count": 1
     },
     {
-      "keyword": "K-푸드",
+      "keyword": "편의식품",
       "count": 1
     },
     {
-      "keyword": "참기름",
+      "keyword": "그랑프리",
       "count": 1
     },
     {
-      "keyword": "AI",
+      "keyword": "소스",
       "count": 1
     },
     {
-      "keyword": "소비자 트렌드 분석",
+      "keyword": "이상지질혈증",
       "count": 1
     },
     {
-      "keyword": "신제품 개발",
+      "keyword": "지중해식 식단",
       "count": 1
     },
     {
-      "keyword": "Food AI 360",
+      "keyword": "DASH 식단",
       "count": 1
     },
     {
-      "keyword": "크림소스 해산물",
-      "count": 1
-    },
-    {
-      "keyword": "식품 페어링",
-      "count": 1
-    },
-    {
-      "keyword": "말로락틱 발효",
-      "count": 1
-    },
-    {
-      "keyword": "풍미 변화",
-      "count": 1
-    },
-    {
-      "keyword": "IPO",
-      "count": 1
-    },
-    {
-      "keyword": "K-뷰티 수출",
-      "count": 1
-    },
-    {
-      "keyword": "식품의약품안전처",
-      "count": 1
-    },
-    {
-      "keyword": "샘표",
-      "count": 1
-    },
-    {
-      "keyword": "연두",
+      "keyword": "식물성 식품",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 2,
-    "비건 인증": 1,
-    "표시 기준": 1,
-    "소비자 신뢰": 1,
-    "비건 표시": 1,
-    "동물성 원료": 1,
-    "식약처 가이드라인": 1,
-    "원재료명": 1,
-    "비건식품": 1,
-    "김밥": 1,
-    "K-푸드": 1,
-    "참기름": 1,
-    "AI": 1,
-    "소비자 트렌드 분석": 1,
-    "신제품 개발": 1,
-    "Food AI 360": 1,
-    "크림소스 해산물": 1,
-    "식품 페어링": 1,
-    "말로락틱 발효": 1,
-    "풍미 변화": 1,
-    "IPO": 1,
-    "K-뷰티 수출": 1,
-    "식품의약품안전처": 1,
-    "샘표": 1,
-    "연두": 1
+    "단백질": 1,
+    "근감소": 1,
+    "식물성 멜라토닌": 1,
+    "고령층 건강": 1,
+    "기능성 식품": 1,
+    "비건": 1,
+    "식문화 다양성": 1,
+    "외국인 관광객": 1,
+    "파스타소스": 1,
+    "신제품": 1,
+    "포모도로": 1,
+    "나폴리탄": 1,
+    "토마토소스": 1,
+    "직화": 1,
+    "K푸드": 1,
+    "매직소바": 1,
+    "냉동식품": 1,
+    "천천히 녹는 얼음": 1,
+    "편의식품": 1,
+    "그랑프리": 1,
+    "소스": 1,
+    "이상지질혈증": 1,
+    "지중해식 식단": 1,
+    "DASH 식단": 1,
+    "식물성 식품": 1
   },
   "category_totals": {
-    "regulation": 2,
-    "product": 8,
-    "consumer": 5,
-    "other": 42,
-    "market": 1,
-    "ingredient": 3,
+    "consumer": 3,
+    "product": 3,
+    "other": 23,
     "manufacturing": 3
   },
   "highlighted_articles": [
@@ -708,7 +706,8 @@
     "2026-09-30": 94,
     "2026-10-01": 88,
     "2026-10-02": 82,
-    "2026-10-03": 64
+    "2026-10-03": 64,
+    "2026-10-04": 32
   },
   "ai_summary": null
 }
