@@ -2,148 +2,151 @@
   "week_id": "2026-W42",
   "start_date": "2026-10-12",
   "end_date": "2026-10-18",
-  "total_articles": 341,
+  "total_articles": 435,
   "days_included": [
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "top_keywords": [
     {
-      "keyword": "식이섬유",
-      "count": 3
+      "keyword": "간편식",
+      "count": 6
     },
     {
-      "keyword": "신제품",
-      "count": 2
-    },
-    {
-      "keyword": "케스토스",
-      "count": 2
-    },
-    {
-      "keyword": "알룰로스",
-      "count": 2
-    },
-    {
-      "keyword": "난소화성말토덱스트린",
-      "count": 2
-    },
-    {
-      "keyword": "삼양사",
-      "count": 2
-    },
-    {
-      "keyword": "Hi Japan",
-      "count": 2
-    },
-    {
-      "keyword": "CJ프레시웨이",
-      "count": 1
-    },
-    {
-      "keyword": "B2C 시장 확대",
-      "count": 1
-    },
-    {
-      "keyword": "온라인 유통",
-      "count": 1
-    },
-    {
-      "keyword": "일본 시부야 시장",
-      "count": 1
-    },
-    {
-      "keyword": "K-브랜드 해외진출",
-      "count": 1
-    },
-    {
-      "keyword": "팝업 스토어",
-      "count": 1
-    },
-    {
-      "keyword": "젊은 소비자 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "신세계 하이퍼그라운드",
-      "count": 1
-    },
-    {
-      "keyword": "롯데웰푸드",
-      "count": 1
-    },
-    {
-      "keyword": "트러플 소스",
-      "count": 1
-    },
-    {
-      "keyword": "블랙 트러플치즈 버거",
-      "count": 1
-    },
-    {
-      "keyword": "프리미엄 향미",
-      "count": 1
-    },
-    {
-      "keyword": "파기름떡볶이 소스",
-      "count": 1
-    },
-    {
-      "keyword": "오븐 조리",
-      "count": 1
-    },
-    {
-      "keyword": "볶음 양념",
-      "count": 1
-    },
-    {
-      "keyword": "bhc",
-      "count": 1
-    },
-    {
-      "keyword": "신메뉴",
-      "count": 1
+      "keyword": "저당",
+      "count": 6
     },
     {
       "keyword": "소스",
+      "count": 5
+    },
+    {
+      "keyword": "식물성 단백질",
+      "count": 4
+    },
+    {
+      "keyword": "닭가슴살",
+      "count": 4
+    },
+    {
+      "keyword": "CJ제일제당",
+      "count": 4
+    },
+    {
+      "keyword": "저당 닭가슴살",
+      "count": 4
+    },
+    {
+      "keyword": "알룰로스",
+      "count": 4
+    },
+    {
+      "keyword": "대체 감미료",
+      "count": 3
+    },
+    {
+      "keyword": "The더건강한",
+      "count": 3
+    },
+    {
+      "keyword": "판매량",
+      "count": 2
+    },
+    {
+      "keyword": "직화 오븐",
+      "count": 2
+    },
+    {
+      "keyword": "트러플",
+      "count": 1
+    },
+    {
+      "keyword": "페리구 소스",
+      "count": 1
+    },
+    {
+      "keyword": "스테이크 소스",
+      "count": 1
+    },
+    {
+      "keyword": "호텔 미식",
+      "count": 1
+    },
+    {
+      "keyword": "프리미엄 소스",
+      "count": 1
+    },
+    {
+      "keyword": "두부",
+      "count": 1
+    },
+    {
+      "keyword": "필수 아미노산",
+      "count": 1
+    },
+    {
+      "keyword": "반려동물",
+      "count": 1
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "여행",
+      "count": 1
+    },
+    {
+      "keyword": "반려친화",
+      "count": 1
+    },
+    {
+      "keyword": "불닭소스",
+      "count": 1
+    },
+    {
+      "keyword": "삼양",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "식이섬유": 3,
-    "신제품": 2,
-    "케스토스": 2,
-    "알룰로스": 2,
-    "난소화성말토덱스트린": 2,
-    "삼양사": 2,
-    "Hi Japan": 2,
-    "CJ프레시웨이": 1,
-    "B2C 시장 확대": 1,
-    "온라인 유통": 1,
-    "일본 시부야 시장": 1,
-    "K-브랜드 해외진출": 1,
-    "팝업 스토어": 1,
-    "젊은 소비자 트렌드": 1,
-    "신세계 하이퍼그라운드": 1,
-    "롯데웰푸드": 1,
-    "트러플 소스": 1,
-    "블랙 트러플치즈 버거": 1,
-    "프리미엄 향미": 1,
-    "파기름떡볶이 소스": 1,
-    "오븐 조리": 1,
-    "볶음 양념": 1,
-    "bhc": 1,
-    "신메뉴": 1,
-    "소스": 1
+    "간편식": 6,
+    "저당": 6,
+    "소스": 5,
+    "식물성 단백질": 4,
+    "닭가슴살": 4,
+    "CJ제일제당": 4,
+    "저당 닭가슴살": 4,
+    "알룰로스": 4,
+    "대체 감미료": 3,
+    "The더건강한": 3,
+    "판매량": 2,
+    "직화 오븐": 2,
+    "트러플": 1,
+    "페리구 소스": 1,
+    "스테이크 소스": 1,
+    "호텔 미식": 1,
+    "프리미엄 소스": 1,
+    "두부": 1,
+    "필수 아미노산": 1,
+    "반려동물": 1,
+    "소비 트렌드": 1,
+    "여행": 1,
+    "반려친화": 1,
+    "불닭소스": 1,
+    "삼양": 1
   },
   "category_totals": {
-    "market": 3,
-    "ingredient": 4,
-    "product": 4,
-    "consumer": 1,
-    "other": 86
+    "product": 13,
+    "ingredient": 2,
+    "consumer": 2,
+    "other": 73,
+    "market": 2,
+    "regulation": 1,
+    "manufacturing": 1
   },
   "highlighted_articles": [
     {
@@ -663,7 +666,8 @@
     "2026-10-12": 65,
     "2026-10-13": 86,
     "2026-10-14": 92,
-    "2026-10-15": 98
+    "2026-10-15": 98,
+    "2026-10-16": 94
   },
   "ai_summary": null
 }
