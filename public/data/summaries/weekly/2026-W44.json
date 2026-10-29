@@ -2,149 +2,50 @@
   "week_id": "2026-W44",
   "start_date": "2026-10-26",
   "end_date": "2026-11-01",
-  "total_articles": 239,
+  "total_articles": 321,
   "days_included": [
     "2026-10-26",
     "2026-10-27",
-    "2026-10-28"
+    "2026-10-28",
+    "2026-10-29"
   ],
   "top_keywords": [
     {
-      "keyword": "복합 단백질",
-      "count": 3
-    },
-    {
-      "keyword": "비오틴",
-      "count": 3
-    },
-    {
-      "keyword": "단백질",
-      "count": 3
+      "keyword": "하인즈",
+      "count": 1
     },
     {
       "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "건강기능식품",
-      "count": 2
-    },
-    {
-      "keyword": "스위트 칠리 소스",
-      "count": 2
-    },
-    {
-      "keyword": "화이트 마요 소스",
-      "count": 2
-    },
-    {
-      "keyword": "식이섬유",
-      "count": 2
-    },
-    {
-      "keyword": "기능성 성분",
-      "count": 2
-    },
-    {
-      "keyword": "식물성 단백질",
-      "count": 2
-    },
-    {
-      "keyword": "압출성형",
       "count": 1
     },
     {
-      "keyword": "식물성 대체육",
+      "keyword": "협업",
       "count": 1
     },
     {
-      "keyword": "대체단백질",
+      "keyword": "스낵킹",
       "count": 1
     },
     {
-      "keyword": "농식품 부산물",
+      "keyword": "익숙한 맛",
       "count": 1
     },
     {
-      "keyword": "업사이클링",
-      "count": 1
-    },
-    {
-      "keyword": "비건 인증",
-      "count": 1
-    },
-    {
-      "keyword": "해외 수출",
-      "count": 1
-    },
-    {
-      "keyword": "표시 기준",
-      "count": 1
-    },
-    {
-      "keyword": "수입 절차",
-      "count": 1
-    },
-    {
-      "keyword": "소스/양념류",
-      "count": 1
-    },
-    {
-      "keyword": "써브웨이",
-      "count": 1
-    },
-    {
-      "keyword": "윤남노 셰프",
-      "count": 1
-    },
-    {
-      "keyword": "양고기",
-      "count": 1
-    },
-    {
-      "keyword": "샌드위치",
-      "count": 1
-    },
-    {
-      "keyword": "치미추리",
+      "keyword": "신제품",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "복합 단백질": 3,
-    "비오틴": 3,
-    "단백질": 3,
-    "소스": 2,
-    "건강기능식품": 2,
-    "스위트 칠리 소스": 2,
-    "화이트 마요 소스": 2,
-    "식이섬유": 2,
-    "기능성 성분": 2,
-    "식물성 단백질": 2,
-    "압출성형": 1,
-    "식물성 대체육": 1,
-    "대체단백질": 1,
-    "농식품 부산물": 1,
-    "업사이클링": 1,
-    "비건 인증": 1,
-    "해외 수출": 1,
-    "표시 기준": 1,
-    "수입 절차": 1,
-    "소스/양념류": 1,
-    "써브웨이": 1,
-    "윤남노 셰프": 1,
-    "양고기": 1,
-    "샌드위치": 1,
-    "치미추리": 1
+    "하인즈": 1,
+    "소스": 1,
+    "협업": 1,
+    "스낵킹": 1,
+    "익숙한 맛": 1,
+    "신제품": 1
   },
   "category_totals": {
-    "manufacturing": 1,
-    "regulation": 1,
-    "product": 9,
-    "ingredient": 1,
-    "market": 3,
-    "other": 72,
-    "consumer": 4
+    "other": 81,
+    "product": 1
   },
   "highlighted_articles": [
     {
@@ -410,6 +311,32 @@
       "actionable_insight": "R&D팀은 글로벌 유통 채널(B2B/B2C) 및 HMR 제품 적용에 최적화된 TBK 소스의 안정성, 맛, 사용 편의성을 고려한 다목적 제형 개발에 주력해야 합니다."
     },
     {
+      "id": "849edf64d3f3",
+      "title": "이디야커피, ‘스낵킹’족 공략 열전 동참...병기 11종은?",
+      "url": "https://www.tfmedia.co.kr/news/article.html?no=208474",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-10-29T11:42:00+09:00",
+      "content": "특히 이번 신제품은 글로벌 소스 브랜드 ‘하인즈(HEINZ)’와 협업해 완성했다. 대중에게 친숙한 하인즈 소스를 활용해 익숙한 맛의 완성도를 높이고 설기와 피자·콘치즈의 풍미가 자연스럽게 어우러지도록 했다.... ",
+      "search_keyword": "소스 신제품",
+      "category": "product",
+      "keywords": [
+        "하인즈",
+        "소스",
+        "협업",
+        "스낵킹",
+        "익숙한 맛",
+        "신제품"
+      ],
+      "summary": "이디야커피가 글로벌 소스 브랜드 하인즈와 협업하여 신제품 11종을 출시하며 스낵킹 시장을 공략한다. 대중에게 친숙한 하인즈 소스를 활용, 익숙한 맛을 기반으로 설기, 피자, 콘치즈 등 다양한 스낵 메뉴의 풍미를 강화하는 데 중점을 두었다. 이는 유명 소스 브랜드와의 콜라보를 통한 간편식 및 스낵류 제품의 맛과 시장성 확보 전략으로 해석될 수 있다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "하인즈 소스"
+      ],
+      "actionable_insight": "기존 유명 소스 브랜드와의 전략적 협업을 통해 신제품 개발 속도를 높이고, 친숙한 맛으로 스낵 및 간편식 시장의 신규 메뉴 확장 기회를 모색해야 한다."
+    },
+    {
       "id": "feca8d0d5ab4",
       "title": "배민-맥도날드 '빅아치' 출시 기념, 3천원 할인·쿠폰 이벤트 실시",
       "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619161",
@@ -651,39 +578,13 @@
       "trend_signal": "rising",
       "key_ingredients": [],
       "actionable_insight": "식물성 대체식품용 소스 및 양념류 개발 시, GFI 지침과 같이 시식 순서, 제공 방식 등을 고려한 엄격한 관능평가 프로토콜을 수립하여 평가의 객관성과 신뢰도를 높여야 한다."
-    },
-    {
-      "id": "a932a6e1847b",
-      "title": "[특징주] 달바글로벌, 자사주 100억원 추가 취득 결정…주주가치 제고",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=725405",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-10-28T12:06:00+09:00",
-      "content": "달바글로벌은 2016년 설립돼 2025년 유가증권시장에 상장한 비건 화장품 및 건강기능식품 전문기업이다. 화이트 트러플을 핵심 원료로 한 'd'Alba'와 식물성 콜라겐 기반 이너뷰티 브랜드 'Veganery' 등을 운영하고... ",
-      "search_keyword": "비건 식품",
-      "category": "ingredient",
-      "keywords": [
-        "비건",
-        "건강기능식품",
-        "화이트 트러플",
-        "식물성 콜라겐",
-        "이너뷰티",
-        "프리미엄 원료"
-      ],
-      "summary": "달바글로벌은 비건 및 건강기능식품 전문기업으로, 화이트 트러플과 식물성 콜라겐 같은 핵심 원료를 활용하여 이너뷰티 제품을 선보이고 있습니다. 이는 소스·양념류 R&D에서 비건 및 건강 기능성을 강화하고, 프리미엄 풍미 또는 기능성 원료를 접목할 가능성을 시사합니다.",
-      "relevance_score": 8,
-      "trend_signal": "rising",
-      "key_ingredients": [
-        "화이트 트러플",
-        "식물성 콜라겐"
-      ],
-      "actionable_insight": "비건 및 건강기능식품 시장 트렌드에 맞춰, 소스류에 화이트 트러플과 같은 프리미엄 풍미 또는 식물성 콜라겐 같은 기능성 원료를 활용한 이너뷰티 콘셉트 제품 개발을 검토해야 한다."
     }
   ],
   "daily_article_counts": {
     "2026-10-26": 69,
     "2026-10-27": 79,
-    "2026-10-28": 91
+    "2026-10-28": 91,
+    "2026-10-29": 82
   },
   "ai_summary": null
 }
