@@ -2,145 +2,38 @@
   "week_id": "2026-W45",
   "start_date": "2026-11-02",
   "end_date": "2026-11-08",
-  "total_articles": 57,
+  "total_articles": 118,
   "days_included": [
-    "2026-11-02"
+    "2026-11-02",
+    "2026-11-03"
   ],
   "top_keywords": [
     {
-      "keyword": "식물성 단백질",
-      "count": 2
-    },
-    {
-      "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "K-간편식",
-      "count": 2
-    },
-    {
-      "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "대체육",
+      "keyword": "이너뷰티",
       "count": 1
     },
     {
-      "keyword": "색소",
+      "keyword": "기능성 식품",
       "count": 1
     },
     {
-      "keyword": "갈변",
+      "keyword": "K-뷰티",
       "count": 1
     },
     {
-      "keyword": "비트 색소",
-      "count": 1
-    },
-    {
-      "keyword": "펙틴",
-      "count": 1
-    },
-    {
-      "keyword": "효소",
-      "count": 1
-    },
-    {
-      "keyword": "마이오글로빈",
-      "count": 1
-    },
-    {
-      "keyword": "웰니스 음료",
-      "count": 1
-    },
-    {
-      "keyword": "스무디",
-      "count": 1
-    },
-    {
-      "keyword": "웰니스 티",
-      "count": 1
-    },
-    {
-      "keyword": "고운쌀",
-      "count": 1
-    },
-    {
-      "keyword": "레몬진저 허니티",
-      "count": 1
-    },
-    {
-      "keyword": "숨고",
-      "count": 1
-    },
-    {
-      "keyword": "바로예약",
-      "count": 1
-    },
-    {
-      "keyword": "런드리고",
-      "count": 1
-    },
-    {
-      "keyword": "식품 납품 대금",
-      "count": 1
-    },
-    {
-      "keyword": "선정산",
-      "count": 1
-    },
-    {
-      "keyword": "비페코",
-      "count": 1
-    },
-    {
-      "keyword": "콩단백 육포",
-      "count": 1
-    },
-    {
-      "keyword": "웰니스프로틴",
-      "count": 1
-    },
-    {
-      "keyword": "조직화 기술",
+      "keyword": "식품·바이오",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "식물성 단백질": 2,
-    "저당": 2,
-    "K-간편식": 2,
-    "소스": 2,
-    "대체육": 1,
-    "색소": 1,
-    "갈변": 1,
-    "비트 색소": 1,
-    "펙틴": 1,
-    "효소": 1,
-    "마이오글로빈": 1,
-    "웰니스 음료": 1,
-    "스무디": 1,
-    "웰니스 티": 1,
-    "고운쌀": 1,
-    "레몬진저 허니티": 1,
-    "숨고": 1,
-    "바로예약": 1,
-    "런드리고": 1,
-    "식품 납품 대금": 1,
-    "선정산": 1,
-    "비페코": 1,
-    "콩단백 육포": 1,
-    "웰니스프로틴": 1,
-    "조직화 기술": 1
+    "이너뷰티": 1,
+    "기능성 식품": 1,
+    "K-뷰티": 1,
+    "식품·바이오": 1
   },
   "category_totals": {
-    "ingredient": 4,
-    "product": 5,
-    "other": 43,
-    "manufacturing": 2,
-    "consumer": 3
+    "consumer": 1,
+    "other": 60
   },
   "highlighted_articles": [
     {
@@ -462,7 +355,8 @@
     }
   ],
   "daily_article_counts": {
-    "2026-11-02": 57
+    "2026-11-02": 57,
+    "2026-11-03": 61
   },
   "ai_summary": null
 }
