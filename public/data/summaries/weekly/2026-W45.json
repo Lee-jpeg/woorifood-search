@@ -2,149 +2,149 @@
   "week_id": "2026-W45",
   "start_date": "2026-11-02",
   "end_date": "2026-11-08",
-  "total_articles": 296,
+  "total_articles": 386,
   "days_included": [
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-06"
   ],
   "top_keywords": [
     {
+      "keyword": "치폴레소스",
+      "count": 3
+    },
+    {
+      "keyword": "간편식",
+      "count": 3
+    },
+    {
+      "keyword": "통날개구이",
+      "count": 2
+    },
+    {
       "keyword": "신제품",
-      "count": 3
-    },
-    {
-      "keyword": "K-푸드",
-      "count": 3
-    },
-    {
-      "keyword": "더본코리아",
-      "count": 3
-    },
-    {
-      "keyword": "2026 푸드위크 코리아",
       "count": 2
     },
     {
-      "keyword": "소스",
-      "count": 2
-    },
-    {
-      "keyword": "감칠맛",
-      "count": 2
-    },
-    {
-      "keyword": "푸드위크 코리아",
-      "count": 2
-    },
-    {
-      "keyword": "TBK 소스",
-      "count": 2
-    },
-    {
-      "keyword": "양념치킨소스",
-      "count": 2
-    },
-    {
-      "keyword": "bhc",
-      "count": 2
-    },
-    {
-      "keyword": "조청",
-      "count": 2
-    },
-    {
-      "keyword": "파파이스",
+      "keyword": "H마트",
       "count": 1
     },
     {
-      "keyword": "디핑소스",
+      "keyword": "슈가랜드점",
       "count": 1
     },
     {
-      "keyword": "푹소스",
+      "keyword": "매장 확대",
       "count": 1
     },
     {
-      "keyword": "소스 리뉴얼",
+      "keyword": "아시아 식품",
       "count": 1
     },
     {
-      "keyword": "대용량 소스",
+      "keyword": "유통",
       "count": 1
     },
     {
-      "keyword": "핫치즈",
+      "keyword": "하림",
       "count": 1
     },
     {
-      "keyword": "케이준 칠리",
+      "keyword": "완조리",
       "count": 1
     },
     {
-      "keyword": "화이트 머스타드",
+      "keyword": "나고야 데바사키",
       "count": 1
     },
     {
-      "keyword": "블랙페퍼",
+      "keyword": "웰니스 트렌드",
       "count": 1
     },
     {
-      "keyword": "소스 트렌드",
+      "keyword": "건강 지향 식품",
       "count": 1
     },
     {
-      "keyword": "K-간편식",
+      "keyword": "기능성 원료",
       "count": 1
     },
     {
-      "keyword": "푸드테크",
+      "keyword": "오메가3",
       "count": 1
     },
     {
-      "keyword": "전통·발효식품",
+      "keyword": "HFF",
       "count": 1
     },
     {
-      "keyword": "풀무원",
+      "keyword": "호텔/면세점",
+      "count": 1
+    },
+    {
+      "keyword": "훈연 향",
+      "count": 1
+    },
+    {
+      "keyword": "일본 이자카야 스타일",
+      "count": 1
+    },
+    {
+      "keyword": "즉석조리식품",
+      "count": 1
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "편의성",
+      "count": 1
+    },
+    {
+      "keyword": "새로운 맛",
+      "count": 1
+    },
+    {
+      "keyword": "새로운 형태",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 3,
-    "K-푸드": 3,
-    "더본코리아": 3,
-    "2026 푸드위크 코리아": 2,
-    "소스": 2,
-    "감칠맛": 2,
-    "푸드위크 코리아": 2,
-    "TBK 소스": 2,
-    "양념치킨소스": 2,
-    "bhc": 2,
-    "조청": 2,
-    "파파이스": 1,
-    "디핑소스": 1,
-    "푹소스": 1,
-    "소스 리뉴얼": 1,
-    "대용량 소스": 1,
-    "핫치즈": 1,
-    "케이준 칠리": 1,
-    "화이트 머스타드": 1,
-    "블랙페퍼": 1,
-    "소스 트렌드": 1,
-    "K-간편식": 1,
-    "푸드테크": 1,
-    "전통·발효식품": 1,
-    "풀무원": 1
+    "치폴레소스": 3,
+    "간편식": 3,
+    "통날개구이": 2,
+    "신제품": 2,
+    "H마트": 1,
+    "슈가랜드점": 1,
+    "매장 확대": 1,
+    "아시아 식품": 1,
+    "유통": 1,
+    "하림": 1,
+    "완조리": 1,
+    "나고야 데바사키": 1,
+    "웰니스 트렌드": 1,
+    "건강 지향 식품": 1,
+    "기능성 원료": 1,
+    "오메가3": 1,
+    "HFF": 1,
+    "호텔/면세점": 1,
+    "훈연 향": 1,
+    "일본 이자카야 스타일": 1,
+    "즉석조리식품": 1,
+    "소비 트렌드": 1,
+    "편의성": 1,
+    "새로운 맛": 1,
+    "새로운 형태": 1
   },
   "category_totals": {
-    "product": 11,
-    "ingredient": 3,
+    "market": 1,
+    "product": 10,
+    "consumer": 3,
     "other": 75,
-    "market": 3,
-    "consumer": 4,
-    "manufacturing": 5
+    "manufacturing": 1
   },
   "highlighted_articles": [
     {
@@ -694,7 +694,8 @@
     "2026-11-02": 57,
     "2026-11-03": 61,
     "2026-11-04": 77,
-    "2026-11-05": 101
+    "2026-11-05": 101,
+    "2026-11-06": 90
   },
   "ai_summary": null
 }
