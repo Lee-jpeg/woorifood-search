@@ -2,71 +2,40 @@
   "week_id": "2026-W46",
   "start_date": "2026-11-09",
   "end_date": "2026-11-15",
-  "total_articles": 281,
+  "total_articles": 360,
   "days_included": [
     "2026-11-09",
     "2026-11-10",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-12"
   ],
   "top_keywords": [
     {
-      "keyword": "식물성 단백질",
-      "count": 7
-    },
-    {
-      "keyword": "식품 부산물",
-      "count": 4
-    },
-    {
-      "keyword": "AI",
-      "count": 3
-    },
-    {
-      "keyword": "기능성",
-      "count": 3
-    },
-    {
-      "keyword": "지속가능식품",
-      "count": 3
+      "keyword": "실온 소스",
+      "count": 5
     },
     {
       "keyword": "소비 트렌드",
+      "count": 4
+    },
+    {
+      "keyword": "CJ프레시웨이",
+      "count": 4
+    },
+    {
+      "keyword": "식물성 원료",
+      "count": 3
+    },
+    {
+      "keyword": "발효 풍미",
+      "count": 3
+    },
+    {
+      "keyword": "B2B 소스",
       "count": 2
     },
     {
-      "keyword": "건강",
-      "count": 2
-    },
-    {
-      "keyword": "라이코펜",
-      "count": 2
-    },
-    {
-      "keyword": "토마토",
-      "count": 2
-    },
-    {
-      "keyword": "K-푸드 수출",
-      "count": 2
-    },
-    {
-      "keyword": "발효",
-      "count": 2
-    },
-    {
-      "keyword": "식품 부산물 활용",
-      "count": 2
-    },
-    {
-      "keyword": "소재 개발",
-      "count": 2
-    },
-    {
-      "keyword": "간장",
-      "count": 2
-    },
-    {
-      "keyword": "오픈이노베이션",
+      "keyword": "소스 개발",
       "count": 2
     },
     {
@@ -74,77 +43,108 @@
       "count": 2
     },
     {
-      "keyword": "2030세대",
+      "keyword": "양념",
+      "count": 2
+    },
+    {
+      "keyword": "K-푸드",
       "count": 1
     },
     {
-      "keyword": "웰니스",
+      "keyword": "베트남 시장",
       "count": 1
     },
     {
-      "keyword": "건강식",
+      "keyword": "수출 확대",
       "count": 1
     },
     {
-      "keyword": "심야술자리 기피",
+      "keyword": "유망 품목",
       "count": 1
     },
     {
-      "keyword": "순두부",
+      "keyword": "소스 개발 역량 강화",
       "count": 1
     },
     {
-      "keyword": "이소플라본",
+      "keyword": "배합 설계",
       "count": 1
     },
     {
-      "keyword": "사포닌",
+      "keyword": "제조 공정",
       "count": 1
     },
     {
-      "keyword": "단백질 보충",
+      "keyword": "신제품",
       "count": 1
     },
     {
-      "keyword": "슈퍼레드 케챂",
+      "keyword": "소스 포트폴리오",
+      "count": 1
+    },
+    {
+      "keyword": "알파세대",
+      "count": 1
+    },
+    {
+      "keyword": "글로벌 시장",
+      "count": 1
+    },
+    {
+      "keyword": "조리 효율화",
+      "count": 1
+    },
+    {
+      "keyword": "식물성 고추장마요소스",
+      "count": 1
+    },
+    {
+      "keyword": "제조 기술 특허",
+      "count": 1
+    },
+    {
+      "keyword": "온라인 쇼핑 한계",
+      "count": 1
+    },
+    {
+      "keyword": "오프라인 체험",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "식물성 단백질": 7,
-    "식품 부산물": 4,
-    "AI": 3,
-    "기능성": 3,
-    "지속가능식품": 3,
-    "소비 트렌드": 2,
-    "건강": 2,
-    "라이코펜": 2,
-    "토마토": 2,
-    "K-푸드 수출": 2,
-    "발효": 2,
-    "식품 부산물 활용": 2,
-    "소재 개발": 2,
-    "간장": 2,
-    "오픈이노베이션": 2,
+    "실온 소스": 5,
+    "소비 트렌드": 4,
+    "CJ프레시웨이": 4,
+    "식물성 원료": 3,
+    "발효 풍미": 3,
+    "B2B 소스": 2,
+    "소스 개발": 2,
     "소스": 2,
-    "2030세대": 1,
-    "웰니스": 1,
-    "건강식": 1,
-    "심야술자리 기피": 1,
-    "순두부": 1,
-    "이소플라본": 1,
-    "사포닌": 1,
-    "단백질 보충": 1,
-    "슈퍼레드 케챂": 1
+    "양념": 2,
+    "K-푸드": 1,
+    "베트남 시장": 1,
+    "수출 확대": 1,
+    "유망 품목": 1,
+    "소스 개발 역량 강화": 1,
+    "배합 설계": 1,
+    "제조 공정": 1,
+    "신제품": 1,
+    "소스 포트폴리오": 1,
+    "알파세대": 1,
+    "글로벌 시장": 1,
+    "조리 효율화": 1,
+    "식물성 고추장마요소스": 1,
+    "제조 기술 특허": 1,
+    "온라인 쇼핑 한계": 1,
+    "오프라인 체험": 1
   },
   "category_totals": {
-    "consumer": 4,
-    "ingredient": 10,
-    "product": 6,
-    "market": 5,
-    "manufacturing": 3,
-    "other": 63,
-    "regulation": 1
+    "market": 2,
+    "manufacturing": 8,
+    "product": 14,
+    "consumer": 2,
+    "other": 51,
+    "ingredient": 2
   },
   "highlighted_articles": [
     {
@@ -666,7 +666,8 @@
   "daily_article_counts": {
     "2026-11-09": 86,
     "2026-11-10": 103,
-    "2026-11-11": 92
+    "2026-11-11": 92,
+    "2026-11-12": 79
   },
   "ai_summary": null
 }
