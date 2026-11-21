@@ -2,149 +2,151 @@
   "week_id": "2026-W47",
   "start_date": "2026-11-16",
   "end_date": "2026-11-22",
-  "total_articles": 378,
+  "total_articles": 447,
   "days_included": [
     "2026-11-16",
     "2026-11-17",
     "2026-11-18",
     "2026-11-19",
-    "2026-11-20"
+    "2026-11-20",
+    "2026-11-21"
   ],
   "top_keywords": [
     {
-      "keyword": "클린라벨",
-      "count": 7
-    },
-    {
-      "keyword": "저당",
+      "keyword": "신제품",
       "count": 4
     },
     {
-      "keyword": "신제품",
+      "keyword": "저칼로리",
       "count": 3
-    },
-    {
-      "keyword": "대체당",
-      "count": 3
-    },
-    {
-      "keyword": "롯데리아",
-      "count": 2
-    },
-    {
-      "keyword": "특제 소스",
-      "count": 2
-    },
-    {
-      "keyword": "버거 소스",
-      "count": 2
-    },
-    {
-      "keyword": "대상",
-      "count": 2
-    },
-    {
-      "keyword": "FiE",
-      "count": 2
-    },
-    {
-      "keyword": "발효",
-      "count": 2
-    },
-    {
-      "keyword": "버섯크림소스",
-      "count": 2
     },
     {
       "keyword": "알룰로스",
       "count": 2
     },
     {
-      "keyword": "건강식품",
+      "keyword": "글로벌 시장",
       "count": 2
     },
     {
-      "keyword": "단순화된 가공",
+      "keyword": "식물성 단백질",
       "count": 2
     },
     {
-      "keyword": "훈연 풍미",
+      "keyword": "액젓",
       "count": 2
     },
     {
-      "keyword": "감칠맛",
+      "keyword": "간편식",
       "count": 2
     },
     {
-      "keyword": "무첨가",
+      "keyword": "저당",
       "count": 2
     },
     {
-      "keyword": "최소원료",
+      "keyword": "한정판",
       "count": 2
     },
     {
-      "keyword": "그레이비소스",
-      "count": 2
-    },
-    {
-      "keyword": "식품 소재",
-      "count": 2
-    },
-    {
-      "keyword": "발효 기술",
-      "count": 2
-    },
-    {
-      "keyword": "최소 원재료",
+      "keyword": "AAFCO",
       "count": 1
     },
     {
-      "keyword": "최소 가공",
+      "keyword": "반려동물사료 정책",
       "count": 1
     },
     {
-      "keyword": "프리미엄 시장",
+      "keyword": "글로벌 규제",
       "count": 1
     },
     {
-      "keyword": "소비자 투명성",
+      "keyword": "펫푸드",
+      "count": 1
+    },
+    {
+      "keyword": "영양과학",
+      "count": 1
+    },
+    {
+      "keyword": "시장 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "저당 소스",
+      "count": 1
+    },
+    {
+      "keyword": "케어푸드",
+      "count": 1
+    },
+    {
+      "keyword": "당뇨식",
+      "count": 1
+    },
+    {
+      "keyword": "소스/양념류",
+      "count": 1
+    },
+    {
+      "keyword": "김치",
+      "count": 1
+    },
+    {
+      "keyword": "원산지",
+      "count": 1
+    },
+    {
+      "keyword": "메이드 인 차이나",
+      "count": 1
+    },
+    {
+      "keyword": "진정성",
+      "count": 1
+    },
+    {
+      "keyword": "아연",
+      "count": 1
+    },
+    {
+      "keyword": "면역력",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "클린라벨": 7,
-    "저당": 4,
-    "신제품": 3,
-    "대체당": 3,
-    "롯데리아": 2,
-    "특제 소스": 2,
-    "버거 소스": 2,
-    "대상": 2,
-    "FiE": 2,
-    "발효": 2,
-    "버섯크림소스": 2,
+    "신제품": 4,
+    "저칼로리": 3,
     "알룰로스": 2,
-    "건강식품": 2,
-    "단순화된 가공": 2,
-    "훈연 풍미": 2,
-    "감칠맛": 2,
-    "무첨가": 2,
-    "최소원료": 2,
-    "그레이비소스": 2,
-    "식품 소재": 2,
-    "발효 기술": 2,
-    "최소 원재료": 1,
-    "최소 가공": 1,
-    "프리미엄 시장": 1,
-    "소비자 투명성": 1
+    "글로벌 시장": 2,
+    "식물성 단백질": 2,
+    "액젓": 2,
+    "간편식": 2,
+    "저당": 2,
+    "한정판": 2,
+    "AAFCO": 1,
+    "반려동물사료 정책": 1,
+    "글로벌 규제": 1,
+    "펫푸드": 1,
+    "영양과학": 1,
+    "시장 트렌드": 1,
+    "저당 소스": 1,
+    "케어푸드": 1,
+    "당뇨식": 1,
+    "소스/양념류": 1,
+    "김치": 1,
+    "원산지": 1,
+    "메이드 인 차이나": 1,
+    "진정성": 1,
+    "아연": 1,
+    "면역력": 1
   },
   "category_totals": {
-    "consumer": 3,
-    "product": 15,
-    "ingredient": 7,
-    "other": 52,
-    "market": 1
+    "regulation": 1,
+    "product": 12,
+    "market": 4,
+    "consumer": 5,
+    "other": 44,
+    "ingredient": 3
   },
   "highlighted_articles": [
     {
@@ -674,7 +676,8 @@
     "2026-11-17": 65,
     "2026-11-18": 85,
     "2026-11-19": 89,
-    "2026-11-20": 78
+    "2026-11-20": 78,
+    "2026-11-21": 69
   },
   "ai_summary": null
 }
