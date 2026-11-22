@@ -2,151 +2,151 @@
   "week_id": "2026-W47",
   "start_date": "2026-11-16",
   "end_date": "2026-11-22",
-  "total_articles": 447,
+  "total_articles": 504,
   "days_included": [
     "2026-11-16",
     "2026-11-17",
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
-    "2026-11-21"
+    "2026-11-21",
+    "2026-11-22"
   ],
   "top_keywords": [
     {
-      "keyword": "신제품",
+      "keyword": "김치 세계화",
       "count": 4
     },
     {
-      "keyword": "저칼로리",
+      "keyword": "비건 김치",
       "count": 3
     },
     {
-      "keyword": "알룰로스",
-      "count": 2
+      "keyword": "김치 가공품",
+      "count": 3
     },
     {
-      "keyword": "글로벌 시장",
-      "count": 2
+      "keyword": "비건김치",
+      "count": 3
     },
     {
-      "keyword": "식물성 단백질",
-      "count": 2
-    },
-    {
-      "keyword": "액젓",
-      "count": 2
+      "keyword": "신제품",
+      "count": 3
     },
     {
       "keyword": "간편식",
+      "count": 3
+    },
+    {
+      "keyword": "전통 장류",
       "count": 2
-    },
-    {
-      "keyword": "저당",
-      "count": 2
-    },
-    {
-      "keyword": "한정판",
-      "count": 2
-    },
-    {
-      "keyword": "AAFCO",
-      "count": 1
-    },
-    {
-      "keyword": "반려동물사료 정책",
-      "count": 1
-    },
-    {
-      "keyword": "글로벌 규제",
-      "count": 1
-    },
-    {
-      "keyword": "펫푸드",
-      "count": 1
-    },
-    {
-      "keyword": "영양과학",
-      "count": 1
-    },
-    {
-      "keyword": "시장 트렌드",
-      "count": 1
-    },
-    {
-      "keyword": "저당 소스",
-      "count": 1
-    },
-    {
-      "keyword": "케어푸드",
-      "count": 1
-    },
-    {
-      "keyword": "당뇨식",
-      "count": 1
-    },
-    {
-      "keyword": "소스/양념류",
-      "count": 1
     },
     {
       "keyword": "김치",
+      "count": 2
+    },
+    {
+      "keyword": "글로벌 식문화",
+      "count": 2
+    },
+    {
+      "keyword": "김치 소스",
+      "count": 2
+    },
+    {
+      "keyword": "영양",
+      "count": 2
+    },
+    {
+      "keyword": "클린라벨",
+      "count": 2
+    },
+    {
+      "keyword": "프리미엄",
+      "count": 2
+    },
+    {
+      "keyword": "떡볶이",
       "count": 1
     },
     {
-      "keyword": "원산지",
+      "keyword": "순창",
       "count": 1
     },
     {
-      "keyword": "메이드 인 차이나",
+      "keyword": "장류",
       "count": 1
     },
     {
-      "keyword": "진정성",
+      "keyword": "소스 만들기 체험",
       "count": 1
     },
     {
-      "keyword": "아연",
+      "keyword": "소비자 선호",
       "count": 1
     },
     {
-      "keyword": "면역력",
+      "keyword": "발효 소스",
+      "count": 1
+    },
+    {
+      "keyword": "액젓",
+      "count": 1
+    },
+    {
+      "keyword": "비건 원료",
+      "count": 1
+    },
+    {
+      "keyword": "감칠맛",
+      "count": 1
+    },
+    {
+      "keyword": "소스·양념",
+      "count": 1
+    },
+    {
+      "keyword": "땅콩",
+      "count": 1
+    },
+    {
+      "keyword": "혈중 지질",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 4,
-    "저칼로리": 3,
-    "알룰로스": 2,
-    "글로벌 시장": 2,
-    "식물성 단백질": 2,
-    "액젓": 2,
-    "간편식": 2,
-    "저당": 2,
-    "한정판": 2,
-    "AAFCO": 1,
-    "반려동물사료 정책": 1,
-    "글로벌 규제": 1,
-    "펫푸드": 1,
-    "영양과학": 1,
-    "시장 트렌드": 1,
-    "저당 소스": 1,
-    "케어푸드": 1,
-    "당뇨식": 1,
-    "소스/양념류": 1,
-    "김치": 1,
-    "원산지": 1,
-    "메이드 인 차이나": 1,
-    "진정성": 1,
-    "아연": 1,
-    "면역력": 1
+    "김치 세계화": 4,
+    "비건 김치": 3,
+    "김치 가공품": 3,
+    "비건김치": 3,
+    "신제품": 3,
+    "간편식": 3,
+    "전통 장류": 2,
+    "김치": 2,
+    "글로벌 식문화": 2,
+    "김치 소스": 2,
+    "영양": 2,
+    "클린라벨": 2,
+    "프리미엄": 2,
+    "떡볶이": 1,
+    "순창": 1,
+    "장류": 1,
+    "소스 만들기 체험": 1,
+    "소비자 선호": 1,
+    "발효 소스": 1,
+    "액젓": 1,
+    "비건 원료": 1,
+    "감칠맛": 1,
+    "소스·양념": 1,
+    "땅콩": 1,
+    "혈중 지질": 1
   },
   "category_totals": {
-    "regulation": 1,
-    "product": 12,
-    "market": 4,
     "consumer": 5,
-    "other": 44,
-    "ingredient": 3
+    "ingredient": 4,
+    "product": 17,
+    "market": 3,
+    "other": 28
   },
   "highlighted_articles": [
     {
@@ -677,7 +677,8 @@
     "2026-11-18": 85,
     "2026-11-19": 89,
     "2026-11-20": 78,
-    "2026-11-21": 69
+    "2026-11-21": 69,
+    "2026-11-22": 57
   },
   "ai_summary": null
 }
