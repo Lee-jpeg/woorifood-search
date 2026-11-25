@@ -2,34 +2,55 @@
   "week_id": "2026-W48",
   "start_date": "2026-11-23",
   "end_date": "2026-11-29",
-  "total_articles": 179,
+  "total_articles": 273,
   "days_included": [
     "2026-11-23",
-    "2026-11-24"
+    "2026-11-24",
+    "2026-11-25"
   ],
   "top_keywords": [
     {
-      "keyword": "신제품",
-      "count": 5
-    },
-    {
-      "keyword": "소스",
-      "count": 3
-    },
-    {
-      "keyword": "온라인 프로모션",
-      "count": 2
-    },
-    {
-      "keyword": "소비 트렌드",
-      "count": 2
-    },
-    {
-      "keyword": "백설 파스타소스",
+      "keyword": "편의점",
       "count": 1
     },
     {
-      "keyword": "레시피 북",
+      "keyword": "디저트",
+      "count": 1
+    },
+    {
+      "keyword": "소비 트렌드",
+      "count": 1
+    },
+    {
+      "keyword": "간편성",
+      "count": 1
+    },
+    {
+      "keyword": "중국",
+      "count": 1
+    },
+    {
+      "keyword": "K-로컬여행",
+      "count": 1
+    },
+    {
+      "keyword": "한국인의 일상",
+      "count": 1
+    },
+    {
+      "keyword": "젊은 소비자",
+      "count": 1
+    },
+    {
+      "keyword": "한국 페스티벌",
+      "count": 1
+    },
+    {
+      "keyword": "aT",
+      "count": 1
+    },
+    {
+      "keyword": "선전",
       "count": 1
     },
     {
@@ -37,112 +58,90 @@
       "count": 1
     },
     {
-      "keyword": "대상",
+      "keyword": "퀴진케이 마스터 클래스",
       "count": 1
     },
     {
-      "keyword": "청정원",
+      "keyword": "전통 발효 문화",
       "count": 1
     },
     {
-      "keyword": "저당",
+      "keyword": "백설 파스타소스",
       "count": 1
     },
     {
-      "keyword": "식물성 원료",
+      "keyword": "차세대 셰프",
       "count": 1
     },
     {
-      "keyword": "기능성 원료",
+      "keyword": "고객 경험",
       "count": 1
     },
     {
-      "keyword": "국내산 원료",
+      "keyword": "고추장",
       "count": 1
     },
     {
-      "keyword": "PB 건강식품",
+      "keyword": "글레이즈 소스",
       "count": 1
     },
     {
-      "keyword": "풀무원",
+      "keyword": "콩 발효",
       "count": 1
     },
     {
-      "keyword": "동반성장",
+      "keyword": "서양식 요리",
       "count": 1
     },
     {
-      "keyword": "협력기업",
+      "keyword": "퓨전 소스",
       "count": 1
     },
     {
-      "keyword": "인공지능",
+      "keyword": "연어",
       "count": 1
     },
     {
-      "keyword": "시장 변화",
+      "keyword": "콩비지",
       "count": 1
     },
     {
-      "keyword": "조손가정",
-      "count": 1
-    },
-    {
-      "keyword": "농식품 꾸러미",
-      "count": 1
-    },
-    {
-      "keyword": "저염",
-      "count": 1
-    },
-    {
-      "keyword": "고단백",
-      "count": 1
-    },
-    {
-      "keyword": "특식키트",
-      "count": 1
-    },
-    {
-      "keyword": "양념소스",
+      "keyword": "업사이클링",
       "count": 1
     }
   ],
   "daily_keyword_freq": {
-    "신제품": 5,
-    "소스": 3,
-    "온라인 프로모션": 2,
-    "소비 트렌드": 2,
-    "백설 파스타소스": 1,
-    "레시피 북": 1,
+    "편의점": 1,
+    "디저트": 1,
+    "소비 트렌드": 1,
+    "간편성": 1,
+    "중국": 1,
+    "K-로컬여행": 1,
+    "한국인의 일상": 1,
+    "젊은 소비자": 1,
+    "한국 페스티벌": 1,
+    "aT": 1,
+    "선전": 1,
     "CJ제일제당": 1,
-    "대상": 1,
-    "청정원": 1,
-    "저당": 1,
-    "식물성 원료": 1,
-    "기능성 원료": 1,
-    "국내산 원료": 1,
-    "PB 건강식품": 1,
-    "풀무원": 1,
-    "동반성장": 1,
-    "협력기업": 1,
-    "인공지능": 1,
-    "시장 변화": 1,
-    "조손가정": 1,
-    "농식품 꾸러미": 1,
-    "저염": 1,
-    "고단백": 1,
-    "특식키트": 1,
-    "양념소스": 1
+    "퀴진케이 마스터 클래스": 1,
+    "전통 발효 문화": 1,
+    "백설 파스타소스": 1,
+    "차세대 셰프": 1,
+    "고객 경험": 1,
+    "고추장": 1,
+    "글레이즈 소스": 1,
+    "콩 발효": 1,
+    "서양식 요리": 1,
+    "퓨전 소스": 1,
+    "연어": 1,
+    "콩비지": 1,
+    "업사이클링": 1
   },
   "category_totals": {
-    "product": 3,
-    "ingredient": 1,
-    "consumer": 3,
-    "market": 2,
-    "manufacturing": 1,
-    "other": 89
+    "consumer": 2,
+    "ingredient": 3,
+    "product": 1,
+    "other": 88
   },
   "highlighted_articles": [
     {
@@ -447,6 +446,33 @@
       "actionable_insight": "R&D팀은 프리미엄 식재료인 트러플과 매운맛의 조화를 이룬 소스 개발 및 시즌성 한정판 제품 출시 전략을 적극적으로 고려해야 한다."
     },
     {
+      "id": "6908b6b86712",
+      "title": "[ESG브리핑-11월4주] 세화미술관, 사랑의열매와 1월까지 모금 진행 외",
+      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370537",
+      "source": "Naver News",
+      "language": "ko",
+      "published_at": "2026-11-25T15:10:00+09:00",
+      "content": "또 고추장으로 풍미를 더한 글레이즈 소스를 연어에 발라 구워내며, 콩 발효의 깊은 감칠맛과 고추장의 매콤달콤한 풍미가 서양식 요리에도 조화롭게 어우러진다는 점을 보여줬다. 참석자들은 완성된 요리를 직접... ",
+      "search_keyword": "발효 소스",
+      "category": "product",
+      "keywords": [
+        "고추장",
+        "글레이즈 소스",
+        "콩 발효",
+        "서양식 요리",
+        "퓨전 소스",
+        "연어"
+      ],
+      "summary": "고추장으로 풍미를 더한 글레이즈 소스를 연어에 적용하여 콩 발효의 깊은 감칠맛과 고추장의 매콤달콤한 풍미가 서양식 요리에도 조화롭게 어우러짐을 선보였다. 이는 한식 소스의 글로벌 확장 가능성을 보여주는 사례이다.",
+      "relevance_score": 9,
+      "trend_signal": "rising",
+      "key_ingredients": [
+        "고추장",
+        "콩 발효"
+      ],
+      "actionable_insight": "고추장과 같은 한식 발효 소스를 활용하여 서양식 요리에 적용 가능한 퓨전 글레이즈 소스 및 드레싱 제품 개발에 집중해야 한다."
+    },
+    {
       "id": "331bcb92ad04",
       "title": "쿠팡, 로켓직구 '쿠블프' 개막…글로벌 인기 상품 3만개 할인",
       "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242102",
@@ -653,36 +679,12 @@
       "trend_signal": "rising",
       "key_ingredients": [],
       "actionable_insight": "R&D팀은 할인 행사를 통한 신제품 소스/양념류의 판매 실적과 소비자 반응을 분석하여 향후 제품 개발 및 시장 출시 전략에 반영하고, 경쟁사(종가, 청정원)의 주력 프로모션 제품군을 주시해야 한다."
-    },
-    {
-      "id": "c6ac6d9d3e06",
-      "title": "매일 바뀌는 특가, 다음 주문엔 쿠폰…블랙프라이데이의 고객 유치법",
-      "url": "http://www.kdfnews.com/news/articleView.html?idxno=191370",
-      "source": "Naver News",
-      "language": "ko",
-      "published_at": "2026-11-24T15:56:00+09:00",
-      "content": "매일 오전 10시 회원 대상 신제품 구매 쿠폰과 브랜드별 할인 쿠폰을 선착순으로 발급한다. 김치와 간편식, 소스, 장류 등 일상적으로 소비하는 식품을 중심으로 날짜별 특가 상품을 공개하고 증정 행사도 진행한다.... ",
-      "search_keyword": "소스 신제품",
-      "category": "market",
-      "keywords": [
-        "온라인 프로모션",
-        "쿠폰 마케팅",
-        "할인 행사",
-        "신제품",
-        "소스",
-        "장류",
-        "고객 유치"
-      ],
-      "summary": "매일 선착순 쿠폰 발급과 날짜별 특가 행사를 통해 신제품 및 소스·장류 등 식품 품목의 고객 유치 및 판매를 촉진하는 유통 전략이 중요해지고 있습니다. 이는 R&D팀이 신규 소스/양념 제품 개발 시, 온라인 프로모션에 적합한 컨셉(예: 한정판, 소용량 체험팩)을 고려해야 함을 시사합니다.",
-      "relevance_score": 8,
-      "trend_signal": "stable",
-      "key_ingredients": [],
-      "actionable_insight": "R&D팀은 온라인 특가 및 쿠폰 프로모션에 최적화된 소스·양념 신제품 개발 또는 기존 제품의 새로운 포장/구성(예: 번들, 소용량)을 기획하여 시장 반응을 살필 필요가 있습니다."
     }
   ],
   "daily_article_counts": {
     "2026-11-23": 80,
-    "2026-11-24": 99
+    "2026-11-24": 99,
+    "2026-11-25": 94
   },
   "ai_summary": null
 }
